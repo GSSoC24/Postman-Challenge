@@ -2,7 +2,7 @@ remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-google_analytics: [<!-- Google tag (gtag.js) -->
+google_analytics: <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-VCETP3M30Y"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -10,4 +10,4 @@ google_analytics: [<!-- Google tag (gtag.js) -->
   gtag('js', new Date());
 
   gtag('config', 'G-VCETP3M30Y');
-</script>]
+</script>
