@@ -2,16 +2,18 @@
 layout: default
 ---
 
-This website is under construction, so dont take any actions, im preparing documentation.
-
 [Link to another page](./another-page.html).
 
-We have collaborated with postman so chance to grab goodies and certications from the Postman as part of this campaign. 
+We have collaborated with Postman so chance to grab goodies and certifications from Postman as part of this campaign. 
 
-# How to participate the challenge
+# How to participate in the challenge
 
-The idea is to get Postman API Fundamental Student Expert Certification [Link to register](https://academy.postman.com/path/postman-api-fundamentals-student-expert) <br>
-It might ask you to create a account following clicking on the button. This course has 22 modules including Test. if you clear all 22- 28 test you will be getting certification.
+The idea is to get Postman API Fundamental Student Expert Certification [Link to register](https://swiy.co/postman) <br>
+>[!NOTE]
+> Only use the above link to register as this link is used to track. <br>
+
+It might ask you to create an account following clicking on the button. This course has 22 modules including Tests. if you clear all 22- 28 test you will be getting certification. Please register with all your details on the screen you get after clicking the above link
+![image](https://github.com/user-attachments/assets/f973c5e9-3a68-4d5b-b803-dbfddbbfd3cf)
 
 ## Pre-requisites: none
 
