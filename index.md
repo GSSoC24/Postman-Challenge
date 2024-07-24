@@ -1,24 +1,34 @@
 ---
 layout: default
 ---
-
-[Link to another page](./another-page.html).
-
-We have collaborated with Postman so chance to grab goodies and certifications from Postman as part of this campaign. 
+Hi Everyone,
+We would like to announce that GSSOC collaborated with Postman, This is an amazing opportunity for GSSOC and the contributors to learn more goodies and guided certification on API.
+This page is intended to help you in this process of certification.
 
 # How to participate in the challenge
 
 The idea is to get Postman API Fundamental Student Expert Certification [Link to register](https://swiy.co/postman) <br>
 >[!NOTE]
 > Only use the above link to register as this link is used to track. <br>
+> Process 1: You will be registered to the Postman Student Program<br>
+> Process 2: You will be registered for the Postman Academy Program -> This is the place where you will be taking certification.
 
-It might ask you to create an account following clicking on the button. This course has 22 modules including Tests. if you clear all 22- 28 test you will be getting certification. Please register with all your details on the screen you get after clicking the above link
+It might ask you to create an account by clicking on the button. This course has 22 modules including Tests. if you clear all 22- 28 tests you will be getting certification. <br>Please register with all your details on the screen you get after clicking the above link
 ![image](https://github.com/user-attachments/assets/f973c5e9-3a68-4d5b-b803-dbfddbbfd3cf)
 
 ## Pre-requisites: none
 
 > You are starting in the right place! 
->There are no pre-requisites to get started - you don't even have to know what API stands for. By the end of this course you will earn a digital badge certifying that you understand:
+>There are no prerequisites to get started - you don't even have to know what API stands for.
+>Once you successfully sign up you will be getting the below screen.
+You will get an Email from Postman after 5 - 10 min on how to register for the academy. 
+> ![image](https://github.com/user-attachments/assets/534e7e45-b941-445b-8f2c-e2b81c408118)
+> On clicking that link you will be taken to Postman Academy page. Click on the highlighted certification.
+> `Postman API Fundamentals Student`
+> ![image](https://github.com/user-attachments/assets/7cf4010c-4757-42df-9f24-f7d976db4f92)
+
+
+>By the end of this course you will earn a digital badge certifying that you understand: 👇🏻
 
 > - What APIs are and why they are crucial to modern software development<br>
 > - How to use Postman to work with APIs <br>
@@ -26,45 +36,32 @@ It might ask you to create an account following clicking on the button. This cou
 > - How Postman helps you incorporate APIs into your applications<br>
 > - By assuming the role of a digital librarian, you'll get hands-on experience calling an API with the industry's leading API tooling and walk away with the confidence to start using APIs out in the real world. <br>
 
-### Header 3
+### Begin your certification Journey
+This is a huge step towards your API Journey, API is relevant in all fields thats why we are prioritising this collaboration with API. 
+So everyone knows the basics about API and work around it. 
+>[!NOTE]
+> If you face any issues on the journey: reach out to us over here: [Ask your Question](https://github.com/GSSoC24/Postman-Challenge/discussions/categories/q-a)<br>
+> Our team will be answering all of your queries & even help you out asap.
+![image](https://github.com/user-attachments/assets/ea0d383d-fa9d-4c9c-86d9-0afe6ad43475)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+##### Modules
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
+| Module        | Details          | Time |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| 1           | What are API | 1 Min  |
+| 2 | Introducing Postman   | 2 Min  |
+| 3           | Your First API Request `3 Task`    | 5 Min   |
+| 4           | Request Parameters `3 Task`| 5 Min   |
+| 5           | Sending data with POST `3 Task`| 7 Min   |
+| 6           | Introduction to variables and scripting `2 Task`| 8 Min   |
+| 7           | PATCH and DELETE `2 Task`| 5 Min   |
+| 8           | Generating code | 2 Min   |
+| 7           | Claim Your Badge `1 Task`| 5 Min   |
 
-### There's a horizontal rule below this.
+So the above are the modules and `Task` represents the activity you need to do.
+All the activities and answeres are available on the vides below. So head into your first Module
+### What are API.
 
 * * *
 
@@ -98,28 +95,9 @@ end
   - level 2 item
 - level 1 item
 
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
+[Link to another page](./another-page.html).
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
