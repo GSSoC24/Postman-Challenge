@@ -45,13 +45,13 @@ To get started and complete the certification, follow the comprehensive guide pr
    - Upon successful completion, you will receive a certificate and a badge to showcase your achievement. 🎉
    
 
-### 📸 Preview
+###  Preview
 
 Here's a sneak peek of the course interface and what you can expect:
 
 ![Course Preview](https://github.com/user-attachments/assets/c10b2b90-8dc7-4188-93b7-af8815e52129)
 
-### 🛠️ Support
+### 🛠 Support
 
 If you encounter any issues or need further assistance, feel free to reach out to our support team through mail or refer to the FAQ section in the documentation.
 
