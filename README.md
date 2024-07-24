@@ -78,7 +78,7 @@ google_analytics: [Your Google Analytics tracking ID]
 
 
 
-## 🤝 How to Contribute
+##  How to Contribute
 
 We welcome contributions from the community to help improve the Postman documentation. Follow the steps below to get started:
 
