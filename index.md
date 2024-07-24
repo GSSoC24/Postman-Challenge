@@ -62,36 +62,36 @@ So everyone knows the basics about API and work around it.
 So the above are the modules and the Task represents the activity you need to do.
 All the activities and answers are available in the videos below. So head into your first Module in total 
 ### Task 1: Understand APIs?
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/a98668d259034db89353e7345b98e3ed?sid=48582d2b-9834-43d9-bf29-9ba522a346a4" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/a98668d259034db89353e7345b98e3ed?sid=48582d2b-9834-43d9-bf29-9ba522a346a4" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div><br>
 * * *
 
 ### Task 2: PostMan : API Request:
 * * *
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/2951917877f44a22b606bcc98bb3a4ff?sid=6f0d2ce6-1700-4336-b2ef-b48674787e03" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/2951917877f44a22b606bcc98bb3a4ff?sid=6f0d2ce6-1700-4336-b2ef-b48674787e03" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div><br>
 
   
 ### Task 3: Request Parameter:
 * * *
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/5b838b6da9f642a88054225885b07373?sid=8a60cb79-21bf-4021-8622-e41b29c75ae4" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/5b838b6da9f642a88054225885b07373?sid=8a60cb79-21bf-4021-8622-e41b29c75ae4" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div><br>
 
 ### Task 4: Sending data with Post:
 * * *
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/a97a5fc1aaa64e53a4633b0a3cd8fa4b?sid=ee612299-4009-4084-9198-079319e73006" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/a97a5fc1aaa64e53a4633b0a3cd8fa4b?sid=ee612299-4009-4084-9198-079319e73006" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div><br>
 
  
 ### Task 5: Variables and scripting:
 * * *
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/a085d499fd7649bb817aef444e07130d?sid=2f91a65b-dcc8-4912-841b-a1aa4714f22b" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/a085d499fd7649bb817aef444e07130d?sid=2f91a65b-dcc8-4912-841b-a1aa4714f22b" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div><br>
 Some people who took the certification mentioned they faced some issues. So this is the solution for the bug fix. 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/ea5ff54c4cd144708e9585e1e941cb28?sid=d45959fb-dae9-48b9-9773-ec3668b586ac" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/ea5ff54c4cd144708e9585e1e941cb28?sid=d45959fb-dae9-48b9-9773-ec3668b586ac" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div><br>
   
 ### Task 6: Patch and Delete:
 * * *
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/7d479513b3964a45a9b56a6bb195c8f4?sid=ad561278-6d23-4580-ba53-859a057eb02e" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/7d479513b3964a45a9b56a6bb195c8f4?sid=ad561278-6d23-4580-ba53-859a057eb02e" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div><br>
 
 ### Task 7: Claim your certification:
 * * *
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/47d5534956b64a80ad8c87b9f449672b?sid=45cf3dd5-6c09-4e5a-96fd-72673cbeecbf" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/47d5534956b64a80ad8c87b9f449672b?sid=45cf3dd5-6c09-4e5a-96fd-72673cbeecbf" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div><br>
   ### Task 7: Explore your Goodies:
 * * *
 [Link to another page](./another-page.html).
