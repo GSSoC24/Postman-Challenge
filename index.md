@@ -119,7 +119,27 @@ Some people who took the certification mentioned they faced some issues. So this
     </a>
   </div>
   
+### Task 6: Patch and Delete:
+* * *
+<div>
+    <a href="https://www.loom.com/share/7d479513b3964a45a9b56a6bb195c8f4">
+      <p>Patch and Delete Explanation - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/7d479513b3964a45a9b56a6bb195c8f4">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/7d479513b3964a45a9b56a6bb195c8f4-ac4c7cfe6d1715c0-full-play.gif">
+    </a>
+  </div>
 
+### Task 7: Claim your certification by completing the challenge:
+* * *
+<div>
+    <a href="https://www.loom.com/share/47d5534956b64a80ad8c87b9f449672b">
+      <p>Final Test - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/47d5534956b64a80ad8c87b9f449672b">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/47d5534956b64a80ad8c87b9f449672b-91d87d020fc34e15-full-play.gif">
+    </a>
+  </div>
 [Link to another page](./another-page.html).
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
