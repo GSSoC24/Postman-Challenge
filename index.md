@@ -61,79 +61,39 @@ So everyone knows the basics about API and work around it.
 
 So the above are the modules and the Task represents the activity you need to do.
 All the activities and answers are available in the videos below. So head into your first Module in total 
-### What are APIs?
+### Task 1: Understand APIs?
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/a98668d259034db89353e7345b98e3ed?sid=48582d2b-9834-43d9-bf29-9ba522a346a4" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 * * *
 
-### Task 2: PostMan : Your First API Request:
+### Task 2: PostMan : API Request:
 * * *
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/2951917877f44a22b606bcc98bb3a4ff?sid=6f0d2ce6-1700-4336-b2ef-b48674787e03" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
   
 ### Task 3: Request Parameter:
 * * *
-<div>
-    <a href="https://www.loom.com/share/5b838b6da9f642a88054225885b07373">
-      <p>Task 3: Working with Request Parameter Explanation - Watch Video</p>
-    </a>
-    <a href="https://www.loom.com/share/5b838b6da9f642a88054225885b07373">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/5b838b6da9f642a88054225885b07373-f2fe23c6ee4fb488-full-play.gif">
-    </a>
-  </div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/5b838b6da9f642a88054225885b07373?sid=8a60cb79-21bf-4021-8622-e41b29c75ae4" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ### Task 4: Sending data with Post:
 * * *
-<div>
-    <a href="https://www.loom.com/share/a97a5fc1aaa64e53a4633b0a3cd8fa4b">
-      <p>Sending data with Postman Explanation - Watch Video</p>
-    </a>
-    <a href="https://www.loom.com/share/a97a5fc1aaa64e53a4633b0a3cd8fa4b">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a97a5fc1aaa64e53a4633b0a3cd8fa4b-db25ab1f7df25314-full-play.gif">
-    </a>
-  </div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/a97a5fc1aaa64e53a4633b0a3cd8fa4b?sid=ee612299-4009-4084-9198-079319e73006" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
  
 ### Task 5: Variables and scripting:
 * * *
-<div>
-    <a href="https://www.loom.com/share/a085d499fd7649bb817aef444e07130d">
-      <p>Variables in Postman (Continued) - Explanation - Watch Video</p>
-    </a>
-    <a href="https://www.loom.com/share/a085d499fd7649bb817aef444e07130d">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a085d499fd7649bb817aef444e07130d-17ee0504a89cfc9e-full-play.gif">
-    </a>
-  </div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/a085d499fd7649bb817aef444e07130d?sid=2f91a65b-dcc8-4912-841b-a1aa4714f22b" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 Some people who took the certification mentioned they faced some issues. So this is the solution for the bug fix. 
-<div>
-    <a href="https://www.loom.com/share/ea5ff54c4cd144708e9585e1e941cb28">
-      <p>Halfway Check - Bug Fix - Watch Video</p>
-    </a>
-    <a href="https://www.loom.com/share/ea5ff54c4cd144708e9585e1e941cb28">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ea5ff54c4cd144708e9585e1e941cb28-a16fdd602fb644f4-full-play.gif">
-    </a>
-  </div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/ea5ff54c4cd144708e9585e1e941cb28?sid=d45959fb-dae9-48b9-9773-ec3668b586ac" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
   
 ### Task 6: Patch and Delete:
 * * *
-<div>
-    <a href="https://www.loom.com/share/7d479513b3964a45a9b56a6bb195c8f4">
-      <p>Patch and Delete Explanation - Watch Video</p>
-    </a>
-    <a href="https://www.loom.com/share/7d479513b3964a45a9b56a6bb195c8f4">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/7d479513b3964a45a9b56a6bb195c8f4-ac4c7cfe6d1715c0-full-play.gif">
-    </a>
-  </div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/7d479513b3964a45a9b56a6bb195c8f4?sid=ad561278-6d23-4580-ba53-859a057eb02e" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-### Task 7: Claim your certification by completing the challenge:
+### Task 7: Claim your certification:
 * * *
-<div>
-    <a href="https://www.loom.com/share/47d5534956b64a80ad8c87b9f449672b">
-      <p>Final Test - Watch Video</p>
-    </a>
-    <a href="https://www.loom.com/share/47d5534956b64a80ad8c87b9f449672b">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/47d5534956b64a80ad8c87b9f449672b-91d87d020fc34e15-full-play.gif">
-    </a>
-  </div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/47d5534956b64a80ad8c87b9f449672b?sid=45cf3dd5-6c09-4e5a-96fd-72673cbeecbf" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+  ### Task 7: Explore your Goodies:
+* * *
 [Link to another page](./another-page.html).
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
