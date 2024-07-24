@@ -60,3 +60,14 @@ To customize them, simply copy one from the links below. And adjust the values i
 ```
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
 ```
+
+
+## How do I get all in a single line...?
+
+Simply, put the text copies from above, inside this
+
+```
+<div style='display:flex; align-items:center; gap: 10px;'>
+// Insert the above text here
+</div>
+```
