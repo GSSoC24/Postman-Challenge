@@ -92,7 +92,8 @@ Some people who took the certification mentioned they faced some issues. So this
 ### Task 7: Claim your certification:
 * * *
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/47d5534956b64a80ad8c87b9f449672b?sid=45cf3dd5-6c09-4e5a-96fd-72673cbeecbf" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div><br>
-  ### Task 7: Explore your Goodies:
+ 
+### Task 7: Explore your Goodies:
 * * *
 [Link to another page](./another-page.html).
 ```
