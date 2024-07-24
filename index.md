@@ -67,6 +67,7 @@ All the activities and answers are available in the videos below. So head into y
 
 ### Task 2: PostMan : Your First API Request:
 * * *
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/share/2951917877f44a22b606bcc98bb3a4ff" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 <div>
     <a href="https://www.loom.com/share/2951917877f44a22b606bcc98bb3a4ff">
       <p>Your First API Request Topic Explanation - Watch Video</p>
