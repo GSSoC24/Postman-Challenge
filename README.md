@@ -6,12 +6,13 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<a href="https://github.com/recodehive/awesome-github-profiles/stargazers"><img src="https://img.shields.io/github/stars/recodehive/awesome-github-profiles" alt="Stars Badge"/></a>
-<a href="https://github.com/recodehive/awesome-github-profiles/network/members"><img src="https://img.shields.io/github/forks/recodehive/awesome-github-profiles" alt="Forks Badge"/></a>
-<a href="https://github.com/recodehive/awesome-github-profiles/pulls"><img src="https://img.shields.io/github/issues-pr/recodehive/awesome-github-profiles" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/recodehive/awesome-github-profiles/issues"><img src="https://img.shields.io/github/issues/recodehive/awesome-github-profiles" alt="Issues Badge"/></a>
-<a href="https://github.com/recodehive/awesome-github-profiles/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/recodehive/awesome-github-profiles?color=2b9348"></a>
-<a href="https://github.com/recodehive/awesome-github-profiles/blob/master/LICENSE"><img src="https://img.shields.io/github/license/recodehive/awesome-github-profiles?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/GSSoC24/Postman-Challenge/stargazers"><img src="https://img.shields.io/github/stars/GSSoC24/Postman-Challenge" alt="Stars Badge"/></a>
+<a href="https://github.com/GSSoC24/Postman-Challenge/network/members"><img src="https://img.shields.io/github/forks/GSSoC24/Postman-Challenge" alt="Forks Badge"/></a>
+<a href="https://github.com/GSSoC24/Postman-Challenge/pulls"><img src="https://img.shields.io/github/issues-pr/GSSoC24/Postman-Challenge" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/GSSoC24/Postman-Challenge/issues"><img src="https://img.shields.io/github/issues/GSSoC24/Postman-Challenge" alt="Issues Badge"/></a>
+<a href="https://github.com/GSSoC24/Postman-Challenge/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/GSSoC24/Postman-Challenge?color=2b9348"></a>
+<a href="https://github.com/GSSoC24/Postman-Challenge/blob/master/LICENSE"><img src="https://img.shields.io/github/license/GSSoC24/Postman-Challenge?color=2b9348" alt="License Badge"/></a>
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 This is the all in one place for documentation help regarding the postman challenge.
 </div>
@@ -20,21 +21,42 @@ This is the all in one place for documentation help regarding the postman challe
 
 ## Usage
 
-To use the Leap day theme:
+### 📚 Course and Certification Documentation
 
-1. Add the following to your site's `_config.yml`:
+To get started and complete the certification, follow the comprehensive guide provided in the documentation. It covers all the steps you need to take:
 
-    ```yml
-    remote_theme: pages-themes/leap-day@v0.2.0
-    plugins:
-    - jekyll-remote-theme # add this line to the plugins list if you already have one
-    ```
+  [![Read the Documentation](https://img.shields.io/badge/Read%20Documentation-blue?style=for-the-badge&logo=read-the-docs)](https://gssoc24.github.io/Postman-Challenge/)
 
-2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
+### 🚀 Get Started with Learning
 
-    ```ruby
-    gem "github-pages", group: :jekyll_plugins
-    ```
+1. **Register on Postman**
+   - Begin by registering yourself using the link below to start your learning journey and to earn the certificate and badge.
+   
+   [![Register on Postman](https://img.shields.io/badge/Register%20on%20Postman-orange?style=for-the-badge&logo=postman)](https://swiy.co/postman)
+   
+2. **Follow the Course**
+   - Once registered, follow the steps outlined in the documentation. Here's a brief overview:
+     - **Step 1:** Familiarize yourself with Postman.
+     - **Step 2:** Complete the guided exercises and challenges.
+     - **Step 3:** Take the certification test.
+     - **Step 4:** Earn your certificate and badge!
+
+3. **Earn Your Badge and Certificate**
+   - Upon successful completion, you will receive a certificate and a badge to showcase your achievement. 🎉
+   
+
+### 📸 Preview
+
+Here's a sneak peek of the course interface and what you can expect:
+
+![Course Preview](https://github.com/user-attachments/assets/c10b2b90-8dc7-4188-93b7-af8815e52129)
+
+### 🛠️ Support
+
+If you encounter any issues or need further assistance, feel free to reach out to our support team through mail or refer to the FAQ section in the documentation.
+
+Happy Learning! 🌟
+
 
 ## Customizing Badge on GitHub Profile
 
@@ -54,21 +76,57 @@ show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a d
 google_analytics: [Your Google Analytics tracking ID]
 ```
 
-### Stylesheet
-## Contributing
 
-Interested in contributing to Postman documentation? We'd love your help. Leap day is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
 
-### Previewing the theme locally
+## 🤝 How to Contribute
 
-If you'd like to preview the theme locally (for example, in the process of proposing a change):
+We welcome contributions from the community to help improve the Postman documentation. Follow the steps below to get started:
 
-1. Clone down the theme's repository (`git clone https://github.com/pages-themes/`)
-2. `cd` into the theme's directory
-3. Run `script/bootstrap` to install the necessary dependencies
-4. Run `bundle exec jekyll serve` to start the preview server
-5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
+### Step 1: Fork the Repository
 
-### Running tests
+Fork the [Postman-Challenge](https://github.com/GSSoC24/Postman-Challenge) repository to your GitHub account by clicking the "Fork" button at the top right of the repository page.
 
-The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
+### Step 2: Clone the Forked Repository
+
+Clone the forked repository to your local machine using the following command:
+
+```sh
+git clone https://github.com/<your-username>/Postman-Challenge.git
+```
+Replace <your-username> with your GitHub username.
+
+### Step 3: Create a New Branch
+Create a new branch for your contribution using the following command:
+
+```sh
+
+git checkout -b <branch-name>
+```
+Replace <branch-name> with a descriptive name for your branch.
+
+### Step 4: Make Your Changes
+
+Make the necessary changes to the documentation. Ensure that your changes are clear and concise.
+
+### Step 5: Commit Your Changes
+
+Commit your changes with a descriptive commit message:
+
+```sh
+git add .
+git commit -m "Description of the changes made"
+```
+### Step 6: Push Your Changes
+Push your changes to your forked repository:
+
+```sh
+git push origin <branch-name>
+```
+### Step 7: Create a Pull Request
+Create a pull request from your forked repository to the main repository. Go to the Postman-Challenge repository and click on the "New pull request" button. Provide a detailed description of the changes you have made and submit the pull request.
+
+### Step 8: Review and Merge
+Your pull request will be reviewed by the maintainers. If any changes are requested, make the necessary updates. Once approved, your changes will be merged into the main repository.
+
+
+#### Thank you for your contributions! 🙌
