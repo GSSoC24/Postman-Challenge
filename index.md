@@ -37,7 +37,7 @@ You will get an Email from Postman after 5 - 10 min on how to register for the a
 > - By assuming the role of a digital librarian, you'll get hands-on experience calling an API with the industry's leading API tooling and walk away with the confidence to start using APIs out in the real world. <br>
 
 ### Begin your certification Journey
-This is a huge step towards your API Journey, API is relevant in all fields thats why we are prioritising this collaboration with API. 
+This is a huge step towards your API Journey, API is relevant in all fields that why we are prioritising this collaboration with API. 
 So everyone knows the basics about API and work around it. 
 >[!NOTE]
 > If you face any issues on the journey: reach out to us over here: [Ask your Question](https://github.com/GSSoC24/Postman-Challenge/discussions/categories/q-a)<br>
@@ -50,7 +50,7 @@ So everyone knows the basics about API and work around it.
 | Module        | Details          | Time |
 |:-------------|:------------------|:------|
 | 1           | What are API | 1 Min  |
-| 2 | Introducing Postman   | 2 Min  |
+| 2 | Introducing Postman   | 1 Min  |
 | 3           | Your First API Request `3 Task`    | 5 Min   |
 | 4           | Request Parameters `3 Task`| 5 Min   |
 | 5           | Sending data with POST `3 Task`| 7 Min   |
@@ -59,43 +59,66 @@ So everyone knows the basics about API and work around it.
 | 8           | Generating code | 2 Min   |
 | 7           | Claim Your Badge `1 Task`| 5 Min   |
 
-So the above are the modules and `Task` represents the activity you need to do.
-All the activities and answeres are available on the vides below. So head into your first Module
-### What are API.
-
+So the above are the modules and the Task represents the activity you need to do.
+All the activities and answers are available in the videos below. So head into your first Module in total 
+### What are APIs?
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/a98668d259034db89353e7345b98e3ed?sid=48582d2b-9834-43d9-bf29-9ba522a346a4" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 * * *
 
-### Here is an unordered list:
+### Task 2: PostMan : Your First API Request:
+* * *
+<div>
+    <a href="https://www.loom.com/share/2951917877f44a22b606bcc98bb3a4ff">
+      <p>Your First API Request Topic Explanation - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/2951917877f44a22b606bcc98bb3a4ff">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/2951917877f44a22b606bcc98bb3a4ff-20c3502f08ea30df-full-play.gif">
+    </a>
+  </div>
+  
+### Task 3: Request Parameter:
+* * *
+<div>
+    <a href="https://www.loom.com/share/5b838b6da9f642a88054225885b07373">
+      <p>Task 3: Working with Request Parameter Explanation - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/5b838b6da9f642a88054225885b07373">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/5b838b6da9f642a88054225885b07373-f2fe23c6ee4fb488-full-play.gif">
+    </a>
+  </div>
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+### Task 4: Sending data with Post:
+* * *
+<div>
+    <a href="https://www.loom.com/share/a97a5fc1aaa64e53a4633b0a3cd8fa4b">
+      <p>Sending data with Postman Explanation - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/a97a5fc1aaa64e53a4633b0a3cd8fa4b">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a97a5fc1aaa64e53a4633b0a3cd8fa4b-db25ab1f7df25314-full-play.gif">
+    </a>
+  </div>
 
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-
+ 
+### Task 5: Variables and scripting:
+* * *
+<div>
+    <a href="https://www.loom.com/share/a085d499fd7649bb817aef444e07130d">
+      <p>Variables in Postman (Continued) - Explanation - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/a085d499fd7649bb817aef444e07130d">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a085d499fd7649bb817aef444e07130d-17ee0504a89cfc9e-full-play.gif">
+    </a>
+  </div>
+Some people who took the certification mentioned they faced some issues. So this is the solution for the bug fix. 
+<div>
+    <a href="https://www.loom.com/share/ea5ff54c4cd144708e9585e1e941cb28">
+      <p>Halfway Check - Bug Fix - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/ea5ff54c4cd144708e9585e1e941cb28">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ea5ff54c4cd144708e9585e1e941cb28-a16fdd602fb644f4-full-play.gif">
+    </a>
+  </div>
+  
 
 [Link to another page](./another-page.html).
 ```
