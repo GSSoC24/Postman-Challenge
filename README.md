@@ -51,11 +51,18 @@ Here's a sneak peek of the course interface and what you can expect:
 
 ![Course Preview](https://github.com/user-attachments/assets/c10b2b90-8dc7-4188-93b7-af8815e52129)
 
-### 🛠 Support
+### 🛠️ Support
 
-If you encounter any issues or need further assistance, feel free to reach out to our support team through mail or refer to the FAQ section in the documentation.
+If you encounter any issues or have questions, you can reach out for support through [GitHub Discussions](https://github.com/GSSoC24/Postman-Challenge/discussions). Follow these steps to get the help you need:
 
-Happy Learning! 🌟
+1. **Visit the Discussions Page**: Go to the [GitHub Discussions](https://github.com/GSSoC24/Postman-Challenge/discussions) page for the Postman-Challenge repository.
+2. **Browse Existing Discussions**: Check if your question or issue has already been addressed by browsing through the existing discussions. You can use the search bar to quickly find relevant topics.
+3. **Start a New Discussion**: If you can't find an answer, start a new discussion by clicking the "New Discussion" button. Choose the appropriate category for your topic (e.g., Q&A, Ideas, Bug Reports).
+4. **Provide Details**: Clearly describe your issue or question. Include any relevant details such as error messages, steps to reproduce the issue, and screenshots if applicable.
+5. **Engage with the Community**: Engage with other community members by responding to their comments and providing additional information if requested. The more details you provide, the easier it will be for others to help you.
+
+For urgent issues or further assistance, contact the maintainers directly through mail at gssoc@girlscript.tech
+
 
 
 ## Customizing Badge on GitHub Profile
