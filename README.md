@@ -36,7 +36,7 @@ To use the Leap day theme:
     gem "github-pages", group: :jekyll_plugins
     ```
 
-## Customizing Badge on Gssoc
+## Customizing Badge on GitHub Profile
 
 ### Configuration variables
 
