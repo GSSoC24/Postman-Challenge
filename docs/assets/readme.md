@@ -71,3 +71,12 @@ Simply, put the text copies from above, inside this
 // Insert the above text here
 </div>
 ```
+
+To increase spacing between, each images update `gap: 10px` to a higher value such as `gap: 20px`.
+
+To have all of them center aligned, use this
+```
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+// Insert the above text here
+</div>
+```
