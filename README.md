@@ -17,14 +17,6 @@
 This is the all in one place for documentation help regarding the postman challenge.
 </div>
 
-## Add Your Certificate
-Once you've earned your certificate, share your success with the community! Follow these steps to add your certificate:
-
-1. **Visit the Discussion Page**: Go to the [Add Your Certificate Discussion](https://github.com/GSSoC24/Postman-Challenge/discussions/22).
-2. **Start a New Comment**: Click on the "Reply" button to start a new comment.
-3. **Upload Your Certificate**: Attach an image or PDF of your certificate to the comment. You can drag and drop the file.
-4. **Submit Your Comment**: Click "Comment" to submit your certificate and share it with the community.
-
 
 ## Usage
 
@@ -50,7 +42,7 @@ To get started and complete the certification, follow the comprehensive guide pr
 
 3. **Earn Your Badge and Certificate**
    - Upon successful completion, you will receive a certificate and a badge to showcase your achievement. 🎉
-   
+   - 500 Points on GSSOC Leaderboard and new Postman API badge
 
 ###  Preview
 
