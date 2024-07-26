@@ -99,13 +99,13 @@ Link to Badge Download: [Click Here](https://badgr.com/backpack/badges)<br>
 Follow the instruction on the video 👇🏻
  <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/c39e1180307445b49b8107f608c2fa3b?sid=976b6a04-5984-4df2-a8d9-7d7ab4638270" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-### Task 9: Claim your points on Leaderboard:
+### Task 9: Claim your points on Leaderboard:🏅
 * * *
-Raise the PR here: [Link to Repo](https://github.com/GSSoC24/Postman-Challenge)
+Raise the PR here: 🔗[Link to Repo](https://github.com/GSSoC24/Postman-Challenge)
 Any doubts and help needed: [Click Here to start Discussion](https://github.com/GSSoC24/Postman-Challenge/discussions/categories/q-a)
 <b>Make sure you do a LinkedIn/Twitter Post on Certification, this is the place where we select winners for goodies. </b>
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/e63c376b9fdf435595767fae25ba4086?sid=f113277c-c4d7-4afc-9de5-7665f04cfac1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-### Task 10: Explore your Goodies:
+### Task 10: Explore your Goodies: 🎁
 * * *
 You can also upload your goodies with your photos here, once you get yours.
 ![image](https://github.com/user-attachments/assets/c4586890-f2ee-44a0-b2fd-097990f27e6d)
