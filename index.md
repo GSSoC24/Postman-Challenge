@@ -2,8 +2,8 @@
 layout: default
 ---
 Hi Everyone,
-We would like to announce that GSSOC collaborated with Postman, This is an amazing opportunity for GSSOC and the contributors to earn more goodies and guided certification on API.
-This page is intended to help you in this process of certification.<br>
+We would like to announce that GSSOC collaborated with Postman, This is an amazing opportunity for GSSOC and the contributors to earn more goodies and guided certification on API.<br>
+This page is intended to help you in this process of getting certification.
 In appreciation for your effort in taking the certification, there will be different Giveaways... Stay Tuned.
 
 # How to participate in the challenge
@@ -108,8 +108,11 @@ Raise the PR here: 🔗[Link to Repo](https://github.com/GSSoC24/Postman-Challen
 Any doubts and help needed: [Click Here to start Discussion](https://github.com/GSSoC24/Postman-Challenge/discussions/categories/q-a)<br>
 <b>Make sure you do a LinkedIn/Twitter Post on Certification, this is the place where we select winners for goodies. </b>
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/e63c376b9fdf435595767fae25ba4086?sid=f113277c-c4d7-4afc-9de5-7665f04cfac1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-### Task 10:Explore your Goodies:🎁
+### Task 10:Explore your Goodies
 * * *
+Upon completion make sure you create a LinkedIn post and share the link to us by PR here: 🔗[Link to Repo](https://github.com/GSSoC24/Postman-Challenge)<br>
+So we will let you know by mail if you are a winner in PostMan giveaway. <br>
+Any doubts and help needed: [Click Here to start Discussion](https://github.com/GSSoC24/Postman-Challenge/discussions/categories/q-a)<br>
 You can also upload your goodies with your photos here, once you get yours.
 ![image](https://github.com/user-attachments/assets/c4586890-f2ee-44a0-b2fd-097990f27e6d)
 ![image](https://github.com/user-attachments/assets/86359f0c-1140-4f7d-8a97-58e5c6ab8e5e)
