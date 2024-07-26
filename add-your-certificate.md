@@ -3,8 +3,8 @@
 
 | No |  Name              | Email                     | Linkedin Post                                          |Certification Link | Feedback|
 |-----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|--------|-------|------------------------------------------------------|------------------------------------|
-| 1  | Sanjay KV | sanjay@recodehive.com      | [Sanjay-k-v](https://www.linkedin.com/in/sanjay-k-v/)  | [Certificate Link](https://www.linkedin.com/in/sanjay-k-v/) | Could have added more Tasks
-| 2  | Jisha | Jisha@gmail.com         | [Jisha ](https://www.linkedin.com/in/sanjay-k-v/)              | [Certificate Link ](https://api.badgr.io/public/assertions/4mL2m9QYQC-al832vETmGw?identity__email=sanjay.kanakkotviswanathan%40students.mq.edu.au)| I love it
+| 1  | Sanjay KV | sanjay@recodehive.com      | [Sanjay-k-v](https://www.linkedin.com/in/sanjay-k-v/)  | [Certificate Link](https://api.badgr.io/public/assertions/4mL2m9QYQC-al832vETmGw?identity__email=sanjay.kanakkotviswanathan%40students.mq.edu.au) | Could have added more Tasks
+| 2  | Sanjay KV | sanjay@recodehive.com      | [Sanjay-k-v](https://www.linkedin.com/in/sanjay-k-v/)  |     | [Certificate Link ](Enter your Certificate link)   | Could have added more Tasks
 | 3  | add your name here | your email ID here         | [your name ](give  your linkedin ID here)              | [Certificate Link ](Enter your Certificate link)            | your feedback here
 | 4  | add your name here | your email ID here         | [your name ](give  your linkedin ID here)              | [Certificate Link ](Enter your Certificate link)            | your feedback here
 | 5  | add your name here | your email ID here         | [your name ](give  your linkedin ID here)              | [Certificate Link ](Enter your Certificate link)            | your feedback here
