@@ -93,21 +93,22 @@ Some people who took the certification mentioned they faced some issues. So this
 * * *
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/47d5534956b64a80ad8c87b9f449672b?sid=45cf3dd5-6c09-4e5a-96fd-72673cbeecbf" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div><br>
 
-### Task 8: Download your certification:
+### Task 8: Download your certification:🥳
 * * *
+Link to Badge Download: [Click Here](https://badgr.com/backpack/badges)<br>
+Follow the instruction on the video 👇🏻
  <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/c39e1180307445b49b8107f608c2fa3b?sid=976b6a04-5984-4df2-a8d9-7d7ab4638270" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ### Task 9: Claim your points on Leaderboard:
 * * *
+Raise the PR here: [Link to Repo](https://github.com/GSSoC24/Postman-Challenge)
  <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/https://www.loom.com/share/e63c376b9fdf435595767fae25ba4086" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ### Task 10: Explore your Goodies:
 * * *
 [Link to another page](./another-page.html).
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+
 
 ```
-The final element.
+Awesome, You claimed your badge, being in GSSOC you now earned a API certification in avg 25 min. This is great news it will help your career for sure, dont't forget to add in your resume.
 ```
