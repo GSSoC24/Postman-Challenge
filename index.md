@@ -103,9 +103,8 @@ Follow the instruction on the video 👇🏻
 * * *
 Raise the PR here: [Link to Repo](https://github.com/GSSoC24/Postman-Challenge)
 Any doubts and help needed: [Click Here to start Discussion](https://github.com/GSSoC24/Postman-Challenge/discussions/categories/q-a)
-Make sure you do a LinkedIn/Twitter Post on Certification, this is the place where we select winners for goodies. 
- <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/https://www.loom.com/share/e63c376b9fdf435595767fae25ba4086" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
+<b>Make sure you do a LinkedIn/Twitter Post on Certification, this is the place where we select winners for goodies. </b>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/e63c376b9fdf435595767fae25ba4086?sid=f113277c-c4d7-4afc-9de5-7665f04cfac1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 ### Task 10: Explore your Goodies:
 * * *
 You can also upload your goodies with your photos here, once you get yours.
