@@ -3,7 +3,8 @@ layout: default
 ---
 Hi Everyone,
 We would like to announce that GSSOC collaborated with Postman, This is an amazing opportunity for GSSOC and the contributors to earn more goodies and guided certification on API.
-This page is intended to help you in this process of certification.
+This page is intended to help you in this process of certification.<br>
+In appreciation for your effort in taking the certification, there will be different Giveaways... Stay Tuned.
 
 # How to participate in the challenge
 
@@ -11,9 +12,11 @@ The idea is to get Postman API Fundamental Student Expert Certification [Link to
 >[!NOTE]
 > Only use the above link to register as this link is used to track. <br>
 > Process 1: You will be registered to the Postman Student Program<br>
-> Process 2: You will be registered for the Postman Academy Program -> This is the place where you will be taking certification.
-> Any doubts and help needed: [Click Here to start Discussion](https://github.com/GSSoC24/Postman-Challenge/discussions/categories/q-a)
-It might ask you to create an account by clicking on the button. This course has 22 modules including Tests. if you clear all 22- 28 tests you will be getting certification. <br>Please register with all your details on the screen you get after clicking the above link
+> Process 2: You will be registered for the Postman Academy Program 
+> Any doubts and help needed: [Click Here to start Discussion](https://github.com/GSSoC24/Postman-Challenge/discussions/categories/q-a)<br><br>
+
+It might ask you to create an account by clicking on the button. This course has few modules including Tests. if you clear all tests you will be getting certification. <br>
+<b>Please register with all your details on the screen you get after clicking the above link </b>
 ![image](https://github.com/user-attachments/assets/f973c5e9-3a68-4d5b-b803-dbfddbbfd3cf)
 
 ## Pre-requisites: none
@@ -97,29 +100,26 @@ Some people who took the certification mentioned they faced some issues. So this
 * * *
 Link to Badge Download: [Click Here](https://badgr.com/backpack/badges)<br>
 Follow the instruction on the video 👇🏻
- <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/c39e1180307445b49b8107f608c2fa3b?sid=976b6a04-5984-4df2-a8d9-7d7ab4638270" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+ <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/c39e1180307445b49b8107f608c2fa3b?sid=976b6a04-5984-4df2-a8d9-7d7ab4638270" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div><br>
 
 ### Task 9: Claim your points on Leaderboard:🏅
 * * *
-Raise the PR here: 🔗[Link to Repo](https://github.com/GSSoC24/Postman-Challenge)
-Any doubts and help needed: [Click Here to start Discussion](https://github.com/GSSoC24/Postman-Challenge/discussions/categories/q-a)
+Raise the PR here: 🔗[Link to Repo](https://github.com/GSSoC24/Postman-Challenge)<br>
+Any doubts and help needed: [Click Here to start Discussion](https://github.com/GSSoC24/Postman-Challenge/discussions/categories/q-a)<br>
 <b>Make sure you do a LinkedIn/Twitter Post on Certification, this is the place where we select winners for goodies. </b>
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/e63c376b9fdf435595767fae25ba4086?sid=f113277c-c4d7-4afc-9de5-7665f04cfac1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-### Task 10: Explore your Goodies: 🎁
+### Task 10:Explore your Goodies:🎁
 * * *
 You can also upload your goodies with your photos here, once you get yours.
 ![image](https://github.com/user-attachments/assets/c4586890-f2ee-44a0-b2fd-097990f27e6d)
-![image](https://github.com/user-attachments/assets/50f6b119-df2d-4ff4-aab6-0b5b15a8d19a)
-![image](https://github.com/user-attachments/assets/94fbe409-5e4f-47d4-99ec-ee73171b9c8b)
+![image](https://github.com/user-attachments/assets/86359f0c-1140-4f7d-8a97-58e5c6ab8e5e)
 ![image](https://github.com/user-attachments/assets/08caaa32-ad10-4a97-8204-35f3e9e4e492)
 ![image](https://github.com/user-attachments/assets/278be15a-d68e-4b13-a2bf-8b4a812f1101)
 ![image](https://github.com/user-attachments/assets/1d4c12a9-be98-4ca3-b3ed-62e40fcdc028)
-![image](https://github.com/user-attachments/assets/86359f0c-1140-4f7d-8a97-58e5c6ab8e5e)
-![image](https://github.com/user-attachments/assets/73f43b57-86ec-478f-a65a-2454d3bd6b0b)
 
 [Link to page](./another-page.html).
 
 
 ```
-Awesome, You claimed your badge, being in GSSOC you now earned a API certification in avg 25 min. This is great news it will help your career for sure, dont't forget to add in your resume.
+Awesome, being in GSSOC you now earned a API certification within 25 min. This is great news it will help your career for sure, don't forget to add in your resume.
 ```
