@@ -50,10 +50,10 @@ To get started and complete the certification, follow the comprehensive guide pr
 If you encounter any issues or have questions, you can reach out for support through [GitHub Discussions](https://github.com/GSSoC24/Postman-Challenge/discussions/categories/q-a). Follow these steps to get the help you need:
 
 1. **Visit the Discussions Page**: Go to the [GitHub Discussions](https://github.com/GSSoC24/Postman-Challenge/discussions/categories/q-a) page for the Postman-Challenge repository.
-2. **Browse Existing Discussions**: Check if your question or issue has already been addressed by browsing through the existing discussions. You can use the search bar to quickly find relevant topics.
-3. **Start a New Q&A Discussion**: If you can't find an answer, start a new discussion by clicking the "New Discussion" button. Choose the appropriate category for your topic.
-4. **Provide Details**: Clearly describe your issue or question. Include any relevant details such as error messages, steps to reproduce the issue, and screenshots if applicable.
-5. **Engage with the Community**: Engage with other community members by responding to their comments and get [GitHub Badges](https://github.com/GSSoC24/Contributor/discussions/11)
+2. **Browse Existing Discussions**: Check if your question or issue has already been addressed.
+3. **Start a New Q&A Discussion**: If you can't find an answer, start a new discussion.
+4. **Provide Details**: Clearly describe your issue or question. 
+5. **Engage with the Community**: Engage with other community members by responding to their comments and get [GitHub Badges](https://github.com/GSSoC24/Contributor/discussions/11)<br><br>
 For urgent issues or further assistance, contact the maintainers directly through mail at gssoc@girlscript.tech
 
 
