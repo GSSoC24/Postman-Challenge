@@ -2,7 +2,7 @@
 layout: default
 ---
 Hi Everyone,
-We would like to announce that GSSOC collaborated with Postman, This is an amazing opportunity for GSSOC and the contributors to learn more goodies and guided certification on API.
+We would like to announce that GSSOC collaborated with Postman, This is an amazing opportunity for GSSOC and the contributors to earn more goodies and guided certification on API.
 This page is intended to help you in this process of certification.
 
 # How to participate in the challenge
