@@ -62,7 +62,7 @@ For urgent issues or further assistance, contact the maintainers directly throug
 ### Configuration variables
 
 You can copy paste the code to your profile [Check this](https://github.com/GSSoC24/Postman-Challenge/tree/main/docs/assets)<br>
-Watch the Video: 🔗
+Watch the Video: 🔗 [Link](https://www.loom.com/share/a298d6521a4d4916878f41fa39b68c1e?sid=6bc307c7-da57-4fda-b2e9-f9a1f5a3f3e2)
 ```
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
