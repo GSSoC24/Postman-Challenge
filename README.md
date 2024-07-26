@@ -61,8 +61,8 @@ For urgent issues or further assistance, contact the maintainers directly throug
 
 ### Configuration variables
 
-You can copy paste the code to your profile `[_config.yml](https://github.com/GSSoC24/Postman-Challenge/tree/main/docs/assets)`:
-Watch the Vide: 🔗
+You can copy paste the code to your profile `[Check this](https://github.com/GSSoC24/Postman-Challenge/tree/main/docs/assets)`:<br>
+Watch the Video: 🔗
 ```
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
