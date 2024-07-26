@@ -44,95 +44,37 @@ To get started and complete the certification, follow the comprehensive guide pr
    - Upon successful completion, you will receive a certificate and a badge to showcase your achievement. 🎉
    - 500 Points on GSSOC Leaderboard and new Postman API badge
 
-###  Preview
 
-Here's a sneak peek of the course interface and what you can expect:
+### 🛠️ Need Support in Completion
 
-![Course Preview](https://github.com/user-attachments/assets/c10b2b90-8dc7-4188-93b7-af8815e52129)
+If you encounter any issues or have questions, you can reach out for support through [GitHub Discussions](https://github.com/GSSoC24/Postman-Challenge/discussions/categories/q-a). Follow these steps to get the help you need:
 
-### 🛠️ Support
-
-If you encounter any issues or have questions, you can reach out for support through [GitHub Discussions](https://github.com/GSSoC24/Postman-Challenge/discussions). Follow these steps to get the help you need:
-
-1. **Visit the Discussions Page**: Go to the [GitHub Discussions](https://github.com/GSSoC24/Postman-Challenge/discussions) page for the Postman-Challenge repository.
+1. **Visit the Discussions Page**: Go to the [GitHub Discussions](https://github.com/GSSoC24/Postman-Challenge/discussions/categories/q-a) page for the Postman-Challenge repository.
 2. **Browse Existing Discussions**: Check if your question or issue has already been addressed by browsing through the existing discussions. You can use the search bar to quickly find relevant topics.
-3. **Start a New Discussion**: If you can't find an answer, start a new discussion by clicking the "New Discussion" button. Choose the appropriate category for your topic (e.g., Q&A, Ideas, Bug Reports).
+3. **Start a New Q&A Discussion**: If you can't find an answer, start a new discussion by clicking the "New Discussion" button. Choose the appropriate category for your topic.
 4. **Provide Details**: Clearly describe your issue or question. Include any relevant details such as error messages, steps to reproduce the issue, and screenshots if applicable.
-5. **Engage with the Community**: Engage with other community members by responding to their comments and providing additional information if requested. The more details you provide, the easier it will be for others to help you.
-
+5. **Engage with the Community**: Engage with other community members by responding to their comments and get [GitHub Badges](https://github.com/GSSoC24/Contributor/discussions/11)
 For urgent issues or further assistance, contact the maintainers directly through mail at gssoc@girlscript.tech
-
 
 
 ## Customizing Badge on GitHub Profile
 
 ### Configuration variables
 
-Leap day will respect the following variables, if set in your site's `_config.yml`:
-
-```yml
-title: [The title of your site]
-description: [A short description of your site's purpose]
+You can copy paste the code to your profile `[_config.yml](https://github.com/GSSoC24/Postman-Challenge/tree/main/docs/assets)`:
+Watch the Vide: 🔗
 ```
-
-Additionally, you may choose to set the following optional variables:
-
-```yml
-show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
 ```
-
-
-
-##  How to Contribute
-
-We welcome contributions from the community to help improve the Postman documentation. Follow the steps below to get started:
-
-### Step 1: Fork the Repository
-
-Fork the [Postman-Challenge](https://github.com/GSSoC24/Postman-Challenge) repository to your GitHub account by clicking the "Fork" button at the top right of the repository page.
-
-### Step 2: Clone the Forked Repository
-
-Clone the forked repository to your local machine using the following command:
-
-```sh
-git clone https://github.com/<your-username>/Postman-Challenge.git
-```
-Replace <your-username> with your GitHub username.
-
-### Step 3: Create a New Branch
-Create a new branch for your contribution using the following command:
-
-```sh
-
-git checkout -b <branch-name>
-```
-Replace <branch-name> with a descriptive name for your branch.
-
-### Step 4: Make Your Changes
-
-Make the necessary changes to the documentation. Ensure that your changes are clear and concise.
-
-### Step 5: Commit Your Changes
-
-Commit your changes with a descriptive commit message:
-
-```sh
-git add .
-git commit -m "Description of the changes made"
-```
-### Step 6: Push Your Changes
-Push your changes to your forked repository:
-
-```sh
-git push origin <branch-name>
-```
-### Step 7: Create a Pull Request
-Create a pull request from your forked repository to the main repository. Go to the Postman-Challenge repository and click on the "New pull request" button. Provide a detailed description of the changes you have made and submit the pull request.
-
-### Step 8: Review and Merge
-Your pull request will be reviewed by the maintainers. If any changes are requested, make the necessary updates. Once approved, your changes will be merged into the main repository.
-
 
 #### Thank you for participating and contributing to our learning community! 🙌
