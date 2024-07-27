@@ -107,5 +107,8 @@
 
 | 40  | Akash Rai       | akashtooop@gmail.com            | [Akash Rai]([give your LinkedIn profile link here](https://www.linkedin.com/in/akash-rai1701/))             | [Certificate Link]([Enter your Certificate link](https://api.badgr.io/public/assertions/iauJ8sq9SfKZcCVwvgn0fg?identity__email=akashtooop%40gmail.com))  
 
+| 41  | Harika Sayani | harikasayani3@gmail.com | [Harika Sayani](https://www.linkedin.com/in/harika-sayani-b32a86276/) | [Certificate Link](https://api.badgr.io/public/assertions/jLEYgAF5TvaRGqcYF937Aw?identity__email=harikasayani3%40gmail.com) | Good   |
+
+
 
 
