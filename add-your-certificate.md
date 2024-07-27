@@ -13,6 +13,9 @@
 | 8  | Rashi Dashore | rashi.dashore2002@gmail.com        | [Rashi Dashore ](https://www.linkedin.com/in/rashi-dashore-27b14b248)              | [Certificate Link ](https://api.badgr.io/public/assertions/lQp6IzkZRImjmHB9-cDVEA)            | More certifications would be great
 | 8.1  | Sagar Kumar | sagar192002singh@gmail.com  | [Sagar Kumar](https://www.linkedin.com/in/0sagarsingh01/)              | [Certificate Link ](https://badgr.com/public/assertions/rZwI7hf3SQqfCrrx5vmXYA?identity__email=sagar192002singh@gmail.com)            | your feedback here
 
+| 9  | Kanhaiya Kumar | kanhaiyak0104@gmail.com         | [Kanhaiya Kumar ](https://www.linkedin.com/in/kanhaiyakumar01)              | [Certificate Link ](https://api.badgr.io/public/assertions/9BiutFRDTy2t_DfqE3PtMA?identity__email=kanhaiyak0104%40gmail.com)            | For begginer this course is more helpfull
+
+
 | 9.1  | Aditya Mane | adimane183@gmail.com         | [Aditya Mane ](https://www.linkedin.com/in/aditya-m-399b94235/)              | [Certificate Link ](https://api.badgr.io/public/assertions/FToXaPZ3RTqprMZYZalhOg?identity__email=adimane183%40gmail.com)            | More task should be there
 | 10 | add your name here | your email ID here         | [your name ](give  your linkedin profile link here)              | [Certificate Link ](Enter your Certificate link)            | your feedback here
 | 11 | Rishav Kumar Sinha | sinharishavkumar@gmail.com         | [Rishav Kumar Sinha](https://www.linkedin.com/in/rishav-kumar-sinha-292471319/)              | [Certificate Link ](https://api.badgr.io/public/assertions/1hBVOrJwT2SlPyrRPJjtMg?identity__email=sinharishavkumar%40gmail.com)            | Loved it! Would have loved more In-depth Course!
@@ -37,6 +40,7 @@
 | 10.3 | Jagrit Aggarwal | jagrit03aggarwal@gmail.com         | [Jagrit Aggarwal ](www.linkedin.com/in/jagrit-aggarwal)              | [Certificate Link ](https://api.badgr.io/public/assertions/hp-dwPQOTS2NCwgrMz0jVw?identity__email=jagrit03aggarwal%40gmail.com)            | It was good
 
 | 9.1 | Abhishek Bhattacharjee | abhishekbhattacharjee12345@gmail.com         | [Abhishek Bhattacharjee ](https://www.linkedin.com/in/abhishek-bhattacharjee-a91570256)              | [Certificate Link ](https://api.badgr.io/public/assertions/9lOabbw9TJqfRXi_4FmYiw?identity__email=abhishekbhattacharjee12345%40gmail.com)            | The task was very easy.
+
 
 | 10 | add your name here | your email ID here         | [your name ](give  your linkedin profile link here)              | [Certificate Link ](Enter your Certificate link)            | your feedback here
 
