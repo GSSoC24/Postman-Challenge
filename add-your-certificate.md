@@ -48,5 +48,4 @@
 | 33  | Shreyash Srivastava       | shreyash3087@gmail.com            | [Shreyash Srivastava](www.linkedin.com/in/shreyash-srivastava-1a1161280)             | [Certificate Link](https://api.badgr.io/public/assertions/hwlB6dv9TEmUzHeKinm6RQ?identity__email=shreyash3087%40gmail.com)                                                    | More topics could have been added covering methods like PUT/DELETE etc.   
 | 34 | Vinayak Vohra | vn26vhr@gmail.com | [Vinayak Vohra](https://www.linkedin.com/in/i-vinayak-vohra) | [Certificate Link](https://api.badgr.io/public/assertions/4_pd-9rzRne9VgRMZtTGNQ?identity__email=vn26vhr%40gmail.com) | Good Course |
 | 35 | Nikhil Verma | nikhil2003verma@gmail.com | [Nikhil Verma](https://www.linkedin.com/in/nikhil2003verma/) | [Certificate Link](https://api.badgr.io/public/assertions/hENjkK2WSMm19EC0yKPDBA?identity__email=nikhil2003verma%40gmail.com) | Should have direct test option for user who know things. |
-
-
+| 36 | Ayush Kumar | ak7085330@gmail.com | [Ayush Kumar](https://www.linkedin.com/in/ayushkumarx24/) | [Certificate Link](https://api.badgr.io/public/assertions/e4D1fL8uR1GbZyCqgPK5KQ) | Nice Course |
