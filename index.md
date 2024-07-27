@@ -9,7 +9,7 @@ In appreciation for your effort in taking the certification, there will be diffe
 # How to participate in the challenge
 
 The idea is to get Postman API Fundamental Student Expert Certification<br>
-# Link to register: https://swiy.co/postman
+# [Link to register: Click Here](https://swiy.co/postman)
 >[!NOTE]
 > Only use the above link to register as this link is used to track. <br>
 > Process 1: You will be registered to the Postman Student Program<br>
