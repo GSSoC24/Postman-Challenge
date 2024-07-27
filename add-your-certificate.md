@@ -75,10 +75,14 @@
 
 | 37  | Vijay Shanker Sharma            | vijayshankersharma658@gmail.com       | [Vijay Shanker Sharma](www.linkedin.com/in/vijay-shanker-sharma) | [Certificate Link](https://api.badgr.io/public/assertions/C81WqIpVQdSvCGvcIYLMhw?identity__email=vijayshankersharma658%40gmail.com) | Great course on using Postman to handle API requests. |
 
+
+| 38  | Swetha S           | swethasuresh799@gmail.com       | [Swetha S](https://www.linkedin.com/in/swetha-s-797a26259/) | [Certificate Link](https://api.badgr.io/public/assertions/gwEZ_Ph4TyGJGovSN6Jy4g?identity__email=swetha.s2022cce%40sece.ac.in) | Adding more tasks make us leran more about APIs |
+
 | 38  | Aditi Singh            | asaditisingh203@gmail.com      | [Aditi Singh](https://www.linkedin.com/in/aditi-singh-5668492a6/) | [Certificate Link](https://api.badgr.io/public/assertions/6v-q8t9eTbW11rLHzqshcA?identity__email=asaditisingh203%40gmail.com) | Straightforward and user-friendly |
 
 
 | 38  | Ayush Kumar | ak7085330@gmail.com       | [Ayush Kumar](https://www.linkedin.com/in/ayushkumarx24/)  | [Certificate Link](https://api.badgr.io/public/assertions/e4D1fL8uR1GbZyCqgPK5KQ?identity__email=22053151%40kiit.ac.in)    | Great pathway to kickstart your API Journey!   
+
 
 
 
