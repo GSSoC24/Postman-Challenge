@@ -107,5 +107,6 @@
 
 | 40  | Akash Rai       | akashtooop@gmail.com            | [Akash Rai]([give your LinkedIn profile link here](https://www.linkedin.com/in/akash-rai1701/))             | [Certificate Link]([Enter your Certificate link](https://api.badgr.io/public/assertions/iauJ8sq9SfKZcCVwvgn0fg?identity__email=akashtooop%40gmail.com))  
 
+| 1   | Atul               | atuljaat2004aj@gmail.com         | [Atul Kumar Janghu](https://www.linkedin.com/in/atul-kumar-janghu-93227b210/)          | [Certificate Link](https://api.badgr.io/public/assertions/uF7VaJm5SjyBvlIP8d5ZPg?identity__email=atuljaat2004aj%40gmail.com) | Could have added more difficult Tasks        |
 
 
