@@ -87,6 +87,12 @@
 | 85 | Satuti Seth      | satutiseth1566@gmail.com            | [Satuti Seth]([give your LinkedIn profile link here](https://www.linkedin.com/in/satuti-seth-00044a255/)) | [Certificate Link]([Enter your Certificate link](https://api.badgr.io/public/assertions/gDGiQZyqTYu9pg3Hhkl9Nw?identity__email=satutiseth1566%40gmail.com))  | Amazing Experience! 
 
 | 85 | Satuti Seth      | satutiseth1566@gmail.com            | [Satuti Seth]([give your LinkedIn profile link here](https://www.linkedin.com/in/satuti-seth-00044a255/)) | [Certificate Link]([Enter your Certificate link](https://api.badgr.io/public/assertions/gDGiQZyqTYu9pg3Hhkl9Nw?identity__email=satutiseth1566%40gmail.com))  | Amazing Experience!
+
+| 85 | Satuti Seth      | satutiseth1566@gmail.com            | [Satuti Seth](https://www.linkedin.com/in/satuti-seth-00044a255/) | [Certificate Link](https://api.badgr.io/public/assertions/gDGiQZyqTYu9pg3Hhkl9Nw?identity__email=satutiseth1566%40gmail.com)  | Amazing Experience!
+
 | 86  | Ojas Arora | ojas.arora14@gmail.com | [Ojas Arora](https://www.linkedin.com/in/ojas-arora-34910a24b/ ) | [Certificate Link](https://badgr.com/public/assertions/7Ct3UBz_REe0NfUEQH2oow?identity__email=ojas.arora14@gmail.com) | Great one for learning | 
 | 87 | Vansh Chaurasiya | vanshchaurasiya1557@gmail.com | [Vansh Chaurasiya](https://linkedin.com/in/vanshchaurasiya24) | [Certificate Link](https://api.badgr.io/public/assertions/8cNDFHmYRqOJZeQYKOXwug?identity__email=vanshchaurasiya1557%40gmail.com) | Never understood postman in college, this well structured course made me understand everyth
+
+
+
 | 88 | Ratnojit Saha   |  saharatnojit04@gmail.com  |  [Ratnojit Saha](https://www.linkedin.com/in/ratnojit-saha-854057268/) | [Certificate Link](https://www.linkedin.com/in/ratnojit-saha-854057268/) | Learnt many new things about postman many shortcuts and other features, haven't went through any youtube explained videos for postman so this program really helped me.
