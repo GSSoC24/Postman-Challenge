@@ -32,7 +32,6 @@
 
 
 | 11 | Hetkumar Prajapati | hetgoraj@gmail.com         | [Hetkumar Prajapati](https://www.linkedin.com/in/hetkumar-prajapati)              | [Certificate Link](https://api.badgr.io/public/assertions/KNHUHLrwTDWbuuzxajKdhg?identity__email=hetgoraj%40gmail.com)            | Amazing pathway to learn about API
-
 | 12 | Chhaya Gupta | guptachhaya3148@gmail.com         | [Chhaya Gupta ](https://www.linkedin.com/in/chhaya-gupta-ba522422b/)              | [Certificate Link ](https://api.badgr.io/public/assertions/ZeVl5qZ0TXKazbMGaOOW1g?identity__email=guptachhaya3148%40gmail.com)            | Pretty easy and informative
 | 13 | add your name here | your email ID here         | [your name ](give  your linkedin profile link here)              | [Certificate Link ](Enter your Certificate link)            | your feedback here
 | 14 | add your name here | your email ID here         | [your name ](give  your linkedin profile link here)              | [Certificate Link ](Enter your Certificate link)            | your feedback here
