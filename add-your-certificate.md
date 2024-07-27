@@ -31,6 +31,9 @@
 
 | 9 | Abhishek Bhattacharjee | abhishekbhattacharjee12345@gmail.com         | [Abhishek Bhattacharjee ](https://www.linkedin.com/in/abhishek-bhattacharjee-a91570256)              | [Certificate Link ](https://api.badgr.io/public/assertions/9lOabbw9TJqfRXi_4FmYiw?identity__email=abhishekbhattacharjee12345%40gmail.com)            | The task was very easy.
 
+| 10 | Rohan Sharma | specialrohansharma200         | [Rohan Sharma ](https://www.linkedin.com/in/rohan-sharma-9386rs/)              | [Certificate Link ](http://verify.skilljar.com/c/aw3n6c7nhmoi)            | Great course for api beginners
+
+
 | 10.3 | Jagrit Aggarwal | jagrit03aggarwal@gmail.com         | [Jagrit Aggarwal ](www.linkedin.com/in/jagrit-aggarwal)              | [Certificate Link ](https://api.badgr.io/public/assertions/hp-dwPQOTS2NCwgrMz0jVw?identity__email=jagrit03aggarwal%40gmail.com)            | It was good
 
 | 9.1 | Abhishek Bhattacharjee | abhishekbhattacharjee12345@gmail.com         | [Abhishek Bhattacharjee ](https://www.linkedin.com/in/abhishek-bhattacharjee-a91570256)              | [Certificate Link ](https://api.badgr.io/public/assertions/9lOabbw9TJqfRXi_4FmYiw?identity__email=abhishekbhattacharjee12345%40gmail.com)            | The task was very easy.
