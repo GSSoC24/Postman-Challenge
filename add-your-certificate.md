@@ -59,5 +59,6 @@
 | 57 | Arihant Bhandari | arihant.bhandari.2004@gmail.com | [Arihant Bhandari](https://www.linkedin.com/in/arihant-bhandari/) | [Certificate Link](https://api.badgr.io/public/assertions/cY6fGkMpS_-G0Cfm7oq8Jw?identity__email=arihantbhandari2022%40vitbhopal.ac.in) | course was well made for beginners, covered all important points. |
 | 58 | Shivam Singh | shivamsingh910672@gmail.com | [Shivam Singh](https://www.linkedin.com/in/shivamds15/) | [Certificate Link](https://api.badgr.io/public/assertions/bfvDfTHASuOYfWHj45z9hA?identity__email=shivamsingh910672%40gmail.com) | Nice Opportunity |
 | 59 | Mastan Sayyad     | sayyadmastan78@gmail.com | [Mastan Sayyad](https://www.linkedin.com/in/mastan-sayyad-126904223/)  | [Certificate Link](https://api.badgr.io/public/assertions/ifYQOAobT4uzsGrcl6Idcw?identity__email=sayyadmastan78%40gmail.com) | Got to learn something new!
+| 60 | Baba Sekhar     | babasekhar31@gmail.com | [Baba Sekhar](https://www.linkedin.com/in/baba-sekhar-779b15245/)  | [Certificate Link](https://api.badgr.io/public/assertions/d8mpCxrdSkKBaaDHXpZGgA?identity__email=babasekhar31%40gmail.com) | Great Learning!
 
 
