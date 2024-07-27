@@ -65,7 +65,12 @@
 | 63  | Abhinay Singh Bhadauria | knowledgepoint887@gmail.com | [Abhinay Singh Bhadauria](https://www.linkedin.com/in/abhinay-s-bhadauria-a7b588250/) | [Certificate Link](https://api.badgr.io/public/assertions/nRamij0cT-2OzV-M8l9cHw?identity__email=knowledgepoint887%40gmail.com) | Best Path to learn about APIs. |
 | 64  | Akshit Garg                | imt_2023007@iiitm.ac.in         | [Akshit Garg](https://www.linkedin.com/in/akshit-garg24/)          | [Certificate Link](https://api.badgr.io/public/assertions/-o-W88XQQw-59r3AsQKfog?identity__email=imt_2023007%40iiitm.ac.in) | Amazing Course!        |
 | 65  | Anurag Vishwakarma       | anuraga2005@gmail.com  | [Anurag Vishwakarma](https://www.linkedin.com/in/anuragvishwakarma/) | [Certificate Link](https://api.badgr.io/public/assertions/YLlSrOzLTamjyH8JK4NHyg?identity__email=anuraga2005%40gmail.com) | Amazing! |
+
 | 66 | P.L.Pavananjali          | plpanjali05@gmail.com         | [P.L.Pavananjali](www.linkedin.com/in/lakshmi-pavananjali-pamidi-766760296) | [Certificate Link](https://badgr.com/public/assertions/N_Hvf6DhSgq-7VCJJbvfoQ?identity__email=plpanjali05@gmail.com) | Your feedback here                 |
 
 
+
+
+| 67 | Sadaf Kausar | sadafkausar2003@gmail.com | [SADAF KAUSAR](https://www.linkedin.com/in/sadaf-kausar-788456244/) | [Certificate Link](https://api.badgr.io/public/assertions/WenGeNc6Sg2QB2wPg3N_6Q?identity__email=sadafkausar2003%40gmail.com) | Great pathway to kickstart your API Journey!
+| 68  | Dhruv Johri       | johridhruv24@gmail.com           | [Dhruv Johri](www.linkedin.com/in/dhruv-johri)             | [Certificate Link](https://api.badgr.io/public/assertions/crTn7Lq9Q-y_etDQe4FAzQ?identity__email=johridhruv24%40gmail.com)                                                    | your feedback here  Excelent                |
 
