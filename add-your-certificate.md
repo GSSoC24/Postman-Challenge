@@ -48,6 +48,8 @@
 
 | 29  | Soumil Mukhopadhyay       | msoumil69@gmail.com            | [SOUMIL MUKHOPADHYAY](https://www.linkedin.com/in/soumil-mukhopadhyay-64721b280/)             | [Certificate Link](https://badgr.com/public/assertions/Icc9D88_SV-iLyVKVf7Zeg)                                                    | Quite an easy course, helped me grasp concepts related to Postman API and try out an easier way to handle collections.   
 
+| 30  | Ankita choudhary       | ankitawork26@gmail.com           | [Ankita choudhary](https://www.linkedin.com/in/ankita-choudhary-953b8b222/)             | [Certificate Link](https://api.badgr.io/public/assertions/1HeccHObQ4OqJO2RNpPxxg?identity__email=ankitawork26%40gmail.com)                                                    | great pathway                |
+
 
 | 30  | Chaanakyaa Milkuri      | chaanakyaam@gmail.com         | [chaanakyaam]([give your LinkedIn profile link here](https://www.linkedin.com/in/chaanakyaa-milkuri-28b460255/))             | [Certificate Link]([Enter your Certificate link](https://api.badgr.io/public/assertions/x0MWbslDQiqge3iyPBecvg?identity__email=chaanakyaam%40gmail.com))                                                    | Simple and helpful                |
 
@@ -82,7 +84,6 @@
 
 
 | 38  | Ayush Kumar | ak7085330@gmail.com       | [Ayush Kumar](https://www.linkedin.com/in/ayushkumarx24/)  | [Certificate Link](https://api.badgr.io/public/assertions/e4D1fL8uR1GbZyCqgPK5KQ?identity__email=22053151%40kiit.ac.in)    | Great pathway to kickstart your API Journey!   
-
 
 
 
