@@ -58,6 +58,6 @@
 | 56  | Akash Rai       | akashtooop@gmail.com            | [Akash Rai](https://www.linkedin.com/in/akash-rai1701/)             | [Certificate Link](https://api.badgr.io/public/assertions/iauJ8sq9SfKZcCVwvgn0fg?identity__email=akashtooop%40gmail.com)
 | 57 | Arihant Bhandari | arihant.bhandari.2004@gmail.com | [Arihant Bhandari](https://www.linkedin.com/in/arihant-bhandari/) | [Certificate Link](https://api.badgr.io/public/assertions/cY6fGkMpS_-G0Cfm7oq8Jw?identity__email=arihantbhandari2022%40vitbhopal.ac.in) | course was well made for beginners, covered all important points. |
 | 58 | Shivam Singh | shivamsingh910672@gmail.com | [Shivam Singh](https://www.linkedin.com/in/shivamds15/) | [Certificate Link](https://api.badgr.io/public/assertions/bfvDfTHASuOYfWHj45z9hA?identity__email=shivamsingh910672%40gmail.com) | Nice Opportunity |
-| 58 | Mastan Sayyad     | sayyadmastan78@gmail.com | [Mastan Sayyad](https://www.linkedin.com/in/mastan-sayyad-126904223/)  | [Certificate Link](https://api.badgr.io/public/assertions/ifYQOAobT4uzsGrcl6Idcw?identity__email=sayyadmastan78%40gmail.com) | Got to learn something new!
+| 59 | Mastan Sayyad     | sayyadmastan78@gmail.com | [Mastan Sayyad](https://www.linkedin.com/in/mastan-sayyad-126904223/)  | [Certificate Link](https://api.badgr.io/public/assertions/ifYQOAobT4uzsGrcl6Idcw?identity__email=sayyadmastan78%40gmail.com) | Got to learn something new!
 
 
