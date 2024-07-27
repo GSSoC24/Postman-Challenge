@@ -56,6 +56,6 @@
 | 54  | Ayush Kumar | ak7085330@gmail.com       | [Ayush Kumar](https://www.linkedin.com/in/ayushkumarx24/)  | [Certificate Link](https://api.badgr.io/public/assertions/e4D1fL8uR1GbZyCqgPK5KQ?identity__email=22053151%40kiit.ac.in)    | Great pathway to kickstart your API Journey!   
 | 55  | Likhita Basuthkar | basuthkarlikhita@gmail.com       | [Likhita Basuthkar](https://www.linkedin.com/in/likhita-basuthkar-b2a311226/)  | [Certificate Link](https://badgr.com/public/assertions/yuLS6cLYTQaWAHb6j1BOyA?identity__email=basuthkarlikhita@gmail.com)    | Great pathway to kickstart your API Journey!   
 | 56  | Akash Rai       | akashtooop@gmail.com            | [Akash Rai](https://www.linkedin.com/in/akash-rai1701/)             | [Certificate Link](https://api.badgr.io/public/assertions/iauJ8sq9SfKZcCVwvgn0fg?identity__email=akashtooop%40gmail.com)
-
+| 57  | Diya Jain       | diyajain.199005@gmail.com            | [Diya Jain](https://www.linkedin.com/in/diya-jain-517347237/)             | [Certificate Link](https://badgr.com/public/assertions/aoc--ANXSYea5ma0gOHCaw?identity__email=diyajain.199005@gmail.com)
 
 
