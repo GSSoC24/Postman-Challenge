@@ -107,5 +107,5 @@
 
 | 40  | Akash Rai       | akashtooop@gmail.com            | [Akash Rai]([give your LinkedIn profile link here](https://www.linkedin.com/in/akash-rai1701/))             | [Certificate Link]([Enter your Certificate link](https://api.badgr.io/public/assertions/iauJ8sq9SfKZcCVwvgn0fg?identity__email=akashtooop%40gmail.com))  
 
-| 41   | Pamidi Lakshmi Pavananjali               | plpanjali05@gmail.com         | [Pamidi Lakshmi Pavananjali](www.linkedin.com/in/lakshmi-pavananjali-pamidi-766760296)          | [Certificate Link](https://badgr.com/public/assertions/N_Hvf6DhSgq-7VCJJbvfoQ?identity__email=plpanjali05@gmail.com&action=download) |         |
+| 41   | Pamidi Lakshmi Pavananjali               | plpanjali05@gmail.com         | [Pamidi Lakshmi Pavananjali](www.linkedin.com/in/lakshmi-pavananjali-pamidi-766760296)          | [Certificate Link](https://badgr.com/public/assertions/N_Hvf6DhSgq-7VCJJbvfoQ?identity__email=plpanjali05@gmail.com) |         |
 
