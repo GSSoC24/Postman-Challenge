@@ -13,6 +13,11 @@
 | 8  | Rashi Dashore | rashi.dashore2002@gmail.com        | [Rashi Dashore ](https://www.linkedin.com/in/rashi-dashore-27b14b248)              | [Certificate Link ](https://api.badgr.io/public/assertions/lQp6IzkZRImjmHB9-cDVEA)            | More certifications would be great.
 | 8.1  | Sagar Kumar | sagar192002singh@gmail.com  | [Sagar Kumar](https://www.linkedin.com/in/0sagarsingh01/)              | [Certificate Link ](https://badgr.com/public/assertions/rZwI7hf3SQqfCrrx5vmXYA?identity__email=sagar192002singh@gmail.com)            | your feedback here
 
+| 9.2  | Aditya Mane | adimane183@gmail.com         | [Aditya Mane ](https://www.linkedin.com/in/aditya-m-399b94235/)              | [Certificate Link ](https://api.badgr.io/public/assertions/FToXaPZ3RTqprMZYZalhOg?identity__email=adimane183%40gmail.com)            | More task should be there
+| 10 | Dharshi Balasubramaniyam | dharshib.8@gmail.com | [Dharshi Balasubramaniyam ](https://www.linkedin.com/in/dharshi-balasubramaniyam-47b193243/) | [Certificate Link ](https://api.badgr.io/public/assertions/nga5rLSMSs-bhgQPxVe9Ng?identity__email=dharshib.8%40gmail.com) | Better to add more questions under each quiz
+| 11 | Abhishek Bhattacharjee | abhishekbhattacharjee12345@gmail.com         | [Abhishek Bhattacharjee ](https://www.linkedin.com/in/abhishek-bhattacharjee-a91570256)              | [Certificate Link ](https://api.badgr.io/public/assertions/9lOabbw9TJqfRXi_4FmYiw?identity__email=abhishekbhattacharjee12345%40gmail.com)            | The task was very easy.
+
+
 | 9  | Aditya Mane | adimane183@gmail.com         | [Aditya Mane ](https://www.linkedin.com/in/aditya-m-399b94235/)              | [Certificate Link ](https://api.badgr.io/public/assertions/FToXaPZ3RTqprMZYZalhOg?identity__email=adimane183%40gmail.com)            | More task should be there
 
 | 10 .1 | Isha Bamel | isha.bamel22@gmail.com         | [Isha Bamel](https://www.linkedin.com/in/isha-bamel-b13916292/)              | [Certificate Link ](https://badgr.com/public/assertions/k1H4cNbtSYKMwW3RUtjAgA)            | Great course! should create more such courses
@@ -29,6 +34,7 @@
 
 
 | 11 | add your name here | your email ID here         | [your name ](give  your linkedin profile link here)              | [Certificate Link ](Enter your Certificate link)            | your feedback here
+
 | 12 | add your name here | your email ID here         | [your name ](give  your linkedin profile link here)              | [Certificate Link ](Enter your Certificate link)            | your feedback here
 | 13 | add your name here | your email ID here         | [your name ](give  your linkedin profile link here)              | [Certificate Link ](Enter your Certificate link)            | your feedback here
 | 14 | add your name here | your email ID here         | [your name ](give  your linkedin profile link here)              | [Certificate Link ](Enter your Certificate link)            | your feedback here
