@@ -56,6 +56,6 @@
 | 54  | Ayush Kumar | ak7085330@gmail.com       | [Ayush Kumar](https://www.linkedin.com/in/ayushkumarx24/)  | [Certificate Link](https://api.badgr.io/public/assertions/e4D1fL8uR1GbZyCqgPK5KQ?identity__email=22053151%40kiit.ac.in)    | Great pathway to kickstart your API Journey!   
 | 55  | Likhita Basuthkar | basuthkarlikhita@gmail.com       | [Likhita Basuthkar](https://www.linkedin.com/in/likhita-basuthkar-b2a311226/)  | [Certificate Link](https://badgr.com/public/assertions/yuLS6cLYTQaWAHb6j1BOyA?identity__email=basuthkarlikhita@gmail.com)    | Great pathway to kickstart your API Journey!   
 | 56  | Akash Rai       | akashtooop@gmail.com            | [Akash Rai](https://www.linkedin.com/in/akash-rai1701/)             | [Certificate Link](https://api.badgr.io/public/assertions/iauJ8sq9SfKZcCVwvgn0fg?identity__email=akashtooop%40gmail.com)
-
+| 57   | Bharat Choudhary                | bharat.c2753@gmail.com         | [Bharat Choudhary](https://www.linkedin.com/in/bharat-choudhary27/)          | [Certificate Link](https://api.badgr.io/public/assertions/RjJ83AatR_6126dFL-iVvg?identity__email=bharat.c2753%40gmail.com) | I enjoyed playing with API        |
 
 
