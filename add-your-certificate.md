@@ -88,6 +88,7 @@
 
 
 | 38  | Ayush Kumar | ak7085330@gmail.com       | [Ayush Kumar](https://www.linkedin.com/in/ayushkumarx24/)  | [Certificate Link](https://api.badgr.io/public/assertions/e4D1fL8uR1GbZyCqgPK5KQ?identity__email=22053151%40kiit.ac.in)    | Great pathway to kickstart your API Journey!   
+| 39 | Nishant Kaushal | Nishantkaushal0708@gmail.com | https://www.linkedin.com/in/nishant-kaushal-12b25a267/ | https://api.badgr.io/public/assertions/orzoEzNnRsStIX7jvwWl1g |Could Be More Challenging |
 
 
 | 36 | Aman Jain | amanjain91667@gmail.com | [Aman Jain](https://www.linkedin.com/in/aman-jain-130167258) | [Certificate Link](https://api.badgr.io/public/assertions/7PHes5voS02CEzTyIDdj2Q?identity__email=amanjain91667%40gmail.com) | Good Course |
