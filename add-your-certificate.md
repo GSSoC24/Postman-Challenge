@@ -42,7 +42,7 @@
 
 | 27  | G.N.Venkata Pathi Raju      | coding2295@gmail.com            | [G.N.Venkata Pathi Raju](https://www.linkedin.com/in/g-n-venkata-pathi-raju-45ab7a274)             | [Certificate Link](https://api.badgr.io/public/assertions/aGunDACsRXKsM6mZpJUKBg?identity__email=coding2295%40gmail.com)                                                    | I KNEW ALL THIS BUT I NEVER LEARNED THIS IN SO STRUCTURED WAY THANKS                 |
 
-| 27  | add your name here       | your email ID here            | [your name](give your LinkedIn profile link here)             | [Certificate Link](Enter your Certificate link)                                                    | your feedback here                 |
+| 36  | Nayanika Mukherjee       | woormee912@gmail.com            | [Nayanika Mukherjee](https://www.linkedin.com/in/nayanika-mukherjee-76a24027b/)             | [Certificate Link](https://api.badgr.io/public/assertions/DZN9hv3HRFy2xuVeEd8tRQ?identity__email=woormee912%40gmail.com)                                                    | It helped me to gain insightful knowledge about PostMan                 |
 
 | 28  | add your name here       | your email ID here            | [your name](give your LinkedIn profile link here)             | [Certificate Link](Enter your Certificate link)                                                    | your feedback here                 |
 | 29  | add your name here       | your email ID here            | [your name](give your LinkedIn profile link here)             | [Certificate Link](Enter your Certificate link)                                                    | your feedback here                 |
