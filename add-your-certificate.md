@@ -79,6 +79,7 @@
 | 38  | Ayush Kumar | ak7085330@gmail.com       | [Ayush Kumar](https://www.linkedin.com/in/ayushkumarx24/)  | [Certificate Link](https://api.badgr.io/public/assertions/e4D1fL8uR1GbZyCqgPK5KQ?identity__email=22053151%40kiit.ac.in)    | Great pathway to kickstart your API Journey!   
 | 39  | Likhita Basuthkar | basuthkarlikhita@gmail.com       | [Likhita Basuthkar](https://www.linkedin.com/in/likhita-basuthkar-b2a311226/)  | [Certificate Link](https://badgr.com/public/assertions/yuLS6cLYTQaWAHb6j1BOyA?identity__email=basuthkarlikhita@gmail.com)    | Great pathway to kickstart your API Journey!   
 | 40  | Akash Rai       | akashtooop@gmail.com            | [Akash Rai]([give your LinkedIn profile link here](https://www.linkedin.com/in/akash-rai1701/))             | [Certificate Link]([Enter your Certificate link](https://api.badgr.io/public/assertions/iauJ8sq9SfKZcCVwvgn0fg?identity__email=akashtooop%40gmail.com))  
+| 41  | Mohammed Ahmed Majid | mohammedahmedmajid14@gmail.com       | [Mohammed Ahmed Majid](https://www.linkedin.com/in/ahmedmajid72014/)  | [Certificate Link](https://api.badgr.io/public/assertions/w3Rx3u-fSlaP6qUxa75l9w?identity__email=mohammedahmedmajid14%40gmail.com)    | Simple and easy course, great for beginners
 
 
 
