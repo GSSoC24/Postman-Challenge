@@ -15,7 +15,7 @@
 
 | 8.1  | Sagar Kumar | sagar192002singh@gmail.com  | [Sagar Kumar](https://www.linkedin.com/in/0sagarsingh01/)              | [Certificate Link ](https://badgr.com/public/assertions/rZwI7hf3SQqfCrrx5vmXYA?identity__email=sagar192002singh@gmail.com)            | your feedback here
 
-| 9  | add your name here | your email ID here         | [your name ](give  your linkedin profile link here)              | [Certificate Link ](Enter your Certificate link)            | your feedback here
+| 9  | Jagrit Aggarwal | jagrit03aggarwal@gmail.com        | [Jagrit Aggarwal ](www.linkedin.com/in/jagrit-aggarwal)              | [Certificate Link ](https://api.badgr.io/public/assertions/hp-dwPQOTS2NCwgrMz0jVw?identity__email=jagrit03aggarwal%40gmail.com)            | It was good
 | 10 | add your name here | your email ID here         | [your name ](give  your linkedin profile link here)              | [Certificate Link ](Enter your Certificate link)            | your feedback here
 | 11 | add your name here | your email ID here         | [your name ](give  your linkedin profile link here)              | [Certificate Link ](Enter your Certificate link)            | your feedback here
 | 12 | add your name here | your email ID here         | [your name ](give  your linkedin profile link here)              | [Certificate Link ](Enter your Certificate link)            | your feedback here
