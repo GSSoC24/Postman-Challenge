@@ -42,7 +42,8 @@
 
 | 27  | G.N.Venkata Pathi Raju      | coding2295@gmail.com            | [G.N.Venkata Pathi Raju](https://www.linkedin.com/in/g-n-venkata-pathi-raju-45ab7a274)             | [Certificate Link](https://api.badgr.io/public/assertions/aGunDACsRXKsM6mZpJUKBg?identity__email=coding2295%40gmail.com)                                                    | I KNEW ALL THIS BUT I NEVER LEARNED THIS IN SO STRUCTURED WAY THANKS                 |
 
-| 27  | add your name here       | your email ID here            | [your name](give your LinkedIn profile link here)             | [Certificate Link](Enter your Certificate link)                                                    | your feedback here                 |
+| 27  | Het Patel       | hetxprime07@gmail.com            | [Het Patel](https://www.linkedin.com/in/het-patel-65a272252/)
+| [Certificate Link](https://api.badgr.io/public/assertions/N2AbeJgHQ2SVZc7keyFmYw?identity__email=hetxprime07%40gmail.com)                                                    | Stuctured and Perfect flow, learnt really new sort of things, Thank you very much!    |
 
 | 28  | add your name here       | your email ID here            | [your name](give your LinkedIn profile link here)             | [Certificate Link](Enter your Certificate link)                                                    | your feedback here                 |
 | 29  | add your name here       | your email ID here            | [your name](give your LinkedIn profile link here)             | [Certificate Link](Enter your Certificate link)                                                    | your feedback here                 |
