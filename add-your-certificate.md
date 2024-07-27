@@ -10,12 +10,9 @@
 | 5  | SAKSHAM SHANDILYA |  saksham140023@gmail.com  | [SAKSHAM SHANDILYA](https://www.linkedin.com/in/shandilya-saksham-full-stack-developer/)              | [Certificate Link ](https://api.badgr.io/public/assertions/yxJfiD20Qv68J00OYkQFFQ?identity__email=saksham140023%40gmail.com)            | There should be more task and a little great difficulty
 | 6  | Siddheya Kulkarni | siddheyakul@gmail.com  | [Siddheya Kulkarni ](https://www.linkedin.com/in/siddheya-kulkarni/)  | [Certificate Link ](https://badgr.com/public/assertions/YQREFtD4SjqQzPpvVyi55A?identity__email=siddheyakul@gmail.com)   | Could have add more test scripts tasks
 | 7  | Shantnu Kumar | swapnilrj1@gmail.com         | [Shantnu Kumar ](https://in.linkedin.com/in/shantnu-singh-70400a22b)              | [Certificate Link ](https://api.badgr.io/public/assertions/8E6UsVhVTHquy0gFMD3P7g?identity__email=swapnilrj1%40gmail.com)           | Course should be longer, with more quiz questions
-
 | 8  | Rashi Dashore | rashi.dashore2002@gmail.com        | [Rashi Dashore ](https://www.linkedin.com/in/rashi-dashore-27b14b248)              | [Certificate Link ](https://api.badgr.io/public/assertions/lQp6IzkZRImjmHB9-cDVEA)            | More certifications would be great
-
 | 8.1  | Sagar Kumar | sagar192002singh@gmail.com  | [Sagar Kumar](https://www.linkedin.com/in/0sagarsingh01/)              | [Certificate Link ](https://badgr.com/public/assertions/rZwI7hf3SQqfCrrx5vmXYA?identity__email=sagar192002singh@gmail.com)            | your feedback here
-
-| 9  | add your name here | your email ID here         | [your name ](give  your linkedin profile link here)              | [Certificate Link ](Enter your Certificate link)            | your feedback here
+| 9  | Aditya Mane | adimane183@gmail.com         | [Aditya Mane ](https://www.linkedin.com/in/aditya-m-399b94235/)              | [Certificate Link ](https://api.badgr.io/public/assertions/FToXaPZ3RTqprMZYZalhOg?identity__email=adimane183%40gmail.com)            | More task should be there
 | 10 | add your name here | your email ID here         | [your name ](give  your linkedin profile link here)              | [Certificate Link ](Enter your Certificate link)            | your feedback here
 | 11 | add your name here | your email ID here         | [your name ](give  your linkedin profile link here)              | [Certificate Link ](Enter your Certificate link)            | your feedback here
 | 12 | add your name here | your email ID here         | [your name ](give  your linkedin profile link here)              | [Certificate Link ](Enter your Certificate link)            | your feedback here
