@@ -36,5 +36,5 @@
 | 32  | Shreyash Srivastava       | shreyash3087@gmail.com            | [Shreyash Srivastava](www.linkedin.com/in/shreyash-srivastava-1a1161280)             | [Certificate Link](https://api.badgr.io/public/assertions/hwlB6dv9TEmUzHeKinm6RQ?identity__email=shreyash3087%40gmail.com)                                                    | More topics could have been added covering methods like PUT/DELETE etc.   
 | 33 | Vinayak Vohra | vn26vhr@gmail.com | [Vinayak Vohra](https://www.linkedin.com/in/i-vinayak-vohra) | [Certificate Link](https://api.badgr.io/public/assertions/4_pd-9rzRne9VgRMZtTGNQ?identity__email=vn26vhr%40gmail.com) | Good Course |
 | 34 | Ayushmaan Agarwal | agarwalayushmaan88@gmail.com | [Ayushmaan Agarwal](https://www.linkedin.com/in/ayushmaan-agarwal-8064a4258/) | [Certificate Link](https://api.badgr.io/public/assertions/B-8oBtvxQjGYFK1whbBwHw?identity__email=agarwalayushmaan88%40gmail.com) | Good Course |
-
+| 36  | Vijay Shanker Sharma            | vijayshankersharma658@gmail.com       | [Vijay Shanker Sharma](www.linkedin.com/in/vijay-shanker-sharma) | [Certificate Link](https://api.badgr.io/public/assertions/C81WqIpVQdSvCGvcIYLMhw?identity__email=vijayshankersharma658%40gmail.com) | Great course on using Postman to handle API requests. |
 
