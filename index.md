@@ -12,7 +12,7 @@ The idea is to get Postman API Fundamental Student Expert Certification<br>
 # [Link to register: Click Here](https://swiy.co/postman)
 >[!NOTE]
 > Only use the above link to register as this link is used to track. <br>
-> Quick Guide Video: [Click here](https://www.loom.com/share/07cbe164e91a40c5aefbb831681923cc?sid=8a39732c-820b-4237-b763-8d15a0c18e6b), Disable your Ad-blocker
+> Quick Guide Video: [Click here](https://www.loom.com/share/07cbe164e91a40c5aefbb831681923cc?sid=8a39732c-820b-4237-b763-8d15a0c18e6b), Disable your Ad-blocker<br>
 > Process 1: You will be registered to the Postman Student Program<br>
 > Process 2: You will be registered for the Postman Academy Program 
 > Any doubts and help needed: [Click Here to start Discussion](https://github.com/GSSoC24/Postman-Challenge/discussions/categories/q-a)<br><br>
