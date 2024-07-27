@@ -80,5 +80,5 @@
 | 39  | Likhita Basuthkar | basuthkarlikhita@gmail.com       | [Likhita Basuthkar](https://www.linkedin.com/in/likhita-basuthkar-b2a311226/)  | [Certificate Link](https://badgr.com/public/assertions/yuLS6cLYTQaWAHb6j1BOyA?identity__email=basuthkarlikhita@gmail.com)    | Great pathway to kickstart your API Journey!   
 | 40  | Akash Rai       | akashtooop@gmail.com            | [Akash Rai]([give your LinkedIn profile link here](https://www.linkedin.com/in/akash-rai1701/))             | [Certificate Link]([Enter your Certificate link](https://api.badgr.io/public/assertions/iauJ8sq9SfKZcCVwvgn0fg?identity__email=akashtooop%40gmail.com))  
 
-
+| 41  | Somnath Shaw             | somnathshaw900@gmail.com     | [Chhaya Gupta](https://www.linkedin.com/in/somnath0904/) | [Certificate Link](https://api.badgr.io/public/assertions/VrC0exf9Tvm8LAfsUQ_lHw?identity__email=somnathshaw900%40gmail.com) | Excellent pathway to kickstart the API Journey !!       |
 
