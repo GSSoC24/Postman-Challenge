@@ -12,7 +12,7 @@
 <a href="https://github.com/GSSoC24/Postman-Challenge/issues"><img src="https://img.shields.io/github/issues/GSSoC24/Postman-Challenge" alt="Issues Badge"/></a>
 <a href="https://github.com/GSSoC24/Postman-Challenge/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/GSSoC24/Postman-Challenge?color=2b9348"></a>
 <a href="https://github.com/GSSoC24/Postman-Challenge/blob/master/LICENSE"><img src="https://img.shields.io/github/license/GSSoC24/Postman-Challenge?color=2b9348" alt="License Badge"/></a>
-
+[![](https://visitcount.itsvg.in/api?id=gssoc-postman&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 This is the all in one place for documentation help regarding the postman challenge.
 </div>
