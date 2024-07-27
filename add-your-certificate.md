@@ -42,7 +42,7 @@
 
 | 27  | G.N.Venkata Pathi Raju      | coding2295@gmail.com            | [G.N.Venkata Pathi Raju](https://www.linkedin.com/in/g-n-venkata-pathi-raju-45ab7a274)             | [Certificate Link](https://api.badgr.io/public/assertions/aGunDACsRXKsM6mZpJUKBg?identity__email=coding2295%40gmail.com)                                                    | I KNEW ALL THIS BUT I NEVER LEARNED THIS IN SO STRUCTURED WAY THANKS                 |
 
-| 27  | add your name here       | your email ID here            | [your name](give your LinkedIn profile link here)             | [Certificate Link](Enter your Certificate link)                                                    | your feedback here                 |
+| 27  | Anuj kumar Gupta      | anuj.gupta.0812.vns@gmail.com           | [Anuj Kumar Gupta](https://www.linkedin.com/in/anuj0812/)             | [Certificate Link](https://api.badgr.io/public/assertions/RWIgYT8NQn6UX6FY2bMWZw?identity__email=anuj.gupta.0812.vns%40gmail.com)                                                    | I Just have to say that GSSOC'24 is amazing                      |
 
 | 28  | add your name here       | your email ID here            | [your name](give your LinkedIn profile link here)             | [Certificate Link](Enter your Certificate link)                                                    | your feedback here                 |
 | 29  | add your name here       | your email ID here            | [your name](give your LinkedIn profile link here)             | [Certificate Link](Enter your Certificate link)                                                    | your feedback here                 |
