@@ -84,4 +84,8 @@
 | 83  | Mohammed Ahmed Majid | mohammedahmedmajid14@gmail.com       | [Mohammed Ahmed Majid](https://www.linkedin.com/in/ahmedmajid72014/)  | [Certificate Link](https://api.badgr.io/public/assertions/w3Rx3u-fSlaP6qUxa75l9w?identity__email=mohammedahmedmajid14%40gmail.com)    | Simple and easy course, great for beginners
 | 84   | Dishika Vaishkiyar                | vaishkiyardishika@gmail.com         | [Dishika Vaishkiyar](https://www.linkedin.com/in/dishika-vaishkiyar-844990264/)          | [Certificate Link](https://api.badgr.io/public/assertions/9zIaBOpRRP2aJFrQyN4SAg?identity__email=vaishkiyardishika%40gmail.com) | I Liked It!
 | 85 | Satuti Seth      | satutiseth1566@gmail.com            | [Satuti Seth]([give your LinkedIn profile link here](https://www.linkedin.com/in/satuti-seth-00044a255/)) | [Certificate Link]([Enter your Certificate link](https://api.badgr.io/public/assertions/gDGiQZyqTYu9pg3Hhkl9Nw?identity__email=satutiseth1566%40gmail.com))  | Amazing Experience! 
+
 | 86 | Mohan Golakoti      | ramgolakoti1@gmail.com            | [Mohan Golakoti](https://www.linkedin.com/in/ram-golakoti-4a2126217/) | [Certificate Link](https://api.badgr.io/public/assertions/x2aFsw00ToqTHTyffzLffQ?identity__email=ramgolakoti1%40gmail.com)  | Amazing Experience! 
+
+| 87  | Ojas Arora | ojas.arora14@gmail.com | [Ojas Arora](https://www.linkedin.com/in/ojas-arora-34910a24b/ ) | [Certificate Link](https://badgr.com/public/assertions/7Ct3UBz_REe0NfUEQH2oow?identity__email=ojas.arora14@gmail.com) | Great one for learning | 
+
