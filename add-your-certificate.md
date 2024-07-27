@@ -75,4 +75,4 @@
 | 74  | Ajita Gupta | ajitagupta369@gmail.com       | [Ajita Gupta](https://www.linkedin.com/in/ajita-gupta-50bba428b/)  | [Certificate Link](https://api.badgr.io/public/assertions/7M2QMqFGSPyCd45-G-wzXQ?identity__email=ajitagupta369%40gmail.com)    | Great course!   |
 | 75 | Khushi Kalra    | kalra.khushi12@gmail.com  | [Khushi Kalra](https://www.linkedin.com/in/kalrakhushi/) | [Certificate Link](https://api.badgr.io/public/assertions/qiLaFyy1S6yoaWTdLzG4MQ) | Amazing and easy to follow course!
 | 76 | P.L.Pavananjali | plpanjali05@gmail.com | [P.L.Pavananjali](www.linkedin.com/in/lakshmi-pavananjali-pamidi-766760296) | [Certificate Link](https://badgr.com/public/assertions/N_Hvf6DhSgq-7VCJJbvfoQ?identity__email=plpanjali05@gmail.com) | Your feedback here |
-
+| 77 | Akash Maity | aakashmaity57@gmail.com | [Akash Maity](https://www.linkedin.com/in/aakashmaity/) | [Certificate Link](https://api.badgr.io/public/assertions/CFnCHf_wS1-XDZqfKIGdTA?identity__email=aakashmaity57%40gmail.com)) | Quite easy! |
