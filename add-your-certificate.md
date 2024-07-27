@@ -1,25 +1,4 @@
 
-
-<br>
-
-| No |  Name              | Email                     | Linkedin Profile                                          |Certification Link | Feedback|
-|-----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|--------|-------|------------------------------------------------------|------------------------------------|
-| 1  | Sanjay KV | sanjay@recodehive.com      | [Sanjay-k-v](https://www.linkedin.com/in/sanjay-k-v/)  | [Certificate Link](https://api.badgr.io/public/assertions/4mL2m9QYQC-al832vETmGw?identity__email=sanjay.kanakkotviswanathan%40students.mq.edu.au) | Could have added more Tasks
-| 2  |Prince Gupta | pgupta28349@gmail.com      | [Prince Gupta ](https://www.linkedin.com/in/princegupta101/)              | [Certificate Link ](https://api.badgr.io/public/assertions/BnXMfOBgSYqIjofiG35zig)            | increase difficulty
-| 3  | Suhani Parmar | 1008suhaniparmar@gmail.com  | [Suhani Parmar ](https://www.linkedin.com/in/suhani-parmar-315a93252/) | [Certificate Link ](https://api.badgr.io/public/assertions/zznz3By8QuaLecC8ryJdsg?identity__email=1008suhaniparmar%40gmail.com)            | 
-| 4  | Shristy Joshi Thakur | shristyjoshitk2001@gmail.com  | [Shristy Joshi Thakur ](https://www.linkedin.com/in/shristy-joshi-thakur-828597201/)              | [Certificate Link ](https://api.badgr.io/public/assertions/-2lcwszHQMiA3GPauWj4kA)            | your feedback here
-| 5  | SAKSHAM SHANDILYA |  saksham140023@gmail.com  | [SAKSHAM SHANDILYA](https://www.linkedin.com/in/shandilya-saksham-full-stack-developer/)              | [Certificate Link ](https://api.badgr.io/public/assertions/yxJfiD20Qv68J00OYkQFFQ?identity__email=saksham140023%40gmail.com)            | There should be more task and a little great difficulty
-| 6  | Siddheya Kulkarni | siddheyakul@gmail.com  | [Siddheya Kulkarni ](https://www.linkedin.com/in/siddheya-kulkarni/)  | [Certificate Link ](https://badgr.com/public/assertions/YQREFtD4SjqQzPpvVyi55A?identity__email=siddheyakul@gmail.com)   | Could have add more test scripts tasks
-| 7  | Shantnu Kumar | swapnilrj1@gmail.com         | [Shantnu Kumar ](https://in.linkedin.com/in/shantnu-singh-70400a22b)              | [Certificate Link ](https://api.badgr.io/public/assertions/8E6UsVhVTHquy0gFMD3P7g?identity__email=swapnilrj1%40gmail.com)           | Course should be longer, with more quiz questions
-| 8  | Rashi Dashore | rashi.dashore2002@gmail.com        | [Rashi Dashore ](https://www.linkedin.com/in/rashi-dashore-27b14b248)              | [Certificate Link ](https://api.badgr.io/public/assertions/lQp6IzkZRImjmHB9-cDVEA)            | More certifications would be great.
-| 8.1  | Sagar Kumar | sagar192002singh@gmail.com  | [Sagar Kumar](https://www.linkedin.com/in/0sagarsingh01/)              | [Certificate Link ](https://badgr.com/public/assertions/rZwI7hf3SQqfCrrx5vmXYA?identity__email=sagar192002singh@gmail.com)            | your feedback here
-
-| 9  | Aditya Mane | adimane183@gmail.com         | [Aditya Mane ](https://www.linkedin.com/in/aditya-m-399b94235/)              | [Certificate Link ](https://api.badgr.io/public/assertions/FToXaPZ3RTqprMZYZalhOg?identity__email=adimane183%40gmail.com)            | More task should be there
-| 10 | Jagrit Aggarwal | jagrit03aggarwal@gmail.com         | [Jagrit Aggarwal ](www.linkedin.com/in/jagrit-aggarwal)              | [Certificate Link ](https://api.badgr.io/public/assertions/hp-dwPQOTS2NCwgrMz0jVw?identity__email=jagrit03aggarwal%40gmail.com)            | It was good
-
-| 9.1 | Abhishek Bhattacharjee | abhishekbhattacharjee12345@gmail.com         | [Abhishek Bhattacharjee ](https://www.linkedin.com/in/abhishek-bhattacharjee-a91570256)              | [Certificate Link ](https://api.badgr.io/public/assertions/9lOabbw9TJqfRXi_4FmYiw?identity__email=abhishekbhattacharjee12345%40gmail.com)            | The task was very easy.
-| 10.7 | Sumisha Mohan | sumisha4@gmail.com         | [Sumisha Mohan ](www.linkedin.com/in/sumisha-mohan-a299351b5)              | (https://api.badgr.io/public/assertions/XSuB-2fTRVu5_wI2_WJR5g?identity__email=sumisha4%40gmail.com)        | The tasks were pretty straightforward, could've gone into more depth
-
 | No  | Name                     | Email                         | LinkedIn Profile                                              | Certification Link                                                                                 | Feedback                            |
 |-----|--------------------------|------------------------------|---------------------------------------------------------------|----------------------------------------------------------------------------------------------------|-------------------------------------|
 | 1   | Sanjay KV                | sanjay@recodehive.com         | [Sanjay-k-v](https://www.linkedin.com/in/sanjay-k-v/)         | [Certificate Link](https://api.badgr.io/public/assertions/4mL2m9QYQC-al832vETmGw?identity__email=sanjay.kanakkotviswanathan%40students.mq.edu.au) | Could have added more Tasks         |
@@ -43,23 +22,17 @@
 | 10.2| Ritesh Kumar Palei       | universe7565@gmail.com        | [Ritesh Kumar Palei](https://www.linkedin.com/in/ritesh-kumar-palei/) | [Certificate Link](https://api.badgr.io/public/assertions/2NhNCH41T4O5jtZzi-tbeA?identity__email=universe7565%40gmail.com) | Your feedback here                 |
 | 10.3| Jagrit Aggarwal          | jagrit03aggarwal@gmail.com    | [Jagrit Aggarwal](www.linkedin.com/in/jagrit-aggarwal)       | [Certificate Link](https://api.badgr.io/public/assertions/hp-dwPQOTS2NCwgrMz0jVw?identity__email=jagrit03aggarwal%40gmail.com) | It was good                        |
 | 10.4| Abhishek Bhattacharjee   | abhishekbhattacharjee12345@gmail.com | [Abhishek Bhattacharjee](https://www.linkedin.com/in/abhishek-bhattacharjee-a91570256) | [Certificate Link](https://api.badgr.io/public/assertions/9lOabbw9TJqfRXi_4FmYiw?identity__email=abhishekbhattacharjee12345%40gmail.com) | The task was very easy             |
-| 10.5| Rohan Sharma             | specialroh
-
-| 10 | Rohan Sharma | specialrohansharma200         | [Rohan Sharma ](https://www.linkedin.com/in/rohan-sharma-9386rs/)              | [Certificate Link ](http://verify.skilljar.com/c/aw3n6c7nhmoi)            | Great course for api beginners
-
+| 10.5| Rohan Sharma             | specialro
 
 | 10.3 | Jagrit Aggarwal | jagrit03aggarwal@gmail.com         | [Jagrit Aggarwal ](www.linkedin.com/in/jagrit-aggarwal)              | [Certificate Link ](https://api.badgr.io/public/assertions/hp-dwPQOTS2NCwgrMz0jVw?identity__email=jagrit03aggarwal%40gmail.com)            | It was good
 
 | 9.1 | Abhishek Bhattacharjee | abhishekbhattacharjee12345@gmail.com         | [Abhishek Bhattacharjee ](https://www.linkedin.com/in/abhishek-bhattacharjee-a91570256)              | [Certificate Link ](https://api.badgr.io/public/assertions/9lOabbw9TJqfRXi_4FmYiw?identity__email=abhishekbhattacharjee12345%40gmail.com)            | The task was very easy.
 
-
 | 10 | add your name here | your email ID here         | [your name ](give  your linkedin profile link here)              | [Certificate Link ](Enter your Certificate link)            | your feedback here
 
 
-
-
-| 11 | add your name here | your email ID here         | [your name ](give  your linkedin profile link here)              | [Certificate Link ](Enter your Certificate link)            | your feedback here
-| 12 | add your name here | your email ID here         | [your name ](give  your linkedin profile link here)              | [Certificate Link ](Enter your Certificate link)            | your feedback here
+| 11 | Hetkumar Prajapati | hetgoraj@gmail.com         | [Hetkumar Prajapati](https://www.linkedin.com/in/hetkumar-prajapati)              | [Certificate Link](https://api.badgr.io/public/assertions/KNHUHLrwTDWbuuzxajKdhg?identity__email=hetgoraj%40gmail.com)            | Amazing pathway to learn about API
+| 12 | Chhaya Gupta | guptachhaya3148@gmail.com         | [Chhaya Gupta ](https://www.linkedin.com/in/chhaya-gupta-ba522422b/)              | [Certificate Link ](https://api.badgr.io/public/assertions/ZeVl5qZ0TXKazbMGaOOW1g?identity__email=guptachhaya3148%40gmail.com)            | Pretty easy and informative
 | 13 | add your name here | your email ID here         | [your name ](give  your linkedin profile link here)              | [Certificate Link ](Enter your Certificate link)            | your feedback here
 | 14 | add your name here | your email ID here         | [your name ](give  your linkedin profile link here)              | [Certificate Link ](Enter your Certificate link)            | your feedback here
 | 15 | add your name here | your email ID here         | [your name ](give  your linkedin profile link here)              | [Certificate Link ](Enter your Certificate link)            | your feedback here
