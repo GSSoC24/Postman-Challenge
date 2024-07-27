@@ -96,9 +96,6 @@
 
 | 36 | Aman Jain | amanjain91667@gmail.com | [Aman Jain](https://www.linkedin.com/in/aman-jain-130167258) | [Certificate Link](https://api.badgr.io/public/assertions/7PHes5voS02CEzTyIDdj2Q?identity__email=amanjain91667%40gmail.com) | Good Course |
 
-
-| 39 | Pavitraa G | pavitraagopi@gmail.com | [Pavitraa](https://www.linkedin.com/in/pavitraa-g/) | [Certificate Link](https://api.badgr.io/public/assertions/kC_ZVfK0SpK8HVfIffp9lQ?identity__email=pavitraagopi%40gmail.com) | Was very informative and learnt with practical knowledge |
-
 | 37 | Kamalesh D | kamaleshd.official@gmail.com | [kamalesh-d](https://www.linkedin.com/in/kamalesh-d) | [Certificate Link](https://api.badgr.io/public/assertions/x06k3GVOTUS_7XwXWZ09UQ?identity__email=kamaleshd.official%40gmail.com) | Could have been lil harder. |
 
 | 37  | Vijay Shanker Sharma            | vijayshankersharma658@gmail.com       | [Vijay Shanker Sharma](www.linkedin.com/in/vijay-shanker-sharma) | [Certificate Link](https://api.badgr.io/public/assertions/C81WqIpVQdSvCGvcIYLMhw?identity__email=vijayshankersharma658%40gmail.com) | Great course on using Postman to handle API requests. |
@@ -108,8 +105,7 @@
 | 39  | Likhita Basuthkar | basuthkarlikhita@gmail.com       | [Likhita Basuthkar](https://www.linkedin.com/in/likhita-basuthkar-b2a311226/)  | [Certificate Link](https://badgr.com/public/assertions/yuLS6cLYTQaWAHb6j1BOyA?identity__email=basuthkarlikhita@gmail.com)    | Great pathway to kickstart your API Journey!   
 
 
-
-
+| 40  | Akash Rai       | akashtooop@gmail.com            | [Akash Rai]([give your LinkedIn profile link here](https://www.linkedin.com/in/akash-rai1701/))             | [Certificate Link]([Enter your Certificate link](https://api.badgr.io/public/assertions/iauJ8sq9SfKZcCVwvgn0fg?identity__email=akashtooop%40gmail.com))  
 
 
 
