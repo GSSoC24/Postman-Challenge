@@ -106,6 +106,6 @@
 
 
 | 40  | Akash Rai       | akashtooop@gmail.com            | [Akash Rai]([give your LinkedIn profile link here](https://www.linkedin.com/in/akash-rai1701/))             | [Certificate Link]([Enter your Certificate link](https://api.badgr.io/public/assertions/iauJ8sq9SfKZcCVwvgn0fg?identity__email=akashtooop%40gmail.com))  
-
+| 41  | Maraboina Sai Sruthi                | lassmara1906@gmail.com                         | [SaiSruthi_Maraboina](https://www.linkedin.com/in/sai-sruthi-maraboina/?trk=public-profile-join-page)                                             |[ Certification Link ](https://api.badgr.io/public/assertions/cIumNDZaQX6EMjx6XAVZpw?identity__email=lassmara1906%40gmail.com)                                                                                | Great!                           |
 
 
