@@ -73,6 +73,8 @@
 
 | 36 | Aman Jain | amanjain91667@gmail.com | [Aman Jain](https://www.linkedin.com/in/aman-jain-130167258) | [Certificate Link](https://api.badgr.io/public/assertions/7PHes5voS02CEzTyIDdj2Q?identity__email=amanjain91667%40gmail.com) | Good Course |
 
+| 39 | Pavitraa G | pavitraagopi@gmail.com | [Pavitraa](https://www.linkedin.com/in/pavitraa-g/) | [Certificate Link]([https://api.badgr.io/public/assertions/7PHes5voS02CEzTyIDdj2Q?identity__email=amanjain91667%40gmail.com](https://api.badgr.io/public/assertions/kC_ZVfK0SpK8HVfIffp9lQ?identity__email=pavitraagopi%40gmail.com)) | Was very informative and learnt with practical knowledge |
+
 
 
 
