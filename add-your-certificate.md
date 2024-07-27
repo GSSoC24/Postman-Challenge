@@ -1,4 +1,3 @@
-<br>
 
 | No  | Name                     | Email                         | LinkedIn Profile                                              | Certification Link                                                                                 | Feedback                            |
 |-----|--------------------------|------------------------------|---------------------------------------------------------------|----------------------------------------------------------------------------------------------------|-------------------------------------|
@@ -23,7 +22,7 @@
 | 10.2| Ritesh Kumar Palei       | universe7565@gmail.com        | [Ritesh Kumar Palei](https://www.linkedin.com/in/ritesh-kumar-palei/) | [Certificate Link](https://api.badgr.io/public/assertions/2NhNCH41T4O5jtZzi-tbeA?identity__email=universe7565%40gmail.com) | Your feedback here                 |
 | 10.3| Jagrit Aggarwal          | jagrit03aggarwal@gmail.com    | [Jagrit Aggarwal](www.linkedin.com/in/jagrit-aggarwal)       | [Certificate Link](https://api.badgr.io/public/assertions/hp-dwPQOTS2NCwgrMz0jVw?identity__email=jagrit03aggarwal%40gmail.com) | It was good                        |
 | 10.4| Abhishek Bhattacharjee   | abhishekbhattacharjee12345@gmail.com | [Abhishek Bhattacharjee](https://www.linkedin.com/in/abhishek-bhattacharjee-a91570256) | [Certificate Link](https://api.badgr.io/public/assertions/9lOabbw9TJqfRXi_4FmYiw?identity__email=abhishekbhattacharjee12345%40gmail.com) | The task was very easy             |
-| 10.5| Rohan Sharma             | specialroh
+| 10.5| Rohan Sharma             | specialro
 
 | 10.3 | Jagrit Aggarwal | jagrit03aggarwal@gmail.com         | [Jagrit Aggarwal ](www.linkedin.com/in/jagrit-aggarwal)              | [Certificate Link ](https://api.badgr.io/public/assertions/hp-dwPQOTS2NCwgrMz0jVw?identity__email=jagrit03aggarwal%40gmail.com)            | It was good
 
@@ -34,7 +33,7 @@
 
 | 11 | Hetkumar Prajapati | hetgoraj@gmail.com         | [Hetkumar Prajapati](https://www.linkedin.com/in/hetkumar-prajapati)              | [Certificate Link](https://api.badgr.io/public/assertions/KNHUHLrwTDWbuuzxajKdhg?identity__email=hetgoraj%40gmail.com)            | Amazing pathway to learn about API
 
-| 12 | add your name here | your email ID here         | [your name ](give  your linkedin profile link here)              | [Certificate Link ](Enter your Certificate link)            | your feedback here
+| 12 | Chhaya Gupta | guptachhaya3148@gmail.com         | [Chhaya Gupta ](https://www.linkedin.com/in/chhaya-gupta-ba522422b/)              | [Certificate Link ](https://api.badgr.io/public/assertions/ZeVl5qZ0TXKazbMGaOOW1g?identity__email=guptachhaya3148%40gmail.com)            | Pretty easy and informative
 | 13 | add your name here | your email ID here         | [your name ](give  your linkedin profile link here)              | [Certificate Link ](Enter your Certificate link)            | your feedback here
 | 14 | add your name here | your email ID here         | [your name ](give  your linkedin profile link here)              | [Certificate Link ](Enter your Certificate link)            | your feedback here
 | 15 | add your name here | your email ID here         | [your name ](give  your linkedin profile link here)              | [Certificate Link ](Enter your Certificate link)            | your feedback here
