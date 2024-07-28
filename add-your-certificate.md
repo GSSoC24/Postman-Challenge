@@ -114,4 +114,4 @@
 | 97 | Meetali Kapse | meetalikapse@gmail.com   | [Meetali Kapse](https://www.linkedin.com/in/meetalikapse/)          | [Certificate Link](https://api.badgr.io/public/assertions/tip7KEoVT6W3vTrr2gkFlA?identity__email=meetalikapse%40gmail.com) | Very helpful
 | 98 | Kundan Tamsoy | ntamsoy66@gmail.com | [Kundan Tamsoy](https://www.linkedin.com/in/kundan-tamsoy-646023230/) | [Certificate Link](https://api.badgr.io/public/assertions/cwZPWciVQQ2M-4e_UCyGwA?identity__email=ntamsoy66%40gmail.com) | Good opportunity for learning and earning too.
 | 99 | Surojit Mondal | surojitmondalit@gmail.com | [Surojit Mondal](https://linkedin.com/in/surojitmondal) | [Certificate Link](https://api.badgr.io/public/assertions/h6pgFhLCRvSi7oSFnWJcTw?identity__email=surojitmondalit@gmail.com) | It was a great opportunity to learn and grow🚀
-
+| 100 | Aslam Sayyad | sayyadaslam2020@gmail.com | [Aslam Sayyad](https://www.linkedin.com/in/aslamsayyad02/) | [Certificate Link](https://api.badgr.io/public/assertions/b4bTt_n0Sj-IwFVj_QTueQ?identity__email=sayyadaslam2020%40gmail.com) | Loved it.
