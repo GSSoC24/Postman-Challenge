@@ -96,3 +96,6 @@
 | 92 | Archana Krishna | archanakrishna0023@gmail.com   | [Archana Krishna](https://www.linkedin.com/in/archana-krishna-2a4785278)          | [Certificate Link](https://api.badgr.io/public/assertions/-c-Ww_-cTte3Yzc2y7AlZg?identity__email=archanakrishna0023%40gmail.com) | ---
 | 94 | Nayanika Mukherjee | woormee912@gmail.com   | [Nayanika Mukherjee](https://www.linkedin.com/in/nayanika-mukherjee-76a24027b/)          | [Certificate Link](https://api.badgr.io/public/assertions/DZN9hv3HRFy2xuVeEd8tRQ?identity__email=woormee912%40gmail.com) | Great Course!
 | 93 | Somnath Shaw | somnathshaw900@gmail.com | [Somnath Shaw](https://www.linkedin.com/in/somnath0904/) | [Certificate Link](https://api.badgr.io/public/assertions/jkMG1MyqRZ2X1g9Y_EqJxA?identity__email=somnath.arcade3.2024%40gmail.com) | Great course! |
+| 93 | Abhinov Dutta | abhinavdutta927@gmail.com | [Abhinov Dutta](www.linkedin.com/in/abhinov-dutta-a98509258) |[Certificate Link](https://api.badgr.io/public/assertions/PsFN46bOTJ-GYxBUG8Z1cA?identity__email=abhinavdutta927%40gmail.com) | Amazing Experience.
+| 94 | Somnath Shaw | somnathshaw900@gmail.com | [Somnath Shaw](https://www.linkedin.com/in/somnath0904/) | [Certificate Link](https://api.badgr.io/public/assertions/jkMG1MyqRZ2X1g9Y_EqJxA?identity__email=somnath.arcade3.2024%40gmail.com) | Great course! |
+
