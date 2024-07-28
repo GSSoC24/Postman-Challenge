@@ -326,6 +326,7 @@
 | 85 | Satuti Seth      | satutiseth1566@gmail.com            | [Satuti Seth]([give your LinkedIn profile link here](https://www.linkedin.com/in/satuti-seth-00044a255/)) | [Certificate Link]([Enter your Certificate link](https://api.badgr.io/public/assertions/gDGiQZyqTYu9pg3Hhkl9Nw?identity__email=satutiseth1566%40gmail.com))  | Amazing Experience! 
 
 
+
 | 85 | Satuti Seth      | satutiseth1566@gmail.com            | [Satuti Seth]([give your LinkedIn profile link here](https://www.linkedin.com/in/satuti-seth-00044a255/)) | [Certificate Link]([Enter your Certificate link](https://api.badgr.io/public/assertions/gDGiQZyqTYu9pg3Hhkl9Nw?identity__email=satutiseth1566%40gmail.com))  | Amazing Experience!
 
 | 85 | Satuti Seth      | satutiseth1566@gmail.com            | [Satuti Seth](https://www.linkedin.com/in/satuti-seth-00044a255/) | [Certificate Link](https://api.badgr.io/public/assertions/gDGiQZyqTYu9pg3Hhkl9Nw?identity__email=satutiseth1566%40gmail.com)  | Amazing Experience!
@@ -478,4 +479,4 @@
 |137 |Lovely Mahour | lovelymahour1405@gmail.com | [Lovely Mahour](https://www.linkedin.com/in/lovely-mahour-992316265/) | [Certificate Link](https://api.badgr.io/public/assertions/A7wZzKKnRUutrKfn6SQ5TA?identity__email=lovelymahour1405%40gmail.com) | Thorough and practical course that provides essential API knowledge and hands-on experience with Postman. |
 
 | 129 | Hitesh Gahanolia      | hiteshgahanolia@gmail.com   | [Hitesh Gahanolia](https://www.linkedin.com/in/hiteshgahanolia/) | [Certificate Link](https://api.badgr.io/public/assertions/h37-Gp8mQeqJV7xHevwSnA?identity__email=hiteshgahanolia%40gmail.com) | Very Useful.
-                             |
+| 86 | Biswanath Sah | sah.biswanath290@gmail.com | [Biswanath Sah](www.linkedin.com/in/biswanath-sah-918445243/) | [Certificate Link](https://badgr.com/public/assertions/3dHlgiROQRKxhf3T-2KBeg?identity__email=sah.biswanath290@gmail.com) | Solid foundation in API fundamentals and Postman usage. |
