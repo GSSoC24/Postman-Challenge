@@ -445,6 +445,7 @@
 | 433 | Shantnu Kumar | swapnilrj1@gmail.com | [Shantnu Kumar](https://in.linkedin.com/in/shantnu-singh-70400a22b) | [Certificate Link](https://api.badgr.io/public/assertions/8E6UsVhVTHquy0gFMD3P7g?identity__email=swapnilrj1%40gmail.com) | Course should be longer, with more quiz questions. |
 
 
+
 | 433 | Anagha Chaudhari      | chaudhari.30.anagha@gmail.com         | [Anagha Chaudhari](https://www.linkedin.com/in/anagha-chaudhari)               | [Certificate Link](https://api.badgr.io/public/assertions/V_qtmspMSfiOK2qW7B6UMQ?identity__email=chaudhari.30.anagha%40gmail.com) | Engaging and easy to follow |
 
 | 433    | K-kiran77                | kondetikiran77@gmail.com               | [KONDETI KIRAN KUMAR](https://www.linkedin.com/in/kondeti-kiran-kumar-5a471b252/)                                                                                                                                       | [Certificate Link](https://api.badgr.io/public/assertions/GlUZ2v3pTS-DClIihPYRFA?identity__email=kondetikiran77%40gmail.com)            | GOOD COURSE FOR BEGINNERS| 
@@ -457,9 +458,28 @@
 
 | 433    | Sayantika Laskar     | sayantikalaskar2002@gmail.com        | [Sayantika Laskar](https://www.linkedin.com/in/sayantika-laskar-098aa2250/) | [Certificate Link](https://api.badgr.io/public/assertions/xb14j9k9SSOdAv--84ngEg?identity__email=sayantikalaskar2002%40gmail.com)            | It was good. |
 
+| 434    | Debashis Pani        | debashispani61@gmail.com             | [Debashis Pani](https://www.linkedin.com/in/debashis-pani-b28b702b3/)    | [Certificate Link](https://api.badgr.io/public/assertions/15jY-zIDQayj9v029dfZaw?identity__email=debashispani61%40gmail.com) | It was Good |
+
+| 433 | Suveda Kakarala | suveda999@gmail.com | [Suveda Kakarala](https://www.linkedin.com/in/suveda-kakarala-626277290/)     | [Certificate Link](https://api.badgr.io/public/assertions/L3q46Xd5TdyfZK21iAsgaA?identity__email=suveda999%40gmail.com) | fun and easy course |
 
 
+| 433    | Sayantika Laskar     | sayantikalaskar2002@gmail.com        | [Sayantika Laskar](https://www.linkedin.com/in/sayantika-laskar-098aa2250/) | [Certificate Link](https://api.badgr.io/public/assertions/xb14j9k9SSOdAv--84ngEg?identity__email=sayantikalaskar2002%40gmail.com)            | It was good. |
+| 434    | Sachin Rajbhar     | officialsachinrajbhar@gmail.com        | [Sayantika Laskar](https://www.linkedin.com/in/sachin-rajbhar/) | [Certificate Link](https://api.badgr.io/public/assertions/2q-xgaXuRb-dtHKv84oJGg?identity__email=officialsachinrajbhar%40gmail.com)            | Excited to contribute more. |
 
+| 433 | Shantnu Kumar       | swapnilrj1@gmail.com           | [Shantnu Kumar](https://in.linkedin.com/in/shantnu-singh-70400a22b)                         | [Certificate Link](https://api.badgr.io/public/assertions/8E6UsVhVTHquy0gFMD3P7g?identity__email=swapnilrj1%40gmail.com)          | Course should be longer, with more quiz questions. |
+| 434 | Anagha Chaudhari    | chaudhari.30.anagha@gmail.com  | [Anagha Chaudhari](https://www.linkedin.com/in/anagha-chaudhari)                            | [Certificate Link](https://api.badgr.io/public/assertions/V_qtmspMSfiOK2qW7B6UMQ?identity__email=chaudhari.30.anagha%40gmail.com) | Engaging and easy to follow    |
+| 435 | K-kiran77           | kondetikiran77@gmail.com       | [KONDETI KIRAN KUMAR](https://www.linkedin.com/in/kondeti-kiran-kumar-5a471b252/)          | [Certificate Link](https://api.badgr.io/public/assertions/GlUZ2v3pTS-DClIihPYRFA?identity__email=kondetikiran77%40gmail.com)       | GOOD COURSE FOR BEGINNERS     |
+| 436 | Aanchal Pahuja      | aanchalpahuja34@gmail.com      | [Aanchal Pahuja](https://www.linkedin.com/in/aanchal-pahuja-587a0b250/)                    | [Certificate Link](https://api.badgr.io/public/assertions/66518186c91792345ed4d19e?identity__email=aanchalpahuja34@gmail.com)      | Great Start to API             |
+| 437 | Jayesh Joshi        | divyeshjoshi7474@gmail.com     | [jayesh joshi](https://www.linkedin.com/in/jayesh-joshi24/)                                | [Certificate Link](https://api.badgr.io/public/assertions/fjUnhyrLRnOsxWaU-8KuPw?identity__email=divyeshjoshi7474%40gmail.com)    | Great Course                   |
+| 438 | Saksham Shrivastava | sakshamshrivastav58@gmail.com  | [Saksham Shrivastava](https://www.linkedin.com/in/sakshamshrivastava/)                     | [Certificate Link](https://api.badgr.io/public/assertions/BkzFUqZSSYm-40ZuxwOMqw?identity__email=sakshamshrivastav58%40gmail.com) | Great Learning Experience!     |
+| 439 | Sayantika Laskar    | sayantikalaskar2002@gmail.com  | [Sayantika Laskar](https://www.linkedin.com/in/sayantika-laskar-098aa2250/)                | [Certificate Link](https://api.badgr.io/public/assertions/xb14j9k9SSOdAv--84ngEg?identity__email=sayantikalaskar2002%40gmail.com)  | It was good.                   |
+
+| 440 | Roushan Verma    | roushanverma041@gmail.com  | [Roushan Verma ](https://www.linkedin.com/in/roushanverma38/)                | [Certificate Link](https://api.badgr.io/public/assertions/urDIEhQ9RKW1IQk60E08fw?identity__email=roushanverma041%40gmail.com)  | Easy to learn.                   |
+
+
+| 435    | Priyal Rawal                | priyalrwl.20@gmail.com               | [Priyal Rawal](https://www.linkedin.com/in/priyal-rawal-18ba42245/)                                                                                                                                       | [Certificate Link](https://api.badgr.io/public/assertions/oCYnJNeWRCiZM7g0WvVyqQ?identity__email=priyalrwl.20%40gmail.com)            | useful                                                                                            |
+
+| 436 | Sharitha G          | sharithag03@gmail.com          | [Sharitha G](https://www.linkedin.com/in/sharithag//) | [Certificate Link](https://badgr.com/public/assertions/3sLosycRQhOh_6tAsTYlaw?identity__email=sharithag03@gmail.com)  | Great Course|
 | 433 | Anagha Chaudhari      | chaudhari.30.anagha@gmail.com     | [Anagha Chaudhari](https://www.linkedin.com/in/anagha-chaudhari)            | [Certificate](https://api.badgr.io/public/assertions/V_qtmspMSfiOK2qW7B6UMQ?identity__email=chaudhari.30.anagha%40gmail.com) | Engaging and easy to follow       |
 | 434 | K-kiran77             | kondetikiran77@gmail.com          | [KONDETI KIRAN KUMAR](https://www.linkedin.com/in/kondeti-kiran-kumar-5a471b252/) | [Certificate](https://api.badgr.io/public/assertions/GlUZ2v3pTS-DClIihPYRFA?identity__email=kondetikiran77%40gmail.com)      | Good course for beginners         |
 | 435 | Aanchal Pahuja        | aanchalpahuja34@gmail.com         | [Aanchal Pahuja](https://www.linkedin.com/in/aanchal-pahuja-587a0b250/)     | [Certificate](https://api.badgr.io/public/assertions/66518186c91792345ed4d19e?identity__email=aanchalpahuja34@gmail.com)    | Great start to API                |
@@ -471,4 +491,27 @@
 | 441 | Sachin Rajbhar        | officialsachinrajbhar@gmail.com   | [Sachin Rajbhar](https://www.linkedin.com/in/sachin-rajbhar/)               | [Certificate](https://api.badgr.io/public/assertions/2q-xgaXuRb-dtHKv84oJGg?identity__email=officialsachinrajbhar%40gmail.com) | Excited to contribute more        |
 | 442 | Priyal Rawal          | priyalrwl.20@gmail.com            | [Priyal Rawal](https://www.linkedin.com/in/priyal-rawal-18ba42245/)         | [Certificate](https://api.badgr.io/public/assertions/oCYnJNeWRCiZM7g0WvVyqQ?identity__email=priyalrwl.20%40gmail.com)       | Useful                             |
 | 443 | Shantnu Kumar         | swapnilrj1@gmail.com              | [Shantnu Kumar](https://in.linkedin.com/in/shantnu-singh-70400a22b)         | [Certificate](https://api.badgr.io/public/assertions/8E6UsVhVTHquy0gFMD3P7g?identity__email=swapnilrj1%40gmail.com)        | Course should be longer, with more quiz questions |
+
 | 444  | Dharmesh Raj       | rajdharmesh666@gmail.com           |  [Dharmesh Raj](https://www.linkedin.com/in/dharmesh-raj-2bb13023a/)  |    [Certificate Link](https://api.badgr.io/public/assertions/xmvUP6t4ToqnBs0KopVE7Q?identity__email=rajdharmesh666%40gmail.com)     | Learned Alot   |
+
+
+| 444 | ANSHUL AGARWAL | anshulagarwal591@gmail.com | [ANSHUL AGARWAL](https://www.linkedin.com/in/anshulagarwal5/) | [Certificate Link](https://api.badgr.io/public/assertions/Rl-M4wLaTSKJGwuUDnLJOw?identity__email=anshulagarwal591%40gmail.com) | Hands-on experience helped me to learn better !! |
+
+
+| 444 | Mubashirin Moulvi     | mmubashirin786@gmail.com          | [Mubashirin Moulvi](https://www.linkedin.com/in/mubashirin-m-82b6b622b/)    | [Certificate Link](https://api.badgr.io/public/assertions/Q7y05rkoSR6CaE2wmpPN8g?identity__email=mmubashirin786%40gmail.com) | it was good
+
+
+| 446 | Harshita Bhambhani | harshitabhambhani7@gmail.com | [Harshita Bhambhani](https://www.linkedin.com/in/harshitaa16/) | [Certificate Link](https://api.badgr.io/public/assertions/S-ky-yxSQDyxy02l5mVFqA?identity__email=harshitabhambhani7%40gmail.com) | Great Experience |
+
+
+| 444    | Maheshwari Love     | l.maheshwari2008@gmail.com        | [Maheshwari Love](https://www.linkedin.com/in/maheshwari-love/) | [Certificate Link](https://api.badgr.io/public/assertions/K0A0qYtJS16zcieqT5Ye0g?identity__email=l.maheshwari2008%40gmail.com)            | It was great to get familiar with postman |
+
+
+
+
+| 435    | Priyal Rawal                | priyalrwl.20@gmail.com               | [Priyal Rawal](https://www.linkedin.com/in/priyal-rawal-18ba42245/)                                                                                                                                       | [Certificate Link](https://api.badgr.io/public/assertions/oCYnJNeWRCiZM7g0WvVyqQ?identity__email=priyalrwl.20%40gmail.com)            | useful                                                                                            |
+| 441 | Vijay Samant | vijaysamant4368@gmail.com | [Vijay Samant](https://www.linkedin.com/in/vijaysamant4368) | | [Certificate Link](https://api.badgr.io/public/assertions/T57QR76_Sf2TsWTKRvAvzQ?identity__email=vijaysamant4368%40gmail.com) | |
+
+
+
+
