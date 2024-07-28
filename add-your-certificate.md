@@ -465,6 +465,8 @@
 
 | 455 | Harish Peddina      | peddinaharish2003@gmail.com    | [Harish Peddina](https://www.linkedin.com/in/harish-peddina) | [Certificate](https://api.badgr.io/public/assertions/Zst6WklPSYmeLJNS7rnuBQ?identity__email=peddinaharish2003%40gmail.com) | good                        |
 
+| 452 | Raju Kumar | rajukumar7061474389@gmail.com  | [Raju Kumar](linkedin.com/in/raju-kumar-a32b42229) | [Certificate](https://api.badgr.io/public/assertions/kFbj483-Q_y1ZUSC3N5l-w?identity__email=rajukumar7061474389%40gmail.com) | It helps me to learn about API |
+
 
 | 456 | Gopika J            | gopikajitesh.lbs@gmail.com     | [Gopika J](https://www.linkedin.com/in/gopika-j-838346245/) | [Certificate](https://api.badgr.io/public/assertions/xocQvgzqROCHz-h96aw4Fw?identity__email=gopikajitesh.lbs%40gmail.com) | Thankyou gssoc for intro to Postman    |
 
