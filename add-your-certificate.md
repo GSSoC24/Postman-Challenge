@@ -471,7 +471,7 @@
 
 
 | 451 | Prajwala Yadlapalli     | prajwalayadlapalli@gmail.com     | [Prajwala Yadlapalli](https://www.linkedin.com/in/prajwala-yadlapalli/) | [Certificate](https://api.badgr.io/public/assertions/jGQMuejWSFu3l3mUkI90Xg?identity__email=prajwalayadlapalli%40gmail.com) | It was very useful, especially the video tutorial! |
-| 462 | Hemanvitha Pullela | hemanvithapullela@gmail.com | [ Hemanvitha Pullela](https://www.linkedin.com/in/hemanvitha-pullela-545a67285) | [Certificate Link]([https://api.badgr.io/public/assertions/8fivqzbBTKWP9gofRwCdpw?identity__email=adi.b98120%40gmail.com](https://api.badgr.io/public/assertions/uaeQ7RXTT7qGsUsAa6atxw?identity__email=hemanvithapullela%40gmail.com)) | Thank you for this oppurtunity gssoc |
+
 
 | 452 | Aditya Rawat        | adityarawat010104@gmail.com     | [Aditya Rawat](www.linkedin.com/in/aditya-rawat-0860a1281) | [Certificate](https://api.badgr.io/public/assertions/LckOc_xTQ9CeayYKj_6miQ?identity__email=adityarawat010104%40gmail.com) | Well structured and organised content. |
 
@@ -635,4 +635,4 @@
 | 452  | Anandita Chaudhary | anandita299@gmail.com       | [Anandita Chaudhary](https://www.linkedin.com/in/anandita-chaudhary-7591a4259/)  | [Certificate Link](https://api.badgr.io/public/assertions/o9Qcdr8ESteUdvtOCgC_rw?identity__email=anandita299%40gmail.com)    | Loved the course!   |
 | 457 | Donald Reddy Indelu | donaldreddy2712@gmail.com | [Donald Reddy Indelu](https://www.linkedin.com/in/donald-reddy-a12702/) | [Certificate](https://api.badgr.io/public/assertions/lGuGbuCmRvy0L2sVVsBktg?identity__email=donaldreddy2712%40gmail.com) | useful |
 |---- | Aditya Singh | aditya.110803@gmail.com | [Aditya Singh] https://www.linkedin.com/in/aditya-singh11/ | [certificate link] https://badgr.com/public/assertions/KMta6e98RTyCootjbtyzKQ?identity__email=aditya.110803@gmail.com | it was nice but could be little bit tough |
-
+| 458  | Hrushikesh Shinde | shindehrushi99@gmail.com       | [Hrushikesh Shinde](https://www.linkedin.com/in/hrushikesh-shinde-developer/)  | [Certificate Link](https://api.badgr.io/public/assertions/mwGVFvPdRzONxkMVl5Lh2w?identity__email=shindehrushi99%40gmail.com)    | Nice course!   |
