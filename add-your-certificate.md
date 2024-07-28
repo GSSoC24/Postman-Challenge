@@ -287,7 +287,7 @@
 | 132 | Akash Maity | aakashmaity57@gmail.com | [Akash Maity](https://www.linkedin.com/in/aakashmaity/) | [Certificate Link](https://api.badgr.io/public/assertions/CFnCHf_wS1-XDZqfKIGdTA?identity__email=aakashmaity57%40gmail.com)) | Quite easy! |
 | 133 | Kalyani Uppuluri | kalyaniuppuluri7@gmail.com       | [Kalyani Uppuluri](https://www.linkedin.com/in/kalyani-uppuluri-522419257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  | [Certificate Link](https://api.badgr.io/public/assertions/cVNEYAGeQUiC-NrqnwPFlA?identity__email=kalyaniuppuluri7%40gmail.com)    | Very helpful Course with hands-on experience.   |
 | 134 | Kosuri Indu        | kosurilindu@gmail.com   | [Kosuri Indu](https://www.linkedin.com/in/kosuri-indu) | [Certificate Link](https://api.badgr.io/public/assertions/pFxOzxOcRSiB_dOnpgu8xQ?identity__email=kosurilindu%40gmail.com) | Good to learn about API.     |
-| 134 | Priya Rani      | codewithpriyaa@gmail.com   | [Priya Rani](www.linkedin.com/in/priya-rani-12814a294) | [Certificate Link](https://api.badgr.io/public/assertions/NP3Bnd_zRM6Y_RnkzO266w?identity__email=codewithpriyaa%40gmail.com) | Good Oppurtunity    |
+| 134 | Priya Rani      | codewithpriyaa@gmail.com   | [Priya Rani](https://www.linkedin.com/in/priya-rani-12814a294/) | [Certificate Link](https://api.badgr.io/public/assertions/NP3Bnd_zRM6Y_RnkzO266w?identity__email=codewithpriyaa%40gmail.com) | Great Oppurtunity!    |
 
 
 
