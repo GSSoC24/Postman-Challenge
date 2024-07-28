@@ -478,5 +478,7 @@
 
 |137 |Lovely Mahour | lovelymahour1405@gmail.com | [Lovely Mahour](https://www.linkedin.com/in/lovely-mahour-992316265/) | [Certificate Link](https://api.badgr.io/public/assertions/A7wZzKKnRUutrKfn6SQ5TA?identity__email=lovelymahour1405%40gmail.com) | Thorough and practical course that provides essential API knowledge and hands-on experience with Postman. |
 
+
 | 129 | Hitesh Gahanolia      | hiteshgahanolia@gmail.com   | [Hitesh Gahanolia](https://www.linkedin.com/in/hiteshgahanolia/) | [Certificate Link](https://api.badgr.io/public/assertions/h37-Gp8mQeqJV7xHevwSnA?identity__email=hiteshgahanolia%40gmail.com) | Very Useful.
 | 86 | Biswanath Sah | sah.biswanath290@gmail.com | [Biswanath Sah](www.linkedin.com/in/biswanath-sah-918445243/) | [Certificate Link](https://badgr.com/public/assertions/3dHlgiROQRKxhf3T-2KBeg?identity__email=sah.biswanath290@gmail.com) | Solid foundation in API fundamentals and Postman usage. |
+| 138 | Pratik Mane | pratikmane610@gmail.com | [Pratik Mane](https://www.linkedin.com/in/pratik-mane-546bb1284/) | [Certificate Link](https://api.badgr.io/public/assertions/hH488Z_eTROT7dEYSK4p-w?identity__email=pratikmane610%40gmail.com) | I just loved it !!! |
