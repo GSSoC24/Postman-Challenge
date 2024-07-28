@@ -478,5 +478,6 @@
 
 | 451 | Prajwala Yadlapalli     | prajwalayadlapalli@gmail.com     | [Prajwala Yadlapalli](https://www.linkedin.com/in/prajwala-yadlapalli/) | [Certificate](https://api.badgr.io/public/assertions/jGQMuejWSFu3l3mUkI90Xg?identity__email=prajwalayadlapalli%40gmail.com) | It was very useful, especially the video tutorial! |
 
+| 452 | Sourik Das  | dassourik0@gmail.com   | [Sourik Das](www.linkedin.com/in/sourik-das-a5a03b251) | [Certificate](https://api.badgr.io/public/assertions/lry9Ru8_QlW9iHeSJ_XjSQ?identity__email=dassourik0%40gmail.com) | Awesome Experience, Great Start to API Learning Journey! |
 
 
