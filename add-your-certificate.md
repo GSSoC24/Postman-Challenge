@@ -604,6 +604,8 @@
 
 | 132 | Dhruv Soni | dhruvsoni8433@gmail.com | [Dhruv Soni](https://www.linkedin.com/in/dhruv-soni-6b2338230/) | [Certificate Link](https://api.badgr.io/public/assertions/6PDvuVXaQ-OgOTO8HZ4E5A?identity__email=dhruvsoni8433%40gmail.com) | it was good
 
+| 133 | Aksshay Balasubramanian | aksshaybala8846@gmail.com| [Aksshay Balasubramanian](https://www.linkedin.com/in/aksshay-balasubramanian-40279825b/) | [Certificate Link](https://badgr.com/public/assertions/I_lV9ilTSmeDdm2PQQLH9g?identity__email=aksshaybala8846@gmail.com) | Good oppurtunity provided by the GSSOC'24 
+
 
 | 1    | Abhishek V. Bhande                | abhishekbhande248@gmail.com               | [Abhishek V. Bhande](https://www.linkedin.com/in/abhishek-bhande-21a984259)                                                                                                                                       | [Certificate Link](https://api.badgr.io/public/assertions/K7DaByTjTM-OT3h3y2y4uw?identity__email=abhishekbhande248%40gmail.com)            | Could have added more tasks                                                                                            |
 
