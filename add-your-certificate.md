@@ -571,7 +571,11 @@
 
 | 86 | Biswanath Sah | sah.biswanath290@gmail.com | [Biswanath Sah](www.linkedin.com/in/biswanath-sah-918445243/) | [Certificate Link](https://badgr.com/public/assertions/3dHlgiROQRKxhf3T-2KBeg?identity__email=sah.biswanath290@gmail.com) | Solid foundation in API fundamentals and Postman usage. |
 | 138 | Pratik Mane | pratikmane610@gmail.com | [Pratik Mane](https://www.linkedin.com/in/pratik-mane-546bb1284/) | [Certificate Link](https://api.badgr.io/public/assertions/hH488Z_eTROT7dEYSK4p-w?identity__email=pratikmane610%40gmail.com) | I just loved it !!! |
+
+| 139 | manikumarreddyu | manikumarreddyu@gmail.com | [Mani kumar reddy u](https://www.linkedin.com/in/manikumarreddyu/) | [Certificate Link](https://badgr.com/public/assertions/6gqinFa_RtiZwlSfKKtkIw?identity__email=manikumarreddyu@gmail.com) | Excellent |
+
 | 129 | Aryan Raj | aryanrajnitrcse@gmail.com | [Aryan Raj](https://www.linkedin.com/in/aryan-raj-378561251/) | [Certificate Link](https://api.badgr.io/public/assertions/QbrBR8j2ShWqYxED7Eu0FQ?identity__email=aryanrajnitrcse%40gmail.com) | Great. |
+
 | 129 | Manasi Dhotkar | manasi.dhotkar@cumminscollege.in | [Manasi Dhotkar](www.linkedin.com/in/manasi-dhotkar-221a9522a) | [Certificate Link](https://api.badgr.io/public/assertions/Rku9rWYlQTi6jk4VpFJHIw?identity__email=manasi.dhotkar%40cumminscollege.in) | Great opportunity provided by GSSOC'24. |
 | 1 | bhoovi arora | arorabhoovi@gmail.com | [Bhoovi Arora](https://www.linkedin.com/in/bhoovi/) | [Certificate Link](https://badgr.com/public/assertions/TbebSFtZQDuCOEyW_SIxdw?identity__email=arorabhoovi@gmail.com) | Great course! Should create more such courses
 | 130 | Aarya Balwadkar | aaryabalwadkar2005@gmail.com | [Aarya Balwadkar](https://www.linkedin.com/in/aaryabalwadkar) | [Certificate Link](https://api.badgr.io/public/assertions/Af1e_KtVS4a0qpCA_gA2HA?identity__email=aaryabalwadkar2005%40gmail.com) | I loved the simplicity and practical learning of postman. I would love to have more such opportunities. |
@@ -581,4 +585,5 @@
 | 130 | Yash Mall | myash0818@gmail.com | [Yash Mall](https://www.linkedin.com/in/yashmall/) | [Certificate Link](https://api.badgr.io/public/assertions/FOTybTtDTkaNAipEhuVxzg?identity__email=myash0818%40gmail.com) | Great Work. |
 
 | 132 | Dhruv Soni | dhruvsoni8433@gmail.com | [Dhruv Soni](https://www.linkedin.com/in/dhruv-soni-6b2338230/) | [Certificate Link](https://api.badgr.io/public/assertions/6PDvuVXaQ-OgOTO8HZ4E5A?identity__email=dhruvsoni8433%40gmail.com) | it was good
+
 
