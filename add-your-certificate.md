@@ -311,4 +311,4 @@
 | 134 | Kosuri Indu | kosurilindu@gmail.com | [Kosuri Indu](https://www.linkedin.com/in/kosuri-indu) | [Certificate Link](https://api.badgr.io/public/assertions/pFxOzxOcRSiB_dOnpgu8xQ?identity__email=kosurilindu%40gmail.com) | Good to learn about API. |
 | 135 | Akarsh Ghildyal | akarshghildyal@gmail.com | [Akarsh Ghildyal](https://www.linkedin.com/in/akarshghildyal/) | [Certificate Link](https://api.badgr.io/public/assertions/7BY5nICAQ5CymkYT3mS60Q?identity__email=ag8669%40srmist.edu.in) | Woah, a very well structured course. |
 | 136 | Tarun Gupta | tkg21430@gmail.com | [Tarun Gupta](linkedin.com/in/tarungupta18) | [Certificate Link](https://api.badgr.io/public/assertions/OcWOw3A6QJK2C50akkje-g) | Woah, a very well structured course. |
-
+| 137 | Puspak Dakkata | pushpakreddy283@gmail.com       | [Puspak Dakkata](https://www.linkedin.com/in/puspak-d-5a25a3246/)  | [Certificate Link](https://api.badgr.io/public/assertions/GgSAEUNqSg6gAxcJ6kdW9Q?identity__email=pushpakreddy283%40gmail.com)    | Had a really great learning with this and got to know more indetail about api and it's working as well.   |
