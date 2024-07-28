@@ -509,4 +509,6 @@
 | 130 | Mantu Kumar Tiwari | mantu99739@gmail.com | [Mantu Kumar Tiwari](http://www.linkedin.com/in/mantu-kumar-tiwari-553160262) | [Certificate Link](https://api.badgr.io/public/assertions/zpI2wyjnTzOqTQcpnW0jKA?identity__email=mantu99739%40gmail.com) | Want Some Task like this |
 | 130 | Yash Mall | myash0818@gmail.com | [Yash Mall](https://www.linkedin.com/in/yashmall/) | [Certificate Link](https://api.badgr.io/public/assertions/FOTybTtDTkaNAipEhuVxzg?identity__email=myash0818%40gmail.com) | Great Work. |
 
+| 132 | Dhruv Soni | dhruvsoni8433@gmail.com | [Dhruv Soni](https://www.linkedin.com/in/dhruv-soni-6b2338230/) | [Certificate Link](https://api.badgr.io/public/assertions/6PDvuVXaQ-OgOTO8HZ4E5A?identity__email=dhruvsoni8433%40gmail.com) | it was good
+
 
