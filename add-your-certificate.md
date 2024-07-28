@@ -468,6 +468,11 @@
 | 133 | Kalyani Uppuluri | kalyaniuppuluri7@gmail.com       | [Kalyani Uppuluri](https://www.linkedin.com/in/kalyani-uppuluri-522419257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  | [Certificate Link](https://api.badgr.io/public/assertions/cVNEYAGeQUiC-NrqnwPFlA?identity__email=kalyaniuppuluri7%40gmail.com)    | Very helpful Course with hands-on experience.   |
 | 134 | Kosuri Indu        | kosurilindu@gmail.com   | [Kosuri Indu](https://www.linkedin.com/in/kosuri-indu) | [Certificate Link](https://api.badgr.io/public/assertions/pFxOzxOcRSiB_dOnpgu8xQ?identity__email=kosurilindu%40gmail.com) | Good to learn about API.     |
 
+
+| 135 | Arun.R| arunrrr2005@gmail.com| [Arun R] (https://www.linkedin.com/in/arun-r-a5ab69299/) | [Certification Link] (https://api.badgr.io/public/assertions/6vWmqgjiQvu8g8x3PJMYXQ?identity__email=arunrrr2005%40gmail.com ) | Very happy and satisfied. |
+
+| 135 | Shubham Paliwal | shubhampaliwal.dev@gmail.com | [Shubham Paliwal](https://www.linkedin.com/in/shubhammpaliwal/) | [Certificate Link](https://badgr.com/public/assertions/K2c587S3R5uy03W-qSrqKw?identity__email=shubhampaliwal.dev@gmail.com) | Some more tasks could be added, also there was no task for PUT request, thanks for creating such an amazing certification course |
+
 | 134 | Priya Rani      | codewithpriyaa@gmail.com   | [Priya Rani](https://www.linkedin.com/in/priya-rani-12814a294/) | [Certificate Link](https://api.badgr.io/public/assertions/NP3Bnd_zRM6Y_RnkzO266w?identity__email=codewithpriyaa%40gmail.com) | Great Oppurtunity!    |
 
 | 135 | Varsani ranjani        | varsaniranjani@gmail.com   | [varsani ranjani](https://www.linkedin.com/in/ranjani-varsani-45a875225/) | [Certificate Link](https://api.badgr.io/public/assertions/4zpw88pOQxa8H0f0Gy07WA?identity__email=varsaniranjani%40gmail.com) | extremelly good to api learning    |
@@ -535,7 +540,8 @@
 
 | 132 | Dhruv Soni | dhruvsoni8433@gmail.com | [Dhruv Soni](https://www.linkedin.com/in/dhruv-soni-6b2338230/) | [Certificate Link](https://api.badgr.io/public/assertions/6PDvuVXaQ-OgOTO8HZ4E5A?identity__email=dhruvsoni8433%40gmail.com) | it was good
 
-| 133 | Harini Sayani | harinisayani3@gmail.com | [Harini Sayani](https://www.linkedin.com/in/harini-sayani-8a3708276/) | [Certificate Link](https://api.badgr.io/public/assertions/8EsedB-tQ0ysJzoIve-k1Q?identity__email=harinisayani3%40gmail.com) | Good
+| 140 | Harini Sayani | harinisayani3@gmail.com | [Harini Sayani](https://www.linkedin.com/in/harini-sayani-8a3708276/) | [Certificate Link](https://api.badgr.io/public/assertions/8EsedB-tQ0ysJzoIve-k1Q?identity__email=harinisayani3%40gmail.com) | Good
+
 
 
 
