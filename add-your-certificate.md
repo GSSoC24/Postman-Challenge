@@ -1,5 +1,6 @@
 
 
+
 | No   | Name                     | Email                               | LinkedIn Profile                                                                                                                                                                           | Certification Link                                                                                                                                           | Feedback                                                                                                               |
 | ---- | ------------------------ | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
 | 1    | Sanjay KV                | sanjay@recodehive.com               | [Sanjay KV](https://www.linkedin.com/in/sanjay-k-v/)                                                                                                                                       | [Certificate Link](https://api.badgr.io/public/assertions/4mL2m9QYQC-al832vETmGw?identity__email=sanjay.kanakkotviswanathan%40students.mq.edu.au)            | Could have added more tasks                                                                                            |
@@ -584,16 +585,12 @@
 | 130| Bhoovi | arorabhoovi@gmail.com | [Bhovi Arora](https://www.linkedin.com/in/bhoovi/) | [Certificate Link](https://badgr.com/public/assertions/TbebSFtZQDuCOEyW_SIxdw?identity__email=arorabhoovi@gmail.com) | Great learning experience.
 | 130 | Akash Maity | aakashmaity57@gmail.com | [Akash Maity](https://www.linkedin.com/in/aakashmaity/) | [Certificate Link](https://api.badgr.io/public/assertions/CFnCHf_wS1-XDZqfKIGdTA?identity__email=aakashmaity57%40gmail.com) | Quite easy! |
 | 130 | Mantu Kumar Tiwari | mantu99739@gmail.com | [Mantu Kumar Tiwari](http://www.linkedin.com/in/mantu-kumar-tiwari-553160262) | [Certificate Link](https://api.badgr.io/public/assertions/zpI2wyjnTzOqTQcpnW0jKA?identity__email=mantu99739%40gmail.com) | Want Some Task like this |
-
-| 131 | Arunima Dutta | arunimadutta16@gmail.com | [Arunima Dutta](https://www.linkedin.com/in/arunima-dutta-647a4b200/) | [Certificate Link](https://api.badgr.io/public/assertions/78MIbjJCQ1K3ih_VEza8Yw?identity__email=arunimadutta16%40gmail.com) | Helpful
-
 | 130 | Yash Mall | myash0818@gmail.com | [Yash Mall](https://www.linkedin.com/in/yashmall/) | [Certificate Link](https://api.badgr.io/public/assertions/FOTybTtDTkaNAipEhuVxzg?identity__email=myash0818%40gmail.com) | Great Work. |
 
 | 131 | Ankita Meher | ankita.meher2255@gmail.com | [Ankita Meher](https://www.linkedin.com/in/ankita-meher-020979289/) | [Certificate Link](https://api.badgr.io/public/assertions/2MCTXTpVScmJIcTrf5u5FA?identity__email=ankita.meher2255%40gmail.com) | It was great,got to learn something new. |
 
 
 | 132 | Dhruv Soni | dhruvsoni8433@gmail.com | [Dhruv Soni](https://www.linkedin.com/in/dhruv-soni-6b2338230/) | [Certificate Link](https://api.badgr.io/public/assertions/6PDvuVXaQ-OgOTO8HZ4E5A?identity__email=dhruvsoni8433%40gmail.com) | it was good
-
 
 
 
