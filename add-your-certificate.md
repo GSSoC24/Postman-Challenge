@@ -288,4 +288,4 @@
 | 133 | Kalyani Uppuluri | kalyaniuppuluri7@gmail.com       | [Kalyani Uppuluri](https://www.linkedin.com/in/kalyani-uppuluri-522419257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  | [Certificate Link](https://api.badgr.io/public/assertions/cVNEYAGeQUiC-NrqnwPFlA?identity__email=kalyaniuppuluri7%40gmail.com)    | Very helpful Course with hands-on experience.   |
 | 134 | Kosuri Indu        | kosurilindu@gmail.com   | [Kosuri Indu](https://www.linkedin.com/in/kosuri-indu) | [Certificate Link](https://api.badgr.io/public/assertions/pFxOzxOcRSiB_dOnpgu8xQ?identity__email=kosurilindu%40gmail.com) | Good to learn about API.     |
 
-
+| 135   | Yash Agrawal                | agrawal.yash.g@gmail.com         | [Yash Agrawal](https://www.linkedin.com/in/yash-agrawal04/)          | [Certificate Link](https://api.badgr.io/public/assertions/J4nA5UZqRE25YRJFeAp7Uw) | The walkthrough of the course was very simple and informative! |
