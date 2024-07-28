@@ -221,6 +221,8 @@
 
 
 | 63  | Abhinay Singh Bhadauria | knowledgepoint887@gmail.com | [Abhinay Singh Bhadauria](https://www.linkedin.com/in/abhinay-s-bhadauria-a7b588250/) | [Certificate Link](https://api.badgr.io/public/assertions/nRamij0cT-2OzV-M8l9cHw?identity__email=knowledgepoint887%40gmail.com) | Best Path to learn about APIs. |
+| 64  | Hrishita Paul | hrishita.paul03@gmail.com | [Hrishita Paul](https://www.linkedin.com/in/hrishita-paul/) | [Certificate Link](https://api.badgr.io/public/assertions/ea3Eq4R2S4yg74vjUHmQSQ?identity__email=hrishita.paul03%40gmail.com) | Very informative content. Thank you GSSoC'24 for the great opportunity to learn. |
+
 
 
 
