@@ -444,6 +444,9 @@
 | 431 | Ashika Gupta            | ashikagupta1503@gmail.com            | [Ashika Gupta](https://www.linkedin.com/in/ashikagupta)            | [Certification Link](https://api.badgr.io/public/assertions/SZW0uM-0QsedASHyoGlugQ?identity__email=ashikagupta1503%40gmail.com) | Easy to understand CRUD operations but could have added more tasks. |
 | 432 | Hanuma Sai Krishna      | hanumasaikrishna21@gmail.com         | [Hanuma Sai Krishna](https://www.linkedin.com/feed/)               | [Certificate Link](https://api.badgr.io/public/assertions/RVQ6PetDSnuTm3Sgu7GRrw?identity__email=hanumasaikrishna21%40gmail.com) | It was good |
 
+| 433 | Suveda Kakarala | suveda999@gmail.com | [Suveda Kakarala](https://www.linkedin.com/in/suveda-kakarala-626277290/)     | [Certificate Link](https://api.badgr.io/public/assertions/L3q46Xd5TdyfZK21iAsgaA?identity__email=suveda999%40gmail.com) | fun and easy course |
+
+
 | 433    | Sayantika Laskar     | sayantikalaskar2002@gmail.com        | [Sayantika Laskar](https://www.linkedin.com/in/sayantika-laskar-098aa2250/) | [Certificate Link](https://api.badgr.io/public/assertions/xb14j9k9SSOdAv--84ngEg?identity__email=sayantikalaskar2002%40gmail.com)            | It was good. |
 | 434    | Sachin Rajbhar     | officialsachinrajbhar@gmail.com        | [Sayantika Laskar](https://www.linkedin.com/in/sachin-rajbhar/) | [Certificate Link](https://api.badgr.io/public/assertions/2q-xgaXuRb-dtHKv84oJGg?identity__email=officialsachinrajbhar%40gmail.com)            | Excited to contribute more. |
 
@@ -454,4 +457,5 @@
 | 437 | Jayesh Joshi        | divyeshjoshi7474@gmail.com     | [jayesh joshi](https://www.linkedin.com/in/jayesh-joshi24/)                                | [Certificate Link](https://api.badgr.io/public/assertions/fjUnhyrLRnOsxWaU-8KuPw?identity__email=divyeshjoshi7474%40gmail.com)    | Great Course                   |
 | 438 | Saksham Shrivastava | sakshamshrivastav58@gmail.com  | [Saksham Shrivastava](https://www.linkedin.com/in/sakshamshrivastava/)                     | [Certificate Link](https://api.badgr.io/public/assertions/BkzFUqZSSYm-40ZuxwOMqw?identity__email=sakshamshrivastav58%40gmail.com) | Great Learning Experience!     |
 | 439 | Sayantika Laskar    | sayantikalaskar2002@gmail.com  | [Sayantika Laskar](https://www.linkedin.com/in/sayantika-laskar-098aa2250/)                | [Certificate Link](https://api.badgr.io/public/assertions/xb14j9k9SSOdAv--84ngEg?identity__email=sayantikalaskar2002%40gmail.com)  | It was good.                   |
+
 
