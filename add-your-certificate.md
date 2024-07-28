@@ -640,4 +640,4 @@
 | 452  | Anandita Chaudhary | anandita299@gmail.com       | [Anandita Chaudhary](https://www.linkedin.com/in/anandita-chaudhary-7591a4259/)  | [Certificate Link](https://api.badgr.io/public/assertions/o9Qcdr8ESteUdvtOCgC_rw?identity__email=anandita299%40gmail.com)    | Loved the course!   |
 | 457 | Donald Reddy Indelu | donaldreddy2712@gmail.com | [Donald Reddy Indelu](https://www.linkedin.com/in/donald-reddy-a12702/) | [Certificate](https://api.badgr.io/public/assertions/lGuGbuCmRvy0L2sVVsBktg?identity__email=donaldreddy2712%40gmail.com) | useful |
 |---- | Aditya Singh | aditya.110803@gmail.com | [Aditya Singh] https://www.linkedin.com/in/aditya-singh11/ | [certificate link] https://badgr.com/public/assertions/KMta6e98RTyCootjbtyzKQ?identity__email=aditya.110803@gmail.com | it was nice but could be little bit tough |
-
+| 500 | Yuvika Sai Simhadri | simhadri.yuvikasai@gmail.com | [Yuvika Sai Simhadri](http://linkedin.com/in/yuvikasai) | [Certificate Link](https://api.badgr.io/public/assertions/2MOr6wXOR0K1U6R-Pdfurw?identity__email=simhadri.yuvikasai%40gmail.com) | Good introduction to APIs for beginners.|
