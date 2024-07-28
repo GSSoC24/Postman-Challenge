@@ -226,7 +226,7 @@
 
 | 63  | Abhinay Singh Bhadauria | knowledgepoint887@gmail.com | [Abhinay Singh Bhadauria](https://www.linkedin.com/in/abhinay-s-bhadauria-a7b588250/) | [Certificate Link](https://api.badgr.io/public/assertions/nRamij0cT-2OzV-M8l9cHw?identity__email=knowledgepoint887%40gmail.com) | Best Path to learn about APIs. |
 | 64  | Hrishita Paul | hrishita.paul03@gmail.com | [Hrishita Paul](https://www.linkedin.com/in/hrishita-paul/) | [Certificate Link](https://api.badgr.io/public/assertions/ea3Eq4R2S4yg74vjUHmQSQ?identity__email=hrishita.paul03%40gmail.com) | Very informative content. Thank you GSSoC'24 for the great opportunity to learn. |
-
+| 64  | Suveda Kakarala | suveda999@gmail.com | [Suveda Kakarala ](https://www.linkedin.com/in/suveda-kakarala-626277290/) | [Certificate Link](https://api.badgr.io/public/assertions/L3q46Xd5TdyfZK21iAsgaA?identity__email=suveda999%40gmail.com) | it was useful thank you  |
 
 
 
@@ -467,8 +467,6 @@
 
 | 133 | Kalyani Uppuluri | kalyaniuppuluri7@gmail.com       | [Kalyani Uppuluri](https://www.linkedin.com/in/kalyani-uppuluri-522419257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  | [Certificate Link](https://api.badgr.io/public/assertions/cVNEYAGeQUiC-NrqnwPFlA?identity__email=kalyaniuppuluri7%40gmail.com)    | Very helpful Course with hands-on experience.   |
 | 134 | Kosuri Indu        | kosurilindu@gmail.com   | [Kosuri Indu](https://www.linkedin.com/in/kosuri-indu) | [Certificate Link](https://api.badgr.io/public/assertions/pFxOzxOcRSiB_dOnpgu8xQ?identity__email=kosurilindu%40gmail.com) | Good to learn about API.     |
-
-| 135 | Shubham Paliwal | shubhampaliwal.dev@gmail.com | [Shubham Paliwal](https://www.linkedin.com/in/shubhammpaliwal/) | [Certificate Link](https://badgr.com/public/assertions/K2c587S3R5uy03W-qSrqKw?identity__email=shubhampaliwal.dev@gmail.com) | Some more tasks could be added, also there was no task for PUT request, thanks for creating such an amazing certification course |
 
 | 134 | Priya Rani      | codewithpriyaa@gmail.com   | [Priya Rani](https://www.linkedin.com/in/priya-rani-12814a294/) | [Certificate Link](https://api.badgr.io/public/assertions/NP3Bnd_zRM6Y_RnkzO266w?identity__email=codewithpriyaa%40gmail.com) | Great Oppurtunity!    |
 
