@@ -478,5 +478,5 @@
 
 | 451 | Prajwala Yadlapalli     | prajwalayadlapalli@gmail.com     | [Prajwala Yadlapalli](https://www.linkedin.com/in/prajwala-yadlapalli/) | [Certificate](https://api.badgr.io/public/assertions/jGQMuejWSFu3l3mUkI90Xg?identity__email=prajwalayadlapalli%40gmail.com) | It was very useful, especially the video tutorial! |
 
-
+| 452 | Kritika Kori    | korikriti4@gmail.com     | [Kritika Kori]( https://www.linkedin.com/in/kritika-kori-2aaab6278) | [Certificate](https://api.badgr.io/public/assertions/NumqV5L5QXWRDgi6QY34Bw) | It was very easy to understand ,quite helpful!! |
 
