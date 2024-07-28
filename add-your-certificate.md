@@ -632,6 +632,6 @@
 
 | 132 | Hanuma sai krishna poanakala | hanumasaikrishna21@gmail.com | [Hanuma Sai Krishna](https://www.linkedin.com/feed/) | [Certificate Link](https://api.badgr.io/public/assertions/RVQ6PetDSnuTm3Sgu7GRrw?identity__email=hanumasaikrishna21%40gmail.com) | it was good
 
-| 134 | Gopika J | gopikajitesh.lbs@gmail.com | [Gopika J](https://www.linkedin.com/in/gopika-j-838346245/) | [Certificate Link](https://api.badgr.io/public/assertions/xocQvgzqROCHz-h96aw4Fw?identity__email=gopikajitesh.lbs%40gmail.com) | It was a really good learning oppurtunity |
+| 134 | Gopika J  | gopikajitesh.lbs@gmail.com | [Gopika J](https://www.linkedin.com/in/gopika-j-838346245/) | [Certificate Link](https://api.badgr.io/public/assertions/xocQvgzqROCHz-h96aw4Fw?identity__email=gopikajitesh.lbs%40gmail.com) | It was a really good learning opportunity |
 
 
