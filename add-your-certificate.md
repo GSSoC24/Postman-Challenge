@@ -470,7 +470,7 @@
 | 134 | Kosuri Indu        | kosurilindu@gmail.com   | [Kosuri Indu](https://www.linkedin.com/in/kosuri-indu) | [Certificate Link](https://api.badgr.io/public/assertions/pFxOzxOcRSiB_dOnpgu8xQ?identity__email=kosurilindu%40gmail.com) | Good to learn about API.     |
 | 135 | Ankit Mourya        | ankit.mourya8233@gmail.com   | [Ankit Mourya](https://www.linkedin.com/in/ankit-mourya-821aa223b/) | [Certificate Link](https://api.badgr.io/public/assertions/UvOY9zRkRYySevvzzfbtXw?identity__email=ankit.mourya8233%40gmail.com) | Thanks for this course    |
 
-
+| 458 | Rishitha Nandanapu | rishinandanapu366@gmail.com | [Rishitha Nandanapu](www.linkedin.com/in/rishitha-nandanapu-a61015301) | [Certificate Link](https://badgr.com/backpack/badges/66a679d01ea7d93715e03ccd) | Good Course
 | 135 | Chiragoni sai pradyumna goud | saipradyumnagoud@gmail.com | [SaiPradyumnagoud](https://www.linkedin.com/in/saipradyumnagoudch/) | [Certificate Link](https://api.badgr.io/public/assertions/rPmdPyoDROm1-AcjbfgznQ?identity__email=saipradyumnagoud%40gmail.com) |A good hands-on experience.|
 
 | 135 | Payal Gupta | payalgupta425@gmail.com | [Payal Gupta](https://www.linkedin.com/in/payal-gupta-6a681a291/) | [Certificate Link]([https://badgr.com/print-certificate/66a6014fb1bbd519a44ef6c1](https://api.badgr.io/public/assertions/MNqpikKbSvmGl5adOU6GNg?identity__email=payalgupta425%40gmail.com)) | Great experience 
@@ -622,9 +622,5 @@
 
 
 | 133 | Shubham Misra | shubhammisra936@gmail.com | [Shubham Misra](https://www.linkedin.com/in/shubham-misra-8954a2258/) | [Certificate Link](https://api.badgr.io/public/assertions/fAD6IvpMS46f8pKK5DyHTw?identity__email=shubhammisra936%40gmail.com) | Great Course
-
-
-| 133 | Rishitha Nandanapu | rishinandanapu366@gmail.com | [Rishitha Nandanapu](www.linkedin.com/in/rishitha-nandanapu-a61015301) | [Certificate Link](https://badgr.com/backpack/badges/66a679d01ea7d93715e03ccd) | Good Course
-
 
 |41 | Ashika Gupta | ashikagupta1503@gmail.com | [Ashika Gupta](https://www.linkedin.com/in/ashikagupta) | [Certificarion link](https://api.badgr.io/public/assertions/SZW0uM-0QsedASHyoGlugQ?identity__email=ashikagupta1503%40gmail.com) | Easy to understand CRUD operations but could have add more tasks .|
