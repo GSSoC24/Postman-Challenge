@@ -587,6 +587,9 @@
 | 130 | Mantu Kumar Tiwari | mantu99739@gmail.com | [Mantu Kumar Tiwari](http://www.linkedin.com/in/mantu-kumar-tiwari-553160262) | [Certificate Link](https://api.badgr.io/public/assertions/zpI2wyjnTzOqTQcpnW0jKA?identity__email=mantu99739%40gmail.com) | Want Some Task like this |
 | 130 | Yash Mall | myash0818@gmail.com | [Yash Mall](https://www.linkedin.com/in/yashmall/) | [Certificate Link](https://api.badgr.io/public/assertions/FOTybTtDTkaNAipEhuVxzg?identity__email=myash0818%40gmail.com) | Great Work. |
 
+| 131 | Gourab Pal | 04gourabpal@gmail.com | [Gourab Pal](https://www.linkedin.com/in/gourab-pal-828078248/) | [Certificate Link](https://api.badgr.io/public/assertions/KBnKQbDeQyqcrfrzFrQuvg?identity__email=04gourabpal%40gmail.com) | Loved it. |
+
+
 | 129 | Ananya Rawat        | anshikaniya@gmail.com   | [Ananya Rawat](https://www.linkedin.com/in/ananyarawat46/) | [Certificate Link](https://api.badgr.io/public/assertions/jz7MIyX8T86POHlzpz5qag?identity__email=anshikaniya%40gmail.com) | Fascinating Challenge                           |
 
 
@@ -594,6 +597,7 @@
 
 
 | 132 | Dhruv Soni | dhruvsoni8433@gmail.com | [Dhruv Soni](https://www.linkedin.com/in/dhruv-soni-6b2338230/) | [Certificate Link](https://api.badgr.io/public/assertions/6PDvuVXaQ-OgOTO8HZ4E5A?identity__email=dhruvsoni8433%40gmail.com) | it was good
+
 
 
 
