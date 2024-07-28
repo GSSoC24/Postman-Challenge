@@ -544,7 +544,7 @@
 
 | 138 | Riddhi Thakkar | thakkarriddhi1610@gmail.com | [Riddhi Thakkar](https://www.linkedin.com/in/riddhi-thakkar-741268287) | [Certificate Link](https://api.badgr.io/public/assertions/lcv2LkfTQNCcKlc3RM_WZA?identity__email=thakkarriddhi1610%40gmail.com) | Wonderful course for beginners and to kickstart the postman journey! |
 | 136 | Tarun Gupta | tkg21430@gmail.com | [Tarun Gupta](linkedin.com/in/tarungupta18) | [Certificate Link](https://api.badgr.io/public/assertions/OcWOw3A6QJK2C50akkje-g) | Woah, a very well structured course. |
-| 137 | Puspak Dakkata | pushpakreddy283@gmail.com       | [Puspak Dakkata](https://www.linkedin.com/in/puspak-d-5a25a3246/)  | [Certificate Link](https://api.badgr.io/public/assertions/GgSAEUNqSg6gAxcJ6kdW9Q?identity__email=pushpakreddy283%40gmail.com)    | Had a really great learning with this and got to know more indetail about api and it's working as well.   |
+
 |137 |Lovely Mahour | lovelymahour1405@gmail.com | [Lovely Mahour](https://www.linkedin.com/in/lovely-mahour-992316265/) | [Certificate Link](https://api.badgr.io/public/assertions/A7wZzKKnRUutrKfn6SQ5TA?identity__email=lovelymahour1405%40gmail.com) | Thorough and practical course that provides essential API knowledge and hands-on experience with Postman. |
 | 138 | Mohit Goyal | mohitgoyal09042006@gmail.com | [Mohit Goyal](www.linkedin.com/in/mohit-goyal09) | [Certificate Link](https://api.badgr.io/public/assertions/L2r6WjNmS3GjySbr0RAaDQ?identity__email=mohitgoyal09042006%40gmail.com) | It was a function experince while learning postman
 
@@ -587,24 +587,13 @@
 | 130 | Mantu Kumar Tiwari | mantu99739@gmail.com | [Mantu Kumar Tiwari](http://www.linkedin.com/in/mantu-kumar-tiwari-553160262) | [Certificate Link](https://api.badgr.io/public/assertions/zpI2wyjnTzOqTQcpnW0jKA?identity__email=mantu99739%40gmail.com) | Want Some Task like this |
 | 130 | Yash Mall | myash0818@gmail.com | [Yash Mall](https://www.linkedin.com/in/yashmall/) | [Certificate Link](https://api.badgr.io/public/assertions/FOTybTtDTkaNAipEhuVxzg?identity__email=myash0818%40gmail.com) | Great Work. |
 
-
-| 132 | Dhruv Soni | dhruvsoni8433@gmail.com | [Dhruv Soni](https://www.linkedin.com/in/dhruv-soni-6b2338230/) | [Certificate Link](https://api.badgr.io/public/assertions/6PDvuVXaQ-OgOTO8HZ4E5A?identity__email=dhruvsoni8433%40gmail.com) | it was good
-
-| 131 | Anushka Pawar | anushkappawar08@gmail.com | [Anushka Pawar](https://www.linkedin.com/in/anushka-pawar-93b636255/) | [Certificate Link](https://api.badgr.io/public/assertions/mEvN-J1GQhyLEgDgfj6tUg?identity__email=anushkappawar08%40gmail.com) | A good course |
-
-
-| 131 | Gourab Pal | 04gourabpal@gmail.com | [Gourab Pal](https://www.linkedin.com/in/gourab-pal-828078248/) | [Certificate Link](https://api.badgr.io/public/assertions/KBnKQbDeQyqcrfrzFrQuvg?identity__email=04gourabpal%40gmail.com) | Loved it. |
-
-
 | 129 | Ananya Rawat        | anshikaniya@gmail.com   | [Ananya Rawat](https://www.linkedin.com/in/ananyarawat46/) | [Certificate Link](https://api.badgr.io/public/assertions/jz7MIyX8T86POHlzpz5qag?identity__email=anshikaniya%40gmail.com) | Fascinating Challenge                           |
 
 
 | 131 | Ankita Meher | ankita.meher2255@gmail.com | [Ankita Meher](https://www.linkedin.com/in/ankita-meher-020979289/) | [Certificate Link](https://api.badgr.io/public/assertions/2MCTXTpVScmJIcTrf5u5FA?identity__email=ankita.meher2255%40gmail.com) | It was great,got to learn something new. |
 
 
-| 132 | Dhruv Soni | dhruvsoni8433@gmail.com | [Dhruv Soni](https://www.linkedin.com/in/dhruv-soni-6b2338230/) | [Certificate Link](https://api.badgr.io/public/assertions/6PDvuVXaQ-OgOTO8HZ4E5A?identity__email=dhruvsoni8433%40gmail.com) | it was good
-
-
+| 132 | Saryu| saryu993@gmail.com | [Saryu](www.linkedin.com/in/saryu-s-724337221) | [Certificate Link](https://api.badgr.io/public/assertions/VbykXDUYTPGHqqjHcZyRrw?identity__email=saryu993%40gmail.com) | it was good.
 
 
 
