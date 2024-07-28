@@ -444,6 +444,9 @@
 | 431 | Ashika Gupta            | ashikagupta1503@gmail.com            | [Ashika Gupta](https://www.linkedin.com/in/ashikagupta)            | [Certification Link](https://api.badgr.io/public/assertions/SZW0uM-0QsedASHyoGlugQ?identity__email=ashikagupta1503%40gmail.com) | Easy to understand CRUD operations but could have added more tasks. |
 | 432 | Hanuma Sai Krishna      | hanumasaikrishna21@gmail.com         | [Hanuma Sai Krishna](https://www.linkedin.com/feed/)               | [Certificate Link](https://api.badgr.io/public/assertions/RVQ6PetDSnuTm3Sgu7GRrw?identity__email=hanumasaikrishna21%40gmail.com) | It was good |
 
+| 433 | Shantnu Kumar | swapnilrj1@gmail.com | [Shantnu Kumar](https://in.linkedin.com/in/shantnu-singh-70400a22b) | [Certificate Link](https://api.badgr.io/public/assertions/8E6UsVhVTHquy0gFMD3P7g?identity__email=swapnilrj1%40gmail.com) | Course should be longer, with more quiz questions. |
+
+
 | 433 | Anagha Chaudhari      | chaudhari.30.anagha@gmail.com         | [Anagha Chaudhari](https://www.linkedin.com/in/anagha-chaudhari)               | [Certificate Link](https://api.badgr.io/public/assertions/V_qtmspMSfiOK2qW7B6UMQ?identity__email=chaudhari.30.anagha%40gmail.com) | Engaging and easy to follow |
 
 | 433    | K-kiran77                | kondetikiran77@gmail.com               | [KONDETI KIRAN KUMAR](https://www.linkedin.com/in/kondeti-kiran-kumar-5a471b252/)                                                                                                                                       | [Certificate Link](https://api.badgr.io/public/assertions/GlUZ2v3pTS-DClIihPYRFA?identity__email=kondetikiran77%40gmail.com)            | GOOD COURSE FOR BEGINNERS| 
