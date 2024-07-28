@@ -214,6 +214,7 @@
 | 60  | Prajwala Yadlapalli      | prajwalayadlapalli@gmail.com           | [Prajwala Yadlapalli](https://www.linkedin.com/in/prajwala-yadlapalli/)             | [Certificate Link](https://api.badgr.io/public/assertions/jGQMuejWSFu3l3mUkI90Xg?identity__email=prajwalayadlapalli%40gmail.com)                                                    | It was very useful!                 |
 | 61  | Hemanth Kumar | gujjalahemanthkumar789@gmail.com  | [Hemanth](https://www.linkedin.com/in/hemu21/)      | [Certificate Link](https://api.badgr.io/public/assertions/SWHuAOUSQ2-mMumsnoM-9w?identity__email=gujjalahemanthkumar789%40gmail.com) | A good learning experience and practice to understand api and how to use postman   |
 | 62  | Shelly Garg | shellygarg3522@gmail.com       | [Shelly Garg](https://www.linkedin.com/in/shelly-garg/)  | [Certificate Link](https://api.badgr.io/public/assertions/d9pyDnWHSSWY-ZZ9xlQw2g?identity__email=shellygarg3522%40gmail.com)    | Great way to learn about API!
+| 63  | Atmaja Pitale | aatmajapitale@gmail.com       | [Atmaja Pitale](https://www.linkedin.com/in/aatmaja-p-907948286)  | [Certificate Link](https://api.badgr.io/public/assertions/U8XpzTDkSYeKlEN7aG43bw?identity__email=aatmajapitale%40gmail.com)    |Gained a lot of hands on knowledge on API
 
 | 63  | Abhinay Singh Bhadauria | knowledgepoint887@gmail.com | [Abhinay Singh Bhadauria](https://www.linkedin.com/in/abhinay-s-bhadauria-a7b588250/) | [Certificate Link](https://api.badgr.io/public/assertions/nRamij0cT-2OzV-M8l9cHw?identity__email=knowledgepoint887%40gmail.com) | Best Path to learn about APIs. |
 | 64  | Akshit Garg                | imt_2023007@iiitm.ac.in         | [Akshit Garg](https://www.linkedin.com/in/akshit-garg24/)          | [Certificate Link](https://api.badgr.io/public/assertions/-o-W88XQQw-59r3AsQKfog?identity__email=imt_2023007%40iiitm.ac.in) | Amazing Course!        |
@@ -466,6 +467,16 @@
 
 | 133 | Kalyani Uppuluri | kalyaniuppuluri7@gmail.com       | [Kalyani Uppuluri](https://www.linkedin.com/in/kalyani-uppuluri-522419257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  | [Certificate Link](https://api.badgr.io/public/assertions/cVNEYAGeQUiC-NrqnwPFlA?identity__email=kalyaniuppuluri7%40gmail.com)    | Very helpful Course with hands-on experience.   |
 | 134 | Kosuri Indu        | kosurilindu@gmail.com   | [Kosuri Indu](https://www.linkedin.com/in/kosuri-indu) | [Certificate Link](https://api.badgr.io/public/assertions/pFxOzxOcRSiB_dOnpgu8xQ?identity__email=kosurilindu%40gmail.com) | Good to learn about API.     |
+
+| 134 | Priya Rani      | codewithpriyaa@gmail.com   | [Priya Rani](https://www.linkedin.com/in/priya-rani-12814a294/) | [Certificate Link](https://api.badgr.io/public/assertions/NP3Bnd_zRM6Y_RnkzO266w?identity__email=codewithpriyaa%40gmail.com) | Great Oppurtunity!    |
+
+| 135 | Varsani ranjani        | varsaniranjani@gmail.com   | [varsani ranjani](https://www.linkedin.com/in/ranjani-varsani-45a875225/) | [Certificate Link](https://api.badgr.io/public/assertions/4zpw88pOQxa8H0f0Gy07WA?identity__email=varsaniranjani%40gmail.com) | extremelly good to api learning    |
+
+
+| 135   | Yash Agrawal                | agrawal.yash.g@gmail.com         | [Yash Agrawal](https://www.linkedin.com/in/yash-agrawal04/)          | [Certificate Link](https://api.badgr.io/public/assertions/J4nA5UZqRE25YRJFeAp7Uw) | The walkthrough of the course was very simple and informative! |
+
+| 135   | Ankit Bhandari                | ankitbhandari836@gmail.com         | [Ankit bhandari](www.linkedin.com/in/ankit-bhandari-637a56311)          | [Certificate Link](https://api.badgr.io/public/assertions/99WZ-WoxTfKg-iQQC5CBBg?identity__email=ankitbhandari836%40gmail.com) | Could have added more tasks
+
 | 135  | Simran Saini | ssimran0329@gmail.com       | [Simran Saini](https://www.linkedin.com/in/1simransaini/)  | [Certificate Link](https://api.badgr.io/public/assertions/XxWd2ry-QIyGOZ9mkarYcw?identity__email=ssimran0329%40gmail.com)    | Had a great hands on experience.   |
 
 | 135 | Alayna Shaheen        | alaynashaheen2@gmail.com   | [Alayna Shaheen](https://www.linkedin.com/in/alayna-shaheen-782680249/) | [Certificate Link](https://api.badgr.io/public/assertions/HNulGWiqQyuQhrNbFa-EBg?identity__email=alaynashaheen2%40gmail.com) | Great Hands-On Session. 
