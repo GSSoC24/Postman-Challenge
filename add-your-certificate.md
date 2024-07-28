@@ -590,34 +590,20 @@
 | 140 | Harini Sayani | harinisayani3@gmail.com | [Harini Sayani](https://www.linkedin.com/in/harini-sayani-8a3708276/) | [Certificate Link](https://api.badgr.io/public/assertions/8EsedB-tQ0ysJzoIve-k1Q?identity__email=harinisayani3%40gmail.com) | Good
 
 | 131 | Anushka Pawar | anushkappawar08@gmail.com | [Anushka Pawar](https://www.linkedin.com/in/anushka-pawar-93b636255/) | [Certificate Link](https://api.badgr.io/public/assertions/mEvN-J1GQhyLEgDgfj6tUg?identity__email=anushkappawar08%40gmail.com) | A good course |
-
-
 | 131 | Gourab Pal | 04gourabpal@gmail.com | [Gourab Pal](https://www.linkedin.com/in/gourab-pal-828078248/) | [Certificate Link](https://api.badgr.io/public/assertions/KBnKQbDeQyqcrfrzFrQuvg?identity__email=04gourabpal%40gmail.com) | Loved it. |
 
-
-
 | 129 | Ananya Rawat        | anshikaniya@gmail.com   | [Ananya Rawat](https://www.linkedin.com/in/ananyarawat46/) | [Certificate Link](https://api.badgr.io/public/assertions/jz7MIyX8T86POHlzpz5qag?identity__email=anshikaniya%40gmail.com) | Fascinating Challenge                           |
-
-
 | 131 | Ankita Meher | ankita.meher2255@gmail.com | [Ankita Meher](https://www.linkedin.com/in/ankita-meher-020979289/) | [Certificate Link](https://api.badgr.io/public/assertions/2MCTXTpVScmJIcTrf5u5FA?identity__email=ankita.meher2255%40gmail.com) | It was great,got to learn something new. |
-
-
-
 | 132 | Saryu| saryu993@gmail.com | [Saryu](www.linkedin.com/in/saryu-s-724337221) | [Certificate Link](https://api.badgr.io/public/assertions/VbykXDUYTPGHqqjHcZyRrw?identity__email=saryu993%40gmail.com) | it was good.
-
-
-
 | 132 | Dhruv Soni | dhruvsoni8433@gmail.com | [Dhruv Soni](https://www.linkedin.com/in/dhruv-soni-6b2338230/) | [Certificate Link](https://api.badgr.io/public/assertions/6PDvuVXaQ-OgOTO8HZ4E5A?identity__email=dhruvsoni8433%40gmail.com) | it was good
 
 | 133 | Ankita Namdeo | ankitanamdeo940@gmail.com | [Ankita Namdeo](https://www.linkedin.com/in/ankita-namdeo-386253210/) | [Certificate Link](https://api.badgr.io/public/assertions/UBC3NjUBTh6zb3TVpXNjbg?identity__email=ankitanamdeo940%40gmail.com) | Excellent explanation
 
 | 133 | Aksshay Balasubramanian | aksshaybala8846@gmail.com| [Aksshay Balasubramanian](https://www.linkedin.com/in/aksshay-balasubramanian-40279825b/) | [Certificate Link](https://badgr.com/public/assertions/I_lV9ilTSmeDdm2PQQLH9g?identity__email=aksshaybala8846@gmail.com) | Good oppurtunity provided by the GSSOC'24 
-| 459 | Rishitha Nandanapu | rishinandanapu366@gmail.com | [Rishitha Nandanapu](www.linkedin.com/in/rishitha-nandanapu-a61015301) | [Certificate Link](https://badgr.com/backpack/badges/66a679d01ea7d93715e03ccd) | Good Course
-
 | 1    | Abhishek V. Bhande                | abhishekbhande248@gmail.com               | [Abhishek V. Bhande](https://www.linkedin.com/in/abhishek-bhande-21a984259)                                                                                                                                       | [Certificate Link](https://api.badgr.io/public/assertions/K7DaByTjTM-OT3h3y2y4uw?identity__email=abhishekbhande248%40gmail.com)            | Could have added more tasks                                                                                            |
-
 | 133  | Garima                | sushri4tech@gmail.com         | [Garima](https://www.linkedin.com/in/garima-shrivastav/)          | [Certificate Link](https://api.badgr.io/public/assertions/yYAC4fW7Qzupu5PCdkkNnQ?identity__email=sushri4tech%40gmail.com) | To the point but way too easy. The tests could be made tougher.        |
 
 | 133 | Khushi Sharma | Khushisharma20190@gmail.com | [Khushi Sharma](https://www.linkedin.com/in/khushi-sharma-a916a827b/) | [Certificate Link](https://api.badgr.io/public/assertions/Xqpa-d4ZR7eZOE0K40i_6g?identity__email=khushisharma20190%40gmail.com) | it was good
 | 133 | Shubham Misra | shubhammisra936@gmail.com | [Shubham Misra](https://www.linkedin.com/in/shubham-misra-8954a2258/) | [Certificate Link](https://api.badgr.io/public/assertions/fAD6IvpMS46f8pKK5DyHTw?identity__email=shubhammisra936%40gmail.com) | Great Course
 |41 | Ashika Gupta | ashikagupta1503@gmail.com | [Ashika Gupta](https://www.linkedin.com/in/ashikagupta) | [Certificarion link](https://api.badgr.io/public/assertions/SZW0uM-0QsedASHyoGlugQ?identity__email=ashikagupta1503%40gmail.com) | Easy to understand CRUD operations but could have add more tasks .|
+| 459 | Rishitha Nandanapu | rishinandanapu366@gmail.com | [Rishitha Nandanapu](www.linkedin.com/in/rishitha-nandanapu-a61015301) | [Certificate Link](https://badgr.com/backpack/badges/66a679d01ea7d93715e03ccd) | Good Course
