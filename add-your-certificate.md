@@ -469,6 +469,10 @@
 | 452 | Harsh Mishra     | mishra02harsh@gmail.com     | [Harsh Mishra](https://www.linkedin.com/in/harsh-mishra1/) | [Certificate](https://api.badgr.io/public/assertions/ZrlCuilYQQ2lzCyci6p_Fg?identity__email=mishra02harsh%40gmail.com) | Thanks to GSSoC |
 
 
+| 451 | Prajwala Yadlapalli     | prajwalayadlapalli@gmail.com     | [Prajwala Yadlapalli](https://www.linkedin.com/in/prajwala-yadlapalli/) | [Certificate](https://api.badgr.io/public/assertions/jGQMuejWSFu3l3mUkI90Xg?identity__email=prajwalayadlapalli%40gmail.com) | It was very useful, especially the video tutorial! |
+| 451 | Rajan kumar   | rajankumar_2021@vitbhopal.ac.in     | [Rajan kumar](https://www.linkedin.com/in/rajan-kumar-080245232/) | [Certificate](https://api.badgr.io/public/assertions/vQUm5ViaQEmhNp-HmDx60g?identity__email=rajankummaar%40gmail.com) |  It was great to get familiar with Postman |
+| 456 | Gopika J            | gopikajitesh.lbs@gmail.com     | [Gopika J](https://www.linkedin.com/in/gopika-j-838346245/) | [Certificate](https://api.badgr.io/public/assertions/xocQvgzqROCHz-h96aw4Fw?identity__email=gopikajitesh.lbs%40gmail.com) | Thankyou gssoc for intro to Postman    |
+
 | 452 | Siddharth Sharma     | vsssiddharth@gmail.com     | [Siddharth Sharma](https://www.linkedin.com/in/siddxharth1/) | [Certificate](https://api.badgr.io/public/assertions/9RB6uPIATO2cRSjtwbKq_g?identity__email=vsssiddharth%40gmail.com) | Thanks for this certifiaction! |
 
 | 452 | Kritika Kori    | korikriti4@gmail.com     | [Kritika Kori]( https://www.linkedin.com/in/kritika-kori-2aaab6278) | [Certificate](https://api.badgr.io/public/assertions/NumqV5L5QXWRDgi6QY34Bw) | It was very easy to understand ,quite helpful!! |
@@ -608,7 +612,9 @@
 | 446 | Sidda Deepika      | thedev3333@gmail.com         | [Sidda Deepika](https://www.linkedin.com/in/deepika-sidda15/)             | [Certificate Link](https://api.badgr.io/public/assertions/WRaEjcc7Su68CnvyWLKQGw?identity__email=thedev3333%40gmail.com) | Improve the difficulty level |
 | 457 | Prajwala Yadlapalli  | prajwalayadlapalli@gmail.com    | [Prajwala Yadlapalli](https://www.linkedin.com/in/prajwala-yadlapalli/) | [Certificate](https://api.badgr.io/public/assertions/jGQMuejWSFu3l3mUkI90Xg?identity__email=prajwalayadlapalli%40gmail.com) | It was very useful, especially the video tutorial! |
 | 458 | Simmi Kumari         | simmipandey1019@gmail.com       | [Simmi Kumari](http://linkedin.com/in/simmi-kumari-5a145825a/)          | [Certificate](https://api.badgr.io/public/assertions/oK_kAa9TRFqq2UdR6SKpdw?identity__email=simmipandey1019%40gmail.com)     | It was good to learn about postman through this challenge!!                         |                    
+
 | 452   | Sourabh Singh Rawat     | sourabhsinghrawat782@gmail.com          | [Sourabh singh rawat](https://www.linkedin.com/in/sourabh782/)                                                                                                          | [Certificate Link](https://api.badgr.io/public/assertions/QeBCBD1tSxOCJYsE-sL21A?identity__email=sourabhsinghrawat782%40gmail.com)                                | It helped me when i started with API development for all my backend projects
+
 | 451 | Neha Kanwar     | nehashekhawat255@gmail.com     | [Neha Kanwar](https://www.linkedin.com/in/nehakanwar30) | [Certificate](https://api.badgr.io/public/assertions/LeBc3451QTC1gv2hM6GTBA?identity__email=nehashekhawat255%40gmail.com) | It was easy to learn using your guided video |
 | 451 | Hafsa Wasi | hafsawasi20@gmail.com | [Hafsa Wasi](https://www.linkedin.com/in/hafsa-wasi/) | [Certificate Link](https://api.badgr.io/public/assertions/WxUuUfNCRIenjOiHfXlAgQ?identity__email=hafsawasi20%40gmail.com) | Great experience                     |
 | 451 | Marumudi Mary Jennifer Eunice       | jennifereunicemarumudi@gmail.com      | [Marumudi Mary Jennifer Eunice](https://www.linkedin.com/in/marumudi-jennifer-eunice-64a517230/) | [Certificate](https://api.badgr.io/public/assertions/mXnLLVXMQCOI8PJtB2aWUw?identity__email=jennifereunicemarumudi%40gmail.com) | -                                      |
