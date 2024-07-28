@@ -624,7 +624,7 @@
 | 133 | Shubham Misra | shubhammisra936@gmail.com | [Shubham Misra](https://www.linkedin.com/in/shubham-misra-8954a2258/) | [Certificate Link](https://api.badgr.io/public/assertions/fAD6IvpMS46f8pKK5DyHTw?identity__email=shubhammisra936%40gmail.com) | Great Course
 
 
-
+| 133 | Rishitha Nandanapu | rishinandanapu366@gmail.com | [Rishitha Nandanapu](www.linkedin.com/in/rishitha-nandanapu-a61015301) | [Certificate Link](https://badgr.com/backpack/badges/66a679d01ea7d93715e03ccd) | Good Course
 
 
 |41 | Ashika Gupta | ashikagupta1503@gmail.com | [Ashika Gupta](https://www.linkedin.com/in/ashikagupta) | [Certificarion link](https://api.badgr.io/public/assertions/SZW0uM-0QsedASHyoGlugQ?identity__email=ashikagupta1503%40gmail.com) | Easy to understand CRUD operations but could have add more tasks .|
