@@ -478,5 +478,6 @@
 
 | 451 | Prajwala Yadlapalli     | prajwalayadlapalli@gmail.com     | [Prajwala Yadlapalli](https://www.linkedin.com/in/prajwala-yadlapalli/) | [Certificate](https://api.badgr.io/public/assertions/jGQMuejWSFu3l3mUkI90Xg?identity__email=prajwalayadlapalli%40gmail.com) | It was very useful, especially the video tutorial! |
 
+| 452 | Aditya Rawat        | adityarawat010104@gmail.com     | [Aditya Rawat](www.linkedin.com/in/aditya-rawat-0860a1281) | [Certificate](https://api.badgr.io/public/assertions/LckOc_xTQ9CeayYKj_6miQ?identity__email=adityarawat010104%40gmail.com) | Well structured and organised content. |
 
 
