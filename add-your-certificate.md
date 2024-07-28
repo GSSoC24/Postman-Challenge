@@ -477,6 +477,6 @@
 | 451 | Gopika J            | gopikajitesh.lbs@gmail.com     | [Gopika J](https://www.linkedin.com/in/gopika-j-838346245/) | [Certificate](https://api.badgr.io/public/assertions/xocQvgzqROCHz-h96aw4Fw?identity__email=gopikajitesh.lbs%40gmail.com) | Thankyou gssoc for intro to Postman    |
 
 | 451 | Prajwala Yadlapalli     | prajwalayadlapalli@gmail.com     | [Prajwala Yadlapalli](https://www.linkedin.com/in/prajwala-yadlapalli/) | [Certificate](https://api.badgr.io/public/assertions/jGQMuejWSFu3l3mUkI90Xg?identity__email=prajwalayadlapalli%40gmail.com) | It was very useful, especially the video tutorial! |
-
+| 452 | Aashi Agrawal          | aashi300603@gmail.com     | [Aashi Agrawal](https://www.linkedin.com/in/aashi-agrawal-963556225) | [Certificate](https://api.badgr.io/public/assertions/3N8jIsbbQGOcsduzubzZRA?identity__email=aashi300603%40gmail.com) | Very well-designed, beginner-friendly, and very helpful.   |
 
 
