@@ -229,6 +229,8 @@
 | 64  | Akshit Garg                | imt_2023007@iiitm.ac.in         | [Akshit Garg](https://www.linkedin.com/in/akshit-garg24/)          | [Certificate Link](https://api.badgr.io/public/assertions/-o-W88XQQw-59r3AsQKfog?identity__email=imt_2023007%40iiitm.ac.in) | Amazing Course!        |
 | 65  | Anurag Vishwakarma       | anuraga2005@gmail.com  | [Anurag Vishwakarma](https://www.linkedin.com/in/anuragvishwakarma/) | [Certificate Link](https://api.badgr.io/public/assertions/YLlSrOzLTamjyH8JK4NHyg?identity__email=anuraga2005%40gmail.com) | Amazing! |
 
+| 66  | Avadhut Shedage      | avadhutshedage173@gmail.com  | [Avadhut Shedage](https://www.linkedin.com/in/avadhut-shedage/) | [Certificate Link](https://api.badgr.io/public/assertions/dzry2HBnSsmHQctFqAnD6Q?identity__email=avadhutshedage173%40gmail.com) | IT was Amazing! |
+
 | 66  | soujanya       | soujusonu20@gmail.com  | [soujanya c](https://www.linkedin.com/in/soujanya2004/) | [Certificate Link]([https://api.badgr.io/public/assertions/YLlSrOzLTamjyH8JK4NHyg?identity__email=anuraga2005%40gmail.com](https://api.badgr.io/public/assertions/GtKtE_AtRri-dcknfrPp-A)) | great! |
 
 | 66 | Sadaf Kausar | sadafkausar2003@gmail.com | [SADAF KAUSAR](https://www.linkedin.com/in/sadaf-kausar-788456244/) | [Certificate Link](https://api.badgr.io/public/assertions/WenGeNc6Sg2QB2wPg3N_6Q?identity__email=sadafkausar2003%40gmail.com) | Great pathway to kickstart your API Journey!
