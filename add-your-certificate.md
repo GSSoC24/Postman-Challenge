@@ -539,6 +539,8 @@
 | 135 | Akarsh Ghildyal | akarshghildyal@gmail.com | [Akarsh Ghildyal](https://www.linkedin.com/in/akarshghildyal/) | [Certificate Link](https://api.badgr.io/public/assertions/7BY5nICAQ5CymkYT3mS60Q?identity__email=ag8669%40srmist.edu.in) | Woah, a very well structured course. |
 | 136 | Tarun Gupta | tkg21430@gmail.com | [Tarun Gupta](linkedin.com/in/tarungupta18) | [Certificate Link](https://api.badgr.io/public/assertions/OcWOw3A6QJK2C50akkje-g) | Woah, a very well structured course. |
 
+| 137 | Sumith Thota | thotasumith02@gmail.com | [Sumith Thota](https://www.linkedin.com/in/sumith-thota-920033235/) | [Certificate Link](https://api.badgr.io/public/assertions/ctmb-TQgQhq5arGZ3MILYg?identity__email=thotasumith02%40gmail.com) | Very good  course to learn API's. |
+
 | 137 | Dally R | dally.r23csai@nst.rishihood.edu.in | [Dally R](https://www.linkedin.com/in/dally-r-astro6/) | [Certificate Link](https://api.badgr.io/public/assertions/Wpyrlg4SRhuRJicuCGKLYQ?identity__email=dally.r23csai%40nst.rishihood.edu.in) | Very helpful Course |
 
 
