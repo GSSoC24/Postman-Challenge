@@ -476,3 +476,7 @@
 
 
 
+
+| 435    | Priyal Rawal                | priyalrwl.20@gmail.com               | [Priyal Rawal](https://www.linkedin.com/in/priyal-rawal-18ba42245/)                                                                                                                                       | [Certificate Link](https://api.badgr.io/public/assertions/oCYnJNeWRCiZM7g0WvVyqQ?identity__email=priyalrwl.20%40gmail.com)            | useful                                                                                            |
+| 441 | Vijay Samant | vijaysamant4368@gmail.com | [Vijay Samant](https://www.linkedin.com/in/vijaysamant4368) | | [Certificate Link](https://api.badgr.io/public/assertions/T57QR76_Sf2TsWTKRvAvzQ?identity__email=vijaysamant4368%40gmail.com) | |
+
