@@ -478,5 +478,5 @@
 
 | 451 | Prajwala Yadlapalli     | prajwalayadlapalli@gmail.com     | [Prajwala Yadlapalli](https://www.linkedin.com/in/prajwala-yadlapalli/) | [Certificate](https://api.badgr.io/public/assertions/jGQMuejWSFu3l3mUkI90Xg?identity__email=prajwalayadlapalli%40gmail.com) | It was very useful, especially the video tutorial! |
 
-
+| 452 | Harsh Mishra     | mishra02harsh@gmail.com     | [Harsh Mishra](https://www.linkedin.com/in/harsh-mishra1/) | [Certificate](https://api.badgr.io/public/assertions/ZrlCuilYQQ2lzCyci6p_Fg?identity__email=mishra02harsh%40gmail.com) | Thanks to GSSoC |
 
