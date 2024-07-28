@@ -333,6 +333,11 @@
 | 87 | Vansh Chaurasiya | vanshchaurasiya1557@gmail.com | [Vansh Chaurasiya](https://linkedin.com/in/vanshchaurasiya24) | [Certificate Link](https://api.badgr.io/public/assertions/8cNDFHmYRqOJZeQYKOXwug?identity__email=vanshchaurasiya1557%40gmail.com) | Never understood postman in college, this well structured course made me understand everyth
 
 | 88 | Radhika Malpani      | radhikavishnudas2002@gmail.com            | [Radhika Malpani](https://www.linkedin.com/in/radhikamalpani1702/) | [Certificate Link](https://api.badgr.io/public/assertions/vKf7PfN3RTmt9Ar_l-LDxA?identity__email=radhikavishnudas2002%40gmail.com)  | Learn something new! 
+
+| 89 |Akshitha Reddy                | akshithajagan13@gmail.com       | [Akshitha Reddy](https://www.linkedin.com/in/akshitha-reddy-1a928a21b/)          | [Certificate Link](https://api.badgr.io/public/assertions/yrmnZnPnRGykehuzoLpL8w?identity__email=akshithajagan13%40gmail.com) | Thanks for the opportunity.      |
+| 90 | PrabhjotBajwa | hiprabhbajwa@gmail.com | [PrabhjotBajwa](https://linkedin.com/in/prabhjotbajwaa) | [Certificate Link](https://api.badgr.io/public/assertions/h6pgFhLCRvSi7oSFnWJcTw?identity__email=hiprabhbajwa%40gmail.com) | GreatLearning.
+| 91 | Rishab S | rishab.official.8@gmail.com | [Rishab S](https://www.linkedin.com/in/rishab-s-0aa28b21a/) | [Certificate Link](https://api.badgr.io/public/assertions/EB9msXqTTtyo-7U3pioRRA?identity__email=rishab.official.8%40gmail.com) | Gave a structured way of connecting between collections.
+
 | 89 | PrabhjotBajwa | hiprabhbajwa@gmail.com | [PrabhjotBajwa](https://linkedin.com/in/prabhjotbajwaa) | [Certificate Link](https://api.badgr.io/public/assertions/h6pgFhLCRvSi7oSFnWJcTw?identity__email=hiprabhbajwa%40gmail.com) | GreatLearning.
 | 90 | Dhairya gothi | dhairyag31@gmail.com | [DhairyaGothi](https://www.linkedin.com/in/dhairya-gothi-65945b288/) | [Certificate Link](https://api.badgr.io/public/assertions/e7dzC4UyTcuWFPdumLCwUw?identity__email=dhairyag31%40gmail.com) | learned new things
 
@@ -423,7 +428,6 @@
 | 136 | Tarun Gupta | tkg21430@gmail.com | [Tarun Gupta](linkedin.com/in/tarungupta18) | [Certificate Link](https://api.badgr.io/public/assertions/OcWOw3A6QJK2C50akkje-g) | Woah, a very well structured course. |
 
 |137 |Lovely Mahour | lovelymahour1405@gmail.com | [Lovely Mahour](https://www.linkedin.com/in/lovely-mahour-992316265/) | [Certificate Link](https://api.badgr.io/public/assertions/A7wZzKKnRUutrKfn6SQ5TA?identity__email=lovelymahour1405%40gmail.com) | Thorough and practical course that provides essential API knowledge and hands-on experience with Postman. |
-
 
 
 
