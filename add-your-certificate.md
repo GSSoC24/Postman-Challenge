@@ -234,6 +234,9 @@
 | 66  | soujanya       | soujusonu20@gmail.com  | [soujanya c](https://www.linkedin.com/in/soujanya2004/) | [Certificate Link]([https://api.badgr.io/public/assertions/YLlSrOzLTamjyH8JK4NHyg?identity__email=anuraga2005%40gmail.com](https://api.badgr.io/public/assertions/GtKtE_AtRri-dcknfrPp-A)) | great! |
 
 | 66 | Sadaf Kausar | sadafkausar2003@gmail.com | [SADAF KAUSAR](https://www.linkedin.com/in/sadaf-kausar-788456244/) | [Certificate Link](https://api.badgr.io/public/assertions/WenGeNc6Sg2QB2wPg3N_6Q?identity__email=sadafkausar2003%40gmail.com) | Great pathway to kickstart your API Journey!
+
+| 67 | Saksham Shrivastava | sakshamshrivastav58@gmail.com | [Saksham Shrivastava](https://www.linkedin.com/in/sakshamshrivastava/) | [Certificate Link](https://api.badgr.io/public/assertions/BkzFUqZSSYm-40ZuxwOMqw?identity__email=sakshamshrivastav58%40gmail.com) | Great Learning Experience!
+
 | 67  | Dhruv Johri       | johridhruv24@gmail.com           | [Dhruv Johri](www.linkedin.com/in/dhruv-johri)             | [Certificate Link](https://api.badgr.io/public/assertions/crTn7Lq9Q-y_etDQe4FAzQ?identity__email=johridhruv24%40gmail.com)                                                    | your feedback here  Excelent                |
 
 | 68  | Prasad Khare | prasadkhare261@gmail.com       | [Prasad Khare](https://www.linkedin.com/in/prasad-khare-/)  | [Certificate Link](https://api.badgr.io/public/assertions/i9qJnItfRGKaqUOAkXirzg?identity__email=prasadkhare261%40gmail.com)    | Got to know something New!   
