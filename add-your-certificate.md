@@ -313,6 +313,9 @@
 | 134 | Kosuri Indu        | kosurilindu@gmail.com   | [Kosuri Indu](https://www.linkedin.com/in/kosuri-indu) | [Certificate Link](https://api.badgr.io/public/assertions/pFxOzxOcRSiB_dOnpgu8xQ?identity__email=kosurilindu%40gmail.com) | Good to learn about API.     |
 
 
+| 135 | Payal Gupta | payalgupta425@gmail.com | [Payal Gupta](https://www.linkedin.com/in/payal-gupta-6a681a291/) | [Certificate Link]([https://badgr.com/print-certificate/66a6014fb1bbd519a44ef6c1](https://api.badgr.io/public/assertions/MNqpikKbSvmGl5adOU6GNg?identity__email=payalgupta425%40gmail.com)) | Great experience 
+
+
 
 
 
