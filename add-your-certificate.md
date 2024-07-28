@@ -467,6 +467,9 @@
 | 133 | Kalyani Uppuluri | kalyaniuppuluri7@gmail.com       | [Kalyani Uppuluri](https://www.linkedin.com/in/kalyani-uppuluri-522419257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  | [Certificate Link](https://api.badgr.io/public/assertions/cVNEYAGeQUiC-NrqnwPFlA?identity__email=kalyaniuppuluri7%40gmail.com)    | Very helpful Course with hands-on experience.   |
 | 134 | Kosuri Indu        | kosurilindu@gmail.com   | [Kosuri Indu](https://www.linkedin.com/in/kosuri-indu) | [Certificate Link](https://api.badgr.io/public/assertions/pFxOzxOcRSiB_dOnpgu8xQ?identity__email=kosurilindu%40gmail.com) | Good to learn about API.     |
 
+
+| 135   | Yash Agrawal                | agrawal.yash.g@gmail.com         | [Yash Agrawal](https://www.linkedin.com/in/yash-agrawal04/)          | [Certificate Link](https://api.badgr.io/public/assertions/J4nA5UZqRE25YRJFeAp7Uw) | The walkthrough of the course was very simple and informative! |
+
 | 135   | Ankit Bhandari                | ankitbhandari836@gmail.com         | [Ankit bhandari](www.linkedin.com/in/ankit-bhandari-637a56311)          | [Certificate Link](https://api.badgr.io/public/assertions/99WZ-WoxTfKg-iQQC5CBBg?identity__email=ankitbhandari836%40gmail.com) | Could have added more tasks
 
 | 135  | Simran Saini | ssimran0329@gmail.com       | [Simran Saini](https://www.linkedin.com/in/1simransaini/)  | [Certificate Link](https://api.badgr.io/public/assertions/XxWd2ry-QIyGOZ9mkarYcw?identity__email=ssimran0329%40gmail.com)    | Had a great hands on experience.   |
@@ -526,7 +529,6 @@
 | 130 | Yash Mall | myash0818@gmail.com | [Yash Mall](https://www.linkedin.com/in/yashmall/) | [Certificate Link](https://api.badgr.io/public/assertions/FOTybTtDTkaNAipEhuVxzg?identity__email=myash0818%40gmail.com) | Great Work. |
 
 | 132 | Dhruv Soni | dhruvsoni8433@gmail.com | [Dhruv Soni](https://www.linkedin.com/in/dhruv-soni-6b2338230/) | [Certificate Link](https://api.badgr.io/public/assertions/6PDvuVXaQ-OgOTO8HZ4E5A?identity__email=dhruvsoni8433%40gmail.com) | it was good
-
 
 
 
