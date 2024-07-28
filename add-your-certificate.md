@@ -478,5 +478,7 @@
 
 | 451 | Prajwala Yadlapalli     | prajwalayadlapalli@gmail.com     | [Prajwala Yadlapalli](https://www.linkedin.com/in/prajwala-yadlapalli/) | [Certificate](https://api.badgr.io/public/assertions/jGQMuejWSFu3l3mUkI90Xg?identity__email=prajwalayadlapalli%40gmail.com) | It was very useful, especially the video tutorial! |
 
+| 452 | Haritha Gunasekaran     | harithaguna03@gmail.com     |[harithaguna03](https://www.linkedin.com/in/harithaguna/) | [Certificate](https://badgr.com/public/assertions/FHZuwJZTTae6oGFjf6iOGw?identity__email=harithaguna03@gmail.com) | Great Learning! |
+
 
 
