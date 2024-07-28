@@ -464,6 +464,10 @@
 | 133 | Kalyani Uppuluri | kalyaniuppuluri7@gmail.com       | [Kalyani Uppuluri](https://www.linkedin.com/in/kalyani-uppuluri-522419257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  | [Certificate Link](https://api.badgr.io/public/assertions/cVNEYAGeQUiC-NrqnwPFlA?identity__email=kalyaniuppuluri7%40gmail.com)    | Very helpful Course with hands-on experience.   |
 | 134 | Kosuri Indu        | kosurilindu@gmail.com   | [Kosuri Indu](https://www.linkedin.com/in/kosuri-indu) | [Certificate Link](https://api.badgr.io/public/assertions/pFxOzxOcRSiB_dOnpgu8xQ?identity__email=kosurilindu%40gmail.com) | Good to learn about API.     |
 
+| 135 | Ankita Meher | ankita.meher2255@gmail.com   | [Ankita Meher](https://www.linkedin.com/in/ankita-meher-020979289/) | [Certificate Link](https://api.badgr.io/public/assertions/2MCTXTpVScmJIcTrf5u5FA?identity__email=ankita.meher2255%40gmail.com) | It was great,got to learn something new.  |
+
+| 135 | Avinash Shrivastava               | 22f3001914.ds.study.iitm.ac.in      | [Avinash Shrivastava](https://www.linkedin.com/in/avinash--shrivastava/) | [Certificate Link](https://api.badgr.io/public/assertions/tC5Ga7CGSB2pDeLSY28feA?identity__email=22f3001914%40ds.study.iitm.ac.in) | Wonderful Course      
+
 | 135 | Mohit Raj Jha    | mohitrajjha111@gmail.com     | [Mohit Raj Jha](https://www.linkedin.com/in/mohit-raj-jha/)     | [Certificate Link](https://api.badgr.io/public/assertions/WwBg4nHHT7KmCRmaETrSFA?identity__email=mohitrajjha111%40gmail.com) | Awesome Experience.
 
 | 135 | Isha Nair | isha.nair001@gmail.com | [Isha Nair](https://www.linkedin.com/in/ishanair09) | [Certificate Link](https://api.badgr.io/public/assertions/XD1wIGx7Q_mH0raNFnvqGQ?identity__email=isha.nair001%40gmail.com) | Great Start to API Learning Journey! |
@@ -487,5 +491,7 @@
 | 130 | Aarya Balwadkar | aaryabalwadkar2005@gmail.com | [Aarya Balwadkar](https://www.linkedin.com/in/aaryabalwadkar) | [Certificate Link](https://api.badgr.io/public/assertions/Af1e_KtVS4a0qpCA_gA2HA?identity__email=aaryabalwadkar2005%40gmail.com) | I loved the simplicity and practical learning of postman. I would love to have more such opportunities. |
 | 130| Bhoovi | arorabhoovi@gmail.com | [Bhovi Arora](https://www.linkedin.com/in/bhoovi/) | [Certificate Link](https://badgr.com/public/assertions/TbebSFtZQDuCOEyW_SIxdw?identity__email=arorabhoovi@gmail.com) | Great learning experience.
 
+
 | 139 | Nishil Pathak | pathaknishil3642@gmail.com | [Nishil Pathak](https://www.linkedin.com/in/nishil-pathak-05b2111b0/) | [Certificate Link](https://api.badgr.io/public/assertions/gqa6-5AaT3mmds2eu7DULQ?identity__email=pathaknishil3642%40gmail.com) | Completing these type of Learning Paths gives a feeling of greatfulness!! |
+
 
