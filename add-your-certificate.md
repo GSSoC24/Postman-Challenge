@@ -495,6 +495,9 @@
 | 442 | Priyal Rawal          | priyalrwl.20@gmail.com            | [Priyal Rawal](https://www.linkedin.com/in/priyal-rawal-18ba42245/)         | [Certificate](https://api.badgr.io/public/assertions/oCYnJNeWRCiZM7g0WvVyqQ?identity__email=priyalrwl.20%40gmail.com)       | Useful                             |
 | 443 | Shantnu Kumar         | swapnilrj1@gmail.com              | [Shantnu Kumar](https://in.linkedin.com/in/shantnu-singh-70400a22b)         | [Certificate](https://api.badgr.io/public/assertions/8E6UsVhVTHquy0gFMD3P7g?identity__email=swapnilrj1%40gmail.com)        | Course should be longer, with more quiz questions |
 
+| 444 | Mubashirin Moulvi     | mmubashirin786@gmail.com          | [Mubashirin Moulvi](https://www.linkedin.com/in/mubashirin-m-82b6b622b/)    | [Certificate Link](https://api.badgr.io/public/assertions/Q7y05rkoSR6CaE2wmpPN8g?identity__email=mmubashirin786%40gmail.com) | it was good
+
+
 | 446 | Harshita Bhambhani | harshitabhambhani7@gmail.com | [Harshita Bhambhani](https://www.linkedin.com/in/harshitaa16/) | [Certificate Link](https://api.badgr.io/public/assertions/S-ky-yxSQDyxy02l5mVFqA?identity__email=harshitabhambhani7%40gmail.com) | Great Experience |
 
 
