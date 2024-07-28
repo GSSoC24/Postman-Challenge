@@ -466,26 +466,6 @@
 
 | 133 | Kalyani Uppuluri | kalyaniuppuluri7@gmail.com       | [Kalyani Uppuluri](https://www.linkedin.com/in/kalyani-uppuluri-522419257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  | [Certificate Link](https://api.badgr.io/public/assertions/cVNEYAGeQUiC-NrqnwPFlA?identity__email=kalyaniuppuluri7%40gmail.com)    | Very helpful Course with hands-on experience.   |
 | 134 | Kosuri Indu        | kosurilindu@gmail.com   | [Kosuri Indu](https://www.linkedin.com/in/kosuri-indu) | [Certificate Link](https://api.badgr.io/public/assertions/pFxOzxOcRSiB_dOnpgu8xQ?identity__email=kosurilindu%40gmail.com) | Good to learn about API.     |
-| 135 | Varsani ranjani        | varsaniranjani@gmail.com   | [varsani ranjani](https://www.linkedin.com/in/ranjani-varsani-45a875225/) | [Certificate Link](https://api.badgr.io/public/assertions/4zpw88pOQxa8H0f0Gy07WA?identity__email=varsaniranjani%40gmail.com) | extremelly good to api learning    |
-
-
-| 135   | Yash Agrawal                | agrawal.yash.g@gmail.com         | [Yash Agrawal](https://www.linkedin.com/in/yash-agrawal04/)          | [Certificate Link](https://api.badgr.io/public/assertions/J4nA5UZqRE25YRJFeAp7Uw) | The walkthrough of the course was very simple and informative! |
-
-| 135   | Ankit Bhandari                | ankitbhandari836@gmail.com         | [Ankit bhandari](www.linkedin.com/in/ankit-bhandari-637a56311)          | [Certificate Link](https://api.badgr.io/public/assertions/99WZ-WoxTfKg-iQQC5CBBg?identity__email=ankitbhandari836%40gmail.com) | Could have added more tasks
-
-| 135  | Simran Saini | ssimran0329@gmail.com       | [Simran Saini](https://www.linkedin.com/in/1simransaini/)  | [Certificate Link](https://api.badgr.io/public/assertions/XxWd2ry-QIyGOZ9mkarYcw?identity__email=ssimran0329%40gmail.com)    | Had a great hands on experience.   |
-
-| 135 | Alayna Shaheen        | alaynashaheen2@gmail.com   | [Alayna Shaheen](https://www.linkedin.com/in/alayna-shaheen-782680249/) | [Certificate Link](https://api.badgr.io/public/assertions/HNulGWiqQyuQhrNbFa-EBg?identity__email=alaynashaheen2%40gmail.com) | Great Hands-On Session. 
-
-
-| 135 | Pradnya Gaitonde | pradnya7886@gmail.com | [Pradnya Gaitonde](https://www.linkedin.com/in/pradnya-gaitonde-72bbb9253/) | [Certificate Link](https://api.badgr.io/public/assertions/4ogjLwAgSnW5Hy8_qmVDtQ?identity__email=pradnya7886%40gmail.com) | Informative & Useful Course. |
-
-
-| 135 | Ankita Meher | ankita.meher2255@gmail.com   | [Ankita Meher](https://www.linkedin.com/in/ankita-meher-020979289/) | [Certificate Link](https://api.badgr.io/public/assertions/2MCTXTpVScmJIcTrf5u5FA?identity__email=ankita.meher2255%40gmail.com) | It was great,got to learn something new.  |
-
-
-| 135   | Divyansh Kumbhat               | divyanshkumbhat@gmail.com         | [Divyansh Kumbhat](www.linkedin.com/in/divyansh-kumbhat/)          | [Certificate Link](https://api.badgr.io/public/assertions/ZiWMzgPfSW2690O879HmMA?identity__email=divyanshkumbhat%40gmail.com) | Amazing        |
-
 
 | 135 | Yogesh Choudhary        | yogesh986.be22@chitkara.edu.in   | [Yogesh Choudhary](https://www.linkedin.com/in/yogesh-choudhary-563339244/) | [Certificate Link](https://api.badgr.io/public/assertions/o0mp37C-Sgi8kKvoMhhryQ) | Good to learn about API.     |
 
@@ -529,8 +509,7 @@
 | 130 | Mantu Kumar Tiwari | mantu99739@gmail.com | [Mantu Kumar Tiwari](http://www.linkedin.com/in/mantu-kumar-tiwari-553160262) | [Certificate Link](https://api.badgr.io/public/assertions/zpI2wyjnTzOqTQcpnW0jKA?identity__email=mantu99739%40gmail.com) | Want Some Task like this |
 | 130 | Yash Mall | myash0818@gmail.com | [Yash Mall](https://www.linkedin.com/in/yashmall/) | [Certificate Link](https://api.badgr.io/public/assertions/FOTybTtDTkaNAipEhuVxzg?identity__email=myash0818%40gmail.com) | Great Work. |
 
-| 132 | Dhruv Soni | dhruvsoni8433@gmail.com | [Dhruv Soni](https://www.linkedin.com/in/dhruv-soni-6b2338230/) | [Certificate Link](https://api.badgr.io/public/assertions/6PDvuVXaQ-OgOTO8HZ4E5A?identity__email=dhruvsoni8433%40gmail.com) | it was good
-
-
+| 132 | Dhruv Soni | dhruvsoni8433@gmail.com | [Dhruv Soni](https://www.linkedin.com/in/dhruv-soni-6b2338230/) | [Certificate Link](https://api.badgr.io/public/assertions/6PDvuVXaQ-OgOTO8HZ4E5A?identity__email=dhruvsoni8433%40gmail.com) | it was good|
+| 133 | Khushi Sharma | khushisharma20190@gmail.com | [Khushi Sharma](https://www.linkedin.com/in/khushi-sharma-a916a827b/) | [Certificate Link](https://api.badgr.io/public/assertions/Xqpa-d4ZR7eZOE0K40i_6g?identity__email=khushisharma20190%40gmail.com) | it was good|
 
 
