@@ -478,7 +478,7 @@
 
 | 451 | Prajwala Yadlapalli     | prajwalayadlapalli@gmail.com     | [Prajwala Yadlapalli](https://www.linkedin.com/in/prajwala-yadlapalli/) | [Certificate](https://api.badgr.io/public/assertions/jGQMuejWSFu3l3mUkI90Xg?identity__email=prajwalayadlapalli%40gmail.com) | It was very useful, especially the video tutorial! |
 
-| 452 | Bhavy Zala              | zalabhavy2004@gmail.com           | [Bhavy Zala](https://www.linkedin.com/in/bhavy-zala-59bb76241/)    | [Certificate Link](https://badgr.com/public/assertions/X9BUG2MRRiymtGW23oBSRA?identity__email=zalabhavy2004@gmail.com)           | Very Nice ! |
+| 452 | Bhavy Zala              | zalabhavy2004@gmail.com           | [Bhavy Zala](https://www.linkedin.com/in/bhavy-zala-59bb76241/)    | [Certificate](https://api.badgr.io/public/assertions/X9BUG2MRRiymtGW23oBSRA?identity__email=zalabhavy2004%40gmail.com)  | Very Nice ! |
 
 
 
