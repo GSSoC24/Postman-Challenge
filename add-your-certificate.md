@@ -129,5 +129,4 @@
 | 104 | Chiluka Akshitha | 22wh1a12b5@bvrithyderabad.edu.in | [Chiluka Akshitha](www.linkedin.com/in/akshitha-chiluka-b19245259) |[Certificate Link] (https://api.badgr.io/public/assertions/cmIZ2K4sTNandQN8G_s0VA?identity__email=22wh1a12b5%40bvrithyderabad.edu.in) | Loved it.
 | 105 | Ishavdeep Kaur | ikailey1101@gmail.com | [Ishavdeep Kaur](https://www.linkedin.com/in/ishavdeep-kaur-078902282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Certificate Link](https://api.badgr.io/public/assertions/0HHdGp2KT-KOhsKVAZ5veg?identity__email=ikailey1101%40gmail.com) | Extremely Handy course | 
 | 106   | Rohit Dubey                | rohitinu6@gmail.com         | [Rohit Dubey](https://www.linkedin.com/in/rohit-dubey-d/)           | [Certificate Link](https://api.badgr.io/public/assertions/22FI60TDSBaTja4RsGVArw?identity__email=rohitinu6%40gmail.com) | Wonderful Certification        |
-
-
+| 107 | Aaryan Manghnani              | aaryanmanghnani1@gmail.com         | [Aaryan Manghnani](https://www.linkedin.com/in/aaryan-manghnani/)          | [Certificate Link](https://api.badgr.io/public/assertions/yLsDbiG8S52ir7YaTraM4Q?identity__email=aaryanmanghnani1%40gmail.com) | Great Hands-On Session!        |
