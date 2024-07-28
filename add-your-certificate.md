@@ -624,7 +624,7 @@
 
 | 133 | Shubham Misra | shubhammisra936@gmail.com | [Shubham Misra](https://www.linkedin.com/in/shubham-misra-8954a2258/) | [Certificate Link](https://api.badgr.io/public/assertions/fAD6IvpMS46f8pKK5DyHTw?identity__email=shubhammisra936%40gmail.com) | Great Course
 
-
+| 133 | Nishil Pathak | pathaknishil3642@gmail.com | [Nishil Pathak](https://www.linkedin.com/in/nishil-pathak-05b2111b0/) | [Certificate Link](https://api.badgr.io/public/assertions/gqa6-5AaT3mmds2eu7DULQ?identity__email=pathaknishil3642%40gmail.com) | It gives a feeling of greatfulness to complete these type of learning paths!     |
 
 
 
