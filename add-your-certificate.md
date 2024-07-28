@@ -468,7 +468,11 @@
 | 452 | Raju Kumar | rajukumar7061474389@gmail.com  | [Raju Kumar](linkedin.com/in/raju-kumar-a32b42229) | [Certificate](https://api.badgr.io/public/assertions/kFbj483-Q_y1ZUSC3N5l-w?identity__email=rajukumar7061474389%40gmail.com) | It helps me to learn about API |
 
 
+| 452 | Kritika Kori    | korikriti4@gmail.com     | [Kritika Kori]( https://www.linkedin.com/in/kritika-kori-2aaab6278) | [Certificate](https://api.badgr.io/public/assertions/NumqV5L5QXWRDgi6QY34Bw) | It was very easy to understand ,quite helpful!! |
+
+
 | 456 | Gopika J            | gopikajitesh.lbs@gmail.com     | [Gopika J](https://www.linkedin.com/in/gopika-j-838346245/) | [Certificate](https://api.badgr.io/public/assertions/xocQvgzqROCHz-h96aw4Fw?identity__email=gopikajitesh.lbs%40gmail.com) | Thankyou gssoc for intro to Postman    |
+
 
 | 457 | Prajwala Yadlapalli  | prajwalayadlapalli@gmail.com    | [Prajwala Yadlapalli](https://www.linkedin.com/in/prajwala-yadlapalli/) | [Certificate](https://api.badgr.io/public/assertions/jGQMuejWSFu3l3mUkI90Xg?identity__email=prajwalayadlapalli%40gmail.com) | It was very useful, especially the video tutorial! |
 | 458 | Simmi Kumari         | simmipandey1019@gmail.com       | [Simmi Kumari](http://linkedin.com/in/simmi-kumari-5a145825a/)          | [Certificate](https://api.badgr.io/public/assertions/oK_kAa9TRFqq2UdR6SKpdw?identity__email=simmipandey1019%40gmail.com)     | It was good to learn about postman through this challenge!!                         |                    
