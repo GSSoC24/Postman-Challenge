@@ -549,7 +549,7 @@
 | 130 | Yash Mall | myash0818@gmail.com | [Yash Mall](https://www.linkedin.com/in/yashmall/) | [Certificate Link](https://api.badgr.io/public/assertions/FOTybTtDTkaNAipEhuVxzg?identity__email=myash0818%40gmail.com) | Great Work. |
 
 | 132 | Dhruv Soni | dhruvsoni8433@gmail.com | [Dhruv Soni](https://www.linkedin.com/in/dhruv-soni-6b2338230/) | [Certificate Link](https://api.badgr.io/public/assertions/6PDvuVXaQ-OgOTO8HZ4E5A?identity__email=dhruvsoni8433%40gmail.com) | it was good
-
+| 140   | Aditya D           | ibetanibex@gmail.com  | [Aditya D](https://www.linkedin.com/in/aditya-d-23453a179/)                                                                                                                    | [Certificate Link](https://api.badgr.io/public/assertions/O4fTbWHtTBqV-NKcHfFjMg?identity__email=ibetanibex%40gmail.com)                                     | More tasks and more methods need to be there                                                                              |
 
 
 
