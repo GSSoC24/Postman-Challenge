@@ -482,4 +482,5 @@
 | 452 | Vinisha Dsouza    | vinishadsouza201@gmail.com     | [Vinisha Dsouza ](https://www.linkedin.com/in/vinisha-dsouza-9b9087257) | [Certificate](https://api.badgr.io/public/assertions/HczY3NxcST-VPjMyo5t8UA?identity__email=vinishadsouza201%40gmail.com) | It was very useful, especially the video tutorial! |
 | 452  | Anandita Chaudhary | anandita299@gmail.com       | [Anandita Chaudhary](https://www.linkedin.com/in/anandita-chaudhary-7591a4259/)  | [Certificate Link](https://api.badgr.io/public/assertions/o9Qcdr8ESteUdvtOCgC_rw?identity__email=anandita299%40gmail.com)    | Loved the course!   |
 | 457 | Donald Reddy Indelu | donaldreddy2712@gmail.com | [Donald Reddy Indelu](https://www.linkedin.com/in/donald-reddy-a12702/) | [Certificate](https://api.badgr.io/public/assertions/lGuGbuCmRvy0L2sVVsBktg?identity__email=donaldreddy2712%40gmail.com) | useful |
+| 459 | SESHA SAI BRINGESH KONDA | bringesh03@gmail.com | [SESHA SAI BRINGESH KONDA](https://www.linkedin.com/in/sesha-sai-bringesh-konda-970936251/) | [Certificate](https://api.badgr.io/public/assertions/ZnUOiId6Q-e5yn5ySHi4Hg?identity__email=bringesh03%40gmail.com) | It is informative and very useful |
 
