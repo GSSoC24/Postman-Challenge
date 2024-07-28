@@ -631,3 +631,5 @@
 |41 | Ashika Gupta | ashikagupta1503@gmail.com | [Ashika Gupta](https://www.linkedin.com/in/ashikagupta) | [Certificarion link](https://api.badgr.io/public/assertions/SZW0uM-0QsedASHyoGlugQ?identity__email=ashikagupta1503%40gmail.com) | Easy to understand CRUD operations but could have add more tasks .|
 
 | 132 | Hanuma sai krishna poanakala | hanumasaikrishna21@gmail.com | [Hanuma Sai Krishna](https://www.linkedin.com/feed/) | [Certificate Link](https://api.badgr.io/public/assertions/RVQ6PetDSnuTm3Sgu7GRrw?identity__email=hanumasaikrishna21%40gmail.com) | it was good
+
+| 135 | Bhavy Zala | zalabhavy2004@gmail.com | [Bhavy Zala](https://www.linkedin.com/in/bhavy-zala-59bb76241/) | [Certificate Link](https://badgr.com/public/assertions/X9BUG2MRRiymtGW23oBSRA?identity__email=zalabhavy2004@gmail.com) | Very Nice !
