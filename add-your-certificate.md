@@ -636,3 +636,4 @@
 | 457 | Donald Reddy Indelu | donaldreddy2712@gmail.com | [Donald Reddy Indelu](https://www.linkedin.com/in/donald-reddy-a12702/) | [Certificate](https://api.badgr.io/public/assertions/lGuGbuCmRvy0L2sVVsBktg?identity__email=donaldreddy2712%40gmail.com) | useful |
 |---- | Aditya Singh | aditya.110803@gmail.com | [Aditya Singh] https://www.linkedin.com/in/aditya-singh11/ | [certificate link] https://badgr.com/public/assertions/KMta6e98RTyCootjbtyzKQ?identity__email=aditya.110803@gmail.com | it was nice but could be little bit tough |
 
+| 460 | Avantika Ajit    | avantika.aji22@gmail.com@gmail.com     | [Avantika Ajit ](https://www.linkedin.com/in/avantikaajit) | [Certificate](https://api.badgr.io/public/assertions/zj6xuzmcRUSltr5Yl1lOjw?identity__email=avantika.aji22%40gmail.com) | Very useful course! Learned a lot from it. |
