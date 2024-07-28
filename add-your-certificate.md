@@ -462,8 +462,6 @@
 | 449 | Maheshwari Love     | l.maheshwari2008@gmail.com     | [Maheshwari Love](https://www.linkedin.com/in/maheshwari-love/) | [Certificate](https://api.badgr.io/public/assertions/K0A0qYtJS16zcieqT5Ye0g?identity__email=l.maheshwari2008%40gmail.com) | It was great to get familiar with Postman |
 | 450 | Vijay Samant        | vijaysamant4368@gmail.com      | [Vijay Samant](https://www.linkedin.com/in/vijaysamant4368) | [Certificate](https://api.badgr.io/public/assertions/T57QR76_Sf2TsWTKRvAvzQ?identity__email=vijaysamant4368%40gmail.com) | -                                      |
 
-| 451 | Neha Kanwar     | nehashekhawat255@gmail.com     | [Neha Kanwar](https://www.linkedin.com/in/nehakanwar30) | [Certificate](https://api.badgr.io/public/assertions/LeBc3451QTC1gv2hM6GTBA?identity__email=nehashekhawat255%40gmail.com) | It was easy to learn using your guided video |
-
 | 451 | Hafsa Wasi | hafsawasi20@gmail.com | [Hafsa Wasi](https://www.linkedin.com/in/hafsa-wasi/) | [Certificate Link](https://api.badgr.io/public/assertions/WxUuUfNCRIenjOiHfXlAgQ?identity__email=hafsawasi20%40gmail.com) | Great experience                     |
 
 
@@ -478,12 +476,7 @@
 
 | 451 | Gopika J            | gopikajitesh.lbs@gmail.com     | [Gopika J](https://www.linkedin.com/in/gopika-j-838346245/) | [Certificate](https://api.badgr.io/public/assertions/xocQvgzqROCHz-h96aw4Fw?identity__email=gopikajitesh.lbs%40gmail.com) | Thankyou gssoc for intro to Postman    |
 
-| 451 | Prajwala Yadlapalli     | prajwalayadlapalli@gmail.com     | [Prajwala Yadlapalli](https://www.linkedin.com/in/prajwala-yadlapalli/) | [Certificate](https://api.badgr.io/public/assertions/jGQMuejWSFu3l3mUkI90Xg?identity__email=prajwalayadlapalli%40gmail.com) | It was very useful, especially the video tutorial! |
+| 451 | Prajwala Yadlapalli     | prajwalayadlapalli@gmail.com     | [Prajwala Yadlapalli](https://www.linkedin.com/in/prajwala-yadlapalli/) | [Certificate](https://api.badgr.io/public/assertions/jGQMuejWSFu3l3mUkI90Xg?identity__email=prajwalayadlapalli%40gmail.com) | It was very useful, especially the video tutorial!
 
-
-| 452  | Anandita Chaudhary | anandita299@gmail.com       | [Anandita Chaudhary](https://www.linkedin.com/in/anandita-chaudhary-7591a4259/)  | [Certificate Link](https://api.badgr.io/public/assertions/o9Qcdr8ESteUdvtOCgC_rw?identity__email=anandita299%40gmail.com)    | Loved the course!   |
-
-| 457 | Donald Reddy Indelu | donaldreddy2712@gmail.com | [Donald Reddy Indelu](https://www.linkedin.com/in/donald-reddy-a12702/) | [Certificate](https://api.badgr.io/public/assertions/lGuGbuCmRvy0L2sVVsBktg?identity__email=donaldreddy2712%40gmail.com) | useful |
-
-
+| 452    | Thatha Naga Chandu                | nagachanduthatha@gmail.com               | [Naga Chandu Thatha](www.linkedin.com/in/thatha-naga-chandu-933065226)                                                                                                                                       | [Certificate](https://api.badgr.io/public/assertions/BkMDWfJxQDGi--CrNUeeoA?identity__email=nagachanduthatha%40gmail.com)            | Guidance is good                                                                                            |
 
