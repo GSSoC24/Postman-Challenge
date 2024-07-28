@@ -303,6 +303,9 @@
 | 75 | Khushi Kalra | kalra.khushi12@gmail.com | [Khushi Kalra](https://www.linkedin.com/in/kalrakhushi/) | [Certificate Link](https://api.badgr.io/public/assertions/qiLaFyy1S6yoaWTdLzG4MQ) | Amazing and easy to follow course! |
 
 | 76 | P.L.Pavananjali | plpanjali05@gmail.com | [P.L.Pavananjali](www.linkedin.com/in/lakshmi-pavananjali-pamidi-766760296) | [Certificate Link](https://badgr.com/public/assertions/N_Hvf6DhSgq-7VCJJbvfoQ?identity__email=plpanjali05@gmail.com) | Your feedback here |
+
+| 77  | Solanki Sarkar | solankisarkar11t@gmail.comsolankisarkar11t@gmail.com    | [Solanki Sarkar](www.linkedin.com/in/solanki-sarkar-8564612aa)  | [Certificate Link](https://api.badgr.io/public/assertions/0G0FuTVwQKqYGcAEkE5dpQ?identity__email=solankisarkar11t%40gmail.com)    | Great informative and interactive course! Much needed.   |
+
 | 77 | Atul | atuljaat2004aj@gmail.com | [Atul Kumar Janghu](https://www.linkedin.com/in/atul-kumar-janghu-93227b210/) | [Certificate Link](https://api.badgr.io/public/assertions/uF7VaJm5SjyBvlIP8d5ZPg?identity__email=atuljaat2004aj%40gmail.com) | Could have added more difficult Tasks |
 | 78 | Harshita Singh | hsharshitaa99@gmail.com | [Harshita Singh](https://www.linkedin.com/in/harshita-singh-ba0771274/) | [Certificate Link](https://api.badgr.io/public/assertions/h_usF7akTsa_Y8fhwFFIww?identity__email=hsharshitaa99%40gmail.com) | Worth it learning |
 | 79 | Harika Sayani | harikasayani3@gmail.com | [Harika Sayani](https://www.linkedin.com/in/harika-sayani-b32a86276/) | [Certificate Link](https://api.badgr.io/public/assertions/jLEYgAF5TvaRGqcYF937Aw?identity__email=harikasayani3%40gmail.com) | Good |
@@ -374,6 +377,7 @@
 | 136 | Tarun Gupta | tkg21430@gmail.com | [Tarun Gupta](linkedin.com/in/tarungupta18) | [Certificate Link](https://api.badgr.io/public/assertions/OcWOw3A6QJK2C50akkje-g) | Woah, a very well structured course. |
 
 |137 |Lovely Mahour | lovelymahour1405@gmail.com | [Lovely Mahour](https://www.linkedin.com/in/lovely-mahour-992316265/) | [Certificate Link](https://api.badgr.io/public/assertions/A7wZzKKnRUutrKfn6SQ5TA?identity__email=lovelymahour1405%40gmail.com) | Thorough and practical course that provides essential API knowledge and hands-on experience with Postman. |
+
 
 
 
