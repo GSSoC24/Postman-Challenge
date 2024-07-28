@@ -452,22 +452,11 @@
 | 448 | Harshita Bhambhani  | harshitabhambhani7@gmail.com   | [Harshita Bhambhani](https://www.linkedin.com/in/harshitaa16/) | [Certificate](https://api.badgr.io/public/assertions/S-ky-yxSQDyxy02l5mVFqA?identity__email=harshitabhambhani7%40gmail.com) | Great experience                     |
 | 449 | Maheshwari Love     | l.maheshwari2008@gmail.com     | [Maheshwari Love](https://www.linkedin.com/in/maheshwari-love/) | [Certificate](https://api.badgr.io/public/assertions/K0A0qYtJS16zcieqT5Ye0g?identity__email=l.maheshwari2008%40gmail.com) | It was great to get familiar with Postman |
 | 450 | Vijay Samant        | vijaysamant4368@gmail.com      | [Vijay Samant](https://www.linkedin.com/in/vijaysamant4368) | [Certificate](https://api.badgr.io/public/assertions/T57QR76_Sf2TsWTKRvAvzQ?identity__email=vijaysamant4368%40gmail.com) | -                                      |
-
-
 | 452 | Hafsa Wasi | hafsawasi20@gmail.com | [Hafsa Wasi](https://www.linkedin.com/in/hafsa-wasi/) | [Certificate Link](https://api.badgr.io/public/assertions/WxUuUfNCRIenjOiHfXlAgQ?identity__email=hafsawasi20%40gmail.com) | Great experience                     |
-
-
 | 453 | Marumudi Mary Jennifer Eunice       | jennifereunicemarumudi@gmail.com      | [Marumudi Mary Jennifer Eunice](https://www.linkedin.com/in/marumudi-jennifer-eunice-64a517230/) | [Certificate](https://api.badgr.io/public/assertions/mXnLLVXMQCOI8PJtB2aWUw?identity__email=jennifereunicemarumudi%40gmail.com) | -                                      |
-
-
 | 454 | Aayusha Shrestha        | aayyushashrestha@gmail.com      | [Aayusha Shrestha](https://www.linkedin.com/in/aayusha-shrestha-b61308256/) | [Certificate](https://api.badgr.io/public/assertions/MV3oy-8QQfS6Ydt8FRcsvA) | Easy to follow and helpful                                      |
-
-
 | 455 | Harish Peddina      | peddinaharish2003@gmail.com    | [Harish Peddina](https://www.linkedin.com/in/harish-peddina) | [Certificate](https://api.badgr.io/public/assertions/Zst6WklPSYmeLJNS7rnuBQ?identity__email=peddinaharish2003%40gmail.com) | good                        |
-
-
 | 456 | Gopika J            | gopikajitesh.lbs@gmail.com     | [Gopika J](https://www.linkedin.com/in/gopika-j-838346245/) | [Certificate](https://api.badgr.io/public/assertions/xocQvgzqROCHz-h96aw4Fw?identity__email=gopikajitesh.lbs%40gmail.com) | Thankyou gssoc for intro to Postman    |
-
 | 457 | Prajwala Yadlapalli  | prajwalayadlapalli@gmail.com    | [Prajwala Yadlapalli](https://www.linkedin.com/in/prajwala-yadlapalli/) | [Certificate](https://api.badgr.io/public/assertions/jGQMuejWSFu3l3mUkI90Xg?identity__email=prajwalayadlapalli%40gmail.com) | It was very useful, especially the video tutorial! |
 | 458 | Simmi Kumari         | simmipandey1019@gmail.com       | [Simmi Kumari](http://linkedin.com/in/simmi-kumari-5a145825a/)          | [Certificate](https://api.badgr.io/public/assertions/oK_kAa9TRFqq2UdR6SKpdw?identity__email=simmipandey1019%40gmail.com)     | It was good to learn about postman through this challenge!!                         |                    
 
@@ -482,4 +471,4 @@
 | 452 | Vinisha Dsouza    | vinishadsouza201@gmail.com     | [Vinisha Dsouza ](https://www.linkedin.com/in/vinisha-dsouza-9b9087257) | [Certificate](https://api.badgr.io/public/assertions/HczY3NxcST-VPjMyo5t8UA?identity__email=vinishadsouza201%40gmail.com) | It was very useful, especially the video tutorial! |
 | 452  | Anandita Chaudhary | anandita299@gmail.com       | [Anandita Chaudhary](https://www.linkedin.com/in/anandita-chaudhary-7591a4259/)  | [Certificate Link](https://api.badgr.io/public/assertions/o9Qcdr8ESteUdvtOCgC_rw?identity__email=anandita299%40gmail.com)    | Loved the course!   |
 | 457 | Donald Reddy Indelu | donaldreddy2712@gmail.com | [Donald Reddy Indelu](https://www.linkedin.com/in/donald-reddy-a12702/) | [Certificate](https://api.badgr.io/public/assertions/lGuGbuCmRvy0L2sVVsBktg?identity__email=donaldreddy2712%40gmail.com) | useful |
-
+| 458 | Rajveer | unofficially111@gmail.com | [Rajveeer](https://www.linkedin.com/in/r4jv33r/) | [Certificate](https://api.badgr.io/public/assertions/YqCyuDzeRIioeuvp-S5J-w?identity__email=unofficially111%40gmail.com) | Great |
