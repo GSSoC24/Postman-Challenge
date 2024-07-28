@@ -444,6 +444,7 @@
 | 431 | Ashika Gupta            | ashikagupta1503@gmail.com            | [Ashika Gupta](https://www.linkedin.com/in/ashikagupta)            | [Certification Link](https://api.badgr.io/public/assertions/SZW0uM-0QsedASHyoGlugQ?identity__email=ashikagupta1503%40gmail.com) | Easy to understand CRUD operations but could have added more tasks. |
 | 432 | Hanuma Sai Krishna      | hanumasaikrishna21@gmail.com         | [Hanuma Sai Krishna](https://www.linkedin.com/feed/)               | [Certificate Link](https://api.badgr.io/public/assertions/RVQ6PetDSnuTm3Sgu7GRrw?identity__email=hanumasaikrishna21%40gmail.com) | It was good |
 
+| 433    | K-kiran77                | kondetikiran77@gmail.com               | [KONDETI KIRAN KUMAR](https://www.linkedin.com/in/kondeti-kiran-kumar-5a471b252/)                                                                                                                                       | [Certificate Link](https://api.badgr.io/public/assertions/GlUZ2v3pTS-DClIihPYRFA?identity__email=kondetikiran77%40gmail.com)            | GOOD COURSE FOR BEGINNERS| 
 
 | 433 | Aanchal Pahuja | aanchalpahuja34@gmail.com | [Aanchal Pahuja](https://www.linkedin.com/in/aanchal-pahuja-587a0b250/) | [Certificate Link](https://api.badgr.io/public/assertions/66518186c91792345ed4d19e?identity__email=aanchalpahuja34@gmail.com) | Great Start to API
 
@@ -452,6 +453,5 @@
 | 433  | Saksham Shrivastava     | sakshamshrivastav58@gmail.com       | [Saksham Shrivastava](https://www.linkedin.com/in/sakshamshrivastava/)                     | [Certificate Link](https://api.badgr.io/public/assertions/BkzFUqZSSYm-40ZuxwOMqw?identity__email=sakshamshrivastav58%40gmail.com) | Great Learning Experience!                |
 
 | 433    | Sayantika Laskar     | sayantikalaskar2002@gmail.com        | [Sayantika Laskar](https://www.linkedin.com/in/sayantika-laskar-098aa2250/) | [Certificate Link](https://api.badgr.io/public/assertions/xb14j9k9SSOdAv--84ngEg?identity__email=sayantikalaskar2002%40gmail.com)            | It was good. |
-
 
 
