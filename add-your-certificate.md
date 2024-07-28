@@ -106,4 +106,4 @@
 | 94 | Somnath Shaw | somnathshaw900@gmail.com | [Somnath Shaw](https://www.linkedin.com/in/somnath0904/) | [Certificate Link](https://api.badgr.io/public/assertions/jkMG1MyqRZ2X1g9Y_EqJxA?identity__email=somnath.arcade3.2024%40gmail.com) | Great course! |
 | 95   | Naga Kanaka Lakshmi               | lakshmireddydwarampudi436@gmail.com         | [Naga Kanaka Lakshmi](https://www.linkedin.com/in/naga-kanaka-lakshmi-dwarampudi/)          | [Certificate Link](https://api.badgr.io/public/assertions/HFc0F3nATDWNVnyTILf9zQ?identity__email=lakshmireddydwarampudi436%40gmail.com) | It was an amazing experience!        |
 | 96 | Mukilan T | mukilan2808@gmail.com   | [mukilan2815](https://www.linkedin.com/in/mukilan2815)          | [Certificate Link]([[https://api.badgr.io/public/assertions/G5nH-OaXReSjQD7oO9qITw?identity__email=mukilan2808%40gmail.com]]) | Very helpful
-
+| 97 | Vaibhav Pandey | wellmove2222@gmail.com   | [Vaibhav Pandey ](https://www.linkedin.com/in/vaibahvpandey9)          | [Certificate Link]([[https://badgr.com/public/assertions/yUu7EaFjTOS6TT9HvHiNHA?identity__email=wellmove2222@gmail.com&action=download]]) | Very Interesting
