@@ -386,5 +386,5 @@
 
 
 
-
+| 138 | Pratik Mane | pratikmane610@gmail.com     | [Pratik Mane](https://www.linkedin.com/in/pratik-mane-546bb1284/) | [Certificate Link](https://api.badgr.io/public/assertions/hH488Z_eTROT7dEYSK4p-w?identity__email=pratikmane610%40gmail.com) | I just loved it !!!  |
 
