@@ -478,5 +478,7 @@
 
 | 451 | Prajwala Yadlapalli     | prajwalayadlapalli@gmail.com     | [Prajwala Yadlapalli](https://www.linkedin.com/in/prajwala-yadlapalli/) | [Certificate](https://api.badgr.io/public/assertions/jGQMuejWSFu3l3mUkI90Xg?identity__email=prajwalayadlapalli%40gmail.com) | It was very useful, especially the video tutorial! |
 
+| 452 | Raju Kumar | rajukumar7061474389@gmail.com  | [Raju Kumar](linkedin.com/in/raju-kumar-a32b42229) | [Certificate](https://api.badgr.io/public/assertions/kFbj483-Q_y1ZUSC3N5l-w?identity__email=rajukumar7061474389%40gmail.com) | It helps me to learn about API |
+
 
 
