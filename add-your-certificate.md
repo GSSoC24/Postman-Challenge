@@ -472,4 +472,4 @@
 | 438 | Saksham Shrivastava | sakshamshrivastav58@gmail.com  | [Saksham Shrivastava](https://www.linkedin.com/in/sakshamshrivastava/)                     | [Certificate Link](https://api.badgr.io/public/assertions/BkzFUqZSSYm-40ZuxwOMqw?identity__email=sakshamshrivastav58%40gmail.com) | Great Learning Experience!     |
 | 439 | Sayantika Laskar    | sayantikalaskar2002@gmail.com  | [Sayantika Laskar](https://www.linkedin.com/in/sayantika-laskar-098aa2250/)                | [Certificate Link](https://api.badgr.io/public/assertions/xb14j9k9SSOdAv--84ngEg?identity__email=sayantikalaskar2002%40gmail.com)  | It was good.                   |
 
-
+| 435    | Priyal Rawal                | priyalrwl.20@gmail.com               | [Priyal Rawal](https://www.linkedin.com/in/priyal-rawal-18ba42245/)                                                                                                                                       | [Certificate Link](https://api.badgr.io/public/assertions/oCYnJNeWRCiZM7g0WvVyqQ?identity__email=priyalrwl.20%40gmail.com)            | useful                                                                                            |
