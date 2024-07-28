@@ -442,7 +442,6 @@
 | 432 | Hanuma Sai Krishna      | hanumasaikrishna21@gmail.com         | [Hanuma Sai Krishna](https://www.linkedin.com/feed/)               | [Certificate Link](https://api.badgr.io/public/assertions/RVQ6PetDSnuTm3Sgu7GRrw?identity__email=hanumasaikrishna21%40gmail.com) | It was good |
 
 
-
 | 433 | Shantnu Kumar | swapnilrj1@gmail.com | [Shantnu Kumar](https://in.linkedin.com/in/shantnu-singh-70400a22b) | [Certificate Link](https://api.badgr.io/public/assertions/8E6UsVhVTHquy0gFMD3P7g?identity__email=swapnilrj1%40gmail.com) | Course should be longer, with more quiz questions. |
 
 
@@ -474,6 +473,9 @@
 | 437 | Jayesh Joshi        | divyeshjoshi7474@gmail.com     | [jayesh joshi](https://www.linkedin.com/in/jayesh-joshi24/)                                | [Certificate Link](https://api.badgr.io/public/assertions/fjUnhyrLRnOsxWaU-8KuPw?identity__email=divyeshjoshi7474%40gmail.com)    | Great Course                   |
 | 438 | Saksham Shrivastava | sakshamshrivastav58@gmail.com  | [Saksham Shrivastava](https://www.linkedin.com/in/sakshamshrivastava/)                     | [Certificate Link](https://api.badgr.io/public/assertions/BkzFUqZSSYm-40ZuxwOMqw?identity__email=sakshamshrivastav58%40gmail.com) | Great Learning Experience!     |
 | 439 | Sayantika Laskar    | sayantikalaskar2002@gmail.com  | [Sayantika Laskar](https://www.linkedin.com/in/sayantika-laskar-098aa2250/)                | [Certificate Link](https://api.badgr.io/public/assertions/xb14j9k9SSOdAv--84ngEg?identity__email=sayantikalaskar2002%40gmail.com)  | It was good.                   |
+
+| 440 | Roushan Verma    | roushanverma041@gmail.com  | [Roushan Verma ](https://www.linkedin.com/in/roushanverma38/)                | [Certificate Link](https://api.badgr.io/public/assertions/urDIEhQ9RKW1IQk60E08fw?identity__email=roushanverma041%40gmail.com)  | Easy to learn.                   |
+
 
 | 435    | Priyal Rawal                | priyalrwl.20@gmail.com               | [Priyal Rawal](https://www.linkedin.com/in/priyal-rawal-18ba42245/)                                                                                                                                       | [Certificate Link](https://api.badgr.io/public/assertions/oCYnJNeWRCiZM7g0WvVyqQ?identity__email=priyalrwl.20%40gmail.com)            | useful                                                                                            |
 
