@@ -540,6 +540,9 @@
 | 134 | Kosuri Indu | kosurilindu@gmail.com | [Kosuri Indu](https://www.linkedin.com/in/kosuri-indu) | [Certificate Link](https://api.badgr.io/public/assertions/pFxOzxOcRSiB_dOnpgu8xQ?identity__email=kosurilindu%40gmail.com) | Good to learn about API. |
 | 135 | Akarsh Ghildyal | akarshghildyal@gmail.com | [Akarsh Ghildyal](https://www.linkedin.com/in/akarshghildyal/) | [Certificate Link](https://api.badgr.io/public/assertions/7BY5nICAQ5CymkYT3mS60Q?identity__email=ag8669%40srmist.edu.in) | Woah, a very well structured course. |
 
+| 136 | Tarun Gupta | tkg21430@gmail.com | [Tarun Gupta](linkedin.com/in/tarungupta18) | [Certificate Link](https://api.badgr.io/public/assertions/OcWOw3A6QJK2C50akkje-g) | Woah, a very well structured course. 
+| 137 | Saumili Roy      | saumili.roy@gmail.com          | [Saumili Roy](https://www.linkedin.com/in/saumili-roy/)             | [Certificate Link](https://api.badgr.io/public/assertions/NrzChj2PQQ2Ir8n0G_wWpA?identity__email=saumili.roy%40gmail.com)     | Very well explained course, but pretty easy to complete.
+
 | 138 | Riddhi Thakkar | thakkarriddhi1610@gmail.com | [Riddhi Thakkar](https://www.linkedin.com/in/riddhi-thakkar-741268287) | [Certificate Link](https://api.badgr.io/public/assertions/lcv2LkfTQNCcKlc3RM_WZA?identity__email=thakkarriddhi1610%40gmail.com) | Wonderful course for beginners and to kickstart the postman journey! |
 | 136 | Tarun Gupta | tkg21430@gmail.com | [Tarun Gupta](linkedin.com/in/tarungupta18) | [Certificate Link](https://api.badgr.io/public/assertions/OcWOw3A6QJK2C50akkje-g) | Woah, a very well structured course. |
 
