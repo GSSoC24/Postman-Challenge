@@ -461,4 +461,15 @@
 | 448 | Harshita Bhambhani  | harshitabhambhani7@gmail.com   | [Harshita Bhambhani](https://www.linkedin.com/in/harshitaa16/) | [Certificate](https://api.badgr.io/public/assertions/S-ky-yxSQDyxy02l5mVFqA?identity__email=harshitabhambhani7%40gmail.com) | Great experience                     |
 | 449 | Maheshwari Love     | l.maheshwari2008@gmail.com     | [Maheshwari Love](https://www.linkedin.com/in/maheshwari-love/) | [Certificate](https://api.badgr.io/public/assertions/K0A0qYtJS16zcieqT5Ye0g?identity__email=l.maheshwari2008%40gmail.com) | It was great to get familiar with Postman |
 | 450 | Vijay Samant        | vijaysamant4368@gmail.com      | [Vijay Samant](https://www.linkedin.com/in/vijaysamant4368) | [Certificate](https://api.badgr.io/public/assertions/T57QR76_Sf2TsWTKRvAvzQ?identity__email=vijaysamant4368%40gmail.com) | -                                      |
+
 | 451 | Aayusha Shrestha        | aayyushashrestha@gmail.com      | [Aayusha Shrestha](https://www.linkedin.com/in/aayusha-shrestha-b61308256/) | [Certificate](https://api.badgr.io/public/assertions/MV3oy-8QQfS6Ydt8FRcsvA) | Easy to follow and helpful                                      |
+
+
+| 451 | Harish Peddina      | peddinaharish2003@gmail.com    | [Harish Peddina](https://www.linkedin.com/in/harish-peddina) | [Certificate](https://api.badgr.io/public/assertions/Zst6WklPSYmeLJNS7rnuBQ?identity__email=peddinaharish2003%40gmail.com) | good                        |
+
+
+| 451 | Gopika J            | gopikajitesh.lbs@gmail.com     | [Gopika J](https://www.linkedin.com/in/gopika-j-838346245/) | [Certificate](https://api.badgr.io/public/assertions/xocQvgzqROCHz-h96aw4Fw?identity__email=gopikajitesh.lbs%40gmail.com) | Thankyou gssoc for intro to Postman    |
+
+| 451 | Prajwala Yadlapalli     | prajwalayadlapalli@gmail.com     | [Prajwala Yadlapalli](https://www.linkedin.com/in/prajwala-yadlapalli/) | [Certificate](https://api.badgr.io/public/assertions/jGQMuejWSFu3l3mUkI90Xg?identity__email=prajwalayadlapalli%40gmail.com) | It was very useful, especially the video tutorial! |
+
+
