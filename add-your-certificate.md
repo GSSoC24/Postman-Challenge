@@ -336,6 +336,9 @@
 
 | 89 |Akshitha Reddy                | akshithajagan13@gmail.com       | [Akshitha Reddy](https://www.linkedin.com/in/akshitha-reddy-1a928a21b/)          | [Certificate Link](https://api.badgr.io/public/assertions/yrmnZnPnRGykehuzoLpL8w?identity__email=akshithajagan13%40gmail.com) | Thanks for the opportunity.      |
 | 90 | PrabhjotBajwa | hiprabhbajwa@gmail.com | [PrabhjotBajwa](https://linkedin.com/in/prabhjotbajwaa) | [Certificate Link](https://api.badgr.io/public/assertions/h6pgFhLCRvSi7oSFnWJcTw?identity__email=hiprabhbajwa%40gmail.com) | GreatLearning.
+
+| 91 | Sahil Pahuja | 19059570004@aryabhattacollege.ac.in | [Sahil Pahuja](https://www.linkedin.com/in/sahil-pahuja-/) | [Certificate Link](https://api.badgr.io/public/assertions/BJ9s9k87Sv-rn1XNtm7DAA?identity__email=19059570004%40aryabhattacollege.ac.in) | Nice Course.
+
 | 91 | Rishab S | rishab.official.8@gmail.com | [Rishab S](https://www.linkedin.com/in/rishab-s-0aa28b21a/) | [Certificate Link](https://api.badgr.io/public/assertions/EB9msXqTTtyo-7U3pioRRA?identity__email=rishab.official.8%40gmail.com) | Gave a structured way of connecting between collections.
 
 | 89 | PrabhjotBajwa | hiprabhbajwa@gmail.com | [PrabhjotBajwa](https://linkedin.com/in/prabhjotbajwaa) | [Certificate Link](https://api.badgr.io/public/assertions/h6pgFhLCRvSi7oSFnWJcTw?identity__email=hiprabhbajwa%40gmail.com) | GreatLearning.
