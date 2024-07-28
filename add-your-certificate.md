@@ -631,3 +631,6 @@
 |41 | Ashika Gupta | ashikagupta1503@gmail.com | [Ashika Gupta](https://www.linkedin.com/in/ashikagupta) | [Certificarion link](https://api.badgr.io/public/assertions/SZW0uM-0QsedASHyoGlugQ?identity__email=ashikagupta1503%40gmail.com) | Easy to understand CRUD operations but could have add more tasks .|
 
 | 132 | Hanuma sai krishna poanakala | hanumasaikrishna21@gmail.com | [Hanuma Sai Krishna](https://www.linkedin.com/feed/) | [Certificate Link](https://api.badgr.io/public/assertions/RVQ6PetDSnuTm3Sgu7GRrw?identity__email=hanumasaikrishna21%40gmail.com) | it was good
+
+
+|133 | Aayush Redij | aaruser2@gmail.com | [Aayush REdij]((https://www.linkedin.com/in/aayush-redij-1b5901269/)) | [Certificarion link](https://api.badgr.io/public/assertions/xQS9QLBPS9G-5zgxo6jSeQ?identity__email=aaruser2%40gmail.com) | It was very Interesting and also got lot of knowledge of postman from it
