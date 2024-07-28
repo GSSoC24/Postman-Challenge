@@ -98,6 +98,12 @@
 | 38  | Ayush Kumar | ak7085330@gmail.com       | [Ayush Kumar](https://www.linkedin.com/in/ayushkumarx24/)  | [Certificate Link](https://api.badgr.io/public/assertions/e4D1fL8uR1GbZyCqgPK5KQ?identity__email=22053151%40kiit.ac.in)    | Great pathway to kickstart your API Journey!   
 | 39  | Likhita Basuthkar | basuthkarlikhita@gmail.com       | [Likhita Basuthkar](https://www.linkedin.com/in/likhita-basuthkar-b2a311226/)  | [Certificate Link](https://badgr.com/public/assertions/yuLS6cLYTQaWAHb6j1BOyA?identity__email=basuthkarlikhita@gmail.com)    | Great pathway to kickstart your API Journey!   
 | 40  | Akash Rai       | akashtooop@gmail.com            | [Akash Rai]([give your LinkedIn profile link here](https://www.linkedin.com/in/akash-rai1701/))             | [Certificate Link]([Enter your Certificate link](https://api.badgr.io/public/assertions/iauJ8sq9SfKZcCVwvgn0fg?identity__email=akashtooop%40gmail.com))  
+
+| 41  | Himanshu Kumar      | agarwalhimanshugaya@gmail.com            | [Himanshu Kumar ]([give your LinkedIn profile link here](https://www.linkedin.com/in/agarwalhimanshugaya?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))             | [Certificate Link]([Enter your Certificate link](https://api.badgr.io/public/assertions/Lhdu-LlMRyeywLcxfUQKXw?identity__email=agarwalhimanshugaya%40gmail.com))  |Good Couse |
+
+
+| 40  | Prashant Solanki       | prashantsolanki2025@gmail.com           | [Prashant Solanki]([give your LinkedIn profile link here](https://www.linkedin.com/in/prashant20/))             | [Certificate Link]([Enter your Certificate link](https://api.badgr.io/public/assertions/HAsAPhO6RSqzktAOk93xaA?identity__email=prashantsolanki2025%40gmail.com))    | Made my learning about POSTMAN's power with API.   
+
 | 41  | Pavitra Dakarapu       | pavitra2128@gmail.com           | [Pavitra Dakarapu](https://www.linkedin.com/in/pavitra-dakarapu-773220259)       | [Certificate Link](https://api.badgr.io/public/assertions/T_3wSBilRNKGJz8dQ2czWg)                                                                                     | Best Certifiction
 
 
@@ -334,6 +340,9 @@
 
 
 
+
 | 135 | manikumarreddyu | manikumarreddyu@gmail.com | [Mani kumar reddy u](https://www.linkedin.com/in/manikumarreddyu/) | [Certificate Link](https://badgr.com/public/assertions/6gqinFa_RtiZwlSfKKtkIw?identity__email=manikumarreddyu@gmail.com) | Excellent |
+
+
 
 
