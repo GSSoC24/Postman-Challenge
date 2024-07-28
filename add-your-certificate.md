@@ -332,6 +332,10 @@
 | 86  | Ojas Arora | ojas.arora14@gmail.com | [Ojas Arora](https://www.linkedin.com/in/ojas-arora-34910a24b/ ) | [Certificate Link](https://badgr.com/public/assertions/7Ct3UBz_REe0NfUEQH2oow?identity__email=ojas.arora14@gmail.com) | Great one for learning | 
 | 87 | Vansh Chaurasiya | vanshchaurasiya1557@gmail.com | [Vansh Chaurasiya](https://linkedin.com/in/vanshchaurasiya24) | [Certificate Link](https://api.badgr.io/public/assertions/8cNDFHmYRqOJZeQYKOXwug?identity__email=vanshchaurasiya1557%40gmail.com) | Never understood postman in college, this well structured course made me understand everyth
 
+| 88 | Radhika Malpani      | radhikavishnudas2002@gmail.com            | [Radhika Malpani](https://www.linkedin.com/in/radhikamalpani1702/) | [Certificate Link](https://api.badgr.io/public/assertions/vKf7PfN3RTmt9Ar_l-LDxA?identity__email=radhikavishnudas2002%40gmail.com)  | Learn something new! 
+| 89 | PrabhjotBajwa | hiprabhbajwa@gmail.com | [PrabhjotBajwa](https://linkedin.com/in/prabhjotbajwaa) | [Certificate Link](https://api.badgr.io/public/assertions/h6pgFhLCRvSi7oSFnWJcTw?identity__email=hiprabhbajwa%40gmail.com) | GreatLearning.
+| 90 | Dhairya gothi | dhairyag31@gmail.com | [DhairyaGothi](https://www.linkedin.com/in/dhairya-gothi-65945b288/) | [Certificate Link](https://api.badgr.io/public/assertions/e7dzC4UyTcuWFPdumLCwUw?identity__email=dhairyag31%40gmail.com) | learned new things
+
 
 
 | 88 | Ratnojit Saha   |  saharatnojit04@gmail.com  |  [Ratnojit Saha](https://www.linkedin.com/in/ratnojit-saha-854057268/) | [Certificate Link](https://www.linkedin.com/in/ratnojit-saha-854057268/) | Learnt many new things about postman many shortcuts and other features, haven't went through any youtube explained videos for postman so this program really helped me.
