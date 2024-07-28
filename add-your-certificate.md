@@ -624,8 +624,6 @@
 
 | 452   | Sourabh Singh Rawat     | sourabhsinghrawat782@gmail.com          | [Sourabh singh rawat](https://www.linkedin.com/in/sourabh782/)                                                                                                          | [Certificate Link](https://api.badgr.io/public/assertions/QeBCBD1tSxOCJYsE-sL21A?identity__email=sourabhsinghrawat782%40gmail.com)                                | It helped me when i started with API development for all my backend projects
 
-| 452 | Bhavy Zala              | zalabhavy2004@gmail.com           | [Bhavy Zala](https://www.linkedin.com/in/bhavy-zala-59bb76241/)    | [Certificate](https://api.badgr.io/public/assertions/X9BUG2MRRiymtGW23oBSRA?identity__email=zalabhavy2004%40gmail.com)  | Very Nice ! |
-
 
 | 451 | Neha Kanwar     | nehashekhawat255@gmail.com     | [Neha Kanwar](https://www.linkedin.com/in/nehakanwar30) | [Certificate](https://api.badgr.io/public/assertions/LeBc3451QTC1gv2hM6GTBA?identity__email=nehashekhawat255%40gmail.com) | It was easy to learn using your guided video |
 | 451 | Hafsa Wasi | hafsawasi20@gmail.com | [Hafsa Wasi](https://www.linkedin.com/in/hafsa-wasi/) | [Certificate Link](https://api.badgr.io/public/assertions/WxUuUfNCRIenjOiHfXlAgQ?identity__email=hafsawasi20%40gmail.com) | Great experience                     |
@@ -640,4 +638,5 @@
 | 452  | Anandita Chaudhary | anandita299@gmail.com       | [Anandita Chaudhary](https://www.linkedin.com/in/anandita-chaudhary-7591a4259/)  | [Certificate Link](https://api.badgr.io/public/assertions/o9Qcdr8ESteUdvtOCgC_rw?identity__email=anandita299%40gmail.com)    | Loved the course!   |
 | 457 | Donald Reddy Indelu | donaldreddy2712@gmail.com | [Donald Reddy Indelu](https://www.linkedin.com/in/donald-reddy-a12702/) | [Certificate](https://api.badgr.io/public/assertions/lGuGbuCmRvy0L2sVVsBktg?identity__email=donaldreddy2712%40gmail.com) | useful |
 |---- | Aditya Singh | aditya.110803@gmail.com | [Aditya Singh] https://www.linkedin.com/in/aditya-singh11/ | [certificate link] https://badgr.com/public/assertions/KMta6e98RTyCootjbtyzKQ?identity__email=aditya.110803@gmail.com | it was nice but could be little bit tough |
+| 458 | Kashif Abdullah | kashifabdullah581@gmail.com | [Muhammad Kashif Abdullah](https://www.linkedin.com/in/muhammad-kashif-abdullah-344978235/) | [certificate link](https://api.badgr.io/public/assertions/8dN5_7YvSQqTb-I8UAlmdg?identity__email=kashifabdullah581%40gmail.com) | I love to learn new things it gives you a satisfaction |
 
