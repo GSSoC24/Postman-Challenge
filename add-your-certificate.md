@@ -480,6 +480,6 @@
 
 | 451 | Prajwala Yadlapalli     | prajwalayadlapalli@gmail.com     | [Prajwala Yadlapalli](https://www.linkedin.com/in/prajwala-yadlapalli/) | [Certificate](https://api.badgr.io/public/assertions/jGQMuejWSFu3l3mUkI90Xg?identity__email=prajwalayadlapalli%40gmail.com) | It was very useful, especially the video tutorial! |
 
-
+| 452  | Anandita Chaudhary | anandita299@gmail.com       | [Anandita Chaudhary](https://www.linkedin.com/in/anandita-chaudhary-7591a4259/)  | [Certificate Link](https://api.badgr.io/public/assertions/o9Qcdr8ESteUdvtOCgC_rw?identity__email=anandita299%40gmail.com)    | Loved the course!   |
 
 
