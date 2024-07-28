@@ -478,5 +478,7 @@
 
 | 451 | Prajwala Yadlapalli     | prajwalayadlapalli@gmail.com     | [Prajwala Yadlapalli](https://www.linkedin.com/in/prajwala-yadlapalli/) | [Certificate](https://api.badgr.io/public/assertions/jGQMuejWSFu3l3mUkI90Xg?identity__email=prajwalayadlapalli%40gmail.com) | It was very useful, especially the video tutorial! |
 
+| 452 | Baba Sekhar     | babasekhar31@gmail.com     | [Baba Sekhar](https://www.linkedin.com/in/baba-sekhar-779b15245/) | [Certificate](https://api.badgr.io/public/assertions/d8mpCxrdSkKBaaDHXpZGgA?identity__email=babasekhar31%40gmail.com) | Great Learning Happy do another Course |
+
 
 
