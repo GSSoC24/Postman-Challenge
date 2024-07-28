@@ -367,6 +367,9 @@
 
 | 133 | Kalyani Uppuluri | kalyaniuppuluri7@gmail.com       | [Kalyani Uppuluri](https://www.linkedin.com/in/kalyani-uppuluri-522419257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  | [Certificate Link](https://api.badgr.io/public/assertions/cVNEYAGeQUiC-NrqnwPFlA?identity__email=kalyaniuppuluri7%40gmail.com)    | Very helpful Course with hands-on experience.   |
 | 134 | Kosuri Indu        | kosurilindu@gmail.com   | [Kosuri Indu](https://www.linkedin.com/in/kosuri-indu) | [Certificate Link](https://api.badgr.io/public/assertions/pFxOzxOcRSiB_dOnpgu8xQ?identity__email=kosurilindu%40gmail.com) | Good to learn about API.     |
+
+| 135 | Mohit Raj Jha    | mohitrajjha111@gmail.com     | [Mohit Raj Jha](https://www.linkedin.com/in/mohit-raj-jha/)     | [Certificate Link](https://api.badgr.io/public/assertions/WwBg4nHHT7KmCRmaETrSFA?identity__email=mohitrajjha111%40gmail.com) | Awesome Experience.
+
 | 135 | Isha Nair | isha.nair001@gmail.com | [Isha Nair](https://www.linkedin.com/in/ishanair09) | [Certificate Link](https://api.badgr.io/public/assertions/XD1wIGx7Q_mH0raNFnvqGQ?identity__email=isha.nair001%40gmail.com) | Great Start to API Learning Journey! |
 
 
@@ -377,6 +380,7 @@
 | 136 | Tarun Gupta | tkg21430@gmail.com | [Tarun Gupta](linkedin.com/in/tarungupta18) | [Certificate Link](https://api.badgr.io/public/assertions/OcWOw3A6QJK2C50akkje-g) | Woah, a very well structured course. |
 
 |137 |Lovely Mahour | lovelymahour1405@gmail.com | [Lovely Mahour](https://www.linkedin.com/in/lovely-mahour-992316265/) | [Certificate Link](https://api.badgr.io/public/assertions/A7wZzKKnRUutrKfn6SQ5TA?identity__email=lovelymahour1405%40gmail.com) | Thorough and practical course that provides essential API knowledge and hands-on experience with Postman. |
+
 
 
 
