@@ -122,5 +122,6 @@
 | 101 | Vaibhav Pandey | wellmove2222@gmail.com   | [Vaibhav Pandey ](https://www.linkedin.com/in/vaibahvpandey9)          | [Certificate Link]([[https://badgr.com/public/assertions/yUu7EaFjTOS6TT9HvHiNHA?identity__email=wellmove2222@gmail.com&action=download]]) | Very Interesting
 | 102 | Gopikrishnan Tripathy | gopitrip.gt123@gmail.com   | [Gopikrishnan Tripathy](https://www.linkedin.com/in/gopikrishnan-tripathy-051048258/)          | [Certificate Link](https://api.badgr.io/public/assertions/LbgnB1DeS3q9W6Mwy2XC1g?identity__email=gopitrip.gt123%40gmail.com) | It was an interesting course!
 | 103 | Anurag Pandey | anuragpandey88699@gmail.com | [Anurag Pandey](https://www.linkedin.com/in/anuragpandey0711/) | [Certificate Link](https://api.badgr.io/public/assertions/Ym2CliQgSPO1PjmOf0rIrw?identity__email=anuragpandey88699%40gmail.com) |Used in my GSSoC contributions
+| 104 | Chinmay Lothe | chinmaylothe@gmail.com | [Chinmay Lothe](https://www.linkedin.com/in/chinmay-lothe-36aa62259/) | [Certificate Link](https://api.badgr.io/public/assertions/M00bIGO_TgikvDoeK8tmKQ?identity__email=chinmaylothe%40gmail.com) | I enjoyed playing with API 
 
 
