@@ -129,4 +129,13 @@
 | 127 | Dnyandeep Chute          | dnyandeepchute@gmail.com      | [Dnyandeep Chute](https://www.linkedin.com/in/dnyandeep-chute-6aa975256/) | [Certificate Link](https://api.badgr.io/public/assertions/f_iR8oPZQxCWTr5alxoUaw?identity__email=dnyandeepchute%40gmail.com) | Great learning experience.          |
 | 128 | Pavan Kumar Marpu        | pavankumarmarpu23@gmail.com   | [Pavan Kumar Marpu](https://www.linkedin.com/in/pavan-kumar-marpu) | [Certificate Link](https://api.badgr.io/public/assertions/l9n4YB5eSPKG70-OO_uHVQ?identity__email=pavankumarmarpu23%40gmail.com) | Too good.                           |
 | 129  | Priyanshu Aggarwal | priyanshujindal101@gmail.com       | [Priyanshu Aggarwal](https://www.linkedin.com/in/priyanshuaggarwal/)  | [Certificate Link](https://api.badgr.io/public/assertions/nlU7TvmtT4i0sE8wEVFlqg?identity__email=priyanshujindal101%40gmail.com)    | It was really smooth to learn postman, and i found it intresting as well.   |
+
 | 130 | Yash Mall                | myash0818@gmail.com           | [Yash Mall](https://www.linkedin.com/in/yashmall/)                    | [Certificate Link](https://api.badgr.io/public/assertions/FOTybTtDTkaNAipEhuVxzg?identity__email=myash0818%40gmail.com)  | Great practical experience and learning.
+
+
+| 131 | Akash Maity | aakashmaity57@gmail.com | [Akash Maity](https://www.linkedin.com/in/aakashmaity/) | [Certificate Link](https://api.badgr.io/public/assertions/CFnCHf_wS1-XDZqfKIGdTA?identity__email=aakashmaity57%40gmail.com)) | Quite easy! |
+
+| 132 | Kalyani Uppuluri | kalyaniuppuluri7@gmail.com       | [Kalyani Uppuluri](https://www.linkedin.com/in/kalyani-uppuluri-522419257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  | [Certificate Link](https://api.badgr.io/public/assertions/cVNEYAGeQUiC-NrqnwPFlA?identity__email=kalyaniuppuluri7%40gmail.com)    | Very helpful Course with hands-on experience.   |
+| 133 | Kosuri Indu        | kosurilindu@gmail.com   | [Kosuri Indu](https://www.linkedin.com/in/kosuri-indu) | [Certificate Link](https://api.badgr.io/public/assertions/pFxOzxOcRSiB_dOnpgu8xQ?identity__email=kosurilindu%40gmail.com) | Good to learn about API.     |
+
+
