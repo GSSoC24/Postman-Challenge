@@ -117,4 +117,4 @@
 | 99 | Surojit Mondal | surojitmondalit@gmail.com | [Surojit Mondal](https://linkedin.com/in/surojitmondal) | [Certificate Link](https://api.badgr.io/public/assertions/h6pgFhLCRvSi7oSFnWJcTw?identity__email=surojitmondalit@gmail.com) | It was a great opportunity to learn and grow🚀
 | 100 | Aslam Sayyad | sayyadaslam2020@gmail.com | [Aslam Sayyad](https://www.linkedin.com/in/aslamsayyad02/) | [Certificate Link](https://api.badgr.io/public/assertions/b4bTt_n0Sj-IwFVj_QTueQ?identity__email=sayyadaslam2020%40gmail.com) | Loved it.
 | 101 | Vaibhav Pandey | wellmove2222@gmail.com   | [Vaibhav Pandey ](https://www.linkedin.com/in/vaibahvpandey9)          | [Certificate Link]([[https://badgr.com/public/assertions/yUu7EaFjTOS6TT9HvHiNHA?identity__email=wellmove2222@gmail.com&action=download]]) | Very Interesting
-
+| 102 | Gopikrishnan Tripathy | gopitrip.gt123@gmail.com   | [Gopikrishnan Tripathy](https://www.linkedin.com/in/gopikrishnan-tripathy-051048258/)          | [Certificate Link](https://api.badgr.io/public/assertions/LbgnB1DeS3q9W6Mwy2XC1g?identity__email=gopitrip.gt123%40gmail.com) | It was an interesting course!
