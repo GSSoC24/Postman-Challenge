@@ -614,6 +614,7 @@
 
 | 133 | Aksshay Balasubramanian | aksshaybala8846@gmail.com| [Aksshay Balasubramanian](https://www.linkedin.com/in/aksshay-balasubramanian-40279825b/) | [Certificate Link](https://badgr.com/public/assertions/I_lV9ilTSmeDdm2PQQLH9g?identity__email=aksshaybala8846@gmail.com) | Good oppurtunity provided by the GSSOC'24 
 
+| 1 | Abhishek V. Bhande | abhishekbhande248@gmail.com | [Abhishek V. Bhande](https://www.linkedin.com/in/abhishek-bhande-21a984259) | [Certificate Link](https://api.badgr.io/public/assertions/K7DaByTjTM-OT3h3y2y4uw?identity__email=abhishekbhande248%40gmail.com) | Could have added more tasks |
 
 | 1    | Abhishek V. Bhande                | abhishekbhande248@gmail.com               | [Abhishek V. Bhande](https://www.linkedin.com/in/abhishek-bhande-21a984259)                                                                                                                                       | [Certificate Link](https://api.badgr.io/public/assertions/K7DaByTjTM-OT3h3y2y4uw?identity__email=abhishekbhande248%40gmail.com)            | Could have added more tasks                                                                                            |
 
@@ -631,3 +632,4 @@
 |41 | Ashika Gupta | ashikagupta1503@gmail.com | [Ashika Gupta](https://www.linkedin.com/in/ashikagupta) | [Certificarion link](https://api.badgr.io/public/assertions/SZW0uM-0QsedASHyoGlugQ?identity__email=ashikagupta1503%40gmail.com) | Easy to understand CRUD operations but could have add more tasks .|
 
 | 132 | Hanuma sai krishna poanakala | hanumasaikrishna21@gmail.com | [Hanuma Sai Krishna](https://www.linkedin.com/feed/) | [Certificate Link](https://api.badgr.io/public/assertions/RVQ6PetDSnuTm3Sgu7GRrw?identity__email=hanumasaikrishna21%40gmail.com) | it was good
+| 133 | K-kiran77 | kondetikiran77@gmail.com | [KONDETI KIRAN KUMAR](https://www.linkedin.com/in/kondeti-kiran-kumar-5a471b252/) | [Certificate Link](https://api.badgr.io/public/assertions/GlUZ2v3pTS-DClIihPYRFA?identity__email=kondetikiran77%40gmail.com) | great pathway
