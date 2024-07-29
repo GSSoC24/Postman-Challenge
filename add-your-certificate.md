@@ -477,4 +477,5 @@
 | 480 | Bhavy Zala | zalabhavy2004@gmail.com | [Bhavy Zala](https://www.linkedin.com/in/bhavy-zala-59bb76241/) | [Certificate](https://api.badgr.io/public/assertions/X9BUG2MRRiymtGW23oBSRA?identity__email=zalabhavy2004%40gmail.com) | Very Nice ! |
 | 481 | Aditi Sharma | adisharma.975312468@gmail.com | [Aditi Sharma](https://www.linkedin.com/in/aditi-sharma-88ba04292/) | [Certificate](https://api.badgr.io/public/assertions/G0Ybi48dSMq7efyxJbyJlw?identity__email=adisharma.975312468%40gmail.com) | It was very useful, especially the video tutorial! |
 | 483 | Haritha Gunasekaran | harithaguna03@gmail.com |[harithaguna03](https://www.linkedin.com/in/harithaguna/) | [Certificate](https://badgr.com/public/assertions/FHZuwJZTTae6oGFjf6iOGw?identity__email=harithaguna03@gmail.com) | Great Learning! |
-| 484 | Tanisha Garg  |  gargtanisha010@gmail.com | [Tanisha Garg] (https://www.linkedin.com/in/tanisha-garg-a97085299/) | [Certificate] (https://api.badgr.io/public/assertions/q8jkba4sSpK7KoeS0H3R6w?identity__email=gargtanisha010%40gmail.com) | Could have added more skillchecks |
+
+| 484| Tanisha Garg  |  gargtanisha010@gmail.com | [Tanisha Garg](https://www.linkedin.com/in/tanisha-garg-a97085299/) | [Certificate](https://api.badgr.io/public/assertions/q8jkba4sSpK7KoeS0H3R6w?identity__email=gargtanisha010%40gmail.com) | Could have added more skillchecks |
