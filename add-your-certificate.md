@@ -622,6 +622,11 @@
 
 | 452   | Sourabh Singh Rawat     | sourabhsinghrawat782@gmail.com          | [Sourabh singh rawat](https://www.linkedin.com/in/sourabh782/)                                                                                                          | [Certificate Link](https://api.badgr.io/public/assertions/QeBCBD1tSxOCJYsE-sL21A?identity__email=sourabhsinghrawat782%40gmail.com)                                | It helped me when i started with API development for all my backend projects
 
+
+
+| 452 | Bhavy Zala              | zalabhavy2004@gmail.com           | [Bhavy Zala](https://www.linkedin.com/in/bhavy-zala-59bb76241/)    | [Certificate](https://api.badgr.io/public/assertions/X9BUG2MRRiymtGW23oBSRA?identity__email=zalabhavy2004%40gmail.com)  | Very Nice ! |
+ 
+ 
 | 451 | Neha Kanwar     | nehashekhawat255@gmail.com     | [Neha Kanwar](https://www.linkedin.com/in/nehakanwar30) | [Certificate](https://api.badgr.io/public/assertions/LeBc3451QTC1gv2hM6GTBA?identity__email=nehashekhawat255%40gmail.com) | It was easy to learn using your guided video |
 | 451 | Hafsa Wasi | hafsawasi20@gmail.com | [Hafsa Wasi](https://www.linkedin.com/in/hafsa-wasi/) | [Certificate Link](https://api.badgr.io/public/assertions/WxUuUfNCRIenjOiHfXlAgQ?identity__email=hafsawasi20%40gmail.com) | Great experience                     |
 | 451 | Marumudi Mary Jennifer Eunice       | jennifereunicemarumudi@gmail.com      | [Marumudi Mary Jennifer Eunice](https://www.linkedin.com/in/marumudi-jennifer-eunice-64a517230/) | [Certificate](https://api.badgr.io/public/assertions/mXnLLVXMQCOI8PJtB2aWUw?identity__email=jennifereunicemarumudi%40gmail.com) | -                                      |
