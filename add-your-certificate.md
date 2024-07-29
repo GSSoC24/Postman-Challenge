@@ -475,3 +475,4 @@
 | 478 | Harsh Mishra | mishra02harsh@gmail.com | [Harsh Mishra](https://www.linkedin.com/in/harsh-mishra1/) | [Certificate](https://api.badgr.io/public/assertions/ZrlCuilYQQ2lzCyci6p_Fg?identity__email=mishra02harsh%40gmail.com) | Thanks to GSSoC |
 | 479 | Sidda Deepika | thedev3333@gmail.com | [Sidda Deepika](https://www.linkedin.com/in/deepika-sidda15/) | [Certificate Link](https://api.badgr.io/public/assertions/WRaEjcc7Su68CnvyWLKQGw?identity__email=thedev3333%40gmail.com) | Improve the difficulty level |
 | 480 | Bhavy Zala | zalabhavy2004@gmail.com | [Bhavy Zala](https://www.linkedin.com/in/bhavy-zala-59bb76241/) | [Certificate](https://api.badgr.io/public/assertions/X9BUG2MRRiymtGW23oBSRA?identity__email=zalabhavy2004%40gmail.com) | Very Nice ! |
+| 481 | Tenzin Delek | tibetdelek@gmail.com | [Tenzin Delek](https://www.linkedin.com/in/tenzin-delek-8a157724b/) | [Certificate](https://badgr.com/backpack/badges/669933a3ec499d6eafc638bb) | Good for revision |
