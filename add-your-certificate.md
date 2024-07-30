@@ -564,4 +564,5 @@
 | 567 | Ashu Agarwal | ashuagarwal3017@gmail.com | [Ashu Agarwal ](www.linkedin.com/in/ashuagarwal3017) | [Certificate](https://api.badgr.io/public/assertions/R_B0iiloS_KlgVdNYovNcQ?identity__email=ashuagarwal3017%40gmail.com) | Beginner friendly |
 | 568 | Ellen Rose James | ellenrj03@gmail.com | [Ellen Rose James](https://www.linkedin.com/in/ellen-rose-james/) | [Certificate](https://badgr.com/public/assertions/3aQkHFXaSE-hQxKTthHHJg?identity__email=ellenrj03@gmail.com) | Simple course structure which helped me learn API fundamentals easily |
 | 569 | Apoorva    | apoorvas2075@gmail.com     | [Apoorva Singh](https://www.linkedin.com/in/apoorva-singh57/) | [Certificate](https://api.badgr.io/public/assertions/dVnRE608Tu24cYGinmPA1Q?identity__email=apoorvas2075%40gmail.com) | A great course to understand about API and its functioning. |
+| 570 | G AVINESHWAR    | avineshwar2002@gmail.com     | [G Avineshwar](https://www.linkedin.com/in/avineshwarg) | [Certificate](https://api.badgr.io/public/assertions/y9ePIhJeQDGTVvcW0A1CDQ?identity__email=avineshwar2002%40gmail.com) | A great course to Learned about APIs. |
 
