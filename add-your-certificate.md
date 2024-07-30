@@ -571,3 +571,5 @@
 | 574 | Damini Chachane | daminichachane04@gmail.com | [Damini Chachane](https://www.linkedin.com/in/damini-chachane-82a210252/) | [Certificate](https://api.badgr.io/public/assertions/4c3RXLSGSNWIUKVwsbedWg?identity__email=daminichachane04%40gmail.com) | Very Good ! |
 | 575 | Palak Bhardwaj | palak10bh@gmail.com | [Palak Bhardwaj](https://www.linkedin.com/in/palak-bhardwaj-832673248/) | [Certificate](https://api.badgr.io/public/assertions/yuzLbYiPS9GPcCm7BEA_bA?identity__email=palak10bh%40gmail.com) | Interesting  ! |
 | 576 | Mohit Gedar | mohitgedar@gmail.com | [Mohit Gedar](https://www.linkedin.com/in/mohit-gedar-99ab761a2/) | [Certificate](https://api.badgr.io/public/assertions/Gv8OB9a9SYWwBAjwOwvLVQ?identity__email=mohitgedar%40gmail.com) | Great to new comers who don't know about API or postman ! |
+| 577 | Dhruv Chadha | dhruvchadha121@gmail.com | [Dhruv Chadha](https://www.linkedin.com/in/dhruv-chadha-71b2a322a/) | [Certificate](https://api.badgr.io/public/assertions/K_65-ka8TIK4Q-AexVaySQ?identity__email=dhruvchadha121%40gmail.com) | Great instructions throughout the course |
+
