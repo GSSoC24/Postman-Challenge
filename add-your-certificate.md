@@ -624,4 +624,4 @@
 | 627 | Shayan Chakraborty | shayansworks@gmail.com | [Shayan Chakraborty](https://www.linkedin.com/in/shayan-chakraborty-1397332bb/) | [Certificate](https://api.badgr.io/public/assertions/tkdgnHQ7TDyCtUltSh9CUg?identity__email=shayansworks%40gmail.com) | Great Experience |
 | 628 | Saiyam Tuteja | saiyamtuteja4@gmail.com | [Saiyam Tuteja](https://www.linkedin.com/in/saiyam-tuteja/) | [Certificate](https://api.badgr.io/public/assertions/pGLcXWUsS52hh25xFnKQmg?identity__email=saiyamtuteja%40gmail.com) | It was really smooth to learn postman, and i found it intresting as well.|
 | 629 | Kashish Verma | kashishverma2124@gmail.com | [Kashish Verma](https://www.linkedin.com/in/kashish-verma-2801332a1/) | [Certificate](https://api.badgr.io/public/assertions/vGyWvAMUQ1yGz0IpLqWGgQ?identity___email=kashishverma2124%40gmail.com) | Great course done by postman ! |
-
+| 630 | Allodeepa Das | allodeepadas@gmail.com | [Allodeepa Das](https://www.linkedin.com/in/allodeepa-das-22b6ab298/) | [Certificate](https://badgr.com/public/assertions/U6nGo0XBRqKvt_abg6HQ1Q?identity__email=allodeepadas@gmail.com) | It was interesting and get to know briefly about API |
