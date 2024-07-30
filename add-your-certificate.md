@@ -583,4 +583,11 @@
 | 586 | PRIYANSHU TIWARI    | techarena955@gmail.com    | [PRIYANSHU TIWARI ](https://www.linkedin.com/in/priyanshu-tiwari-305661258/) | [Certificate](https://api.badgr.io/public/assertions/k3Da9ymYS3O__RGg8-9YNA?identity__email=techarena955%40gmail.com) | Very useful course! Learned a lot from it thankyou. |
 | 587 | Uma Chandra Sekhara Sarma Thadepalli | chandrasekhara067@gmail.com | [Uma Chandra Sekhara Sarma Thadepalli](https://www.linkedin.com/in/umachandrasekhara/) | [certificate link](https://api.badgr.io/public/assertions/jAhw-eFbR6q0K8GvbF-uvA?identity__email=chandrasekhara067%40gmail.com) | it was nice|
 | 588 | Dhayanandh S    | dhayanandhs2003@gmail.com    | [Dhayanandh S](https://www.linkedin.com/in/dhayanandhs) | [Certificate](https://api.badgr.io/public/assertions/lp7Dx89ZTgWDwEpHEI9mqg?identity__email=dhayanandhs2003%40gmail.com) | Learned a lot from it. Thanks for providing such a great learning experience. |
-| 591 | Ketan kumar | ketanop473@gmail.com | [ketan op](https://www.linkedin.com/in/ketan-op-36712223a/) | [Certificate](https://badgr.com/backpack/badges/66a92b2d6e1838114a8b9131) | Great Learning, best API course |
+
+| 593 | Ketan kumar | ketanop473@gmail.com | [ketan op](https://www.linkedin.com/in/ketan-op-36712223a/) | [Certificate](https://badgr.com/backpack/badges/66a92b2d6e1838114a8b9131) | Great Learning, best API course |
+=======
+| 589 | Vedang Maheshwari | vedang.maheshwari@gmail.com | [Vedang Maheshwari](https://www.linkedin.com/in/vedang1/) | [Certificate](https://api.badgr.io/public/assertions/fbyeajsVTvau3HlipMhP5Q?identity__email=vedang.maheshwari%40gmail.com) | It was a Nice Course |
+| 590 | Kanishk Chaudhary  | canishhk@gmail.com  | [ Kanishk Chaudhary ](https://www.linkedin.com/in/kanishk-chaudhary-a4339b24b/) | [Certificate](https://api.badgr.io/public/assertions/68780Ig-QQihbOGyipjA-Q?identity__email=canishhk%40gmail.com) | Nice Course but support team should be good.|
+| 591 | Kajal    | kajalmathur156@gmail.com     | [kajal ](https://www.linkedin.com/in/kajal-909707230/) | [Certificate](https://api.badgr.io/public/assertions/xCMyqqPJSBSfCIwR9DaNEA?identity__email=kajal.21234%40knit.ac.in) | It was a good course , derived a lot of learning from it |
+| 592 | Anusha Golla | 22wh1a6641@bvrithyderabad.edu.in | [Anusha Golla](http://www.linkedin.com/in/anusha-golla-63b573259) | [Certificate](https://api.badgr.io/public/assertions/kUNT4647RPOTMx_FzUwUqw?identity__email=22wh1a6641%40bvrithyderabad.edu.in) | Great Learning |
+
