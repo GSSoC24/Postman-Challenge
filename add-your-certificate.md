@@ -574,4 +574,4 @@
 | 577 | Dhruv Chadha | dhruvchadha121@gmail.com | [Dhruv Chadha](https://www.linkedin.com/in/dhruv-chadha-71b2a322a/) | [Certificate](https://api.badgr.io/public/assertions/K_65-ka8TIK4Q-AexVaySQ?identity__email=dhruvchadha121%40gmail.com) | Great instructions throughout the course |
 | 578 | Vijaya Mishra | vijayam0421@gmail.com | [Vijaya Mishra](https://www.linkedin.com/in/vijaya-mishra21) | [Certificate](https://api.badgr.io/public/assertions/ScV1PU8zQ0uVN6V2hR_pHA?identity__email=vijayam0421%40gmail.com) | Nice Course ! |
 | 579 | Vishwajeet Gehlot    | vishwajeetgehlot3@gmail.com     | [Vishwajeet Gehlot](https://www.linkedin.com/in/vishwajeet-gehlot-858121221/) | [Certificate](https://badgr.com/public/assertions/-ebRptTHScW0Y2VsJoZMMQ?identity__email=vishwajeetgehlot3@gmail.com) | Thanks for this opportunity! |
-
+| 580 | Deep Chakraborty | deep225870@gmail.com | [Deep Chakraborty](https://www.linkedin.com/in/deep-chakraborty-31043325a/) | [Certificate](https://api.badgr.io/public/assertions/OjV2Ay-gStCXJeYb_pzeUg?identity__email=deep225870%40gmail.com) | It was a nice experience ! |
