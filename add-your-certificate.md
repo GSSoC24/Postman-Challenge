@@ -636,6 +636,9 @@
 | 457 | Donald Reddy Indelu | donaldreddy2712@gmail.com | [Donald Reddy Indelu](https://www.linkedin.com/in/donald-reddy-a12702/) | [Certificate](https://api.badgr.io/public/assertions/lGuGbuCmRvy0L2sVVsBktg?identity__email=donaldreddy2712%40gmail.com) | useful |
 |---- | Aditya Singh | aditya.110803@gmail.com | [Aditya Singh] https://www.linkedin.com/in/aditya-singh11/ | [certificate link] https://badgr.com/public/assertions/KMta6e98RTyCootjbtyzKQ?identity__email=aditya.110803@gmail.com | it was nice but could be little bit tough |
 
+| 458 | Abir Thakur  | abirjerry2211@gmail.com | [Abir Thakur](https://www.linkedin.com/in/abir-thakur-a83067268/) | [certificate link](https://api.badgr.io/public/assertions/fS_VLPNRSI67Fxdiuwov8A?identity__email=abirjerry2211%40gmail.com) | Great experience! |
+
+
 |  460 | Dhruv Patel                   | dhuv2877@gmail.com                         | [Dhruv Patel]([www.linkedin.com/in/sourik-das-a5a03b251](https://www.linkedin.com/in/dhruv-patel-824922223/))                                                        | [Certificate](https://api.badgr.io/public/assertions/keV9iDxlQ1-2i_z1YtzQsw?identity__email=dhuv2877%40gmail.com)               | मजा आया ! और मैं ये जो मजा है, हिंदुस्तान के हर व्यक्ति को देना चाहता हूं                                              |
 
 | 453 | Yash Sapkal | yashsapkal100@gmail.com | [Yash Sapkal] https://www.linkedin.com/in/yash-sapkal/ | [certificate link] https://api.badgr.io/public/assertions/zyp70MA8Qbi2RJBRYT2Tfw?identity__email=yashsapkal100%40gmail.com | A good intro to Postman |
@@ -701,5 +704,6 @@
 | 505 | Kushagra Kiyawat | kushagra.kiyawat2@gmail.com | [Kushagra Kiyawat](https://www.linkedin.com/in/kushagrakiyawat/) | [Certificate Link](https://api.badgr.io/public/assertions/H7iDYtvBTl6Ps7-zAsdGXQ?identity__email=kushagra.kiyawat2%40gmail.com) | Your feedback here |
 | 506 | Chandrakant Sahu | chandrakant.21.07.2003@gmail.com | [Chandrakant Sahu](https://www.linkedin.com/in/chandrakantsahu-nitrr/) | [Certificate](https://api.badgr.io/public/assertions/v6JYRc7yTX6ubGASpoDNoQ?identity__email=chandrakant.21.07.2003%40gmail.com) | got a great start |
 | 507 | V.Litesh Kumar | kvlitesh@gmail.com | [V.Litesh Kumar](https://www.linkedin.com/in/v-litesh-kumar-2094b5218/) | [Certificate](https://api.badgr.io/public/assertions/Pol0yyShSBC_0jrfs64GcA?identity__email=kvlitesh%40gmail.com) | Its great ,learnt postman deeply |
+
 
 
