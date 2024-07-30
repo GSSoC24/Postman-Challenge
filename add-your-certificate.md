@@ -536,4 +536,4 @@
 | 539 | Apurv Panchal | apurv4605@gmail.com | [Apurv Panchal](https://www.linkedin.com/in/apurv-panchal-015847210/) | [Certificate](https://api.badgr.io/public/assertions/f7Tc8aNET6iXHx5NsiKrjQ?identity__email=apurv4605%40gmail.com) | Good for beginners |
 | 540 | Meet Jain | meetofficialhere@gmail.com | [Meet Jain](https://linkedin.com/in/meet-jain-413015265/) | [Certificate](https://api.badgr.io/public/assertions/qsFF_r4QS8KzGsxVNC5E8Q?identity__email=meetofficialhere%40gmail.com) | Well Structured with Lots of learning in this small course |
 | 541 | Ambuj Kumar Rai  |  ambuj.rai06@gmail.com | [Ambuj Kumar Rai](https://www.linkedin.com/in/ambuj-k-rai-28b45a289/) | [Certificate](https://api.badgr.io/public/assertions/Vuu0H4LJSEihtRfUa9jLHA?identity__email=ambuj.rai06%40gmail.com) |Insightful course|
-
+| 542 | Rahul Kumar Giri | rrahulrajgiri15@gmail.com |[Rahul Kumar Giri](https://www.linkedin.com/in/rahulkumargiri15/) |[Certificate] ( https://api.badgr.io/public/assertions/BnA_Y9Q1RWeTozPHPz3WgQ?identity__email=rrahulrajgiri15%40gmail.com )  | Great time learning |
