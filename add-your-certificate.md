@@ -530,3 +530,5 @@
 | 533 | Anirudh Sharma | anis42390@gmail.com |[Anirudh Sharma](https://www.linkedin.com/in/anirudh-sharma-58ba29256/) | [Certificate](https://api.badgr.io/public/assertions/AsNUacPBRtqSh3x1kBPUlQ?identity__email=anis42390%40gmail.com) | Api development is awesome! |
 | 534 | Garima Chandra  |  garimachandra149@gmail.com | [Garima chandra](https://www.linkedin.com/in/garima-chandra-476377288/) | [Certificate](https://api.badgr.io/public/assertions/8Vf1zWLYRKS5ldCTD4kReA?identity__email=garimachandra149%40gmail.com) |Amazing course|
 | 535 | Aditya Narayan | 23cs2007@rgipt.ac.in |[Aditya Narayan](https://www.linkedin.com/in/aditya-narayan-33156a288/) | [Certificate](https://api.badgr.io/public/assertions/X4uQNOR2Q5K1iemlKMEeoQ?identity__email=23cs2007%40rgipt.ac.in) | Learned a lot  |
+| 536 | Navya Bijoy | navyabijoy14@gmail.com | [Navya Bijoy](www.linkedin.com/in/navya-bijoy-883a35249) | [Certificate](https://api.badgr.io/public/assertions/Cq3Yz9TpSDqvIqesndeEFg?identity__email=navyabijoy14%40gmail.com) | Very useful! The explanation was easy to understand ! |
+
