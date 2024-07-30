@@ -478,7 +478,6 @@
 | 481 | Aditi Sharma | adisharma.975312468@gmail.com | [Aditi Sharma](https://www.linkedin.com/in/aditi-sharma-88ba04292/) | [Certificate](https://api.badgr.io/public/assertions/G0Ybi48dSMq7efyxJbyJlw?identity__email=adisharma.975312468%40gmail.com) | It was very useful, especially the video tutorial! |
 | 482 | Shelly Verma  | shellyverma1015@gmail.com | [Shelly Verma](https://www.linkedin.com/in/shelly-verma-267718255/) | [Certificate](https://api.badgr.io/public/assertions/xrpodeShQPafMBADyo8egQ?identity__email=shellyverma1015%40gmail.com) | Awesome experience! |
 | 483 | Haritha Gunasekaran | harithaguna03@gmail.com |[harithaguna03](https://www.linkedin.com/in/harithaguna/) | [Certificate](https://badgr.com/public/assertions/FHZuwJZTTae6oGFjf6iOGw?identity__email=harithaguna03@gmail.com) | Great Learning! |
-
 | 484 | Aashi Agrawal | aashi300603@gmail.com | [Aashi Agrawal](https://www.linkedin.com/in/aashi-agrawal-963556225) | [Certificate](https://api.badgr.io/public/assertions/3N8jIsbbQGOcsduzubzZRA?identity__email=aashi300603%40gmail.com) | Very well-designed, beginner-friendly, and very helpful. |
 | 485 | Harsh Nayan | harshnayan35@gmail.com | [Harsh Nayan](https://www.linkedin.com/in/harsh-nayan-26643b253/) | [Certificate](https://api.badgr.io/public/assertions/YjduBnHCTSa2pqgRRPpG_w?identity__email=harshnayan35%40gmail.com) | Easy to follow and helpful. |
 | 486 | Prakash Bandapalli | prakash.bandapalli@gmail.com | [Prakash Bandapalli](https://www.linkedin.com/in/prakash-bandapalli-2593b5259/) | [Certificate](https://api.badgr.io/public/assertions/7wECDKifRWSmNrYRzrEmQg?identity__email=prakash.bandapalli%40gmail.com) | It was very informative..! |
@@ -510,9 +509,6 @@
 | 512 | Abir Thakur | abirjerry2211@gmail.com | [Abir Thakur](https://www.linkedin.com/in/abir-thakur-a83067268/) | [certificate link](https://api.badgr.io/public/assertions/fS_VLPNRSI67Fxdiuwov8A?identity__email=abirjerry2211%40gmail.com) | Great experience! |
 | 513 | Dhruv Patel | dhuv2877@gmail.com | [Dhruv Patel]([www.linkedin.com/in/sourik-das-a5a03b251](https://www.linkedin.com/in/dhruv-patel-824922223/)) | [Certificate](https://api.badgr.io/public/assertions/keV9iDxlQ1-2i_z1YtzQsw?identity__email=dhuv2877%40gmail.com) | मजा आया ! और मैं ये जो मजा है, हिंदुस्तान के हर व्यक्ति को देना चाहता हूं |
 | 514 | Yuvika Sai Simhadri | simhadri.yuvikasai@gmail.com | [Yuvika Sai Simhadri](http://linkedin.com/in/yuvikasai) | [Certificate Link](https://api.badgr.io/public/assertions/2MOr6wXOR0K1U6R-Pdfurw?identity__email=simhadri.yuvikasai%40gmail.com) | Good introduction to APIs for beginners.|
-
-
-
 | 515 | Jugraj Singh Bali | jugrajsinghbali@gmail.com | [Jugraj Singh Bali](https://www.linkedin.com/in/jugraj-singh-117994268) | [Certificate](https://api.badgr.io/public/assertions/svDdm4hcQACEETswnzuF1g?identity__email=jugrajsinghbali%40gmail.com) | useful |
 | 516 | Shreya Ganesh Hegde | shreyaghedge@gmail.com | [Shreya Ganesh Hegde](https://www.linkedin.com/in/shreya-hegde-7bb28a232/) | [Certificate](https://api.badgr.io/public/assertions/Ng-bVpWhRCK2Mc1NIR0Hlw) | Highly useful session about how to use Postman|
 | 517 | Siva Prasath | prasathsiva2004@gmail.com | [Siva Prasath](https://www.linkedin.com/in/sivaprasath2004/) | [Certificate](https://badgr.com/public/assertions/a8HGPRVcTD-pjZRPgmiJPw?identity__email=prasathsiva2004@gmail.com) | In this course will be useful and guidance video easy to analyse |
