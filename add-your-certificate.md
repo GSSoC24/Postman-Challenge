@@ -488,3 +488,5 @@
 | 492 | Hrushikesh Shinde | shindehrushi99@gmail.com | [Hrushikesh Shinde](https://www.linkedin.com/in/hrushikesh-shinde-developer/) | [Certificate Link](https://api.badgr.io/public/assertions/mwGVFvPdRzONxkMVl5Lh2w?identity__email=shindehrushi99%40gmail.com) | Nice course!   |
 | 493 | Avantika Ajit    | avantika.aji22@gmail.com@gmail.com     | [Avantika Ajit ](https://www.linkedin.com/in/avantikaajit) | [Certificate](https://api.badgr.io/public/assertions/zj6xuzmcRUSltr5Yl1lOjw?identity__email=avantika.aji22%40gmail.com) | Very useful course! Learned a lot from it. |
 | 494 | Ashmita Barthwal | abarthwalwork@gmail.com | [Ashmita Barthwal](https://www.linkedin.com/in/ashmita-barthwal-276891266/) | [Certificate](https://api.badgr.io/public/assertions/HTSDnWROTAeWuLlaHcSw2g?identity__email=abarthwalwork%40gmail.com) | informative |
+
+| 494 | Harshil Gupta | harshilgupta.2005@gmail.com | [Harshil Gupta](https://www.linkedin.com/in/harshil-gupta-b7a867293/) | [Certificate Link](https://badgr.com/public/assertions/7-8PJKdLRamx3-7DEhl1IQ) | Very Interesting and easy to learn and build.
