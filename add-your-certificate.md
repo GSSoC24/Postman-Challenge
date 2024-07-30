@@ -636,4 +636,4 @@
 | 639 | Geoff George | geoffgeorgethommana@gmail.com  | [Geoff George](https://www.linkedin.com/in/geoffgeorge45/)  | [Certificate Link](https://api.badgr.io/public/assertions/IxQevD-RQt2tOzm9xKPIJQ?identity__email=geoffgeorge93%40gmail.com)    | Amazing learning Experience |
 | 640 | Aayush Redij | aaruser2@gmail.com   | [Aayush Redij](https://www.linkedin.com/in/aayush-redij-1b5901269/) | [Certificate](https://api.badgr.io/public/assertions/xQS9QLBPS9G-5zgxo6jSeQ?identity__email=aaruser2%40gmail.com)   | Great! |
 | 641 | Tanisha Garg  |  gargtanisha010@gmail.com | [Tanisha Garg](https://www.linkedin.com/in/tanisha-garg-a97085299/) | [Certificate](https://api.badgr.io/public/assertions/q8jkba4sSpK7KoeS0H3R6w?identity__email=gargtanisha010%40gmail.com) | Could have added more skillchecks |
-
+| 642 | Varun Allagh | varunallagh21022002@gmail.com |[Varun Allagh](https://www.linkedin.com/in/varun-allagh-51a9b1222/) | [Certificate](https://badgr.com/public/assertions/cbp0llplRDSdh9uPiyLKyw?identity__email=varunallagh21022002@gmail.com) | Nice Platform |
