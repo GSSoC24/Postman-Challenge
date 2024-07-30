@@ -482,4 +482,4 @@
 | 486 | Prakash Bandapalli | prakash.bandapalli@gmail.com | [Prakash Bandapalli](https://www.linkedin.com/in/prakash-bandapalli-2593b5259/) | [Certificate](https://api.badgr.io/public/assertions/7wECDKifRWSmNrYRzrEmQg?identity__email=prakash.bandapalli%40gmail.com) | It was very informative..! |
 | 487 | Rajveer | unofficially111@gmail.com | [Rajveeer](https://www.linkedin.com/in/r4jv33r/) | [Certificate](https://api.badgr.io/public/assertions/YqCyuDzeRIioeuvp-S5J-w?identity__email=unofficially111%40gmail.com) | Great |
 | 488 | Hema Sree Vemulamada | hemav513922@gmail.com | [Hema Sree Vemulamada](https://www.linkedin.com/in/hemaree/) | [Certificate](https://api.badgr.io/public/assertions/doN88SamQcGuFyGn0h-Usw?identity__email=hemav513922%40gmail.com) | great course |
-
+|489 | Mehak Malik | mehakmalik1282@gmail.com | [Mehak Malik](https://www.linkedin.com/mynetwork/grow/) | [Certificate Link](https://api.badgr.io/public/assertions/pfZKvwKETS2z4B-8VaW1Mw?identity__email=mehakmalik1282%40gmail.com) | learn something new. |
