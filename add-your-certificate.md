@@ -628,3 +628,5 @@
 | 631 | Shivam Verma | shivam.verma256@outlook.com | [Shivam Verma](https://www.linkedin.com/in/shivam-verma-332710237/) | [Certificate](https://api.badgr.io/public/assertions/DMjFkgsYQTa2pmKhbcM9ew?identity__email=shivam.verma256@outlook.com) | Very Informative ! |
 | 632 | Ishita | ishita43@outlook.com | [Ishita](https://www.linkedin.com/in/ishita-thakur-9688b1262) | [Certificate](https://api.badgr.io/public/assertions/mb8H3eM0TCqwRzRCupoiPA?identity__email=ishita43@outlook.com) | Helped in revise! |
 | 633 | Shuvam Mandal | ishuvam549@gmail.com | [Shuvam Mandal](https://www.linkedin.com/in/ishuvam-mandal-code/)   | [Certificate Link](https://api.badgr.io/public/assertions/xf5TEeIKSHquTI8AphFBXQ?identity__email=ishuvam549%40gmail.com)  | Thanks For The Opportunity ! |
+| 634 | Priyanka Pragada | priyapragada09@gmail.com | [Priyanka Pragada](https://www.linkedin.com/in/priyanka-pragada-040240255/) | [Certificate](https://badgr.com/backpack/badges/66a733931ea7d93715e04f5c) | Nice course with hands on experience |
+
