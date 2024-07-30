@@ -655,3 +655,5 @@
 | 658 | Ria Dhankhar | riadhankhar10@gmail.com |[Ria Dhankhar](https://www.linkedin.com/in/ria-dhankhar-020419300/) | [Certificate](https://api.badgr.io/public/assertions/1R3paDvkRz6frKm5IRzrSA?identity__email=riadhankhar10%40gmail.com) | It was great to get familiar with Postman |
 | 659 | Abhijith M S | abhijithmsaji132@gmail.com | [Abhijith M S ](https://www.linkedin.com/in/abhijith-m-s-221855275/) | [Certificate Link](https://badgr.com/public/assertions/Ocgk41mpR0WVKLDmvAV0Lw?identity__email=abhijithmsaji132@gmail.com) | Learning path provided was great !!! |
 | 660 | Aditi Jain | aditijain132005@gmail.com |[Aditi Jain](https://www.linkedin.com/in/aditi-jain-1053b4282/) | [Certificate](https://api.badgr.io/public/assertions/HgNmoELXScyDDzb0W0sOiw?identity__email=aditijain132005%40gmail.com) | Great Learning! |
+| 661 | Yash Pratap Singh | yashsngh2501@gmail.com |[Yash Pratap Singh](https://www.linkedin.com/in/yash-pratap-singh-948624280) | [Certificate](https://api.badgr.io/public/assertions/XZYtf836RcCMDmqgQeAEOA?identity__email=yashsngh2501%40gmail.com) | Thanks for this certifiaction! |
+
