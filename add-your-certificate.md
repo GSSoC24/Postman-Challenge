@@ -530,5 +530,8 @@
 | 532 |Pankaj Rastapur | pankajrastapur115@gmail.com| [Pankaj Rastapur](www.linkedin.com/in/pankajrastapur) | [Certificate](https://api.badgr.io/public/assertions/9UJ9G3TfShi2v_qdTqRfSA?identity__email=pankajrastapur115%40gmail.com) |  It helped me lot|
 | 533 | Anirudh Sharma | anis42390@gmail.com |[Anirudh Sharma](https://www.linkedin.com/in/anirudh-sharma-58ba29256/) | [Certificate](https://api.badgr.io/public/assertions/AsNUacPBRtqSh3x1kBPUlQ?identity__email=anis42390%40gmail.com) | Api development is awesome! |
 | 534 | Garima Chandra  |  garimachandra149@gmail.com | [Garima chandra](https://www.linkedin.com/in/garima-chandra-476377288/) | [Certificate](https://api.badgr.io/public/assertions/8Vf1zWLYRKS5ldCTD4kReA?identity__email=garimachandra149%40gmail.com) |Amazing course|
+
 | 535 | Shweta Salunkhe | shwetasalunkhe281@gmail.com | [Shweta Salunkhe](https://www.linkedin.com/in/shwetassalunkhe/) | [certificate link](https://api.badgr.io/public/assertions/46NGVYAkSr2Mi2FboyICNg?identity__email=shwetasalunkhe281%40gmail.com) | Amazing course..|
+
+| 536 | Aditya Narayan | 23cs2007@rgipt.ac.in |[Aditya Narayan](https://www.linkedin.com/in/aditya-narayan-33156a288/) | [Certificate](https://api.badgr.io/public/assertions/X4uQNOR2Q5K1iemlKMEeoQ?identity__email=23cs2007%40rgipt.ac.in) | Learned a lot  |
 
