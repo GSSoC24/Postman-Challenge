@@ -551,9 +551,6 @@
 | 549 | Chandana Reddy | chandanareddy641@gmail.com | [Chandana Reddy](https://www.linkedin.com/in/chandana-reddy24/) | [Certificate](https://api.badgr.io/public/assertions/I8Ez3P8kTBu9N8JuAEBzWA?identity__email=chandanareddy641%40gmail.com) | Great Learning, best API course |
 | 550 | Yelamanchili Sampath Vinay Siddharda | y.siddhu3@gmail.com | [Sampath Vinay Siddharda Yelamanchili](https://www.linkedin.com/in/sampath-vinay-siddharda-yelamanchili-971935251/) | [Certificate link](https://api.badgr.io/public/assertions/L2dsE-5kR3yCf6Em1FsN7g?identity__email=y.siddhu3%40gmail.com ) |Great learning oppurtunity |
 | 551 | Aksh Raj | rajaksh03@gmail.com | [Aksh Raj](https://www.linkedin.com/in/aksh-raj-261695318/) | [Certificate](https://badgr.com/public/assertions/Q4ycIvL5SHyXVu52dEj0wg?identity__email=revanthpasupuleti18@gmail.com) | Great Learning and nice technique to teach |
-
-
-| 552 | Abhay Sen | Abhaysen0502@gmail.com |[Abhay sen](https://www.linkedin.com/in/abhay-sen-4066a8253/) | [Certificate](https://api.badgr.io/public/assertions/MaGwXifSSd-kTRnHu825bg?identity__email=abhaysen0204%40gmail.com) | very great! |
-
-
-
+| 552 | Kanushi Gupta | kanushi1743.be22@chitkara.edu.in    | [Kanushi Gupta ](www.linkedin.com/in/kanushi-gupta-300145238) | [Certificate]([https://api.badgr.io/public/assertions/zj6xuzmcRUSltr5Yl1lOjw?identity__email=avantika.aji22%40gmail.com](https://api.badgr.io/public/assertions/dwFR_bZbT7aWWwD-9QyUDg?identity__email=kanushi1743.be22%40chitkara.edu.in)) | Very useful course! Learned a lot from it. |
+| 553 | Sweta Singh | swetasinghgs28@gmail.com |[Sweta Singh](https://www.linkedin.com/in/sweta-singh-991a35256/) | [Certificate](https://api.badgr.io/public/assertions/Ik2jV7TsS1CqpPGESF8n4Q?identity__email=swetasinghgs28%40gmail.com) | It was great to get familiar with Postman! |
+| 554 | Abhay Sen | Abhaysen0502@gmail.com |[Abhay sen](https://www.linkedin.com/in/abhay-sen-4066a8253/) | [Certificate](https://api.badgr.io/public/assertions/MaGwXifSSd-kTRnHu825bg?identity__email=abhaysen0204%40gmail.com) | very great! |
