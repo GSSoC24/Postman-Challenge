@@ -727,3 +727,5 @@
 | 543 | Sivani Immidi | immidisivani678@gmail.com | [Sivani Immidi](https://www.linkedin.com/in/sivani-immidi-0595ab257/) | [Certificate](https://api.badgr.io/public/assertions/QddN5uO6R66DaKH-fmOmUg?identity__email=immidisivani678%40gmail.com) | Its great ,learnt postman deeply |
 | 544 | Aditya | singhadi437@gmail.com | [Aditya](https://www.linkedin.com/in/aditya41150/) | [Certificate](https://badgr.com/backpack/badges/66105fafd4be3a3016848fa6) | great course|
 
+| 545 | P. Revanth | revanthpasupuleti18@gmail.com | [P.Revanth](https://www.linkedin.com/in/revanth1/) | [Certificate](https://badgr.com/public/assertions/Q4ycIvL5SHyXVu52dEj0wg?identity__email=revanthpasupuleti18@gmail.com) | Great Learning |
+
