@@ -510,5 +510,5 @@
 | 514 | Yuvika Sai Simhadri | simhadri.yuvikasai@gmail.com | [Yuvika Sai Simhadri](http://linkedin.com/in/yuvikasai) | [Certificate Link](https://api.badgr.io/public/assertions/2MOr6wXOR0K1U6R-Pdfurw?identity__email=simhadri.yuvikasai%40gmail.com) | Good introduction to APIs for beginners.|
 | 515 | Jugraj Singh Bali | jugrajsinghbali@gmail.com | [Jugraj Singh Bali](https://www.linkedin.com/in/jugraj-singh-117994268) | [Certificate](https://api.badgr.io/public/assertions/svDdm4hcQACEETswnzuF1g?identity__email=jugrajsinghbali%40gmail.com) | useful |
 | 516 | Shreya Ganesh Hegde | shreyaghedge@gmail.com | [Shreya Ganesh Hegde](https://www.linkedin.com/in/shreya-hegde-7bb28a232/) | [Certificate](https://api.badgr.io/public/assertions/Ng-bVpWhRCK2Mc1NIR0Hlw) | Highly useful session about how to use Postman|
-| 517 | PALLA SIVA SAI | psairabel593@gmail.com |[psairabel593@gmail.com](https://www.linkedin.com/in/p-siva-sai-10686417a/) | [Certificate](https://api.badgr.io/public/assertions/0A5ZWYbkQoeS8YqojiGD8w?identity__email=psairabel593%40gmail.com) | Thanks for this opportunity! |
+| 517 | PALLA SIVA SAI | psairabel593@gmail.com |[pallasivasai](https://www.linkedin.com/in/p-siva-sai-10686417a/) | [Certificate](https://api.badgr.io/public/assertions/0A5ZWYbkQoeS8YqojiGD8w?identity__email=psairabel593%40gmail.com) | Thanks for this opportunity! |
 
