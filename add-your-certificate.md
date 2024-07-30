@@ -540,6 +540,20 @@
 | 539 | Apurv Panchal | apurv4605@gmail.com | [Apurv Panchal](https://www.linkedin.com/in/apurv-panchal-015847210/) | [Certificate](https://api.badgr.io/public/assertions/f7Tc8aNET6iXHx5NsiKrjQ?identity__email=apurv4605%40gmail.com) | Good for beginners |
 | 540 | Meet Jain | meetofficialhere@gmail.com | [Meet Jain](https://linkedin.com/in/meet-jain-413015265/) | [Certificate](https://api.badgr.io/public/assertions/qsFF_r4QS8KzGsxVNC5E8Q?identity__email=meetofficialhere%40gmail.com) | Well Structured with Lots of learning in this small course |
 
-| 540 | Abhay Sen | Abhaysen0502@gmail.com |[Abhay sen](https://www.linkedin.com/in/abhay-sen-4066a8253/) | [Certificate](https://api.badgr.io/public/assertions/MaGwXifSSd-kTRnHu825bg?identity__email=abhaysen0204%40gmail.com) | very great! |
+| 541 | Ambuj Kumar Rai  |  ambuj.rai06@gmail.com | [Ambuj Kumar Rai](https://www.linkedin.com/in/ambuj-k-rai-28b45a289/) | [Certificate](https://api.badgr.io/public/assertions/Vuu0H4LJSEihtRfUa9jLHA?identity__email=ambuj.rai06%40gmail.com) |Insightful course|
+| 542 | Rahul Kumar Giri | rrahulrajgiri15@gmail.com |[Rahul Kumar Giri](https://www.linkedin.com/in/rahulkumargiri15/) |[Certificate] ( https://api.badgr.io/public/assertions/BnA_Y9Q1RWeTozPHPz3WgQ?identity__email=rrahulrajgiri15%40gmail.com )  | Great time learning |
+| 543 | Sivani Immidi | immidisivani678@gmail.com | [Sivani Immidi](https://www.linkedin.com/in/sivani-immidi-0595ab257/) | [Certificate](https://api.badgr.io/public/assertions/QddN5uO6R66DaKH-fmOmUg?identity__email=immidisivani678%40gmail.com) | Its great ,learnt postman deeply |
+| 544 | Aditya | singhadi437@gmail.com | [Aditya](https://www.linkedin.com/in/aditya41150/) | [Certificate](https://badgr.com/backpack/badges/66105fafd4be3a3016848fa6) | great course|
+| 545 | P. Revanth | revanthpasupuleti18@gmail.com | [P.Revanth](https://www.linkedin.com/in/revanth1/) | [Certificate](https://badgr.com/public/assertions/Q4ycIvL5SHyXVu52dEj0wg?identity__email=revanthpasupuleti18@gmail.com) | Great Learning |
+| 546 | Tushar Patil  | patiltushar9977@gmail.com | [Tushar Patil](https://www.linkedin.com/in/tusharpatil02/) | [Certificate Link](https://badgr.com/public/assertions/nVCh0MYFTviOqPdiTZWFVQ) | Amazing pathway to learn about API |
+| 547 | Kanishka Dubey | Kanishkadubey63@gmail.com | [kanishkadubey](https://www.linkedin.com/in/kanishkadubey/) | [Certificate Link](https://api.badgr.io/public/assertions/KSKXy1x_RJSl0GwZBFqMxg?identity__email=kanishkadubey63%40gmail.com) | Good |
+| 548 | Devkumar Aghera | devaghera194@gmail.com | [Devkumar Aghera](https://www.linkedin.com/in/dev-aghera-884355270/) | [Certificate](https://api.badgr.io/public/assertions/vl2Y32v6Qt-u6mkUEULn_Q?identity__email=devaghera194%40gmail.com) | Learned something new |
+| 549 | Chandana Reddy | chandanareddy641@gmail.com | [Chandana Reddy](https://www.linkedin.com/in/chandana-reddy24/) | [Certificate](https://api.badgr.io/public/assertions/I8Ez3P8kTBu9N8JuAEBzWA?identity__email=chandanareddy641%40gmail.com) | Great Learning, best API course |
+| 550 | Yelamanchili Sampath Vinay Siddharda | y.siddhu3@gmail.com | [Sampath Vinay Siddharda Yelamanchili](https://www.linkedin.com/in/sampath-vinay-siddharda-yelamanchili-971935251/) | [Certificate link](https://api.badgr.io/public/assertions/L2dsE-5kR3yCf6Em1FsN7g?identity__email=y.siddhu3%40gmail.com ) |Great learning oppurtunity |
+| 551 | Aksh Raj | rajaksh03@gmail.com | [Aksh Raj](https://www.linkedin.com/in/aksh-raj-261695318/) | [Certificate](https://badgr.com/public/assertions/Q4ycIvL5SHyXVu52dEj0wg?identity__email=revanthpasupuleti18@gmail.com) | Great Learning and nice technique to teach |
 
->>>>>> main
+
+| 552 | Abhay Sen | Abhaysen0502@gmail.com |[Abhay sen](https://www.linkedin.com/in/abhay-sen-4066a8253/) | [Certificate](https://api.badgr.io/public/assertions/MaGwXifSSd-kTRnHu825bg?identity__email=abhaysen0204%40gmail.com) | very great! |
+
+
+
