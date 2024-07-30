@@ -613,4 +613,4 @@
 | 616 | Siddharth Bramhecha | siddharthbramhecha@gmail.com |[Siddharth Bramhecha](https://www.linkedin.com/in/siddharth-bramhecha/) | [Certificate](https://badgr.com/public/assertions/YJRvpCwnSculxX1MdEbo3w?identity__email=siddharthbramhecha@gmail.com) | Great Teaching! |
 | 617 | Anjali | anjali17356@gmail.com |[Anjali .](www.linkedin.com/in/anjali-554ba2220) | [Certificate](https://api.badgr.io/public/assertions/2bL2gSdJSjmHJhJ2q0FL1A?identity__email=anjali17356%40gmail.com) | Thank You! |
 | 618 | Anusha Agarwal | agarwalanusha13@gmail.com | [Anusha Agarwal](https://www.linkedin.com/in/anusha-agarwal-068b70271/) | [Certificate Link](https://api.badgr.io/public/assertions/Teu_WJUbTISCvudWWW084Q?identity__email=agarwalanusha13%40gmail.com) | Very useful resource |
-
+| 619 | Rupali Prajapati | rupalik98074@gmail.com | [Rupali Prajapati](https://www.linkedin.com/in/rupali-prajapati-386058240/) | [Certificate](https://api.badgr.io/public/assertions/aaS31sLKT3ma52LToPoIig?identity__email=rupalik98074%40gmail.com) | It gives a feeling of greatfulness to complete these type of learning paths! |
