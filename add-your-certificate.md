@@ -539,10 +539,6 @@
 | 478 | Harsh Mishra | mishra02harsh@gmail.com | [Harsh Mishra](https://www.linkedin.com/in/harsh-mishra1/) | [Certificate](https://api.badgr.io/public/assertions/ZrlCuilYQQ2lzCyci6p_Fg?identity__email=mishra02harsh%40gmail.com) | Thanks to GSSoC |
 | 479 | Sidda Deepika | thedev3333@gmail.com | [Sidda Deepika](https://www.linkedin.com/in/deepika-sidda15/) | [Certificate Link](https://api.badgr.io/public/assertions/WRaEjcc7Su68CnvyWLKQGw?identity__email=thedev3333%40gmail.com) | Improve the difficulty level |
 | 480 | Bhavy Zala | zalabhavy2004@gmail.com | [Bhavy Zala](https://www.linkedin.com/in/bhavy-zala-59bb76241/) | [Certificate](https://api.badgr.io/public/assertions/X9BUG2MRRiymtGW23oBSRA?identity__email=zalabhavy2004%40gmail.com) | Very Nice ! |
-
-
-
 | 481 | Aditi Sharma | adisharma.975312468@gmail.com | [Aditi Sharma](https://www.linkedin.com/in/aditi-sharma-88ba04292/) | [Certificate](https://api.badgr.io/public/assertions/G0Ybi48dSMq7efyxJbyJlw?identity__email=adisharma.975312468%40gmail.com) | It was very useful, especially the video tutorial! |
+| 482 | Shreyan Dhar | shreyan01.dhar@gmail.com | [Shreyan Dhar](https://www.linkedin.com/in/shreyan-dhar-3a32171b5/) | [Certificate](https://api.badgr.io/public/assertions/iB4K3XlwRgm1HqOU45lmIA?identity__email=shreyan01.dhar%40gmail.com) | Good for knowledge |
 | 483 | Haritha Gunasekaran | harithaguna03@gmail.com |[harithaguna03](https://www.linkedin.com/in/harithaguna/) | [Certificate](https://badgr.com/public/assertions/FHZuwJZTTae6oGFjf6iOGw?identity__email=harithaguna03@gmail.com) | Great Learning! |
-
-
