@@ -602,4 +602,4 @@
 | 605 | Naitik Patel | naitikpatel.np2004@gmail.com | [Naitik Patel](https://www.linkedin.com/in/naitikpatel040725) | [Certificate Link](https://api.badgr.io/public/assertions/Vg0LujgwRkSdf53uSH54CA?identity__email=naitikpatel.np2004%40gmail.com) | Great Experience |
 | 606 | Doshi Shubh Sunitkumar | shubhdoshi21@gmail.com | [Doshi Shubh Sunitkumar](https://www.linkedin.com/in/shubh-doshi-921337256/) | [Certificate](https://api.badgr.io/public/assertions/57dSZXT9TpWnf5V5oIrlEQ?identity__email=shubhdoshi21%40gmail.com) | Great course for beginners. |
 | 607 | Debasis Sikdar | debasis.sikder123@gmail.com | [Debasis Sikdar](https://www.linkedin.com/in/debasis-sikdar-4a197b25a/) | [Certificate Link](https://api.badgr.io/public/assertions/EOCuBNykRnOoRXSnOOwlZQ?identity__email=debasis.sikder123%40gmail.com) | Wonderful course, definitely worth it. |
-
+| 608 | Vaishnavi Shelke | vaishnavishelke7777@gmail.com | [Vaishnavi Shelke](https://www.linkedin.com/in/vaishnavi-shelke-6a265520b/) | [Certificate Link](https://api.badgr.io/public/assertions/kDZ-zLibRW-5ZAMMZxqZ9w?identity__email=vaishnavishelke7777%40gmail.com) | Great Course |
