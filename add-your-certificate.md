@@ -444,6 +444,28 @@
 | 447 | Mubashirin Moulvi   | mmubashirin786@gmail.com       | [Mubashirin Moulvi](https://www.linkedin.com/in/mubashirin-m-82b6b622b/) | [Certificate](https://api.badgr.io/public/assertions/Q7y05rkoSR6CaE2wmpPN8g?identity__email=mmubashirin786%40gmail.com) | It was good                          |
 | 448 | Harshita Bhambhani  | harshitabhambhani7@gmail.com   | [Harshita Bhambhani](https://www.linkedin.com/in/harshitaa16/) | [Certificate](https://api.badgr.io/public/assertions/S-ky-yxSQDyxy02l5mVFqA?identity__email=harshitabhambhani7%40gmail.com) | Great experience                     |
 | 449 | Maheshwari Love     | l.maheshwari2008@gmail.com     | [Maheshwari Love](https://www.linkedin.com/in/maheshwari-love/) | [Certificate](https://api.badgr.io/public/assertions/K0A0qYtJS16zcieqT5Ye0g?identity__email=l.maheshwari2008%40gmail.com) | It was great to get familiar with Postman |
+
+| 450 | Vijay Samant        | vijaysamant4368@gmail.com      | [Vijay Samant](https://www.linkedin.com/in/vijaysamant4368) | [Certificate](https://api.badgr.io/public/assertions/T57QR76_Sf2TsWTKRvAvzQ?identity__email=vijaysamant4368%40gmail.com) | -                                      |
+
+| 451 | Hafsa Wasi | hafsawasi20@gmail.com | [Hafsa Wasi](https://www.linkedin.com/in/hafsa-wasi/) | [Certificate Link](https://api.badgr.io/public/assertions/WxUuUfNCRIenjOiHfXlAgQ?identity__email=hafsawasi20%40gmail.com) | Great experience                     |
+
+
+| 451 | Marumudi Mary Jennifer Eunice       | jennifereunicemarumudi@gmail.com      | [Marumudi Mary Jennifer Eunice](https://www.linkedin.com/in/marumudi-jennifer-eunice-64a517230/) | [Certificate](https://api.badgr.io/public/assertions/mXnLLVXMQCOI8PJtB2aWUw?identity__email=jennifereunicemarumudi%40gmail.com) | -                                      |
+
+
+| 451 | Aayusha Shrestha        | aayyushashrestha@gmail.com      | [Aayusha Shrestha](https://www.linkedin.com/in/aayusha-shrestha-b61308256/) | [Certificate](https://api.badgr.io/public/assertions/MV3oy-8QQfS6Ydt8FRcsvA) | Easy to follow and helpful                                      |
+
+
+| 451 | Harish Peddina      | peddinaharish2003@gmail.com    | [Harish Peddina](https://www.linkedin.com/in/harish-peddina) | [Certificate](https://api.badgr.io/public/assertions/Zst6WklPSYmeLJNS7rnuBQ?identity__email=peddinaharish2003%40gmail.com) | good                        |
+
+
+| 451 | Gopika J            | gopikajitesh.lbs@gmail.com     | [Gopika J](https://www.linkedin.com/in/gopika-j-838346245/) | [Certificate](https://api.badgr.io/public/assertions/xocQvgzqROCHz-h96aw4Fw?identity__email=gopikajitesh.lbs%40gmail.com) | Thankyou gssoc for intro to Postman    |
+
+| 451 | Prajwala Yadlapalli     | prajwalayadlapalli@gmail.com     | [Prajwala Yadlapalli](https://www.linkedin.com/in/prajwala-yadlapalli/) | [Certificate](https://api.badgr.io/public/assertions/jGQMuejWSFu3l3mUkI90Xg?identity__email=prajwalayadlapalli%40gmail.com) | It was very useful, especially the video tutorial! |
+| 452 | Aashi Agrawal          | aashi300603@gmail.com     | [Aashi Agrawal](https://www.linkedin.com/in/aashi-agrawal-963556225) | [Certificate](https://api.badgr.io/public/assertions/3N8jIsbbQGOcsduzubzZRA?identity__email=aashi300603%40gmail.com) | Very well-designed, beginner-friendly, and very helpful.   |
+
+
+
 | 450 | Vijay Samant        | vijaysamant4368@gmail.com      | [Vijay Samant](https://www.linkedin.com/in/vijaysamant4368) | [Certificate](https://api.badgr.io/public/assertions/T57QR76_Sf2TsWTKRvAvzQ?identity__email=vijaysamant4368%40gmail.com) | -     
 | 451 | Neha Kanwar     | nehashekhawat255@gmail.com     | [Neha Kanwar](https://www.linkedin.com/in/nehakanwar30) | [Certificate](https://api.badgr.io/public/assertions/LeBc3451QTC1gv2hM6GTBA?identity__email=nehashekhawat255%40gmail.com) | It was easy to learn using your guided video |
 | 452 | Hafsa Wasi | hafsawasi20@gmail.com | [Hafsa Wasi](https://www.linkedin.com/in/hafsa-wasi/) | [Certificate Link](https://api.badgr.io/public/assertions/WxUuUfNCRIenjOiHfXlAgQ?identity__email=hafsawasi20%40gmail.com) | Great experience                     |
@@ -477,3 +499,4 @@
 | 480 | Bhavy Zala | zalabhavy2004@gmail.com | [Bhavy Zala](https://www.linkedin.com/in/bhavy-zala-59bb76241/) | [Certificate](https://api.badgr.io/public/assertions/X9BUG2MRRiymtGW23oBSRA?identity__email=zalabhavy2004%40gmail.com) | Very Nice ! |
 | 481 | Aditi Sharma | adisharma.975312468@gmail.com | [Aditi Sharma](https://www.linkedin.com/in/aditi-sharma-88ba04292/) | [Certificate](https://api.badgr.io/public/assertions/G0Ybi48dSMq7efyxJbyJlw?identity__email=adisharma.975312468%40gmail.com) | It was very useful, especially the video tutorial! |
 | 483 | Haritha Gunasekaran | harithaguna03@gmail.com |[harithaguna03](https://www.linkedin.com/in/harithaguna/) | [Certificate](https://badgr.com/public/assertions/FHZuwJZTTae6oGFjf6iOGw?identity__email=harithaguna03@gmail.com) | Great Learning! |
+
