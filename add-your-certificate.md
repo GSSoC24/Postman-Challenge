@@ -508,4 +508,5 @@
 | 512 | Abir Thakur | abirjerry2211@gmail.com | [Abir Thakur](https://www.linkedin.com/in/abir-thakur-a83067268/) | [certificate link](https://api.badgr.io/public/assertions/fS_VLPNRSI67Fxdiuwov8A?identity__email=abirjerry2211%40gmail.com) | Great experience! |
 | 513 | Dhruv Patel | dhuv2877@gmail.com | [Dhruv Patel]([www.linkedin.com/in/sourik-das-a5a03b251](https://www.linkedin.com/in/dhruv-patel-824922223/)) | [Certificate](https://api.badgr.io/public/assertions/keV9iDxlQ1-2i_z1YtzQsw?identity__email=dhuv2877%40gmail.com) | मजा आया ! और मैं ये जो मजा है, हिंदुस्तान के हर व्यक्ति को देना चाहता हूं |
 | 514 | Yuvika Sai Simhadri | simhadri.yuvikasai@gmail.com | [Yuvika Sai Simhadri](http://linkedin.com/in/yuvikasai) | [Certificate Link](https://api.badgr.io/public/assertions/2MOr6wXOR0K1U6R-Pdfurw?identity__email=simhadri.yuvikasai%40gmail.com) | Good introduction to APIs for beginners.|
+| 515 | Lavanya Y M | lavanyamaruthi0413@gmail.com | [Lavanya Y M](https://www.linkedin.com/in/lavanya-y-m-817562253/) | [Certificate](https://api.badgr.io/public/assertions/2sY7EaZ_Q5uuUdrxpKyn5g) | Highly informative session about api's|
 
