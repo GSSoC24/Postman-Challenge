@@ -519,3 +519,5 @@
 | 523 | Rohit Yadav    | rk4740779@gmail.com  | [ Rohit Yadav ](https://www.linkedin.com/in/rohityadavv) | [Certificate](https://api.badgr.io/public/assertions/9D5UaG6vRYGsTHTlUCSqVA?identity__email=rk4740779%40gmail.com) | Very useful course |
 | 524 | obulasetty Harshitha |harshitha.Obulasetty@gmail.com |[ harshitha obulasetty] (https://www.linkedin.com/in/harshitha-obulasetty-b06691296/)| [certificate] (https://badgr.com/public/assertions/jFHnhrXqQMSSarmRErBw4w?identity__email=harshitha.obulasetty@gmail.com) | it helped me alot|
 | 525 | Atharva Kulkarni | atharva47kulkarni@gmail.com | [Atharva Kulkarni](https://www.linkedin.com/in/atharva-47-kulkarni/) | [Certificate](https://api.badgr.io/public/assertions/QvUn_2GeQQK3ogmKqP0DDA?identity__email=atharva47kulkarni%40gmail.com) | It should have been more challenging |
+| 526 | Priyanshu Ranjan | priyanshur.ug23.cs@nitp.ac.in | [Priyanshu Ranjan](https://www.linkedin.com/in/07-priyanshu/) | [Certificate Link](https://api.badgr.io/public/assertions/1f_pqqidQbGSTccW4PXRyg?identity__email=priyanshur.ug23.cs%40nitp.ac.in) | Thanks for Postman Challenge |
+
