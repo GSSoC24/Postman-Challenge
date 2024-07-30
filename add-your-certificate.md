@@ -597,5 +597,5 @@
 | 600 | Shreya Gupta | shreyag1912@gmail.com | [Shreya Gupta](https://www.linkedin.com/in/shreya-gupta-ab6222210/) | [Certificate](https://api.badgr.io/public/assertions/WdO0pBHZThOIABEb4pLJhA?identity__email=shreyag1912%40gmail.com) | Good |
 | 601 | Aditya Raj Verma | adityaraj35251@gmail.com | [Aditya Raj Verma](https://www.linkedin.com/in/adityarajverma547/) | [Certificate Link](https://api.badgr.io/public/assertions/Gh9SKEWHQ6-dG38nIhKCyw) | Good Course |
 | 602 | Ketan kumar | ketanop473@gmail.com | [ketan op](https://www.linkedin.com/in/ketan-op-36712223a/) | [Certificate](https://api.badgr.io/public/assertions/HSPzgG2lSD2ble0x80_1hA?identity__email=ketanop473%40gmail.com) | Great Learning, best API course |
-| 603 | Khushal Sarode | khushalsarode.in@gmail.com |[khushalsarode](https://www.linkedin.com/in/harithaguna/) | [Certificate](https://api.badgr.io/public/assertions/-ZdESZDzSgO2uI-C1pzVtQ?identity__email=khushal.sarode.13748714%40gmail.com) | can add more exercise hand on! |
-
+| 603 | Garima Jain | garimaj2002@gmail.com | [Garima Jain](https://www.linkedin.com/in/garima-jain-19s/) | [Certificate Link](https://api.badgr.io/public/assertions/fBLZbH1CTNOEQLFTAUowfg?identity__email=garimaj2002%40gmail.com) | Awsome course |
+| 604 | Khushal Sarode | khushalsarode.in@gmail.com |[khushalsarode](https://www.linkedin.com/in/harithaguna/) | [Certificate](https://api.badgr.io/public/assertions/-ZdESZDzSgO2uI-C1pzVtQ?identity__email=khushal.sarode.13748714%40gmail.com) | can add more exercise hand on! |
