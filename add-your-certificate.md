@@ -594,3 +594,5 @@
 | 597 | Ayush Sharma | ayushsharma014may@gmail.com | [Ayush Sharma](https://www.linkedin.com/in/ayush14may/) | [Certificate](https://api.badgr.io/public/assertions/L3V-nTy9QxiiusEgt6yqJQ?identity__email=ayushsharma014may%40gmail.com) | Learned Alot from this course ! |
 | 598 | Divya Sahithi | divya.yennam5544@gmail.com | [Divya Sahithi](https://www.linkedin.com/in/divya-s-74379b223/) | [Certificate](https://api.badgr.io/public/assertions/9an93-V_ShmgRZtf0k4oSA?identity__email=divya.yennam5544@gmail.com) | Great learning experience! |
 | 599 | Garima Shukla | rishinandanapu366@gmail.com | [Garima Shukla](https://www.linkedin.com/in/garima-shukla-94a003292) | [Certificate Link](https://badgr.com/public/assertions/YqwqkPHvRG6YwOQkLm3AFQ?identity__email=garimashukla0936@gmail.com) | Great learning challenge. |
+| 600 | Shreya Gupta | shreyag1912@gmail.com | [Shreya Gupta](https://www.linkedin.com/in/shreya-gupta-ab6222210/) | [Certificate](https://api.badgr.io/public/assertions/WdO0pBHZThOIABEb4pLJhA?identity__email=shreyag1912%40gmail.com) | Good |
+
