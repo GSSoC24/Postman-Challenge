@@ -541,3 +541,4 @@
 | 481 | Aditi Sharma | adisharma.975312468@gmail.com | [Aditi Sharma](https://www.linkedin.com/in/aditi-sharma-88ba04292/) | [Certificate](https://api.badgr.io/public/assertions/G0Ybi48dSMq7efyxJbyJlw?identity__email=adisharma.975312468%40gmail.com) | It was very useful, especially the video tutorial! |
 | 483 | Haritha Gunasekaran | harithaguna03@gmail.com |[harithaguna03](https://www.linkedin.com/in/harithaguna/) | [Certificate](https://badgr.com/public/assertions/FHZuwJZTTae6oGFjf6iOGw?identity__email=harithaguna03@gmail.com) | Great Learning! |
 
+| 484 | Sharad Chandra Reddy | sharadreddy11@gmail.com |[sharad chandra reddy](https://www.linkedin.com/in/sharad-chandra-reddy/) | [Certificate](https://badgr.com/public/assertions/J4UZbYL0TjWZRxdrWfraQg?identity__email=sharadreddy11@gmail.com) | Great Learning! |
