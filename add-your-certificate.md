@@ -450,7 +450,7 @@
 | 453 | Marumudi Mary Jennifer Eunice       | jennifereunicemarumudi@gmail.com      | [Marumudi Mary Jennifer Eunice](https://www.linkedin.com/in/marumudi-jennifer-eunice-64a517230/) | [Certificate](https://api.badgr.io/public/assertions/mXnLLVXMQCOI8PJtB2aWUw?identity__email=jennifereunicemarumudi%40gmail.com) | -                                      |
 | 454 | Aayusha Shrestha        | aayyushashrestha@gmail.com      | [Aayusha Shrestha](https://www.linkedin.com/in/aayusha-shrestha-b61308256/) | [Certificate](https://api.badgr.io/public/assertions/MV3oy-8QQfS6Ydt8FRcsvA) | Easy to follow and helpful                                      |
 | 455 | Harish Peddina      | peddinaharish2003@gmail.com    | [Harish Peddina](https://www.linkedin.com/in/harish-peddina) | [Certificate](https://api.badgr.io/public/assertions/Zst6WklPSYmeLJNS7rnuBQ?identity__email=peddinaharish2003%40gmail.com) | good                        |
-| 456 | Gopika J            | gopikajitesh.lbs@gmail.com     | [Gopika J](https://www.linkedin.com/in/gopika-j-838346245/) | [Certificate](https://api.badgr.io/public/assertions/xocQvgzqROCHz-h96aw4Fw?identity__email=gopikajitesh.lbs%40gmail.com) | Thankyou gssoc for intro to Postman    |
+| 456 | Gopika J            | gopikajitesh.lbs@gmail.com     | [Gopika J](https://www.linkedin.com/in/gopika-j-838346245/) | [Certificate](https://api.badgr.io/public/assertions/xocQvgzqROCHz-h96aw4Fw?identity__email=gopikajitesh.lbs%40gmail.com) | Thankyou gssoc for intro to Postman    
 | 457 | Prajwala Yadlapalli     | prajwalayadlapalli@gmail.com     | [Prajwala Yadlapalli](https://www.linkedin.com/in/prajwala-yadlapalli/) | [Certificate](https://api.badgr.io/public/assertions/jGQMuejWSFu3l3mUkI90Xg?identity__email=prajwalayadlapalli%40gmail.com) | It was very useful, especially the video tutorial! |
 | 458 | Donald Reddy Indelu | donaldreddy2712@gmail.com | [Donald Reddy Indelu](https://www.linkedin.com/in/donald-reddy-a12702/) | [Certificate](https://api.badgr.io/public/assertions/lGuGbuCmRvy0L2sVVsBktg?identity__email=donaldreddy2712%40gmail.com) | useful |
 | 459 | Anandita Chaudhary | anandita299@gmail.com | [Anandita Chaudhary](https://www.linkedin.com/in/anandita-chaudhary-7591a4259/) | [Certificate Link](https://api.badgr.io/public/assertions/o9Qcdr8ESteUdvtOCgC_rw?identity__email=anandita299%40gmail.com) | Loved the course!   |
@@ -484,39 +484,9 @@
 | 488 | Hema Sree Vemulamada | hemav513922@gmail.com | [Hema Sree Vemulamada](https://www.linkedin.com/in/hemaree/) | [Certificate](https://api.badgr.io/public/assertions/doN88SamQcGuFyGn0h-Usw?identity__email=hemav513922%40gmail.com) | great course |
 |489 | Mehak Malik | mehakmalik1282@gmail.com | [Mehak Malik](https://www.linkedin.com/mynetwork/grow/) | [Certificate Link](https://api.badgr.io/public/assertions/pfZKvwKETS2z4B-8VaW1Mw?identity__email=mehakmalik1282%40gmail.com) | learn something new. |
 | 490 | Rishitha Nandanapu | rishinandanapu366@gmail.com | [Rishitha Nandanapu](https://www.linkedin.com/in/rishitha-nandanapu-a61015301) | [Certificate Link](https://badgr.com/backpack/badges/66a679d01ea7d93715e03ccd) | Good Course
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| 491 | Partha Sarathi Das | parthasarathidas120804@gmail.com | [Partha Das](https://www.linkedin.com/posts/parthadas12_im-happy-to-share-that-ive-obtained-a-new-activity-7223399291891892224-sJda?utm_source=share&utm_medium=member_desktop) | [Certificate](https://api.badgr.io/public/assertions/yt1a06dxT_W7_WMrX5DAdw?identity__email=parthasarathidas120804%40gmail.com) | It was a great introduction to APIs, also the handson session was much more practical and useful |
+| 492 | Hrushikesh Shinde | shindehrushi99@gmail.com | [Hrushikesh Shinde](https://www.linkedin.com/in/hrushikesh-shinde-developer/) | [Certificate Link](https://api.badgr.io/public/assertions/mwGVFvPdRzONxkMVl5Lh2w?identity__email=shindehrushi99%40gmail.com) | Nice course!   |
+| 493 | Avantika Ajit    | avantika.aji22@gmail.com@gmail.com     | [Avantika Ajit ](https://www.linkedin.com/in/avantikaajit) | [Certificate](https://api.badgr.io/public/assertions/zj6xuzmcRUSltr5Yl1lOjw?identity__email=avantika.aji22%40gmail.com) | Very useful course! Learned a lot from it. |
 
 | 5xx   | Shivam Gaur              | shivamgaur8527@gmail.com            | [Shivam Gaur](https://www.linkedin.com/in/shivam1gaur/ )                                                                                                                                   | [Certificate Link](https://api.badgr.io/public/assertions/_Q2xQ15fSYi-GezoIHBXWQ?identity__email=shivamgaur8527%40gmail.com)                                 | Good Course a good learning experience                                                                                 |     
-
-
-
 
