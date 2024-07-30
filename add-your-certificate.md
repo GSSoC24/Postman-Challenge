@@ -626,4 +626,5 @@
 | 629 | Kashish Verma | kashishverma2124@gmail.com | [Kashish Verma](https://www.linkedin.com/in/kashish-verma-2801332a1/) | [Certificate](https://api.badgr.io/public/assertions/vGyWvAMUQ1yGz0IpLqWGgQ?identity___email=kashishverma2124%40gmail.com) | Great course done by postman ! |
 | 630 | Allodeepa Das | allodeepadas@gmail.com | [Allodeepa Das](https://www.linkedin.com/in/allodeepa-das-22b6ab298/) | [Certificate](https://badgr.com/public/assertions/U6nGo0XBRqKvt_abg6HQ1Q?identity__email=allodeepadas@gmail.com) | It was interesting and get to know briefly about API |
 | 631 | Shivam Verma | shivam.verma256@outlook.com | [Shivam Verma](https://www.linkedin.com/in/shivam-verma-332710237/) | [Certificate](https://api.badgr.io/public/assertions/DMjFkgsYQTa2pmKhbcM9ew?identity__email=shivam.verma256@outlook.com) | Very Informative ! |
+| 632 | Ishita | ishita43@outlook.com | [Ishita](https://www.linkedin.com/in/ishita-thakur-9688b1262) | [Certificate](https://api.badgr.io/public/assertions/mb8H3eM0TCqwRzRCupoiPA?identity__email=ishita43@outlook.com) | Helped in revise! |
 
