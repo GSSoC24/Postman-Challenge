@@ -605,3 +605,5 @@
 | 608 | Vaishnavi Shelke | vaishnavishelke7777@gmail.com | [Vaishnavi Shelke](https://www.linkedin.com/in/vaishnavi-shelke-6a265520b/) | [Certificate Link](https://api.badgr.io/public/assertions/kDZ-zLibRW-5ZAMMZxqZ9w?identity__email=vaishnavishelke7777%40gmail.com) | Great Course |
 | 609 | Swanand Deshpande | swananddeshpande121@gmail.com | [Swanand Deshpande](https://www.linkedin.com/in/swananddeshpande121/) | [Certificate Link](https://api.badgr.io/public/assertions/u0jIm456Qs2LMtlEwBxpLA?identity__email=swananddeshpande121%40gmail.com) | Informative Course, learnt a lot. |
 | 610 | Biplab Mahato  |jbiplabmahato@gamil.com |[Biplab Mahato](https://linkedin.com/in/biplab-mahato-68b34a247/) | [Certificate](https://api.badgr.io/public/assertions/y09TrJ66QVK1Asap6Clrzw?identity__email=jbiplabmahato%40gmail.com) | Great Learning! |
+| 611 | Samar Sajad | samarsajad6@gmail.com       | [Samar Sajad](https://www.linkedin.com/in/samar-sajad-70b30b246/)  | [Certificate Link](https://api.badgr.io/public/assertions/KL4wsvDjQqOaoo28U9lzBQ?identity__email=samarsajad6%40gmail.com)  | Amazing |
+
