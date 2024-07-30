@@ -524,4 +524,4 @@
 | 528 | Sudhanshu Tripathi | stripathi9821@gmail.com | [Sudhanshu Tripathi](https://www.linkedin.com/in/sudhanshu-tripathi77/) | [Certificate](https://badgr.com/public/assertions/Cd9RGskdQ7unudLzH470_Q?identity__email=stripathi9821@gmail.com) | Helpful|
 | 529 | Ankit Luhar | ankitluhar5121@gmail.com |[Ankit Luhar](https://www.linkedin.com/in/ankitluhar/) | [Certificate](https://badgr.com/public/assertions/Qnf7Rt8QSI6L-cRBSzr_zQ?identity__email=ankitluhar5121@gmail.com) | amazing! |
 | 530 | PALLA SIVA SAI | psairabel593@gmail.com |[pallasivasai](https://www.linkedin.com/in/p-siva-sai-10686417a/) | [Certificate](https://api.badgr.io/public/assertions/0A5ZWYbkQoeS8YqojiGD8w?identity__email=psairabel593%40gmail.com) | Thanks for this opportunity! |
-
+| 531 | Shivam Gaur | shivamgaur8527@gmail.com | [Shivam Gaur](https://www.linkedin.com/in/shivam1gaur/ ) | [Certificate Link](https://api.badgr.io/public/assertions/_Q2xQ15fSYi-GezoIHBXWQ?identity__email=shivamgaur8527%40gmail.com) | Good Course a good learning experience |
