@@ -591,3 +591,5 @@
 | 594 | SESHA SAI BRINGESH KONDA | bringesh03@gmail.com | [SESHA SAI BRINGESH KONDA](https://www.linkedin.com/in/sesha-sai-bringesh-konda-970936251/) | [Certificate](https://api.badgr.io/public/assertions/ZnUOiId6Q-e5yn5ySHi4Hg?identity__email=bringesh03%40gmail.com) | It is a very informative one!!! |
 | 595 | Thatha Naga Chandu | nagachanduthatha@gmail.com | [Naga Chandu Thatha](www.linkedin.com/in/thatha-naga-chandu-933065226) | [Certificate](https://api.badgr.io/public/assertions/BkMDWfJxQDGi--CrNUeeoA?identity__email=nagachanduthatha%40gmail.com) | Good |
 | 596 | Sridevi Sivakala | sridevisivakala@gmail.com | [Sridevi Sivakala](www.linkedin.com/in/sivakala-sridevi-4aa9b2254) | [Certificate Link](https://api.badgr.io/public/assertions/GJwK778IRpagClO0wGPLLQ?identity__email=sridevisivakala%40gmail.com) | Interesting Course |
+| 597 | Ayush Sharma | ayushsharma014may@gmail.com | [Ayush Sharma](https://www.linkedin.com/in/ayush14may/) | [Certificate](https://api.badgr.io/public/assertions/L3V-nTy9QxiiusEgt6yqJQ?identity__email=ayushsharma014may%40gmail.com) | Learned Alot from this course ! |
+
