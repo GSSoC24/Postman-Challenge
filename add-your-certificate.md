@@ -540,5 +540,6 @@
 | 543 | Sivani Immidi | immidisivani678@gmail.com | [Sivani Immidi](https://www.linkedin.com/in/sivani-immidi-0595ab257/) | [Certificate](https://api.badgr.io/public/assertions/QddN5uO6R66DaKH-fmOmUg?identity__email=immidisivani678%40gmail.com) | Its great ,learnt postman deeply |
 | 544 | Aditya | singhadi437@gmail.com | [Aditya](https://www.linkedin.com/in/aditya41150/) | [Certificate](https://badgr.com/backpack/badges/66105fafd4be3a3016848fa6) | great course|
 | 545 | P. Revanth | revanthpasupuleti18@gmail.com | [P.Revanth](https://www.linkedin.com/in/revanth1/) | [Certificate](https://badgr.com/public/assertions/Q4ycIvL5SHyXVu52dEj0wg?identity__email=revanthpasupuleti18@gmail.com) | Great Learning |
-| 546 | Tushar Patil  | patiltushar9977@gmail.com | [Tushar Patil](https://www.linkedin.com/in/tusharpatil02/) | [Certificate Link](https://badgr.com/public/assertions/nVCh0MYFTviOqPdiTZWFVQ) | Amazing pathway to learn about API |
-|547 | Kanishka Dubey | Kanishkadubey63@gmail.com | [kanishkadubey](https://www.linkedin.com/in/kanishkadubey/) | [Certificate Link](https://api.badgr.io/public/assertions/KSKXy1x_RJSl0GwZBFqMxg?identity__email=kanishkadubey63%40gmail.com) | Good |
+| 545 | Aksh Raj | rajaksh03@gmail.com | [Aksh Raj](https://www.linkedin.com/in/aksh-raj-261695318/) | [Certificate](https://badgr.com/public/assertions/Q4ycIvL5SHyXVu52dEj0wg?identity__email=revanthpasupuleti18@gmail.com) | Great Learning and nice technique to teach |
+
+
