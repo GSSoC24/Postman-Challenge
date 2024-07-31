@@ -693,3 +693,4 @@
 | 696 | Moulik Sharma | moulik10sharma@gmail.com | [Moulik Sharma](https://www.linkedin.com/in/m10s) | [Certificate](https://api.badgr.io/public/assertions/j1fk6b3cTTiJLLRNPWq8Fg?identity__email=211210039%40nitdelhi.ac.in) | Very helpful |
 | 697 | Tenzin Delek | tibetdelek@gmail.com | [Tenzin Delek](https://www.linkedin.com/in/tenzin-delek-8a157724b/) | [Certificate](https://badgr.com/backpack/badges/669933a3ec499d6eafc638bb) | Good for revision |
 | 698 | Pudu Bhavaneeswara Rohitha | rohithapudu@gmail.com | [Rohitha Pudu](https://www.linkedin.com/in/rohitha-pudu-52b0bb253/) | [Certificate](https://badgr.com/backpack/badges/66a695e6b1bbd519a44efd15) | Great ! |
+| 699 | Mahek Patel | mahekrpatel611@gmail.com | [Mahek Patel](https://www.linkedin.com/in/mahek-patel/) | [Certificate](https://badgr.com/print-certificate/66a7a28c1ea7d93715e0583b) | It was very useful, especially the video tutorial! |
