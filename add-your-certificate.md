@@ -668,4 +668,4 @@
 | 671 | Sarthak Nande | sarthaknande19@gmail.com |[sarthak_nande](https://www.linkedin.com/in/sarthak-nande/) | [Certificate](https://api.badgr.io/public/assertions/3gShMDcqQ9i7GVkM_NdeVQ?identity__email=sarthaknande19%40gmail.com) | Great Learning! |
 | 672 | Nikhil Jangra           | nikhiljangra533@gmail.com            | [Nikhil Jangra](https://www.linkedin.com/in/nikhil-jangra-743b4a2b8/) | [Certificate Link](https://badgr.com/public/assertions/dkFs-wANQRu_WozRsA2wpw?identity__email=nikhiljangra533@gmail.com) | It was really a  wonderful experience. |
 | 673 | Dhanraj Verma | vermadhanraj015@gmail.com |[Dhanraj Verma](https://www.linkedin.com/in/dhanraj-verma-280684222/) | [Certificate](https://api.badgr.io/public/assertions/BuGrgiNgRdS3M0xbmTxVvA?identity__email=vermadhanraj015%40gmail.com) | Great Learning! |
-
+| 674 | Bhumika Gupta | bhumikagupta.2808@gmail.com |[Bhumika Gupta](https://www.linkedin.com/in/bhumika-gupta-9016542a9/) | [Certificate](https://api.badgr.io/public/assertions/W8sLItryQ0KeNKHD74VBSw?identity__email=bhumikagupta.2808%40gmail.com) | So helpful and easy to understand |
