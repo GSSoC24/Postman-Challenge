@@ -7,9 +7,7 @@ def parse_markdown_table(markdown):
 
     # Extract the header columns (assume the second line is the header separator)
     headers = [h.strip() for h in lines[0].split("|") if h.strip()]
-    # Remove the "Referral Code" column if present
-    if "Referral Code" in headers:
-        headers.remove("Referral Code")
+    
 
     # Process the table rows
     data = []
