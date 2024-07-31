@@ -665,4 +665,5 @@
 | 668 | Aditey Kshirsagar | aditeyrk19@gmail.com |[Aditey Kshirsagar](https://www.linkedin.com/in/aditey-kshirsagar-0b7962307/) | [Certificate](https://api.badgr.io/public/assertions/K7IBuW0KSbGfqZvwKrV4MQ?identity__email=aditeyrk19%40gmail.com) | Had a great experience in learning to work with API |
 | 669 | Aaryan Sharma | aaryansharmaa23@gmail.com |[Aaryan Sharma](https://www.linkedin.com/in/aaryan-sharma-2a1a582a6) | [Certificate](https://api.badgr.io/public/assertions/FQO5GkB4RBCQHAYKKe_b7Q?identity__email=aaryansharmaa23%40gmail.com) | Good start for API learning! |
 | 670 | Siya Ghode | siyaagh44@gmail.com |[Siya Ghode](https://www.linkedin.com/in/siya-ghode/) | [Certificate](https://badgr.com/public/assertions/i1ojTkxQR5a9pY1HI187rg?identity__email=siyaagh44@gmail.com) | Great Course on api! |
+| 671 | Sarthak Nande | sarthaknande19@gmail.com |[sarthak_nande](https://www.linkedin.com/in/sarthak-nande/) | [Certificate](https://api.badgr.io/public/assertions/3gShMDcqQ9i7GVkM_NdeVQ?identity__email=sarthaknande19%40gmail.com) | Great Learning! |
 
