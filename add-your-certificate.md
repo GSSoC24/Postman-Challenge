@@ -692,3 +692,4 @@
 | 695 | Ganesh Kumar    | ganeshplays700@gmail.com     | [Ganesh kumar ](https://www.linkedin.com/in/ganesh-kumar-816544282/) | [Certificate](https://api.badgr.io/public/assertions/Gmyi58VmRjKHdPNmuD0Fdw?identity__email=ganeshplays700%40gmail.com) | Very useful course! Learned a lot from it. |
 | 696 | Moulik Sharma | moulik10sharma@gmail.com | [Moulik Sharma](https://www.linkedin.com/in/m10s) | [Certificate](https://api.badgr.io/public/assertions/j1fk6b3cTTiJLLRNPWq8Fg?identity__email=211210039%40nitdelhi.ac.in) | Very helpful |
 | 697 | Tenzin Delek | tibetdelek@gmail.com | [Tenzin Delek](https://www.linkedin.com/in/tenzin-delek-8a157724b/) | [Certificate](https://badgr.com/backpack/badges/669933a3ec499d6eafc638bb) | Good for revision |
+| 698 | Pudu Bhavaneeswara Rohitha | rohithapudu@gmail.com | [Rohitha Pudu](https://www.linkedin.com/in/rohitha-pudu-52b0bb253/) | [Certificate](https://badgr.com/backpack/badges/66a695e6b1bbd519a44efd15) | Great ! |
