@@ -113,6 +113,19 @@ Any doubts and help needed: [Click Here to start Discussion](https://github.com/
 <br>
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/a298d6521a4d4916878f41fa39b68c1e?sid=d96f9700-232b-42c4-b428-ca40df9e7615" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div><br>
 
+### Task 10:Explore your Goodies
+* * *
+Upon completion make sure you create a LinkedIn post and share the link to us by PR here: 🔗[Link to Repo](https://github.com/GSSoC24/Postman-Challenge)<br>
+So we will let you know by mail if you are a winner in PostMan giveaway. <br>
+Any doubts and help needed: [Click Here to start Discussion](https://github.com/GSSoC24/Postman-Challenge/discussions/categories/q-a)<br>
+You can also upload your goodies with your photos here, once you get yours.
+![image](https://github.com/user-attachments/assets/c4586890-f2ee-44a0-b2fd-097990f27e6d)
+![image](https://github.com/user-attachments/assets/86359f0c-1140-4f7d-8a97-58e5c6ab8e5e)
+![image](https://github.com/user-attachments/assets/08caaa32-ad10-4a97-8204-35f3e9e4e492)
+![image](https://github.com/user-attachments/assets/278be15a-d68e-4b13-a2bf-8b4a812f1101)
+![image](https://github.com/user-attachments/assets/1d4c12a9-be98-4ca3-b3ed-62e40fcdc028)
+
+
 [Link to page](./another-page.html).
 
 
