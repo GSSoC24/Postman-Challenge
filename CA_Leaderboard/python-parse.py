@@ -31,7 +31,8 @@ def parse_markdown_table(markdown):
 
 while True:
     # URL of the raw markdown file in the GitHub repository
-    url = "https://github.com/GSSoC24/Postman-Challenge/blob/main/add-your-certificate.md"
+    
+    url = "https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/add-your-certificate.md"
 
     # Fetch the content from the URL
     response = requests.get(url)
