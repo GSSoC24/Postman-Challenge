@@ -585,4 +585,4 @@
 |  585 | Jayanth Thalla | jayanththalla33@gmail.com | [ Thalla Jayanth] (https://www.linkedin.com/in/thalla-jayanth-28a04525a)
 |  586 | Nidhi Satyapriya | satyapriyanidhi@gmail.com | [Nidhi Satyapriya](https://www.linkedin.com/in/nidhi-satyapriya-960556249/)| [Certificate Link](https://api.badgr.io/public/assertions/v5XeurHcRdu_datn22AKHA?identity__email=satyapriyanidhi%40gmail.com)| | Great insight for API Concepts. |
 |  587 | Sneha Banerjee | snehab.cse.jisu21@gmail.com | [Sneha Banerjee](https://www.linkedin.com/in/sneha-banerjee-529485222/)| [Certificate Link](https://badgr.com/public/assertions/ONnc7gDaStGYGL257nAs0Q?identity__email=snehab.cse.jisu21@gmail.com)|  Amazing learning experience. |
-
+|  588 | Raju Kumar| rajukumar7061474389@gmail.com | [Raju Kumar](https://www.linkedin.com/in/raju-kumar-a32b42229/)| [Certificate Link](https://api.badgr.io/public/assertions/kFbj483-Q_y1ZUSC3N5l-w?identity__email=rajukumar7061474389%40gmail.com)|  Leaen alot about API. |
