@@ -566,5 +566,5 @@
 |  564 |  Saba Noori | sabanoorisabanoori15@gmail.com | [Saba Noori](https://www.linkedin.com/in/saba-noori-5575852b7/)| [Certificate Link](https://api.badgr.io/public/assertions/fLE5l7CuSNqIO585yTEAWg?identity__email=sabanoorisabanoori15%40gmail.com)|  Great for Beginners and I gained knowledge on API's | 
 |  565 |  Mohit Budhlakoti | kartikbudhlakoti3@gmail.com | [Mohit Budhlakoti](https://www.linkedin.com/in/mohit-fr/) | [Certificate Link](https://badgr.com/public/assertions/Zv9hDrhzTceDxhPxgoepuQ?identity__email=kartikbudhlakoti3@gmail.com) | Learned something new here, Great course Indeed | 
 |  566 |  Rahul Narayan | rahulkunal0@gmail.com | [RahulNarayan](https://www.linkedin.com/in/rahul-narayan-2a4172222/)| [Certificate Link](https://api.badgr.io/public/assertions/GwuZaWdgS12RR6LgO608FA?identity__email=rahulkunal0%40gmail.com)|  A very good headstart for the understanding of APIs | aayu-280
-
+|  567 |  Nandani Goyal | 2023kucp1086@gmail.com | [Nandani Goyal](https://www.linkedin.com/in/nandani-goyal-927835291/) | [Certificate Link](https://api.badgr.io/public/assertions/Pty9pi4IRb-K_9QJuLMhJw?identity__email=2023kucp1086%40iiitkota.ac.in) | got to know something trending skill| 
 
