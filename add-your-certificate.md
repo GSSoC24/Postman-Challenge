@@ -592,5 +592,5 @@
 |  580 | Nakul Singh | codernakulsingh@gmail.com | [Nakul Singh](https://www.linkedin.com/in/er-nakul-singh/)| [Certificate Link](https://api.badgr.io/public/assertions/JS4fr1L2SPWQRgIYyNKwGg)|  Great Concepts |
 |  581 | Soujanya | soujusonu20@gmail.com | [soujanya c](https://www.linkedin.com/in/soujanya2004/)| [Certificate Link](https://badgr.com/print-certificate/66a5371db1bbd519a44eea29)|  Great for API Concepts. |
 |  582 | Akhila Sunesh | akhilasunesh@gmail.com | [Akhila Sunesh](https://www.linkedin.com/in/akhila-sunesh/)| [Certificate Link](https://api.badgr.io/public/assertions/3rzUrrwCSXu3-X-Y3I1FWw?identity__email=akhilasunesh%40gmail.com)|  A cool way to learn about API |
-
+|  583 | Raju Kumar | rajukumar7061474389@gmail.com | [Raju Kumar](https://www.linkedin.com/in/raju-kumar-a32b42229/)| [Certificate Link](https://api.badgr.io/public/assertions/kFbj483-Q_y1ZUSC3N5l-w?identity__email=rajukumar7061474389%40gmail.com)|  Learn a lot about API |
 
