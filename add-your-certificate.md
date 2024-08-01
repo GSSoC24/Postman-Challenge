@@ -566,5 +566,7 @@
 |  564 |  Saba Noori | sabanoorisabanoori15@gmail.com | [Saba Noori](https://www.linkedin.com/in/saba-noori-5575852b7/)| [Certificate Link](https://api.badgr.io/public/assertions/fLE5l7CuSNqIO585yTEAWg?identity__email=sabanoorisabanoori15%40gmail.com)|  Great for Beginners and I gained knowledge on API's |
 |  565 |  Mohit Budhlakoti | kartikbudhlakoti3@gmail.com@gmail.com | [Mohit Budhlakoti](https://www.linkedin.com/in/mohit-fr/) | [Certificate Link](https://badgr.com/public/assertions/Zv9hDrhzTceDxhPxgoepuQ?identity__email=kartikbudhlakoti3@gmail.com) | Learned something new here, Great course Indeed |
 |  566 |  Rahul Narayan | rahulkunal0@gmail.com | [RahulNarayan](https://www.linkedin.com/in/rahul-narayan-2a4172222/)| [Certificate Link](https://api.badgr.io/public/assertions/GwuZaWdgS12RR6LgO608FA?identity__email=rahulkunal0%40gmail.com)|  A very good headstart for the understanding of APIs |
+|  567 |  GayathriSudi | sudigayathri2@gmail.com | [RahulNarayan](https://www.linkedin.com/posts/sudi-gayathri-158269259_postman-api-fundamentals-student-expert-activity-7224727821594550273-uLcn?utm_source=share&utm_medium=member_desktop)| [Certificate Link](https://academy.postman.com/path/postman-api-fundamentals-student-expert/postman-api-fundamentals-student-expert-certification-1/48564 )|  A very good kickstart for the understanding of APIs |
+
 
 
