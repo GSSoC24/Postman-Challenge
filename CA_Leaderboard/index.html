@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leaderboard</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            text-align: center;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        th {
+            background-color: #ff6600;
+        }
+        .highlight {
+            color: orange;
+            font-weight: bold;
+        }
+        .description {
+            margin: 20px 0;
+            font-size: 1.2em;
+        }
+    </style>
+</head>
+<body>
+    <img src="logo.png" alt="GirlScript Summer Of Code Logo">
+    <h1>Campus ambassador Leaderboard</h1>
+    <div class="description">
+        Get ready to climb the ranks and win big! As a 
+        <span class="highlight">GirlScript Summer of Code</span> campus ambassador, 
+        your influence is invaluable. We're excited to introduce the leaderboard, 
+        your gateway to exclusive rewards. For every successful referral who completes 
+        certification and contributes a merged PR to the designated Postman Challenge 
+        GitHub repo, you earn a whopping 50 points. The campus ambassador with the highest 
+        score will be showered with amazing goodies and surprises.
+    </div>
+    <table id="leaderboardTable">
+        <thead>
+            <tr>
+                <th>Rank</th>
+                <th>Name</th>
+                <th>Referral Code</th>
+                <th>Number of Certifications</th>
+                <th>Score</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+    <footer>
+        <img src="footer.png" alt="GirlScript Summer Of Code Logo">
+    </footer>
+    <script>
+        function updateLeaderboard() {
+            fetch('/api/leaderboard')
+                .then(response => response.json())
+                .then(leaderboard => {
+                    const tableBody = document.getElementById('leaderboardTable').getElementsByTagName('tbody')[0];
+                    tableBody.innerHTML = '';
+
+                    leaderboard.forEach((item, index) => {
+                        const row = tableBody.insertRow();
+                        row.insertCell(0).textContent = index + 1; // Rank
+                        row.insertCell(1).textContent = item['Name'];
+                        row.insertCell(2).textContent = item['Referral Code'];
+                        row.insertCell(3).textContent = item['Number of Certifications'];
+                        row.insertCell(4).textContent = item['Number of Certifications'] * 50; // Score
+                    });
+                })
+                .catch(error => console.error('Error loading the leaderboard data:', error));
+        }
+
+        // Update the leaderboard every 3 seconds
+        setInterval(updateLeaderboard, 3000);
+
+        // Initial load
+        updateLeaderboard();
+    </script>
+</body>
+</html>
