@@ -550,7 +550,7 @@
 
 | 132 | Dhruv Soni | dhruvsoni8433@gmail.com | [Dhruv Soni](https://www.linkedin.com/in/dhruv-soni-6b2338230/) | [Certificate Link](https://api.badgr.io/public/assertions/6PDvuVXaQ-OgOTO8HZ4E5A?identity__email=dhruvsoni8433%40gmail.com) | it was good
 
-
+| 133  | Aditya D                | ibetanibex@gmail.com               | [Aditya D](https://www.linkedin.com/in/aditya-d-23453a179/)                                                                                                                                       | [Certificate Link](https://api.badgr.io/public/assertions/O4fTbWHtTBqV-NKcHfFjMg?identity__email=ibetanibex%40gmail.com)            | Could have added more tasks and methods
 
 
 
