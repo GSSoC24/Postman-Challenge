@@ -126,7 +126,7 @@ You can also upload your goodies with your photos here, once you get yours.
 ![image](https://github.com/user-attachments/assets/1d4c12a9-be98-4ca3-b3ed-62e40fcdc028)
 
 
-[Link to page](./another-page.html).
+[How to be a Postman /GSSOC Student Campus Ambassador](./campus-ambassador.html).
 
 
 ```
