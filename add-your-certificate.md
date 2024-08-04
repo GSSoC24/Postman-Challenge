@@ -649,3 +649,5 @@
 |  649 | Swati kumari | swatikumari8270@gmail.com | [Swati kumari](https://www.linkedin.com/in/swati-kumari-970839250/)  | [Certificate Link](https://api.badgr.io/public/assertions/CDybLafGT0GiZ2s7KlEj2A?identity__email=swatikumari8270%40gmail.com) |Its an amazing API learning experience|
 |  650 | Rama jaiswal | ramajailswal829111@gmail.com | [Rama jaiswal](https://www.linkedin.com/in/ramajaiswal/)  | [Certificate Link](https://api.badgr.io/public/assertions/ZbaAQeLfQ7O_yQMq4l2QaQ?identity__email=ramajaiswal829111%40gmail.com) |  It was overwhelming learning about API's  |
 |  651 | Lakshya Dhingra | lakshyadhingra26@gmail.com | [Lakshya Dhingra](www.linkedin.com/in/lakshyadhingra2624)  | [Certificate Link](https://api.badgr.io/public/assertions/hdFgJLL5RICznAiL6mbbmQ?identity__email=lakshyadhingra26%40gmail.com) |  Looking forward to attending more such great events |
+|  652 | Yogaprasad M K | yogaprasadf12@gmail.com | [Yogaprasad Manikka Kuppusami](www.linkedin.com/in/yogaprasadmk)  | [Certificate Link](https://badgr.com/public/assertions/7kpcNB_vTCikK4iN_zyyzg__email=yogaprasadf12%40gmail.com) |  Learned about postman fundamentals |
+
