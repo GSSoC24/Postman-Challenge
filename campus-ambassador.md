@@ -1,28 +1,7 @@
 ---
 layout: default
 ---
-# Step by Step Guide
-
-![image](./docs/assets/ca_guide.png)
-
-## 1. Open your mail and find your referral code.
-- Your referral code can be found in the common spreadsheet attached to the email.
-- If you are unable to find it, you can check your referral code [Here](https://docs.google.com/spreadsheets/d/1N8u--oq2ZOdR_7x1_lj-CdddRRMJCzek7BRVhzKY4AY/edit?usp=sharing).
-
-## 2. Promote the Postman Challenge
-- Share the challenge with your peers and network.
-- You can use social media or your own approach to get more participants to the Postman Challenge.
-
-## 3. Ensure your referrals complete the certificate
-- Guide them to follow all steps from the provided link: [Postman Challenge Instructions](https://gssoc24.github.io/Postman-Challenge/)
-
-## 4. After successful completion, ask them to add their name with your referral code
-- Make sure they follow all steps in this link: [Click Here](https://gssoc24.github.io/Postman-Challenge/). It won't take more than 30-40 minutes.
-
-## 5. Your points will update on the leaderboard
-- Check the leaderboard at [CA Leaderboard](https://ca-leaderboard.vercel.app)
-
----
+# Postman CA - Guide
 
 # Attention Campus Ambassadors!
 
@@ -52,6 +31,7 @@ When posting on social media, please use the following hashtags:
 The referral codes have already been allotted to you at the start of the program. If you have any questions or need further assistance, please don’t hesitate to reach out.
 
 ---
+
 
 # Perks for Participants of the Postman Challenge
 
@@ -88,6 +68,29 @@ You can earn additional points and recognition through the following initiatives
 Your unique referral code can be found in the common spreadsheet attached to this email. Please use this code to promote GSSoC’24 registrations among your peers.
 
 ### [Referral Code List](https://docs.google.com/spreadsheets/d/1N8u--oq2ZOdR_7x1_lj-CdddRRMJCzek7BRVhzKY4AY/edit?usp=sharing)
+
+---
+
+
+![image](./docs/assets/ca_guide.png)
+## Follow the Guideline.
+>[!NOTE]
+>  Open your mail and find your referral code.
+- Your referral code can be found in the common spreadsheet attached to the email.
+- If you are unable to find it, you can check your referral code [Here](https://docs.google.com/spreadsheets/d/1N8u--oq2ZOdR_7x1_lj-CdddRRMJCzek7BRVhzKY4AY/edit?usp=sharing).
+
+>Promote the Postman Challenge
+- Share the challenge with your peers and network.
+- You can use social media or your own approach to get more participants to the Postman Challenge.
+
+>Ensure your referrals complete the certificate
+- Guide them to follow all steps from the provided link: [Postman Challenge Instructions](https://gssoc24.github.io/Postman-Challenge/)
+
+> After successful completion, ask them to add their name with your referral code
+- Make sure they follow all steps in this link: [Click Here](https://gssoc24.github.io/Postman-Challenge/). It won't take more than 30-40 minutes.
+
+> Your points will update on the leaderboard
+- Check the leaderboard at [CA Leaderboard](https://ca-leaderboard.vercel.app)
 
 ---
 
