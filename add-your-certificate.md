@@ -671,4 +671,5 @@
 |  671 | Vasu Kansal | vasu12b8075@gmail.com | [Vasu Kansal](https://www.linkedin.com/in/vasu-kansal/) | [Certificate Link](https://api.badgr.io/public/assertions/QdViHCpBSb-yk4EaTwmUPQ?identity__email=vasu12b8075%40gmail.com) | Completed the Postman API certification. |
 |  672 | Om Rakibe | rakibeom30@gmail.com | [Om Rakibe](https://www.linkedin.com/in/omrakibe/) | [Certificate Link](https://badgr.com/public/assertions/E2XOxa6mRKOfcHXOVjwrCw?identity__email=rakibeom30@gmail.com) | Completed the Postman API certification and Looking forward to participate in more such events. |
 |  673 | Aryan Raj | araj47616@gmail.com | [Aryan Raj ](https://www.linkedin.com/in/aryan-raj-91b399250/) | [Certificate Link](https://api.badgr.io/public/assertions/XJBIxPkWQFyRxS3igw_peg?identity__email=araj47616%40gmail.com) | Completed the Postman API certification. |
+|  674 | Adinath Raut | adinathraut8080@gmail.com | [Adinath Raut](https://www.linkedin.com/in/adinathraut/) | [Certificate Link](https://api.badgr.io/public/assertions/qju68VpvQhyf_f3ns-XQ0Q?identity__email=adinathraut8080%40gmail.com) | Completed the Postman API certification. |
 
