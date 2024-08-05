@@ -64,6 +64,8 @@ For urgent issues or further assistance, contact the maintainers directly throug
 You can copy paste the code to your profile [Check this](https://github.com/GSSoC24/Postman-Challenge/tree/main/docs/assets)<br>
 Watch the Video: 🔗 [Link](https://www.loom.com/share/a298d6521a4d4916878f41fa39b68c1e?sid=6bc307c7-da57-4fda-b2e9-f9a1f5a3f3e2)
 ```
+
+```
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
@@ -76,6 +78,4 @@ Watch the Video: 🔗 [Link](https://www.loom.com/share/a298d6521a4d4916878f41fa
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
 </div>
-```
-
 #### Thank you for participating and contributing to our learning community! 🙌
