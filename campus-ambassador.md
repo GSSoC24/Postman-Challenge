@@ -1,11 +1,8 @@
 ---
 layout: default
 ---
-# Postman CA - Guide
-
 # Attention Campus Ambassadors!
-
-## We have some exciting rewards for you as part of our CA campaign:
+We have some exciting rewards for you as part of our CA campaign:
 
 - **Earn 50 points for each completed certificate.**
 - **Special Offer**: Bring in 50 participants to complete the Postman Challenge and receive:
@@ -22,11 +19,7 @@ layout: default
 Let’s make this a huge success! 🌟
 
 ## Hashtags
-When posting on social media, please use the following hashtags:
-- `#getpostman`
-- `#girlscriptsoc`
-- `#PostmanStudent`
-- `#GSSoC24`
+When posting on social media, please use the following hashtags: `#getpostman`, `#girlscriptsoc`, `#PostmanStudent`, `#GSSoC24`
 
 The referral codes have already been allotted to you at the start of the program. If you have any questions or need further assistance, please don’t hesitate to reach out.
 
@@ -35,7 +28,7 @@ The referral codes have already been allotted to you at the start of the program
 
 # Perks for Participants of the Postman Challenge
 
-## Upon completion:
+> Upon completion:
 - **Make sure you create a LinkedIn post and share the link to us by PR here**: [🔗Link to Repo](https://github.com/GSSoC24/Postman-Challenge)
 - We will let you know by mail if you are a winner in the Postman giveaway.
 - Any doubts and help needed: [Click Here to Start Discussion](https://github.com/GSSoC24/Postman-Challenge/discussions/categories/q-a)
