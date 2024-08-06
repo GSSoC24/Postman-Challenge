@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://socialify.git.ci/yashksaini-coder/Postman-Challenge/image?font=Rokkitt&forks=1&issues=1&name=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Auto" alt="Postman-Challenge" width="640" height="320" />
+</div>
 
 <h1 align="center">GGSOC <> Postman API Student Expert</h1>
 
@@ -57,7 +60,7 @@ If you encounter any issues or have questions, you can reach out for support thr
 For urgent issues or further assistance, contact the maintainers directly through mail at gssoc@girlscript.tech
 
 
-## Customizing Badge on GitHub Profile
+<!-- ## Customizing Badge on GitHub Profile
 
 ### Configuration variables
 
@@ -76,6 +79,6 @@ Watch the Video: 🔗 [Link](https://www.loom.com/share/a298d6521a4d4916878f41fa
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
 </div>
-```
+``` -->
 
 #### Thank you for participating and contributing to our learning community! 🙌
