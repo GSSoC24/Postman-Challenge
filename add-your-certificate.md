@@ -757,3 +757,6 @@
 |  757 | Jashanpreet Singh | jashan.2005preetsingh@gmail.com | [Jashanpreet Singh](https://www.linkedin.com/in/jashanp2005) | [Certificate Link](https://badgr.com/backpack/badges/66b41c2f44c0b913b13e6cf6) |  Helpful for beginners |
 |  758 | Jagpreet Singh Khurana | jskhurana153@gmail.com | [Jagpreet Singh Khurana](https://www.linkedin.com/in/khurana-js) | [Certificate Link](https://api.badgr.io/public/assertions/-VH18JLxSouZ4suMhTBA4g?identity__email=jskhurana153%40gmail.com) |  Helpful for beginners |
 |  759 | Chaitanya Lonarkar | chaitanyalonarkar24@gmail.com | [Chaitanya Lonarkar](https://in.linkedin.com/in/chaitanya-lonarkar-581960244) | [Certificate Link](https://api.badgr.io/public/assertions/-u4asf-UQZGT1VKdDvbCtQ?identity__email=chaitanyalonarkar24%40gmail.com) | Very good way to learn about API Fundamentals..! |
+|  760 | Mudragada Jaya Krishna Manideep | manideeomudragada9@gmail.com | [Jaya Krishna Manideep](https://www.linkedin.com/in/mudragadajayakrishnamanideep) | [Certificate Link](
+https://api.badgr.io/public/assertions/MJhA1l8eTYWNdGz6khLueA?identity__email=manideepmudragada9%40gmail.com) | perfect learning guide for new learners |
+
