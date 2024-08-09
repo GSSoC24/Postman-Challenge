@@ -804,3 +804,5 @@
 |  804 | Surendar | surendarrockzz7@gmail.com | [Surendar](www.linkedin.com/in/surendarks) | [Certificate Link](https://api.badgr.io/public/assertions/U5m5H3LST7C43eBavdyDpw?identity__email=surendarrockzz7%40gmail.com) | Greater Opportunity Thanks!!|
 |  805 | Harshit Gupta | guptaharshit1907@gmail.com | [Harshit Gupta](https://www.linkedin.com/in/harshit-gupta-71799b217/) | [Certifictate Link](https://api.badgr.io/public/assertions/wCetP_zjSjSXXshTURuAKA?identity__email=guptaharshit1907%40gmail.com) | Great way to learn about API's |
 |  806 | Samyak Maitre | pixelpirate404@gmail.com | [Samyak Maitre](https://www.linkedin.com/in/samyakmaitre/) | [Certificate Link](https://api.badgr.io/public/assertions/mdKuOrqxQwmXzBxwvVkFjA?identity__email=pixelpirate404%40gmail.com)| Had an amazing learning experience! |
+
+|  807 | SiddharthaArepalli | asiddharthagoud@gmail.com | [siddharthaarepalli](https://www.linkedin.com/in/siddharthaarepalli/) | [Certificate Link](https://api.badgr.io/public/assertions/faEjQPXxSiGBYS0tsX_3Zg?identity__email=asiddharthagoud%40gmail.com)| Very insightful course loved it. Making use of API's made me more deep dive into API's |
