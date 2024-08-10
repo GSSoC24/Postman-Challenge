@@ -829,4 +829,4 @@
 |  829 | Vishal Manve | manvevishal09@gmail.com | [Vishal Manve](https://www.linkedin.com/in/vishal-manve-9b7bbb229/) | [Certificate Link](https://api.badgr.io/public/assertions/p64VJJ3gRoSZGGT2r08ryA?identity__email=manvevishal09@gmail.com)| Thanks for this opportunity |
 |  830 | Yash Ingle | studentofkj2@gmail.com | [Yash Ingle](https://www.linkedin.com/in/yash-ingle-18a82029b/) | [Certificate Link](https://api.badgr.io/public/assertions/G3D6_RuLTNODhgp5AlSyvw?identity__email=studentofkj2%40gmail.com)| Thanks for this amazing opportunity! |
 |  831 | M Husain Vijapura | husain.vijapura@gmail.com | [M Husain Viajpura](https://www.linkedin.com/in/m-husain-vijapura-3750aa249/) | [Certificate Link](https://badgr.com/public/assertions/LoXDTSy4RA6xbrUQHpr_gg?identity__email=husain.vijapura@gmail.com)| Thanks for this opportunity. I have learned a lot |
-
+|  832 | Tanishq Kolhatkar | tanishq.kolhatkar2021@vitbhopal.ac.in | [Tanishq Kolhatkar](https://www.linkedin.com/in/tanishq-kolhatkar-4168a0209/) | [Certificate Link](https://badgr.com/print-certificate/66b7180bb47db667224faea5)| Thanks for this opportunity. I have learned a lot |
