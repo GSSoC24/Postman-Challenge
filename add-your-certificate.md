@@ -851,5 +851,5 @@
 |  851 | Tarandeep Singh Juneja | tarandeepjuneja11@gmail.com| [Tarandeep singh](https://www.linkedin.com/in/tarandeep-singh-juneja-55542424b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Certificate Link](https://api.badgr.io/public/assertions/n86dtRm9R7SAaCSET62qpg?identity__email=tarandeepjuneja11%40gmail.com)| Great Course, but the videos could have been more detailed |
 |  852 | Pranav Chaturvedi | pranavchturvedi18@gmail.com | [Pranav Chaturvedi](https://www.linkedin.com/in/pranav-chaturvedi-a961a12ba/) | [Certificate Link]( https://api.badgr.io/public/assertions/sEz8PGv5SLGpEhhyKzg33g?identity__email=pranavchturvedi18%40gmail.com)| Great Course, but the videos could have been more detailed |
 |  853 | Chandan | chandannekya@gmail.com| [Chandan](https://www.linkedin.com/in/chandannekya/) | [Certificate Link](https://badgr.com/public/assertions/8jgK7hrfSUKCkAxoMxF45w?identity__email=chandan85338818@gmail.com)| Great Course, Very usefull |
-
+|  854 | Khushi Makwana | khushimakwana695@gmail.com| [Khushi Makwana](https://linkedin.com/in/khushi-makwana-846783251) | [Certificate Link](https://badgr.com/public/assertions/GDZobH6OSfCe2Xjw5AFZrw?identity__email=khushimakwana695@gmail.com)| Very useful and informative course |
 
