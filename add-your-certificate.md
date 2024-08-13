@@ -840,6 +840,9 @@
 
 |  837 | Anshika Singh | anshikasinghrathore286@gmail.com | [Anshika Singh](https://www.linkedin.com/in/anshiikaa-singh) | [Certificate Link]( https://api.badgr.io/public/assertions/o2WXt-9IRO6lBgrrggpwzg?identity__email=anshikasinghrathore286%40gmail.com)| Great Course, but the videos could have been more detailed |
 
+|  840 | kv Manoj Kumar| manoj.23mip10113@vitbhopal.ac.in | [kv Manoj kumar](https://www.linkedin.com/in/k-v-manoj-kumar-56213828b/) | [Certificate Link](https://api.badgr.io/public/assertions/BNnXsEt4SJOMEB1mzokwwA?identity__email=manoj.23mip10113%40vitbhopal.ac.in)| thanks for the badge |
+
+
 |  838 | Nathasha T | omna0504@gmail.com | [Nathasha T Attavar](linkedin.com/in/nathasha-t-attavar-492a4125b) | [Certificate Link]( https://api.badgr.io/public/assertions/cg_aRV8_Q5y3-eeRhPtc2Q?identity__email=omna0504%40gmail.com)| Great Course, I enjoyed it |
 
 |  838 | Aadya Gupta | guptamoli01@gmail.com | [Aadya Gupta](www.linkedin.com/in/aadya-gupta-b4b181248) | [Certificate Link](https://api.badgr.io/public/assertions/ozRgZr8VQoiS-PwhfgNzQQ?identity__email=guptamoli01%40gmail.com)| thanks! |
@@ -859,4 +862,5 @@
 |  852 | Pranav Chaturvedi | pranavchturvedi18@gmail.com | [Pranav Chaturvedi](https://www.linkedin.com/in/pranav-chaturvedi-a961a12ba/) | [Certificate Link]( https://api.badgr.io/public/assertions/sEz8PGv5SLGpEhhyKzg33g?identity__email=pranavchturvedi18%40gmail.com)| Great Course, but the videos could have been more detailed |
 |  853 | Chandan | chandannekya@gmail.com| [Chandan](https://www.linkedin.com/in/chandannekya/) | [Certificate Link](https://badgr.com/public/assertions/8jgK7hrfSUKCkAxoMxF45w?identity__email=chandan85338818@gmail.com)| Great Course, Very usefull |
 |  854 | Ashima Singh |singhashima.2903@gmail.com | [Ashima Singh](www.linkedin.com/in/-ashima-singh) | [Certificate Link]( https://api.badgr.io/public/assertions/3F28NUW4Taap_PeVq-HRnw?identity__email=singhashima.2903%40gmail.com)| ❤️Loved IT and ⭐ Excellent course, clear instructions, and engaging hands-on experience! 🚀📚|
+
 
