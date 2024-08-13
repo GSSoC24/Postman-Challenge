@@ -870,4 +870,5 @@
 |  853 | Chandan | chandannekya@gmail.com| [Chandan](https://www.linkedin.com/in/chandannekya/) | [Certificate Link](https://badgr.com/public/assertions/8jgK7hrfSUKCkAxoMxF45w?identity__email=chandan85338818@gmail.com)| Great Course, Very usefull |
 |  854 | Ashima Singh |singhashima.2903@gmail.com | [Ashima Singh](www.linkedin.com/in/-ashima-singh) | [Certificate Link]( https://api.badgr.io/public/assertions/3F28NUW4Taap_PeVq-HRnw?identity__email=singhashima.2903%40gmail.com)| ❤️Loved IT and ⭐ Excellent course, clear instructions, and engaging hands-on experience! 🚀📚|
 |  855 | Soumyajit Roy |roysoumyajit36@gmail.com| [Soumyajit Roy](https://www.linkedin.com/in/roysoumyajit36/) | [Certificate Link](https://badgr.com/public/assertions/Lb2uWRmwSg2svcYcaO8ajQ?identity__email=roysoumyajit36@gmail.com)| Excellent course for getting introduced to APIs! |
+|  856 | Manav Malhotra | manavmalhotra173@gmail.com | [Manav Malhotra](https://www.linkedin.com/in/manavmalhotra173/) | [Certificate Link](https://badgr.com/public/assertions/y4aLbOtVT0G9_oZHO1m0uQ?identity__email=manavmalhotra173@gmail.com )| Nice course on APIs |
 
