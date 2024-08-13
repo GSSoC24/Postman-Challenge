@@ -840,10 +840,6 @@
 
 |  837 | Anshika Singh | anshikasinghrathore286@gmail.com | [Anshika Singh](https://www.linkedin.com/in/anshiikaa-singh) | [Certificate Link]( https://api.badgr.io/public/assertions/o2WXt-9IRO6lBgrrggpwzg?identity__email=anshikasinghrathore286%40gmail.com)| Great Course, but the videos could have been more detailed |
 
-|  840 | Kv Manoj kumar | manoj.23mip10113@vitbhopal.ac.in
- | [Kv Manoj kumar](https://www.linkedin.com/in/k-v-manoj-kumar-56213828b/) | [Certificate Link]( https://api.badgr.io/public/assertions/BNnXsEt4SJOMEB1mzokwwA?identity__email=manoj.23mip10113%40vitbhopal.ac.in)| thank you |
-
-
 |  838 | Harsh Burman | burmanharsh2003@gmail.com | [Harsh](https://linkedin.com/in/harsh-burman-05657a250) | [Certificate Link](https://api.badgr.io/public/assertions/f0x2yMoyT0i0zVLjdmBNRA?identity__email=burmanharsh2003%40gmail.com)| Loved Contributing in Open Source |
 
 
@@ -869,5 +865,4 @@
 |  852 | Pranav Chaturvedi | pranavchturvedi18@gmail.com | [Pranav Chaturvedi](https://www.linkedin.com/in/pranav-chaturvedi-a961a12ba/) | [Certificate Link]( https://api.badgr.io/public/assertions/sEz8PGv5SLGpEhhyKzg33g?identity__email=pranavchturvedi18%40gmail.com)| Great Course, but the videos could have been more detailed |
 |  853 | Chandan | chandannekya@gmail.com| [Chandan](https://www.linkedin.com/in/chandannekya/) | [Certificate Link](https://badgr.com/public/assertions/8jgK7hrfSUKCkAxoMxF45w?identity__email=chandan85338818@gmail.com)| Great Course, Very usefull |
 |  854 | Ashima Singh |singhashima.2903@gmail.com | [Ashima Singh](www.linkedin.com/in/-ashima-singh) | [Certificate Link]( https://api.badgr.io/public/assertions/3F28NUW4Taap_PeVq-HRnw?identity__email=singhashima.2903%40gmail.com)| ❤️Loved IT and ⭐ Excellent course, clear instructions, and engaging hands-on experience! 🚀📚|
-
-
+|  855 | Aryan Saji                   | aryansaji3103@gmail.com                                | [Aryan Saji](https://www.linkedin.com/in/aryan-saji-096bb2228/)                                                                                                                       | [Certificate Link](https://badgr.com/public/assertions/RhL4RbPdSFKk93jz3IzutQ?identity__email=aryansaji3103@gmail.com&action=download)                                                                                                                      | Great learning experience
