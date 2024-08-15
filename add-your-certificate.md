@@ -876,4 +876,4 @@
 |  859 | Manav Malhotra | manavmalhotra173@gmail.com | [Manav Malhotra](https://www.linkedin.com/in/manavmalhotra173/) | [Certificate Link](https://badgr.com/public/assertions/y4aLbOtVT0G9_oZHO1m0uQ?identity__email=manavmalhotra173@gmail.com )| Nice course on APIs |
 |  860 | Payal Kumari | kumaripayal7488@gmail.com | [Payal Kumari](https://www.linkedin.com/in/payalkumari10/)) | [Certificate Link](https://api.badgr.io/public/assertions/841yAcHcTV6-wkXHjqNXPw?identity__email=kumaripayal7488%40gmail.com)| Best and Helpful course on APIs |
 |  861 | Aditi Dahake | aaditidahake@gmail.com | [Aditi Dahake](https://www.linkedin.com/in/aaditi-dahake-7a0362241/) | [Certificate Link](https://api.badgr.io/public/assertions/BwLZywy0QWi9Fbw95P1ZsA?identity__email=aaditidahake%40gmail.com)| Awesome and Easy to understand course, will help student to understand and learn about API |
-
+|  862 | Dedeepya Sindu Bellakonda | dedeepya808@gmail.com | [Dedeepya Sindu Bellamkonda](https://www.linkedin.com/in/dedeepya-sindu-bellamkonda-a36a8b270/)  | [https://badgr.com/print-certificate/66be4ead1244ae277eacf87b]
