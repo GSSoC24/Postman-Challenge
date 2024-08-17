@@ -889,7 +889,7 @@
 |  865 | Payal Kumari | kumaripayal7488@gmail.com | [Payal Kumari](https://www.linkedin.com/in/payalkumari10/) | [Certificate Link](https://api.badgr.io/public/assertions/841yAcHcTV6-wkXHjqNXPw?identity__email=kumaripayal7488%40gmail.com)| Best and Helpful course on APIs |
 |  866 | Aditi Dahake | aaditidahake@gmail.com | [Aditi Dahake](https://www.linkedin.com/in/aaditi-dahake-7a0362241/) | [Certificate Link](https://api.badgr.io/public/assertions/BwLZywy0QWi9Fbw95P1ZsA?identity__email=aaditidahake%40gmail.com)| Awesome and Easy to understand course, will help student to understand and learn about API |
 |  867 | Suraj Ojha | surajojha2626@gmail.com  | [Suraj Ojha](https://www.linkedin.com/in/suraj-ojha-49287a21b/) | [Certificate Link](https://badgr.com/public/assertions/Z3txKgOKS-uKpojyj0J63A?identity__email=surajojha2626@gmail.com)| Thanks for this opportunity. |
-
+|  868 | Navneet Kaur | navneet78141@gmail.com  | [Navneet Kaur](www.linkedin.com/in/navneet-kaur-7300562a6) | [Certificate Link](https://api.badgr.io/public/assertions/Pp3t0p64SYqsX-nQS5nIUQ?identity__email=navneet78141%40gmail.com)|  | a unique opportunity to dive into the world of APIs, offering guided learning in this field. |
 
 
 
