@@ -839,6 +839,9 @@
 |  839 | Duddupudi Deepthi | duddupudideepthi31@gmail.com | [Deepthi Duddupudi](https://www.linkedin.com/in/deepthi-duddupudi-35a210267/) | [Certificate Link](https://badgr.com/public/assertions/umBz-CDoRR-jobXAKaBN_g?identity__email=duddupudideepthi31@gmail.com)| Thanks for this opportunity. |
 
 |  837 | Anshika Singh | anshikasinghrathore286@gmail.com | [Anshika Singh](https://www.linkedin.com/in/anshiikaa-singh) | [Certificate Link]( https://api.badgr.io/public/assertions/o2WXt-9IRO6lBgrrggpwzg?identity__email=anshikasinghrathore286%40gmail.com)| Great Course, but the videos could have been more detailed |
+
+|  841 | Yashi Singh | yashirajput30@gmail.com | [Yashi Singh](https://www.linkedin.com/in/yashisingh525/) | [Certificate Link](https://api.badgr.io/public/assertions/ZY451FklQVS_TA8IqXXFuA)| Thanks for this opportunity. |
+
 |  838 | Ritik Tiwari | ritiktiwari2022@vitbhopal.ac.in | [Ritik Tiwari](https://www.linkedin.com/in/ritik-tiwari-1a5399250/) | [Certificate Link](https://api.badgr.io/public/assertions/jsAGPkYwTY-9G2N25z6UCw?identity__email=ritiktiwari2022%40vitbhopal.ac.in)| Great Course, loved to be a part of |
 
 |  840 | Anshika Singh | anshikasinghrathore286@gmail.com | [Anshika Singh](https://www.linkedin.com/in/anshiikaa-singh) | [Certificate Link]( https://api.badgr.io/public/assertions/o2WXt-9IRO6lBgrrggpwzg?identity__email=anshikasinghrathore286%40gmail.com)| Great Course, but the videos could have been more detailed |
@@ -881,4 +884,5 @@
 |  865 | Payal Kumari | kumaripayal7488@gmail.com | [Payal Kumari](https://www.linkedin.com/in/payalkumari10/) | [Certificate Link](https://api.badgr.io/public/assertions/841yAcHcTV6-wkXHjqNXPw?identity__email=kumaripayal7488%40gmail.com)| Best and Helpful course on APIs |
 |  866 | Aditi Dahake | aaditidahake@gmail.com | [Aditi Dahake](https://www.linkedin.com/in/aaditi-dahake-7a0362241/) | [Certificate Link](https://api.badgr.io/public/assertions/BwLZywy0QWi9Fbw95P1ZsA?identity__email=aaditidahake%40gmail.com)| Awesome and Easy to understand course, will help student to understand and learn about API |
 |  867 | Suraj Ojha | surajojha2626@gmail.com  | [Suraj Ojha](https://www.linkedin.com/in/suraj-ojha-49287a21b/) | [Certificate Link](https://badgr.com/public/assertions/Z3txKgOKS-uKpojyj0J63A?identity__email=surajojha2626@gmail.com)| Thanks for this opportunity. |
+
 
