@@ -879,6 +879,9 @@
 
 |  854 | Ashima Singh |singhashima.2903@gmail.com | [Ashima Singh](www.linkedin.com/in/-ashima-singh) | [Certificate Link]( https://api.badgr.io/public/assertions/3F28NUW4Taap_PeVq-HRnw?identity__email=singhashima.2903%40gmail.com)| ❤️Loved IT and ⭐ Excellent course, clear instructions, and engaging hands-on experience! 🚀📚|
 
+|  855 | manoj pagidi |pagidimanojyadav@gmail.com | [manoj pagidi](https://www.linkedin.com/in/manojyadaw0) | [Certificate Link](https://badgr.com/backpack/badges/661174192a6b3a634f57bf14)| ❤️Loved it and gained hands-on experience! 🚀📚|
+
+
 |  855 | Kanak Maheshwari | mahe.kanak@gmail.com | [Kanak Maheshwari](https://www.linkedin.com/in/kanak-maheshwari-6b7922285/) | [Certificate Link](https://api.badgr.io/public/assertions/Gg7LIe0JQ6KImuVXsyTUYA?identity__email=mahe.kanak%40gmail.com)| ❤️ Great Course,Looking forward to much more 🚀|
 
 |  855 | Ayush Vishwakarma |ayushvishwakarma9625@gmail.com | [Ayush Vishwakarma ](https://www.linkedin.com/in/ayush-vishwakarma-9a177a24a/) | [Certificate Link]( https://api.badgr.io/public/assertions/-I2KwQXRSAO757SYGXfiyQ?identity__email=ayushvishwakarma9625%40gmail.com)| ❤ Useful and ⭐ real life applicable course |
@@ -917,6 +920,7 @@
 |  866 | Aditi Dahake | aaditidahake@gmail.com | [Aditi Dahake](https://www.linkedin.com/in/aaditi-dahake-7a0362241/) | [Certificate Link](https://api.badgr.io/public/assertions/BwLZywy0QWi9Fbw95P1ZsA?identity__email=aaditidahake%40gmail.com)| Awesome and Easy to understand course, will help student to understand and learn about API |
 |  867 | Suraj Ojha | surajojha2626@gmail.com  | [Suraj Ojha](https://www.linkedin.com/in/suraj-ojha-49287a21b/) | [Certificate Link](https://badgr.com/public/assertions/Z3txKgOKS-uKpojyj0J63A?identity__email=surajojha2626@gmail.com)| Thanks for this opportunity. |
 |  868 | Hemant Kumar | hemant.kr.711@gmail.com  | [Hemant Kumar](https://www.linkedin.com/in/hemant-kumar-b1b7a023b/) | [Certificate Link](https://badgr.com/public/assertions/xmPrfgdQR0-N4bPtcV5-5g?identity__email=hemant.kr.711@gmail.com)| Excellent Course|
+
 
 
 
