@@ -877,6 +877,10 @@
 
 |  853 | Chandan | chandannekya@gmail.com| [Chandan](https://www.linkedin.com/in/chandannekya/) | [Certificate Link](https://badgr.com/public/assertions/8jgK7hrfSUKCkAxoMxF45w?identity__email=chandan85338818@gmail.com)| Great Course, Very usefull |
 
+|  854 | Ashima Singh |singhashima.2903@gmail.com | [Ashima Singh](www.linkedin.com/in/-ashima-singh) | [Certificate Link]( https://api.badgr.io/public/assertions/3F28NUW4Taap_PeVq-HRnw?identity__email=singhashima.2903%40gmail.com)| ❤️Loved IT and ⭐ Excellent course, clear instructions, and engaging hands-on experience! 🚀📚|
+|  854 | Sakshi Roy|sakshi.roy7870@gmail.com | [Sakshi Roy](https://www.linkedin.com/in/sakshiroy7870) | [Certificate Link]( https://api.badgr.io/public/assertions/ET5JJ184RUaOeBBwJ9eBUQ?identity__email=sakshi.roy7870%40gmail.com)| Great Course,  engaging hands-on experience! 🚀📚|
+
+
 |  854 | vidya chauhan | vidyachauhan2004@gmail.com | [vidya](https://www.linkedin.com/in/vidya-chauhan-1b0894214) | [certificate link](https://badgr.com/public/assertions/xQb2wRwfSjG5InbKFCn6qg?identity__email=vidyachauhan2004@gmail.com) | very grateful to get this , intresting and helpful.
 
 |  854 | Yash Kumar | its.yash.kumar23@gmail.com | [Yash Kumar](https://www.linkedin.com/in/its-kumar-yash/) | [Certificate Link](https://api.badgr.io/public/assertions/IcmmrNF5RgOB_Mw135Lckw?identity__email=its.yash.kumar23%40gmail.com)| Great Course, Very useful |
