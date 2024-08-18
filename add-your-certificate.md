@@ -877,6 +877,9 @@
 
 |  853 | Chandan | chandannekya@gmail.com| [Chandan](https://www.linkedin.com/in/chandannekya/) | [Certificate Link](https://badgr.com/public/assertions/8jgK7hrfSUKCkAxoMxF45w?identity__email=chandan85338818@gmail.com)| Great Course, Very usefull |
 
+|  854 | Subham Singh | singhshome2@gmail.com | [Subham Singh](www.linkedin.com/in/subham-singh-94954b229) | [Certificate Link](https://api.badgr.io/public/assertions/lXeyMBh-SsSDPa9qpHkiAA?identity__email=singhshome2%40gmail.com)| Easy To Learn and Implement |
+
+
 |  854 | Khushi Makwana | khushimakwana695@gmail.com| [Khushi Makwana](https://linkedin.com/in/khushi-makwana-846783251) | [Certificate Link](https://badgr.com/public/assertions/GDZobH6OSfCe2Xjw5AFZrw?identity__email=khushimakwana695@gmail.com)| Very useful and informative course |
 
 |  854 | Vidhi Saxena | vidhi094btmae23@igdtuw.ac.in | [Vidhi Saxena](https://www.linkedin.com/in/vidhi-saxena-86150a243/)) | [Certificate Link](https://badgr.com/public/assertions/jDsv5XOiTcailhWLItXa1w?identity__email=vidhi094btmae23@igdtuw.ac.in)| More videos for better understanding. |
@@ -899,6 +902,7 @@
 |  866 | Aditi Dahake | aaditidahake@gmail.com | [Aditi Dahake](https://www.linkedin.com/in/aaditi-dahake-7a0362241/) | [Certificate Link](https://api.badgr.io/public/assertions/BwLZywy0QWi9Fbw95P1ZsA?identity__email=aaditidahake%40gmail.com)| Awesome and Easy to understand course, will help student to understand and learn about API |
 |  867 | Suraj Ojha | surajojha2626@gmail.com  | [Suraj Ojha](https://www.linkedin.com/in/suraj-ojha-49287a21b/) | [Certificate Link](https://badgr.com/public/assertions/Z3txKgOKS-uKpojyj0J63A?identity__email=surajojha2626@gmail.com)| Thanks for this opportunity. |
 |  868 | Hemant Kumar | hemant.kr.711@gmail.com  | [Hemant Kumar](https://www.linkedin.com/in/hemant-kumar-b1b7a023b/) | [Certificate Link](https://badgr.com/public/assertions/xmPrfgdQR0-N4bPtcV5-5g?identity__email=hemant.kr.711@gmail.com)| Excellent Course|
+
 
 
 
