@@ -876,6 +876,7 @@
 |  853 | Yash Kumar Saini | ys3853428@gmail.com | [Yash K. Saini](https://www.linkedin.com/in/yashksaini/) | [Certificate Link](https://api.badgr.io/public/assertions/D4MAMBuhS-y_6v_eNDLifA?identity__email=ys3853428%40gmail.com)| Great Course, but the videos could have been more interactive |
 
 |  853 | Chandan | chandannekya@gmail.com| [Chandan](https://www.linkedin.com/in/chandannekya/) | [Certificate Link](https://badgr.com/public/assertions/8jgK7hrfSUKCkAxoMxF45w?identity__email=chandan85338818@gmail.com)| Great Course, Very usefull |
+|  854 | Yash Kumar | its.yash.kumar23@gmail.com | [Yash Kumar](https://www.linkedin.com/in/its-kumar-yash/) | [Certificate Link](https://api.badgr.io/public/assertions/IcmmrNF5RgOB_Mw135Lckw?identity__email=its.yash.kumar23%40gmail.com)| Great Course, Very useful |
 
 |  854 | Subham Singh | singhshome2@gmail.com | [Subham Singh](www.linkedin.com/in/subham-singh-94954b229) | [Certificate Link](https://api.badgr.io/public/assertions/lXeyMBh-SsSDPa9qpHkiAA?identity__email=singhshome2%40gmail.com)| Easy To Learn and Implement |
 
