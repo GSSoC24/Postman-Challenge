@@ -885,3 +885,4 @@
 |  884 | Suraj Ojha | surajojha2626@gmail.com  | [Suraj Ojha](https://www.linkedin.com/in/suraj-ojha-49287a21b/) | [Certificate Link](https://badgr.com/public/assertions/Z3txKgOKS-uKpojyj0J63A?identity__email=surajojha2626@gmail.com)| Thanks for this opportunity. |
 |  885 | Hemant Kumar | hemant.kr.711@gmail.com  | [Hemant Kumar](https://www.linkedin.com/in/hemant-kumar-b1b7a023b/) | [Certificate Link](https://badgr.com/public/assertions/xmPrfgdQR0-N4bPtcV5-5g?identity__email=hemant.kr.711@gmail.com)| Excellent Course |
 
+|  886 | Konain Raza | konainraza105@gmail.com  | [Konain Raza](https://www.linkedin.com/in/konain-raza-/) | [Certificate Link](https://api.badgr.io/public/assertions/-w0M1rxGQred13PJXM4L3g?identity__email=konainraza105%40gmail.com)| Excellent Course |
