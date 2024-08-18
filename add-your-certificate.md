@@ -879,6 +879,9 @@
 
 |  854 | Ashima Singh |singhashima.2903@gmail.com | [Ashima Singh](www.linkedin.com/in/-ashima-singh) | [Certificate Link]( https://api.badgr.io/public/assertions/3F28NUW4Taap_PeVq-HRnw?identity__email=singhashima.2903%40gmail.com)| ❤️Loved IT and ⭐ Excellent course, clear instructions, and engaging hands-on experience! 🚀📚|
 
+|  855 | Kalyani Mucharla |kalyanimucharla@gmail.com | [kalyanimucharla](https://www.linkedin.com/in/kalyani-mucharla-11ab10254)| [Certificate Link](https://api.badgr.io/public/assertions/Jxxmq6edREi-60cwOmdVCg?identity__email=kalyanimucharla%40gmail.com)|  clear instructions, and engaging hands-on experience!|
+
+
 |  855 | manoj pagidi |pagidimanojyadav@gmail.com | [manoj pagidi](https://www.linkedin.com/in/manojyadaw0) | [Certificate Link](https://badgr.com/backpack/badges/661174192a6b3a634f57bf14)| ❤️Loved it and gained hands-on experience! 🚀📚|
 
 
@@ -920,6 +923,7 @@
 |  866 | Aditi Dahake | aaditidahake@gmail.com | [Aditi Dahake](https://www.linkedin.com/in/aaditi-dahake-7a0362241/) | [Certificate Link](https://api.badgr.io/public/assertions/BwLZywy0QWi9Fbw95P1ZsA?identity__email=aaditidahake%40gmail.com)| Awesome and Easy to understand course, will help student to understand and learn about API |
 |  867 | Suraj Ojha | surajojha2626@gmail.com  | [Suraj Ojha](https://www.linkedin.com/in/suraj-ojha-49287a21b/) | [Certificate Link](https://badgr.com/public/assertions/Z3txKgOKS-uKpojyj0J63A?identity__email=surajojha2626@gmail.com)| Thanks for this opportunity. |
 |  868 | Hemant Kumar | hemant.kr.711@gmail.com  | [Hemant Kumar](https://www.linkedin.com/in/hemant-kumar-b1b7a023b/) | [Certificate Link](https://badgr.com/public/assertions/xmPrfgdQR0-N4bPtcV5-5g?identity__email=hemant.kr.711@gmail.com)| Excellent Course|
+
 
 
 
