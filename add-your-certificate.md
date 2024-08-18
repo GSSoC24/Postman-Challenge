@@ -879,6 +879,9 @@
 
 |  854 | Ashima Singh |singhashima.2903@gmail.com | [Ashima Singh](www.linkedin.com/in/-ashima-singh) | [Certificate Link]( https://api.badgr.io/public/assertions/3F28NUW4Taap_PeVq-HRnw?identity__email=singhashima.2903%40gmail.com)| ❤️Loved IT and ⭐ Excellent course, clear instructions, and engaging hands-on experience! 🚀📚|
 
+|  855 | Raja Abrar Khan | rajaabrarkhan2911@gmail.com| [Raja Abrar Khan]((https://www.linkedin.com/in/raja-abrar-khan-148597296/)) | [Certificate Link](https://api.badgr.io/public/assertions/zG9-rmq4RGSFrP76Z6p4xw?identity__email=rajaabrarkhan2911%40gmail.com)| Great Course |
+
+
 |  855 | Kalyani Mucharla |kalyanimucharla@gmail.com | [kalyanimucharla](https://www.linkedin.com/in/kalyani-mucharla-11ab10254)| [Certificate Link](https://api.badgr.io/public/assertions/Jxxmq6edREi-60cwOmdVCg?identity__email=kalyanimucharla%40gmail.com)|  clear instructions, and engaging hands-on experience!|
 
 
