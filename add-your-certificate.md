@@ -870,6 +870,9 @@
 |  851 | Tarandeep Singh Juneja | tarandeepjuneja11@gmail.com| [Tarandeep singh](https://www.linkedin.com/in/tarandeep-singh-juneja-55542424b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Certificate Link](https://api.badgr.io/public/assertions/n86dtRm9R7SAaCSET62qpg?identity__email=tarandeepjuneja11%40gmail.com)| Great Course, but the videos could have been more detailed |
 |  852 | Pranav Chaturvedi | pranavchturvedi18@gmail.com | [Pranav Chaturvedi](https://www.linkedin.com/in/pranav-chaturvedi-a961a12ba/) | [Certificate Link]( https://api.badgr.io/public/assertions/sEz8PGv5SLGpEhhyKzg33g?identity__email=pranavchturvedi18%40gmail.com)| Great Course, but the videos could have been more detailed |
 
+|  853 | Kundan Singh | kundansingh170104@gmail.com | [Kundan Singh](https://www.linkedin.com/in/kundansingh17/) | [Certificate Link]( https://api.badgr.io/public/assertions/58mL67geTR-NZGOm8BcJ9w?identity__email=kundansingh170104%40gmail.com)| Great Course, But Increased the no. of question in the quiz. |
+
+
 |  853 | Yash Kumar Saini | ys3853428@gmail.com | [Yash K. Saini](https://www.linkedin.com/in/yashksaini/) | [Certificate Link](https://api.badgr.io/public/assertions/D4MAMBuhS-y_6v_eNDLifA?identity__email=ys3853428%40gmail.com)| Great Course, but the videos could have been more interactive |
 
 |  853 | Chandan | chandannekya@gmail.com| [Chandan](https://www.linkedin.com/in/chandannekya/) | [Certificate Link](https://badgr.com/public/assertions/8jgK7hrfSUKCkAxoMxF45w?identity__email=chandan85338818@gmail.com)| Great Course, Very usefull |
@@ -893,6 +896,7 @@
 |  866 | Aditi Dahake | aaditidahake@gmail.com | [Aditi Dahake](https://www.linkedin.com/in/aaditi-dahake-7a0362241/) | [Certificate Link](https://api.badgr.io/public/assertions/BwLZywy0QWi9Fbw95P1ZsA?identity__email=aaditidahake%40gmail.com)| Awesome and Easy to understand course, will help student to understand and learn about API |
 |  867 | Suraj Ojha | surajojha2626@gmail.com  | [Suraj Ojha](https://www.linkedin.com/in/suraj-ojha-49287a21b/) | [Certificate Link](https://badgr.com/public/assertions/Z3txKgOKS-uKpojyj0J63A?identity__email=surajojha2626@gmail.com)| Thanks for this opportunity. |
 |  868 | Hemant Kumar | hemant.kr.711@gmail.com  | [Hemant Kumar](https://www.linkedin.com/in/hemant-kumar-b1b7a023b/) | [Certificate Link](https://badgr.com/public/assertions/xmPrfgdQR0-N4bPtcV5-5g?identity__email=hemant.kr.711@gmail.com)| Excellent Course|
+
 
 
 
