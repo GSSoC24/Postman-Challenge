@@ -878,6 +878,7 @@
 |  853 | Chandan | chandannekya@gmail.com| [Chandan](https://www.linkedin.com/in/chandannekya/) | [Certificate Link](https://badgr.com/public/assertions/8jgK7hrfSUKCkAxoMxF45w?identity__email=chandan85338818@gmail.com)| Great Course, Very usefull |
 
 |  854 | Ashima Singh |singhashima.2903@gmail.com | [Ashima Singh](www.linkedin.com/in/-ashima-singh) | [Certificate Link]( https://api.badgr.io/public/assertions/3F28NUW4Taap_PeVq-HRnw?identity__email=singhashima.2903%40gmail.com)| ❤️Loved IT and ⭐ Excellent course, clear instructions, and engaging hands-on experience! 🚀📚|
+|  855 | Ayush Vishwakarma |ayushvishwakarma9625@gmail.com | [Ayush Vishwakarma ](https://www.linkedin.com/in/ayush-vishwakarma-9a177a24a/) | [Certificate Link]( https://api.badgr.io/public/assertions/-I2KwQXRSAO757SYGXfiyQ?identity__email=ayushvishwakarma9625%40gmail.com)| ❤ Useful and ⭐ real life applicable course |
 
 |  855 | Arnav Goyal |arnavgoyal1660@gmail.com | [Arnav Goyal](https://in.linkedin.com/in/arnav-goyal-679aa7244) | [Certificate Link](https://api.badgr.io/public/assertions/91qm8JXQToaw4rB-9baCPw?identity__email=arnavgoyal1660%40gmail.com)| Amazing course with clean and precise introduction and basics|
 
