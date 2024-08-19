@@ -866,6 +866,9 @@
 
 
 |  861 | Aditi Dahake | aaditidahake@gmail.com | [Aditi Dahake](https://www.linkedin.com/in/aaditi-dahake-7a0362241/) | [Certificate Link](https://api.badgr.io/public/assertions/BwLZywy0QWi9Fbw95P1ZsA?identity__email=aaditidahake%40gmail.com)| Awesome and Easy to understand course, will help student to understand and learn about API |
+
+|  862 | Atul Rajput | eatulrajput@gmail.com | [Atul Rajput](https://www.linkedin.com/in/eatulrajput) | [Certificate Link](https://api.badgr.io/public/assertions/5tV1tPLTRfCnCdMnj0LBhA?identity__email=eatulrajput%40gmail.com)| Awesome and Easy to understand course, will help student to understand and learn about API |
+
 |  862 | Ankit Singh Bisht | asbankit8@gmail.com | [Ankit Singh Bisht](https://www.linkedin.com/in/ankitsinghbisht8/) | [Certificate Link](https://api.badgr.io/public/assertions/_y09M7UeRdyUVvbtcwI7Ug?identity__email=asbankit8%40gmail.com)| Awesome and Easy to understand course, will help student to understand and learn about API |
 
 |  861 | Ishan Kumar |ishankr.403@gmail.com| [Ishan Kumar](https://www.linkedin.com/in/ishan-kumar-215099284/) | [Certificate Link](https://api.badgr.io/public/assertions/k6ow5_M-T7CGwTcsoNjfgA?identity__email=ishankr.403%40gmail.com)| Great course for APIs |
