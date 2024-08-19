@@ -854,6 +854,9 @@
 |  853 | Chandan | chandannekya@gmail.com| [Chandan](https://www.linkedin.com/in/chandannekya/) | [Certificate Link](https://badgr.com/public/assertions/8jgK7hrfSUKCkAxoMxF45w?identity__email=chandan85338818@gmail.com)| Great Course, Very usefull |
 |  854 | Ashima Singh |singhashima.2903@gmail.com | [Ashima Singh](www.linkedin.com/in/-ashima-singh) | [Certificate Link]( https://api.badgr.io/public/assertions/3F28NUW4Taap_PeVq-HRnw?identity__email=singhashima.2903%40gmail.com)| ❤️Loved IT and ⭐ Excellent course, clear instructions, and engaging hands-on experience! 🚀📚|
 
+|  855 | Asritha Mulugoju | asrithamulugoju@gmail.com | [Asritha Mulugoju](www.linkedin.com/in/asrithamulugoju) | [Certificate Link](https://api.badgr.io/public/assertions/KzB_axolQG-lllp485O1Bg?identity__email=asrithamulugoju%40gmail.com)| The course provided a comprehensive and engaging introduction to APIs with hands-on experience in Postman. Thanks for this amazing course! |
+
+
 | 855 | Sowmya Tejaswini |sowmyatejaswini3@gmail.com | [Sowmya Tejaswini](https://www.linkedin.com/posts/sowmya-tejaswini-8671b0251/) | [Certificate Link](https://badgr.com/public/assertions/CHY6cQXOQVm6xEe0lR7Jrw?identity__email=sowmyatejaswini3@gmail.com) | Thank you for the course |
 
 |  855 | Kartik Dhanai | kartikdhanai6@gmail.com | [Kartik Dhanai](https://www.linkedin.com/in/kartik-dhanai-227907322) | [Certificate Link](https://api.badgr.io/public/assertions/ZCyhVSedSluszfyzK1dkYQ?identity__email=kartikdhanai6%40gmail.com)|A big thank you to GSSOC and Postman for this amazing opportunity. 🚀📚|
@@ -904,6 +907,7 @@
 |  883 | Aditi Dahake | aaditidahake@gmail.com | [Aditi Dahake](https://www.linkedin.com/in/aaditi-dahake-7a0362241/) | [Certificate Link](https://api.badgr.io/public/assertions/BwLZywy0QWi9Fbw95P1ZsA?identity__email=aaditidahake%40gmail.com)| Awesome and Easy to understand course, will help student to understand and learn about API |
 |  884 | Suraj Ojha | surajojha2626@gmail.com  | [Suraj Ojha](https://www.linkedin.com/in/suraj-ojha-49287a21b/) | [Certificate Link](https://badgr.com/public/assertions/Z3txKgOKS-uKpojyj0J63A?identity__email=surajojha2626@gmail.com)| Thanks for this opportunity. |
 |  885 | Hemant Kumar | hemant.kr.711@gmail.com  | [Hemant Kumar](https://www.linkedin.com/in/hemant-kumar-b1b7a023b/) | [Certificate Link](https://badgr.com/public/assertions/xmPrfgdQR0-N4bPtcV5-5g?identity__email=hemant.kr.711@gmail.com)| Excellent Course |
+
 
 
 
