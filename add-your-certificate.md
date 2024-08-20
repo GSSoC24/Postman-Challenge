@@ -838,7 +838,6 @@
 |  838 | Aayush Ahuja   | aayushahuja05@gmail.com   | [Aayush Ahuja](www.linkedin.com/in/aayush-ahuja-46a627280)   | [Certificate Link](https://api.badgr.io/public/assertions/OjlEuIoNQVeHLE9jZGWdFQ?identity__email=aayushahuja05%40gmail.com )  |      Loved it!!   |
 |  839 | Duddupudi Deepthi | duddupudideepthi31@gmail.com | [Deepthi Duddupudi](https://www.linkedin.com/in/deepthi-duddupudi-35a210267/) | [Certificate Link](https://badgr.com/public/assertions/umBz-CDoRR-jobXAKaBN_g?identity__email=duddupudideepthi31@gmail.com)| Thanks for this opportunity. |
 |  840 | Anshika Singh | anshikasinghrathore286@gmail.com | [Anshika Singh](https://www.linkedin.com/in/anshiikaa-singh) | [Certificate Link]( https://api.badgr.io/public/assertions/o2WXt-9IRO6lBgrrggpwzg?identity__email=anshikasinghrathore286%40gmail.com)| Great Course, but the videos could have been more detailed |
-
 |  841 | Ishita Sawhney | isha30sawhney.2020@gmail.com | [Ishita Sawhney](https://www.linkedin.com/in/ishita-sawhney) | [Certificate Link](https://badgr.com/public/assertions/K34x3P4_SBq6aqycP4I9JA)| Great course!
 |  842 | Shubh Singh | shubhsinghrajpoot6665@gmail.com | [Shubh Singh](https://in.linkedin.com/in/shubh-singh07) | [Certificate Link](https://api.badgr.io/public/assertions/K375NB6eQZueCLLYUg5Jlg?identity__email=shubhsinghrajpoot6665%40gmail.com)| Good to go for learning Basic API's Working, Thanks for the course |
 |  843 | kadaveru sreehitha | kadaverusreehitha@gmail.com | [kadaverusreehitha](https://www.linkedin.com/in/kadaveru-sreehitha-a43b3224b/) | [Certificate Link](https://api.badgr.io/public/assertions/3hU5NUrMTDq6GP5GgDa77g?identity__email=kadaverusreehitha%40gmail.com)| Good |
@@ -853,46 +852,27 @@
 |  852 | Pranav Chaturvedi | pranavchturvedi18@gmail.com | [Pranav Chaturvedi](https://www.linkedin.com/in/pranav-chaturvedi-a961a12ba/) | [Certificate Link]( https://api.badgr.io/public/assertions/sEz8PGv5SLGpEhhyKzg33g?identity__email=pranavchturvedi18%40gmail.com)| Great Course, but the videos could have been more detailed |
 |  853 | Chandan | chandannekya@gmail.com| [Chandan](https://www.linkedin.com/in/chandannekya/) | [Certificate Link](https://badgr.com/public/assertions/8jgK7hrfSUKCkAxoMxF45w?identity__email=chandan85338818@gmail.com)| Great Course, Very usefull |
 |  854 | Ashima Singh |singhashima.2903@gmail.com | [Ashima Singh](www.linkedin.com/in/-ashima-singh) | [Certificate Link]( https://api.badgr.io/public/assertions/3F28NUW4Taap_PeVq-HRnw?identity__email=singhashima.2903%40gmail.com)| ❤️Loved IT and ⭐ Excellent course, clear instructions, and engaging hands-on experience! 🚀📚|
-
 |  855 | Chetan Shinde |shindechetan3408@gmail.com | [Chetan Shinde](https://www.linkedin.com/in/chetan-shinde-734b051b8/) | [Certificate Link](https://api.badgr.io/public/assertions/J8Bw9BkWSg6yeNJL35G-ZQ?identity__email=shindechetan3408%40gmail.com)| Loved It the session was awesome|
 |  856 | Nihit Gupta |nihit9500@gmail.com | [Nihit Gupta]([www.linkedin.com/in/-ashima-singh](https://www.linkedin.com/in/nihit-gupta-624466288/)) | [Certificate Link](https://badgr.com/public/assertions/TEigwNbzTv2wRUi4QwviFQ?identity__email=nihit9500@gmail.com&action=download)| Loved IT - Excellent course, clear instructions, and engaging hands-on experience! 🚀📚|
 |  857 | Hemjot Kaur |hemjotkaur786@gmail.com | [Hemjot Kaur](www.linkedin.com/in/hemjot-kaur-614735246/) | [Certificate Link](https://api.badgr.io/public/assertions/IJAyg4_nRauGnaFcF61Qow?identity__email=hemjotkaur786%40gmail.com)| 
 |  858 | Soumyajit Roy |roysoumyajit36@gmail.com| [Soumyajit Roy](https://www.linkedin.com/in/roysoumyajit36/) | [Certificate Link](https://badgr.com/public/assertions/Lb2uWRmwSg2svcYcaO8ajQ?identity__email=roysoumyajit36@gmail.com)| Excellent course for getting introduced to APIs! |
 |  859 | Manav Malhotra | manavmalhotra173@gmail.com | [Manav Malhotra](https://www.linkedin.com/in/manavmalhotra173/) | [Certificate Link](https://badgr.com/public/assertions/y4aLbOtVT0G9_oZHO1m0uQ?identity__email=manavmalhotra173@gmail.com )| Nice course on APIs |
 |  860 | Payal Kumari | kumaripayal7488@gmail.com | [Payal Kumari](https://www.linkedin.com/in/payalkumari10/)) | [Certificate Link](https://api.badgr.io/public/assertions/841yAcHcTV6-wkXHjqNXPw?identity__email=kumaripayal7488%40gmail.com)| Best and Helpful course on APIs |
-
 |  861 | Aditi Dahake | aaditidahake@gmail.com | [Aditi Dahake](https://www.linkedin.com/in/aaditi-dahake-7a0362241/) | [Certificate Link]([https://api.badgr.io/public/assertions/BwLZywy0QWi9Fbw95P1ZsA?identity__email=aaditidahake%40gmail.com](https://api.badgr.io/public/assertions/BwLZywy0QWi9Fbw95P1ZsA?identity__email=aaditidahake%40gmail.com))| Awesome and Easy to understand course, will help student to understand and learn about API |
 |  862 | Sujal Gupta | sujalgupta1412@gmail.com | [Sujal Gupta](https://www.linkedin.com/in/sujal-gupta-117154247/) | [Certificate Link](https://api.badgr.io/public/assertions/ra9T2JMyQQCQaZBgs1Z7uQ?identity__email=sujalgupta1412%40gmail.com)| Awesome and Easy to understand course, will help student to understand and learn about API |
-
-
 |  861 | Aditi Dahake | aaditidahake@gmail.com | [Aditi Dahake](https://www.linkedin.com/in/aaditi-dahake-7a0362241/) | [Certificate Link](https://api.badgr.io/public/assertions/BwLZywy0QWi9Fbw95P1ZsA?identity__email=aaditidahake%40gmail.com)| Awesome and Easy to understand course, will help student to understand and learn about API |
-
 |  862 | Atul Rajput | eatulrajput@gmail.com | [Atul Rajput](https://www.linkedin.com/in/eatulrajput) | [Certificate Link](https://api.badgr.io/public/assertions/5tV1tPLTRfCnCdMnj0LBhA?identity__email=eatulrajput%40gmail.com)| Awesome and Easy to understand course, will help student to understand and learn about API |
-
 |  862 | Ankit Singh Bisht | asbankit8@gmail.com | [Ankit Singh Bisht](https://www.linkedin.com/in/ankitsinghbisht8/) | [Certificate Link](https://api.badgr.io/public/assertions/_y09M7UeRdyUVvbtcwI7Ug?identity__email=asbankit8%40gmail.com)| Awesome and Easy to understand course, will help student to understand and learn about API |
-
 |  861 | Ishan Kumar |ishankr.403@gmail.com| [Ishan Kumar](https://www.linkedin.com/in/ishan-kumar-215099284/) | [Certificate Link](https://api.badgr.io/public/assertions/k6ow5_M-T7CGwTcsoNjfgA?identity__email=ishankr.403%40gmail.com)| Great course for APIs |
-
 |  855 | Prerna Pal |prerna.pal.30pp@gmail.com | [Prerna Pal](https://www.linkedin.com/in/prerna-pal-41324524a) | [Certificate Link](https://api.badgr.io/public/assertions/XlGEjBgiSzGA_Bus-0Rmeg?identity__email=prerna.pal.30pp%40gmail.com)| ❤️Loved IT and ⭐ Excellent course, clear instructions, and engaging hands-on experience! 🚀📚|
-
 |  855 | Arnav Goyal | arnavgoyal1660@gmail.com| [Arnav Goyal](https://in.linkedin.com/in/arnav-goyal-679aa7244) | [Certificate Link](https://api.badgr.io/public/assertions/91qm8JXQToaw4rB-9baCPw?identity__email=arnavgoyal1660%40gmail.com)| A new experience and was able to learn new skill. |
-
-
 | 855 | Bhavyaa Singh | Bhavyaa015btmae23@igdtuw.ac.in| [Bhavyaa Singh](https://www.linkedin.com/in/bhavyaa-singh-48428a2bb) | [Certificate Link](https://api.badgr.io/public/assertions/J58QEfbwQFWJTLQFay4-rw?identity__email=bhavyaa015btmae23%40igdtuw.ac.in)|Great Experience|
-
-
-|  855 | Bhavyaa Singh |Bhavyaa015btmae23@igdtuw.ac.in | [Bhavyaa Singh](https://www.linkedin.com/in/bhavyaa-singh-48428a2bb) | [Certificate Link]( https://api.badgr.io/public/assertions/J58QEfbwQFWJTLQFay4-rw?identity__email=bhavyaa015btmae23%40igdtuw.ac.in|Great Experience|
-
-
+|  855 | Bhavyaa Singh |Bhavyaa015btmae23@igdtuw.ac.in | [Bhavyaa Singh](https://www.linkedin.com/in/bhavyaa-singh-48428a2bb) | [Certificate Link]( https://api.badgr.io/public/assertions/J58QEfbwQFWJTLQFay4-rw?identity__email=bhavyaa015btmae23%40igdtuw.ac.in) |Great Experience|
 |  855 | Asritha Mulugoju | asrithamulugoju@gmail.com | [Asritha Mulugoju](www.linkedin.com/in/asrithamulugoju) | [Certificate Link](https://api.badgr.io/public/assertions/KzB_axolQG-lllp485O1Bg?identity__email=asrithamulugoju%40gmail.com)| The course provided a comprehensive and engaging introduction to APIs with hands-on experience in Postman. Thanks for this amazing course! |
-
-
 | 855 | Sowmya Tejaswini |sowmyatejaswini3@gmail.com | [Sowmya Tejaswini](https://www.linkedin.com/posts/sowmya-tejaswini-8671b0251/) | [Certificate Link](https://badgr.com/public/assertions/CHY6cQXOQVm6xEe0lR7Jrw?identity__email=sowmyatejaswini3@gmail.com) | Thank you for the course |
-
 |  855 | Kartik Dhanai | kartikdhanai6@gmail.com | [Kartik Dhanai](https://www.linkedin.com/in/kartik-dhanai-227907322) | [Certificate Link](https://api.badgr.io/public/assertions/ZCyhVSedSluszfyzK1dkYQ?identity__email=kartikdhanai6%40gmail.com)|A big thank you to GSSOC and Postman for this amazing opportunity. 🚀📚|
-
-| 841 | Nathasha T | omna0504@gmail.com | [Nathasha T]https://in.linkedin.com/in/nathasha-t-attavar-492a4125b | [Certificate Link](https://api.badgr.io/public/assertions/cg_aRV8_Q5y3-eeRhPtc2Q?identity__email=omna0504%40gmail.com) | Great course,I enjoyed it |
-|  842 | Lulwa Anif | luluvaanif53@gmail.com@gmail.com | [Lulwa Anif](https://www.linkedin.com/in/lulwa-anif/)) | [Certificate Link]( https://badgr.com/public/assertions/t9T-qM5iT3WlPMjPb4_qcw?identity__email=luluvaanif53@gmail.com)| Great Course |
+| 841 | Nathasha T | omna0504@gmail.com | [Nathasha T](https://in.linkedin.com/in/nathasha-t-attavar-492a4125b) | [Certificate Link](https://api.badgr.io/public/assertions/cg_aRV8_Q5y3-eeRhPtc2Q?identity__email=omna0504%40gmail.com) | Great course,I enjoyed it |
+|  842 | Lulwa Anif | luluvaanif53@gmail.com | [Lulwa Anif](https://www.linkedin.com/in/lulwa-anif/) | [Certificate Link]( https://badgr.com/public/assertions/t9T-qM5iT3WlPMjPb4_qcw?identity__email=luluvaanif53@gmail.com)| Great Course |
 |  843 | Yashi Singh | yashirajput30@gmail.com | [Yashi Singh](https://www.linkedin.com/in/yashisingh525/) | [Certificate Link](https://api.badgr.io/public/assertions/ZY451FklQVS_TA8IqXXFuA)| Thanks for this opportunity. |
 |  844 | Ritik Tiwari | ritiktiwari2022@vitbhopal.ac.in | [Ritik Tiwari](https://www.linkedin.com/in/ritik-tiwari-1a5399250/) | [Certificate Link](https://api.badgr.io/public/assertions/jsAGPkYwTY-9G2N25z6UCw?identity__email=ritiktiwari2022%40vitbhopal.ac.in)| Great Course, loved to be a part of |
 |  845 | Kv Manoj kumar | manoj.23mip10113@vitbhopal.ac.in | [Kv Manoj kumar](https://www.linkedin.com/in/k-v-manoj-kumar-56213828b/) | [Certificate Link](https://api.badgr.io/public/assertions/BNnXsEt4SJOMEB1mzokwwA?identity__email=manoj.23mip10113%40vitbhopal.ac.in)| thank you |
@@ -937,11 +917,3 @@
 |  883 | Aditi Dahake | aaditidahake@gmail.com | [Aditi Dahake](https://www.linkedin.com/in/aaditi-dahake-7a0362241/) | [Certificate Link](https://api.badgr.io/public/assertions/BwLZywy0QWi9Fbw95P1ZsA?identity__email=aaditidahake%40gmail.com)| Awesome and Easy to understand course, will help student to understand and learn about API |
 |  884 | Suraj Ojha | surajojha2626@gmail.com  | [Suraj Ojha](https://www.linkedin.com/in/suraj-ojha-49287a21b/) | [Certificate Link](https://badgr.com/public/assertions/Z3txKgOKS-uKpojyj0J63A?identity__email=surajojha2626@gmail.com)| Thanks for this opportunity. |
 |  885 | Hemant Kumar | hemant.kr.711@gmail.com  | [Hemant Kumar](https://www.linkedin.com/in/hemant-kumar-b1b7a023b/) | [Certificate Link](https://badgr.com/public/assertions/xmPrfgdQR0-N4bPtcV5-5g?identity__email=hemant.kr.711@gmail.com)| Excellent Course |
-
-
-
-
-
-
-
-
