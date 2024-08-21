@@ -860,6 +860,9 @@
 |  859 | Manav Malhotra | manavmalhotra173@gmail.com | [Manav Malhotra](https://www.linkedin.com/in/manavmalhotra173/) | [Certificate Link](https://badgr.com/public/assertions/y4aLbOtVT0G9_oZHO1m0uQ?identity__email=manavmalhotra173@gmail.com )| Nice course on APIs |
 |  860 | Payal Kumari | kumaripayal7488@gmail.com | [Payal Kumari](https://www.linkedin.com/in/payalkumari10/)) | [Certificate Link](https://api.badgr.io/public/assertions/841yAcHcTV6-wkXHjqNXPw?identity__email=kumaripayal7488%40gmail.com)| Best and Helpful course on APIs |
 |  861 | Aditi Dahake | aaditidahake@gmail.com | [Aditi Dahake](https://www.linkedin.com/in/aaditi-dahake-7a0362241/) | [Certificate Link](https://api.badgr.io/public/assertions/BwLZywy0QWi9Fbw95P1ZsA?identity__email=aaditidahake%40gmail.com)| Awesome and Easy to understand course, will help student to understand and learn about API |
+
+|  862 | Anish Singh Chandel | anish8427singh@gmail.com | [Anish Singh Chandel](https://www.linkedin.com/in/as-chandel/) | [Certificate Link](https://api.badgr.io/public/assertions/bFItLVrWQ8SOaX4ClqPYMA?identity__email=anish8427singh%40gmail.com)| Very easy course |
+
 |  862 | Aryan Chauhan | itsaryanchauhan1@gmail.com | [Aryan Chauhan](https://www.linkedin.com/in/itsaryanchauhan/)) | [Certificate Link](https://api.badgr.io/public/assertions/ib9AgBvGRaaJvfljkHDyqQ?identity__email=itsaryanchauhan1%40gmail.com)| Loved to explore the API world in course. Video explanations were amazing. |
 
 
