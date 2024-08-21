@@ -920,6 +920,4 @@
 |  919 | Anish Singh Chandel | anish8427singh@gmail.com | [Anish Singh Chandel](https://www.linkedin.com/in/as-chandel/) | [Certificate Link](https://api.badgr.io/public/assertions/bFItLVrWQ8SOaX4ClqPYMA?identity__email=anish8427singh%40gmail.com)| Very easy course |
 |  920 | Aryan Chauhan | itsaryanchauhan1@gmail.com | [Aryan Chauhan](https://www.linkedin.com/in/itsaryanchauhan/)) | [Certificate Link](https://api.badgr.io/public/assertions/ib9AgBvGRaaJvfljkHDyqQ?identity__email=itsaryanchauhan1%40gmail.com)| Loved to explore the API world in course. Video explanations were amazing. |
 |  921 | Surbhi Bahukhandi | surbhibahukhandi1999@gmail.com  | [Surbhi Bahukhandi](https://www.linkedin.com/in/surbhi-b-375372248/) | [Certificate Link](https://api.badgr.io/public/assertions/JheaUgwlRI-pkTrd9ILohQ?identity__email=surbhibahukhandi1999%40gmail.com)| ❤️ Easy To Learn and Implement |
-
-
-
+|  922 | R Swathi | swathiraja2094@gmail.com  | [Swathi Raja]([https://www.linkedin.com/in/hemant-kumar-b1b7a023b/](https://www.linkedin.com/in/swathi-raja-ba9695252/)) | [Certificate Link](https://api.badgr.io/public/assertions/qiT0KazZR8ejyIaannke0A?identity__email=swathiraja2094%40gmail.com)| Crystal clear instructions, Excellent Course |
