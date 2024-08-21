@@ -861,6 +861,10 @@
 |  860 | Payal Kumari | kumaripayal7488@gmail.com | [Payal Kumari](https://www.linkedin.com/in/payalkumari10/)) | [Certificate Link](https://api.badgr.io/public/assertions/841yAcHcTV6-wkXHjqNXPw?identity__email=kumaripayal7488%40gmail.com)| Best and Helpful course on APIs |
 |  861 | Aditi Dahake | aaditidahake@gmail.com | [Aditi Dahake](https://www.linkedin.com/in/aaditi-dahake-7a0362241/) | [Certificate Link](https://api.badgr.io/public/assertions/BwLZywy0QWi9Fbw95P1ZsA?identity__email=aaditidahake%40gmail.com)| Awesome and Easy to understand course, will help student to understand and learn about API |
 
+|  862 | Suraj Ojha | surajojha2626@gmail.com  | [Suraj Ojha](https://www.linkedin.com/in/suraj-ojha-49287a21b/) | [Certificate Link](https://badgr.com/public/assertions/Z3txKgOKS-uKpojyj0J63A?identity__email=surajojha2626@gmail.com)| Thanks for this opportunity. |
+|  863 | Arnab Choudhury | workwitharnab24@gmail.com  | [Arnab Choudhury](https://www.linkedin.com/in/arnab-choudhury-475166118/) | [Certificate Link](https://api.badgr.io/public/assertions/J-7UiO-gSdmVCh0lyDe7lQ?identity__email=workwitharnab24%40gmail.com)| It was a great learning experience. |
+
+
 |  862 | Subhajit Dey | subhajitdey2388@gmail.com | [Subhajit Dey](https://www.linkedin.com/in/subhajit-dey-75b8711ba/) | [Certificate Link](https://api.badgr.io/public/assertions/_rkGkInMS5WnA9d8v3tjhQ?identity__email=subhajitdey2388%40gmail.com)| Very good course for handson to Postman and API's |
 
 |  862 | Dharitri Raj | idharitriraj@gmail.com | [Dharitri Raj](https://www.linkedin.com/in/dharitri-raj/) | [Certificate Link](https://api.badgr.io/public/assertions/nSxRguZqQASlWYyLxswQuw?identity__email=idharitriraj%40gmail.com)| Great Course to start your learning about API from beginner level. |
@@ -943,5 +947,6 @@
 |  906 | Shreya Dwivedi | dwivedishreya0822@gmail.com  | [Shreya Dwivedi](linkedin.com/in/shreya-dwivedi-a7959422b) | [Certificate Link](https://api.badgr.io/public/assertions/-QBiQ0klRZGUz7eFRUB6fw?identity__email=dwivedishreya0822%40gmail.com)| Awesome Course |
 |  907 | Mridul Sharma | 22ucs127@lnmiit.ac.in  | [Mridul Sharma](https://www.linkedin.com/in/mridul-sharma-78843120a) | [Certificate Link](https://api.badgr.io/public/assertions/k2IGSe4HRgeij8xdH3-Nrw?identity__email=22ucs127%40lnmiit.ac.in)| Thanks for it. |
 |  908 | Priyanshu Agarwal | pr.agarwal2005@gmail.com  | [Priyanshu Agarwal](https://www.linkedin.com/in/priyanshu-agarwal10/) | [Certificate Link](https://api.badgr.io/public/assertions/pjwMGL24S8CFdVG1se37VQ?identity__email=pr.agarwal2005%40gmail.com) | Thanks for opportunity | 
+
 
 
