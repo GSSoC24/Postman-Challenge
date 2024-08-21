@@ -958,7 +958,5 @@
 |  906 | Shreya Dwivedi | dwivedishreya0822@gmail.com  | [Shreya Dwivedi](linkedin.com/in/shreya-dwivedi-a7959422b) | [Certificate Link](https://api.badgr.io/public/assertions/-QBiQ0klRZGUz7eFRUB6fw?identity__email=dwivedishreya0822%40gmail.com)| Awesome Course |
 |  907 | Mridul Sharma | 22ucs127@lnmiit.ac.in  | [Mridul Sharma](https://www.linkedin.com/in/mridul-sharma-78843120a) | [Certificate Link](https://api.badgr.io/public/assertions/k2IGSe4HRgeij8xdH3-Nrw?identity__email=22ucs127%40lnmiit.ac.in)| Thanks for it. |
 |  908 | Priyanshu Agarwal | pr.agarwal2005@gmail.com  | [Priyanshu Agarwal](https://www.linkedin.com/in/priyanshu-agarwal10/) | [Certificate Link](https://api.badgr.io/public/assertions/pjwMGL24S8CFdVG1se37VQ?identity__email=pr.agarwal2005%40gmail.com) | Thanks for opportunity | 
-
-
-
+|  896  | Narendra Lal | narendralal6372@gmail.com | [Narendra Lal](https://www.linkedin.com/in/narendra-l-40a4192a7/) | [Certificate Link](https://api.badgr.io/public/assertions/lfu7GZOVR4emLD65jIldfg?identity__email=narendralal6372%40gmail.com) | A heartfelt thank you to GSSOC and Postman for this incredible opportunity. Also, APIs are truly amazing tools!|                                           
 
