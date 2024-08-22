@@ -962,4 +962,5 @@
 |  962 | Nikunj Agarwal | nikunjagarwal449@gmail.com | [Nikunj Agarwal](https://www.linkedin.com/in/nikunj-agarwal-9377a7188/) | [Certificate Link](https://api.badgr.io/public/assertions/vHJfdVlLQPOgcV-6DUEW4g?identity__email=nikunjagarwal449%40gmail.com)| It was awesome to learn something new and also quite interesting honestly😊 |
 |  963 | Akanksha Singh | akanksha1.singh24@gmail.com | [Akanksha Singh](https://www.linkedin.com/in/akanksha-singh-607356313/) | [Certificate Link](https://api.badgr.io/public/assertions/A5_0jpnhTLijDaX2LieELQ?identity__email=akanksha1.singh24%40gmail.com)| Excellent course to learn About Postman API.|
 |
-
+|  964 | Sejal Sachin Kad-Deshmukh | sejal.kad01@gmail.com | [Sejal Sachin Kad-Deshmukh](https://www.linkedin.com/in/sejal-kad-7848a2289/) | [Certificate Link](https://api.badgr.io/public/assertions/1UpIf1aHTuyglHJ60T1tyw?identity__email=sejal.kad01%40gmail.com)| Excellent opportunity to learn About Postman API.|
+|
