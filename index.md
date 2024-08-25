@@ -67,7 +67,7 @@ So everyone knows the basics about API and work around it.
 So the above are the modules and the Task represents the activity you need to do.
 All the activities and answers are available in the videos below. So head into your first Module in total 
 ### Task 1: Understand APIs?
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/watch?v=O1ahDsq8DU0&t=1s" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div><br>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/O1ahDsq8DU0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div><br>
 * * *
 
 ### Task 2: PostMan : API Request:
@@ -77,7 +77,7 @@ All the activities and answers are available in the videos below. So head into y
 
 ### Task 3: Request Parameter:
 * * *
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/watch?v=GfTTuLN4gpI" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div><br>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/GfTTuLN4gpI" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div><br>
 
 ### Task 4: Sending data with Post:
 * * *
