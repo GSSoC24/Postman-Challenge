@@ -74,7 +74,8 @@ All the activities and answers are available in the videos below. So head into y
 * * *
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/2951917877f44a22b606bcc98bb3a4ff?sid=6f0d2ce6-1700-4336-b2ef-b48674787e03" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div><br>
 
-  
+<iframe width="1236" height="695" src="https://www.youtube.com/embed/qjbL72odpPE" title="Your First API Request Topic Explanation : EP 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Task 3: Request Parameter:
 * * *
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/5b838b6da9f642a88054225885b07373?sid=8a60cb79-21bf-4021-8622-e41b29c75ae4" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div><br>
