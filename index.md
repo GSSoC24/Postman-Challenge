@@ -81,9 +81,8 @@ All the activities and answers are available in the videos below. So head into y
 
 ### Task 4: Sending data with Post:
 * * *
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/a97a5fc1aaa64e53a4633b0a3cd8fa4b?sid=ee612299-4009-4084-9198-079319e73006" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div><br>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/KasLQclJu6c?list=PLrLTYhoDFx-k62rLLajSB-jeqKwLkDrkF" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div><br>
 
- 
 ### Task 5: Variables and scripting:
 * * *
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/a085d499fd7649bb817aef444e07130d?sid=2f91a65b-dcc8-4912-841b-a1aa4714f22b" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div><br>
@@ -92,17 +91,17 @@ Some people who took the certification mentioned they faced some issues. So this
   
 ### Task 6: Patch and Delete:
 * * *
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/7d479513b3964a45a9b56a6bb195c8f4?sid=ad561278-6d23-4580-ba53-859a057eb02e" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div><br>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/6G4UAtnvnKo?list=PLrLTYhoDFx-k62rLLajSB-jeqKwLkDrkF" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div><br>
 
 ### Task 7: Claim your certification:
 * * *
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/47d5534956b64a80ad8c87b9f449672b?sid=45cf3dd5-6c09-4e5a-96fd-72673cbeecbf" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div><br>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/_kIw5xA9uis?list=PLrLTYhoDFx-k62rLLajSB-jeqKwLkDrkF" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div><br>
 
 ### Task 8: Download your certification:🥳
 * * *
 Link to Badge Download: [Click Here](https://badgr.com/backpack/badges)<br>
 Follow the instruction on the video 👇🏻
- <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/c39e1180307445b49b8107f608c2fa3b?sid=976b6a04-5984-4df2-a8d9-7d7ab4638270" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div><br>
+ <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/SGTu5Ck01C8?list=PLrLTYhoDFx-k62rLLajSB-jeqKwLkDrkF" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div><br>
 
 ### Task 9: Claim your points on Leaderboard:🏅
 * * *
