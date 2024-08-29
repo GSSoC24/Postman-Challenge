@@ -975,6 +975,9 @@
 |  975 | Varsha Pednekar | varshapednekar136@gmail.com | [Varsha Pednekar](https://www.linkedin.com/in/varsha-pednekar2005/) | [Certificate Link](https://api.badgr.io/public/assertions/XD7T__49QiWeqSImnfWnLA?identity__email=varshapednekar136%40gmail.com)| Perfect start for anyone to learn about api testing, scripting ang get hands-on-experience..|
 |  976 | Anchal Chaturvedi | anchalc640@gmail.com | [Anchal Chaturvedi](https://www.linkedin.com/in/anchal-chaturvedi-9739a7220/) | [Certificate Link](https://api.badgr.io/public/assertions/Hqd_kd9JR9esgR_5rhc4yg?identity__email=anchalc640%40gmail.com)| A nice program for beginners learning APIs..|
 
+|  977 | Vaishnavi Tiwari | vaishnavitiwari104@gmail.com | [Vaishnavi Tiwari](https://www.linkedin.com/in/vaishnavi704/) | [Certificate Link](https://api.badgr.io/public/assertions/hGIHol_pTCaajnAqESgQ-g?identity__email=vaishnavitiwari104%40gmail.com)| Fun to learn..|
+
+
 |  977 | Pabitra Kumar Bebartta | pabitrakumarbebartta@gmail.com | [Pabitra Kumar Bebartta](https://x.com/pabitra_kumar00) | [Certificate Link](https://badgr.com/public/assertions/J2M3y-DESpa2himMs0xVfA?identity__email=pabitrakumarbebartta@gmail.com)| A very Powerful tool to Test APIs..|
 
 
