@@ -1059,4 +1059,5 @@
 | 1059 | Jaithri K | [Jaithri K](https://www.linkedin.com/in/jaithri-k-7b4270215/) | [Certificate Link](https://api.badgr.io/public/assertions/wpI5AFQLSv66gTxD5IapAw?identity__email=jaithri21%40gmail.com)| Well structured, engaging program with wonderful insights|
 | 1060 | Himanshi Bhardwaj | [Himanshi Bhardwaj](https://www.linkedin.com/in/himanshibhardwaj12/) | [Certificate Link](https://api.badgr.io/public/assertions/L5uhYgk2R7qotZQ9enA1yA?identity__email=bhrdwj1218%40gmail.com)| Very concise tutorials and interactive platform..|
 | 1061 | Burhanuddin | [Burhanuddin](https://www.linkedin.com/in/burhanuddin-cyber/) | [Certificate Link](https://api.badgr.io/public/assertions/2fLeaNLnQDSuojP49LbMqg?identity__email=burhanuddin122001%40gmail.com)| The course is straightforward and easy to grasp, but incorporating a few more advanced tasks could enhance the learning experience.|
+| 1062 | Md Faizaan Alam | [Md Faizaan Alam](https://www.linkedin.com/in/mdfaizaanalam/) | [Certificate Link](https://api.badgr.io/public/assertions/MUrq1McKTriNHnZiMSs-ew?identity__email=faizanalam327%40gmail.com)| A nice program for beginners learning APIs..
 
