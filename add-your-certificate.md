@@ -975,6 +975,9 @@
 |  975 | Varsha Pednekar | varshapednekar136@gmail.com | [Varsha Pednekar](https://www.linkedin.com/in/varsha-pednekar2005/) | [Certificate Link](https://api.badgr.io/public/assertions/XD7T__49QiWeqSImnfWnLA?identity__email=varshapednekar136%40gmail.com)| Perfect start for anyone to learn about api testing, scripting ang get hands-on-experience..|
 |  976 | Anchal Chaturvedi | anchalc640@gmail.com | [Anchal Chaturvedi](https://www.linkedin.com/in/anchal-chaturvedi-9739a7220/) | [Certificate Link](https://api.badgr.io/public/assertions/Hqd_kd9JR9esgR_5rhc4yg?identity__email=anchalc640%40gmail.com)| A nice program for beginners learning APIs..|
 
+|  977 | Pabitra Kumar Bebartta | pabitrakumarbebartta@gmail.com | [Pabitra Kumar Bebartta](https://x.com/pabitra_kumar00) | [Certificate Link](https://badgr.com/public/assertions/J2M3y-DESpa2himMs0xVfA?identity__email=pabitrakumarbebartta@gmail.com)| A very Powerful tool to Test APIs..|
+
+
 |  977 | Shriyansh Goel | shriyansh05goel@gmail.com | [Shriyansh Goel](https://www.linkedin.com/in/shriyansh-g-b944742a4) | [Certificate Link](https://api.badgr.io/public/assertions/VxgfP1jKR5u-maCvLcesWA?identity__email=shriyansh05goel%40gmail.com)| A great way to learn about APIs..|
 
 
@@ -1069,4 +1072,5 @@
 | 1036 | Ashutosh Kumar | ashutoshbokaro2003@gmail.com | [Ashutosh Kumar](https://www.linkedin.com/in/ashutosh0203/) | [Certificate Link](https://api.badgr.io/public/assertions/uWpqwHPCRCmvSsqSQfDDaA?identity__email=ashutoshbokaro2003%40gmail.com)| A nice program for beginners learning APIs and can excel in it..|
 | 1037 | Krish Koria | krishkoria2004@gmail.com | [Krish Koria](www.linkedin.com/in/krishkoria) | [Certificate Link](https://api.badgr.io/public/assertions/50S4cr1jSku_1wRvaeRCWg?identity__email=krishkoria2004%40gmail.com) | Awesone guide to get started with APIs 
 | 1037 | Gatla Naga prasanna | gatlanagaprasanna@gmail.com | [Naga prasanna]([https://www.linkedin.com/in/gatla-nagaprasanna/) | [Certificate Link](https://badgr.com/public/assertions/06XAyCH_Ssyp9BaMRbFHgg?identity__email=gatlanagaprasanna@gmail.com)| I particularly appreciate the clear explanation of different methods and hands-on excercises that help solidify the core concepts,making the learning process practical and effective.|
+
 
