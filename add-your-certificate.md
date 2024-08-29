@@ -1083,6 +1083,9 @@
 | 1037 | Krish Koria | krishkoria2004@gmail.com | [Krish Koria](www.linkedin.com/in/krishkoria) | [Certificate Link](https://api.badgr.io/public/assertions/50S4cr1jSku_1wRvaeRCWg?identity__email=krishkoria2004%40gmail.com) | Awesone guide to get started with APIs 
 | 1037 | Gatla Naga prasanna | gatlanagaprasanna@gmail.com | [Naga prasanna]([https://www.linkedin.com/in/gatla-nagaprasanna/) | [Certificate Link](https://badgr.com/public/assertions/06XAyCH_Ssyp9BaMRbFHgg?identity__email=gatlanagaprasanna@gmail.com)| I particularly appreciate the clear explanation of different methods and hands-on excercises that help solidify the core concepts,making the learning process practical and effective.|
 
+| 1038 | Deepanshu Tilwani | shonatilwani00@gmail.com | [Deepanshu Tilwani](https://www.linkedin.com/in/deepanshu-tilwani-8395581b1/) | [Certificate Link](https://api.badgr.io/public/assertions/TdnPW5olTrGsF82i9slHtg?identity__email=shonatilwani00@gmail.com)| A wonderful program for API fundamentals and api testing best practices using Postman, also was using postman from quite fine time so its the best best api testing, collections, variables, sharing the collections and maintaining the collections as docs.|
+
+
 | 1038 | Nawap Bastola | nawapbastola@gmail.com | [Nawap Bastola](https://www.linkedin.com/in/nawap-bastola-b542a5198/) | [Certificate Link](https://api.badgr.io/public/assertions/2mIneE5zR8Gm6GPMAN2uIA?identity__email=nawapbastola%40gmail.com)| I find the detailed breakdown of different approaches and the interactive exercises incredibly helpful, as they reinforce key concepts and make the learning journey both engaging and impactful.|
 
 
@@ -1092,3 +1095,4 @@
 
 
 | 1038 | Ajirthan Balasingham | ajirbala28@gmail.com | [Ajirthan Balasingham](https://www.linkedin.com/in/ajirthan/) | [Certificate Link](https://api.badgr.io/public/assertions/Pp8m93A1TfKBMd_jmUnWWw?identity__email=ajirbala28%40gmail.com)| A practical, hands-on course with comprehensive API coverage and user-friendly learning.|
+
