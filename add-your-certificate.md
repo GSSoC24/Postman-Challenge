@@ -974,6 +974,7 @@
 |  974 | Chandan Mahato | cmhandan@gmail.com | [Chandan Mahato](https://www.linkedin.com/in/chandanmahto/) | [Certificate Link](https://api.badgr.io/public/assertions/do97BrojTIiLy7RCpC82ZA?identity__email=cmhandan%40gmail.com)| A good guide for api..|
 |  975 | Varsha Pednekar | varshapednekar136@gmail.com | [Varsha Pednekar](https://www.linkedin.com/in/varsha-pednekar2005/) | [Certificate Link](https://api.badgr.io/public/assertions/XD7T__49QiWeqSImnfWnLA?identity__email=varshapednekar136%40gmail.com)| Perfect start for anyone to learn about api testing, scripting ang get hands-on-experience..|
 |  976 | Anchal Chaturvedi | anchalc640@gmail.com | [Anchal Chaturvedi](https://www.linkedin.com/in/anchal-chaturvedi-9739a7220/) | [Certificate Link](https://api.badgr.io/public/assertions/Hqd_kd9JR9esgR_5rhc4yg?identity__email=anchalc640%40gmail.com)| A nice program for beginners learning APIs..|
+|  977 | Piyush Soni | fakafek4@gmail.com | [Piyush Soni](https://www.linkedin.com/in/piyushmsoni) | [Certificate Link](https://api.badgr.io/public/assertions/5g_V_B-tTSSb7rBJ1pj6Fw?identity__email=fakafek4%40gmail.com)| Great progress on learning API basics and Postman! |
 
 |  977 | Atharva Rekhawar | atharvarekhawar64@gmail.com | [Atharva Rekhawar](https://www.linkedin.com/in/atharva-rekhawar/) | [Certificate Link](https://api.badgr.io/public/assertions/VpVdPZDcQRyC9bXdirv3sQ?identity__email=atharvarekhawar64%40gmail.com)| Great learning...|
 
