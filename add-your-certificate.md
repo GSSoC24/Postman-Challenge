@@ -1080,5 +1080,9 @@
 | 1037 | Krish Koria | krishkoria2004@gmail.com | [Krish Koria](www.linkedin.com/in/krishkoria) | [Certificate Link](https://api.badgr.io/public/assertions/50S4cr1jSku_1wRvaeRCWg?identity__email=krishkoria2004%40gmail.com) | Awesone guide to get started with APIs 
 | 1037 | Gatla Naga prasanna | gatlanagaprasanna@gmail.com | [Naga prasanna]([https://www.linkedin.com/in/gatla-nagaprasanna/) | [Certificate Link](https://badgr.com/public/assertions/06XAyCH_Ssyp9BaMRbFHgg?identity__email=gatlanagaprasanna@gmail.com)| I particularly appreciate the clear explanation of different methods and hands-on excercises that help solidify the core concepts,making the learning process practical and effective.|
 
+| 1038 | Ajirthan Balasingham | ajirbala28@gmail.com | [Ajirthan Balasingham](https://www.linkedin.com/in/ajirthan/) | [Certificate Link](https://api.badgr.io/public/assertions/Pp8m93A1TfKBMd_jmUnWWw?identity__email=ajirbala28%40gmail.com)| A practical, hands-on course with comprehensive API coverage and user-friendly learning.|
+
+
+
 
 
