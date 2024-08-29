@@ -1058,4 +1058,5 @@
 | 1058 | Aanya Jain | aanya8312@gmail.com | [Aanya Jain](https://www.linkedin.com/in/aanya08/) | [Certificate Link](https://api.badgr.io/public/assertions/maFAXNH6QXGfwfotJHIFXw?identity__email=aanya8312%40gmail.com)| Amazing course|
 | 1059 | Jaithri K | jaithri21@gmail.com | [Jaithri K](https://www.linkedin.com/in/jaithri-k-7b4270215/) | [Certificate Link](https://api.badgr.io/public/assertions/wpI5AFQLSv66gTxD5IapAw?identity__email=jaithri21%40gmail.com)| Well structured, engaging program with wonderful insights|
 | 1060 | Himanshi Bhardwaj | bhrdwj1218@gmail.com | [Himanshi Bhardwaj](https://www.linkedin.com/in/himanshibhardwaj12/) | [Certificate Link](https://api.badgr.io/public/assertions/L5uhYgk2R7qotZQ9enA1yA?identity__email=bhrdwj1218%40gmail.com)| Very concise tutorials and interactive platform..|
+| 1061 | Md Faizaan Alam | faizanalam327@gmail.com | [Md Faizaan Alam](https://www.linkedin.com/in/mdfaizaanalam/) | [Certificate Link](https://api.badgr.io/public/assertions/MUrq1McKTriNHnZiMSs-ew?identity__email=faizanalam327%40gmail.com)| A nice program for beginners learning APIs..
 
