@@ -17,6 +17,7 @@
 This is the all in one place for documentation help regarding the postman challenge.
 </div>
 
+---
 
 ## Usage
 
@@ -26,23 +27,31 @@ To get started and complete the certification, follow the comprehensive guide pr
 
   [![Read the Documentation](https://img.shields.io/badge/Read%20Documentation-blue?style=for-the-badge&logo=read-the-docs)](https://gssoc24.github.io/Postman-Challenge/)
 
+---
+
 ### 🚀 Get Started with Learning
 
 1. **Register on Postman**
    - Begin by registering yourself using the link below to start your learning journey and to earn the certificate and badge.
    
    [![Register on Postman](https://img.shields.io/badge/Register%20on%20Postman-orange?style=for-the-badge&logo=postman)](https://swiy.co/postman)
+
+---
    
-2. **Follow the Course**
+3. **Follow the Course**
    - Once registered, follow the steps outlined in the documentation. Here's a brief overview:
      - **Step 1:** Familiarize yourself with Postman.
      - **Step 2:** Complete the guided exercises and challenges.
      - **Step 3:** Take the certification test.
      - **Step 4:** Earn your certificate and badge!
 
-3. **Earn Your Badge and Certificate**
+---
+
+4. **Earn Your Badge and Certificate**
    - Upon successful completion, you will receive a certificate and a badge to showcase your achievement. 🎉
    - 500 Points on GSSOC Leaderboard and new Postman API badge
+
+---
 
 
 ### 🛠️ Need Support in Completion
@@ -56,6 +65,8 @@ If you encounter any issues or have questions, you can reach out for support thr
 5. **Engage with the Community**: Engage with other community members by responding to their comments and get [GitHub Badges](https://github.com/GSSoC24/Contributor/discussions/11)<br><br>
 For urgent issues or further assistance, contact the maintainers directly through mail at gssoc@girlscript.tech
 
+
+---
 
 ## Customizing Badge on GitHub Profile
 
