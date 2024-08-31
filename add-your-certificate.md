@@ -1078,3 +1078,4 @@
 | 1078 | Shiv Shakti Rai | [Shiv Rai](https://www.linkedin.com/in/shiv-rai/)) | [Certificate Link](https://api.badgr.io/public/assertions/PCx1kV6SRS20oIOyU2-83g?identity__email=sshaktirai%40gmail.com)|Nice and easy.|
 | 1079 | Kirti Pant | [Kirti Pant](www.linkedin.com/in/kirti-pant-90a790228)) | [Certificate Link](https://badgr.com/public/assertions/t5NhWoHvTo-NqLqOgoMU2A)|Good Course.|
 | 1080 | Om Aware | [Om Aware](https://www.linkedin.com/in/om-aware-669719255/)) | [Certificate Link](https://api.badgr.io/public/assertions/0WQJmbPrS7eXSdQ5RWsHFQ?identity__email=om.aware6512%40gmail.com)|Very informative and easy to understand.|
+| 1081 | Sweety Nehra | [Sweety Nehra](https://www.linkedin.com/in/sweetynehra/)) | [Certificate Link](https://api.badgr.io/public/assertions/f4YMP4odR02Nk4qlbFE58g?identity__email=sweetynehra9250%40gmail.com)|This is amazing challenge as my API fundamentals got clear, I enjoyed the challenge.|
