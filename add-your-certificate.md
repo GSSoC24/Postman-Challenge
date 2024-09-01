@@ -1081,4 +1081,4 @@
 | 1081 | Sweety Nehra | [Sweety Nehra](https://www.linkedin.com/in/sweetynehra/)) | [Certificate Link](https://api.badgr.io/public/assertions/f4YMP4odR02Nk4qlbFE58g?identity__email=sweetynehra9250%40gmail.com)|This is amazing challenge as my API fundamentals got clear, I enjoyed the challenge.|
 | 1082 | Harsh Dhandha | [Harsh Dhandha](https://www.linkedin.com/in/harsh-dhandha-332b76256/) | [Certificate Link](https://badgr.com/public/assertions/jUmLWZsCRFy-fNQTqsFSrA?identity__email=dhandhaharsh46@gmail.com) | Had fun with challenge, could have had more in-depth challenges. |
 | 1083 | Adarsh Sutariya | [Adarsh Sutariya](http://www.linkedin.com/in/adarsh-sutariya-421414290/) | [Certificate Link](https://api.badgr.io/public/assertions/Y0WvWPUZTMGk0HFKxyFkwQ?identity__email=adarshsutariya28%40gmail.com) | Nice Challenge |
-
+| 1084 | Ayush Kansal | [Ayush Kansal](https://www.linkedin.com/in/aykansal/) | [Certificate Link](https://api.badgr.io/public/assertions/xsR0MQwlTW2tTXK7N-_AzQ?identity__email=ayushkansal303%40gmail.com) | Nice Course to get Hands-on Postman |
