@@ -1,5 +1,5 @@
 
-<h1 align="center">GGSOC <> Postman API Student Expert</h1>
+<h1 align="center"> Postman API Student Expert</h1>
 
 <div align="center">
   
