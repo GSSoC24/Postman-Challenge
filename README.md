@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Postman-Challenge Gssoc Ext</h1>
+<h1 align="center">Postman-Challenge Gssoc Ext.</h1>
 
 <h1 align="center"> Postman API Student Expert</h1>
 
