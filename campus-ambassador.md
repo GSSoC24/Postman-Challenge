@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+This is just a practice commit
 # Attention Campus Ambassadors!
 
 We have some exciting rewards for you as part of our CA campaign:
