@@ -1084,3 +1084,4 @@
 | 1084 | Ayush Kansal | [Ayush Kansal](https://www.linkedin.com/in/aykansal/) | [Certificate Link](https://api.badgr.io/public/assertions/xsR0MQwlTW2tTXK7N-_AzQ?identity__email=ayushkansal303%40gmail.com) | Nice Course to get Hands-on Postman |
 | 1085 | Sahil Tamboli| [Sahil Tamboli](https://www.linkedin.com/in/sahiltamboli561/) | [Certificate Link](https://api.badgr.io/public/assertions/QHBe1uAnShCSHy5XbOEg4g?identity__email=sahiltamboli561%40gmail.com) | learned more about api throught this challaenge |
 | 1086 | Adarsh Kumar | [Adarsh Kumar](https://www.linkedin.com/in/jinx-vi/) | [Certificate Link](https://api.badgr.io/public/assertions/enh7kTmIQqGFPhElOyRw6g?identity__email=adarshkumarmsay%40gmail.com)| Great Course, so helpful |
+| 1087 | Amit Bora | [Amit Bora](https://www.linkedin.com/in/amitbora1/) | [Certificate Link](https://badgr.com/public/assertions/ceFDfgj3Sj6OKHdUzDpCVg?identity__email=info.amitsinghbora@gmail.com)| Learned about APIs |
