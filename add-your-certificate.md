@@ -1084,3 +1084,5 @@
 | 1084 | Ayush Kansal | [Ayush Kansal](https://www.linkedin.com/in/aykansal/) | [Certificate Link](https://api.badgr.io/public/assertions/xsR0MQwlTW2tTXK7N-_AzQ?identity__email=ayushkansal303%40gmail.com) | Nice Course to get Hands-on Postman |
 | 1085 | Sahil Tamboli| [Sahil Tamboli](https://www.linkedin.com/in/sahiltamboli561/) | [Certificate Link](https://api.badgr.io/public/assertions/QHBe1uAnShCSHy5XbOEg4g?identity__email=sahiltamboli561%40gmail.com) | learned more about api throught this challaenge |
 | 1086 | Adarsh Kumar | [Adarsh Kumar](https://www.linkedin.com/in/jinx-vi/) | [Certificate Link](https://api.badgr.io/public/assertions/enh7kTmIQqGFPhElOyRw6g?identity__email=adarshkumarmsay%40gmail.com)| Great Course, so helpful |
+| 1087 | Anuoshka Singh | [Anuoshka Singh](https://www.linkedin.com/posts/anuoshkasingh_postman-api-fundamentals-student-expert-activity-7254578454380118016-uhNc?utm_source=share&utm_medium=member_desktop) | [Certificate Link](https://badgr.com/backpack/badges/6717fbce74b60a50e42f942b)| Wonderful Course to learn about APIs especially as a begineer. I have grasped the fundamentals of API very clearly. |
+
