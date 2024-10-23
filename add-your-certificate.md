@@ -1122,3 +1122,6 @@
 | 1120 | Vaibhav Kottari | [Vaibhav Kottari](https://www.linkedin.com/in/vaibhavkottari/) | [Certificate Link](https://api.badgr.io/public/assertions/GFTyh7FNT_2fcahIkycBDQ?identity__email=kottarivaibhav%40gmail.com)| It was a Great  API Course, Insightful. Enhanced my API skills further |
 | 1121 | Yehia Rasheed | [Yehia Rasheed](https://www.linkedin.com/in/yehia-rasheed/) | [Certificate Link](https://api.badgr.io/public/assertions/XnWeEaulT-yvATeVOOHUpQ?identity__email=yehiarasheed%40gmail.com)| Great Introduction to APIs for beginners! |
 | 1122 | shubhanshu | [shubhanshu kumar](https://www.linkedin.com/in/shubhanshu-kumar-6a961525a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7nQDBhEcRXWKWmvS7rbsIg%3D%3D) | [Certificate Link](https://api.badgr.io/public/assertions/tsPVv73RRbaGEJO2rPY1Bg?identity__email=subhanshukumar290%40gmail.com)| Great Course, so helpful |
+| 1123 | Akash Choudhury | [Akash Choudhury](www.linkedin.com/in/ezdecode) | [Certificate Link](https://api.badgr.io/public/assertions/d6iTs7emRY-N-o5mTVWSrg?identity__email=ezdecode%40gmail.com)| Nice One, Loved And Learned A Lot Things. |
+
+
