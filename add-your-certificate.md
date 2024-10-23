@@ -1182,3 +1182,5 @@
 | 1180 | Ahsan Khalid | [Ahsan Khalid](https://www.linkedin.com/in/ahsankhalid22/) | [Certificate Link](https://api.badgr.io/public/assertions/NjKEn01nRFyQGXCayO8jjg?identity__email=ahsankhalid816%40gmail.com)| It was a great learning experience. |
 | 1181 | Hadifa Rousheen | [Hadifa Rousheen](https://www.linkedin.com/in/hadifarouhseen/) | [Certificate Link](https://api.badgr.io/public/assertions/fEpcn4VeS0Cwd5gXJ2j0jw?identity__email=hadifarousheen2644%40gmail.com)| Great Course. |
 | 1182 | Vuppu Chinmay | [Vuppu Chinmay](https://www.linkedin.com/in/vuppu-chinmay/) | [Certificate Link](https://api.badgr.io/public/assertions/AnbSVjcKTqmS0k-Jtb9Krg?identity__email=vuppuchinmay%40gmail.com)| Like the skills it teaches aat the right time |
+| 1183 | Amit Bora | [Amit Bora](https://www.linkedin.com/in/amitbora1/) | [Certificate Link](https://badgr.com/public/assertions/ceFDfgj3Sj6OKHdUzDpCVg?identity__email=info.amitsinghbora@gmail.com)| Learned about APIs |
+
