@@ -1161,3 +1161,4 @@
 | 1159 | Anlea Maria Jose | [Anlea Maria Jose](https://www.linkedin.com/in/anlea/) | [Certificate Link](https://api.badgr.io/public/assertions/jH2PIGxvQ06SWtbGCvC97w?identity__email=anlea.m.j06%40gmail.com)| Great Course. Very helpful. |
 | 1160 | Kartik Saxena | [Kartik Saxena](linkedin.com/in/kartik-saxena-2098b4270) | [Certificate Link](https://api.badgr.io/public/assertions/KyXYCP0DQdWYACLLqpNR7w?identity__email=saxenaaashu74%40gmail.com)| Learn lots about postman api. |
 | 1161 | Anandha Vihari | [Anandha Vihari](https://www.linkedin.com/in/Anandha-Vihari/) | [Certificate Link](https://badgr.com/public/assertions/r2V-7qhlQ6-YCHrWSdWZLg?identity__email=viharianandha@gmail.com)| Would Love more courses from Postman |
+| 1162 | Khushi Nigam | [Khushi Nigam](https://www.linkedin.com/in/khushinigam7/) | [Certificate Link](https://api.badgr.io/public/assertions/2pBCGaq2Sy6yoRmNYfj3GQ?identity__email=nigamkhushi07%40gmail.com)| Amazing Course. Learned a lot |
