@@ -1137,5 +1137,4 @@
 [Certificate Link](https://api.badgr.io/public/assertions/VPHkUevjT6q7HOYC3IzD2A?identity__email=gupta28priyanshi%40gmail.com)| Feedback - Comprehensive API course with hands-on practice, real-world applications, and guidance, highly recommandable for beginners. |
 | 1135 | Aditya Pratap Prajapati | [Aditya Pratap Prajapati](https://www.linkedin.com/in/aditya-pratap-prajapati-a624a41b2/) | [Certificate Link](https://api.badgr.io/public/assertions/5TGTxaaoTvubhnAioPXyPQ?identity__email=pratapaadiaditya%40gmail.com)| Enjoyed completing the course |
 | 1136 | K.R. Aditya Shastry | [Aditya Shastry](https://www.linkedin.com/in/aditya-shastry-2a1a4b272/) | [Certificate Link](https://api.badgr.io/public/assertions/KcFbgZwrSBenGH2xOzB_4Q?identity__email=kradi2004%40gmail.com)| Amazing course to understand API fundamentals , Thankyou for this opportunity ! |
-
-
+| 1137 | Devarshee Gaunekar | [Devarshee Gaunekar](https://www.linkedin.com/in/devarshee-gaunekar-a06441257/) | [Certificate Link](https://api.badgr.io/public/assertions/YC4UYehPQjuehglfKir5lg?identity__email=devarsheegaunekar29%40gmail.com)| Great Course!! |
