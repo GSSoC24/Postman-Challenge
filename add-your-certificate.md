@@ -1116,3 +1116,5 @@
 | 1114 | Shreya Verma | [Shreya Verma](https://www.linkedin.com/in/shreya-verma-298b60223/) | [Certificate Link](https://api.badgr.io/public/assertions/JnsnwuQPRSGZMA61Pr_F6A?identity__email=verma.shreya.094%40gmail.com)| Learnt a New Skill, API fundamentals got clear |
 | 1115 | Macha Varshitha | [Macha Varshitha](https://www.linkedin.com/in/varshitha-macha) | [Certificate Link](https://api.badgr.io/public/assertions/n0tFrKvXT26QDGbQkyyX5A?identity__email=machavarshithareddy%40gmail.com)|It was fun learning and how everything works for the first time |
 | 1116 | Sivasai Nukala | [Sivasai Nukala](https://www.linkedin.com/in/sivasainukala16) | [Certificate Link](https://api.badgr.io/public/assertions/nK3sEfVdSW-EBlG-0ch37g?identity__email=sivasainookala%40gmail.com)| Great Course |
+
+| 1116 | Charan Romi | [Charan Romi](www.linkedin.com/in/charan-romi-b87460222) | [Certificate Link](https://api.badgr.io/public/assertions/g9vN-1lkRyiH7ltnxGQ5Xw?identity__email=charanromi325%40gmail.com)| Good One |
