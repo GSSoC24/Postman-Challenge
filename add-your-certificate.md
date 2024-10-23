@@ -1175,3 +1175,5 @@
 | 1173 | Sinchana N | [Sinchana N](www.linkedin.com/in/sinchana-n-8b3416323) | [Certificate Link](https://badgr.com/backpack/badges/67125e282a47e41a7af3a315)| Learnt a lot. Thank you! |
 | 1174 | Het Modi | [Het Modi](https://www.linkedin.com/in/het-a-modi/) | [Certificate Link](https://badgr.com/public/assertions/xOfvDMF4Sg2EhBQ4w1ZcOQ?identity__email=m.hetmodi@gmail.com)| Amazing Course, Learnt A Lot |
 | 1175 | Shubh Agarwal | [Shubh Agarwal](https://www.linkedin.com/in/shubh-agarwal1/) | [Certificate Link](https://api.badgr.io/public/assertions/lyIO3uDlSw-hjRp15XRUEA?identity__email=agarwalshubh.pps1%40gmail.com)| Great Course, so helpful |
+| 1176 | Om Jadhav | [Om Jadhav](www.linkedin.com/in/om-jadhav-a25939288) | [Certificate Link](https://api.badgr.io/public/assertions/_sTO1AsiRO2uSZM2BvxZdQ?identity__email=om427880%40gmail.com)| Amazing course i leaned so much|
+
