@@ -1185,4 +1185,4 @@
 | 1183 | Amit Bora | [Amit Bora](https://www.linkedin.com/in/amitbora1/) | [Certificate Link](https://badgr.com/public/assertions/ceFDfgj3Sj6OKHdUzDpCVg?identity__email=info.amitsinghbora@gmail.com)| Learned about APIs |
 | 1184 | Souvik Majee | [Souvik Majee](www.linkedin.com/in/souvik-majee-4b1b88292) | [Certificate Link](https://badgr.com/public/assertions/B47p_EboQEG-P2NGTQlkoA?identity__email=souvikmajee039@gmail.com)| Very helpful course |
 | 1185 | Shivendu Kumar Mandal | [Shivendu Kumar Mandal](www.linkedin.com/in/shivendu-kumar-mandal-969134212) | [Certificate Link](https://api.badgr.io/public/assertions/70z3TYvpSGWsQnxAOzcNrw?identity__email=shivendukumarr675%40gmail.com)| Great work, Loved every bit of information |
-
+| 1186 | Suraj Prakash | [Suraj Prakash](https://www.linkedin.com/in/surajprakash24/) | [Certificate Link](https://api.badgr.io/public/assertions/0EQuHb1wRNGO9TwUr9FhQQ?identity__email=surajprakashwork%40gmail.com)| Very informative & well structured |
