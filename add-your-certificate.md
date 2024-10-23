@@ -1200,3 +1200,4 @@
 | 1198 | Akashdeep Singh | [Akashdeep Singh](https://www.linkedin.com/in/parteekxo/) | [Certificate Link](https://api.badgr.io/public/assertions/zi8P4SKqT-yi93RChcu5Ew?identity__email=parteek.xo.3%40gmail.com)| Thanks for the amazing course! |
 | 1199 | Krish chothani | [Krish Chothani](https://www.linkedin.com/in/krish-chothani-797598284/) | [Certificate Link](https://api.badgr.io/public/assertions/lxis5SiJS_quspzFUpdcIg?identity__email=krishchothani259%40gmail.com)| Nice ,and very easy to Understand |
 | 1200 | Falak Niyaz | [Falak Niyaz](www.linkedin.com/in/falak-niyaz-aa056a25b) | [Certificate Link](https://api.badgr.io/public/assertions/lVznewumTgCnSMxqFMigDQ?identity__email=falak.smn.11%40gmail.com)| Great|
+| 1201 | Amrutha Bysani | [Amrutha Bysani](https://www.linkedin.com/in/amrutha-bysani-99b0ba291/) | [Certificate Link](https://badgr.com/public/assertions/gugFYhZXRpyHEri7UuJytg?identity__email=112316013@ece.iiitp.ac.in)| very informative|
