@@ -1197,3 +1197,5 @@
 | 1195 | Sai Raghavi Reddy | [Sai Raghavi Reddy](https://www.linkedin.com/in/m-s-sai-raghavi-reddy/) | [Certificate Link](https://badgr.com/public/assertions/a-Twm6GQTyGYPR-GFLW2Ig?identity__email=sairaghavireddy30@gmail.com)| It was great |
 | 1196 | Parth Gupta | [Parth Gupta](https://www.linkedin.com/in/p4r1h/) | [Certificate Link](https://api.badgr.io/public/assertions/5_9-A7pgTh-oyKkxY3S1xA?identity__email=mail2parthgupta%40gmail.com)| Innovative teaching methods |
 | 1197 | Nishant Dwivedi | [Nishant Dwivedi](linkedin.com/in/nishant1205/) | [Certificate Link](https://api.badgr.io/public/assertions/54APVdREQ4Cr-zO6ZtKyzQ?identity__email=idwivedi1204%40gmail.com)|  A really informative and Interesting Course. |
+| 1198 | Akashdeep Singh | [Akashdeep Singh](https://www.linkedin.com/in/parteekxo/) | [Certificate Link](https://api.badgr.io/public/assertions/zi8P4SKqT-yi93RChcu5Ew?identity__email=parteek.xo.3%40gmail.com)| Thanks for the amazing course! |
+
