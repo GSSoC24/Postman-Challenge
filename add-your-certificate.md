@@ -1256,3 +1256,5 @@
 | 1254 | Pooja Kanagaraj | [Pooja k](www.linkedin.com/in/pooja-k-551955281) | [Certificate Link](https://api.badgr.io/public/assertions/w6ZEC8KyRfi1e6axO2aoQw?identity__email=pooja.kkamakshi2006%40gmail.com)|This course helped me to get knowledge about API and hands on it.|
 | 1255 | [Shrinedhi M R] | [Shrinedhi M R](https://www.linkedin.com/in/shrinedhi-m-r) | [Certificate Link](https://api.badgr.io/public/assertions/O-XGuaRhQeyB-HcbumZGxw?identity__email=shribabe2%40gmail.com) | Very nice course |
 | 1256 | Sanya Dureja | [Sanya Dureja](https://www.linkedin.com/in/sanya-dureja-13960122a/) | [Certificate Link](https://api.badgr.io/public/assertions/3P29JO9TTy-w2SGg8iJqMA?identity__email=sanyadureja01%40gmail.com)| Very informative course, got an opportunity to explore Postman in detail. |
+| 1257 | Mohammad Aazib Khan | [Mohammad Aazib Khan](https://www.linkedin.com/in/mohammad-aazib-khan-) | [Certificate Link](https://api.badgr.io/public/assertions/jT_ZoUVPS0i-M60BU-M6UA?identity__email=aazib12j%40gmail.com)| Very nice course |
+
