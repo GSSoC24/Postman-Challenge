@@ -1186,3 +1186,5 @@
 | 1184 | Souvik Majee | [Souvik Majee](www.linkedin.com/in/souvik-majee-4b1b88292) | [Certificate Link](https://badgr.com/public/assertions/B47p_EboQEG-P2NGTQlkoA?identity__email=souvikmajee039@gmail.com)| Very helpful course |
 | 1185 | Shivendu Kumar Mandal | [Shivendu Kumar Mandal](www.linkedin.com/in/shivendu-kumar-mandal-969134212) | [Certificate Link](https://api.badgr.io/public/assertions/70z3TYvpSGWsQnxAOzcNrw?identity__email=shivendukumarr675%40gmail.com)| Great work, Loved every bit of information |
 | 1186 | Suraj Prakash | [Suraj Prakash](https://www.linkedin.com/in/surajprakash24/) | [Certificate Link](https://api.badgr.io/public/assertions/0EQuHb1wRNGO9TwUr9FhQQ?identity__email=surajprakashwork%40gmail.com)| Very informative & well structured |
+| 1187 | Lakshay Mahajan | [Lakshay Mahajan](https://www.linkedin.com/in/lakshaymahajan25/) | [Certificate Link](https://api.badgr.io/public/assertions/1gNaLreBQDWV9gau8_lCiA?identity__email=lakshay12290%40gmail.com)| Added my name |
+
