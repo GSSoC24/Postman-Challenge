@@ -1172,3 +1172,5 @@
 | 1170 | Eshita Das | [Eshita Das](https://www.linkedin.com/in/eshita-das-084b962b0/) | [Certificate Link](https://api.badgr.io/public/assertions/Pz4Adu8kTEGpLbiDzRnnQA?identity__email=edas25564%40gmail.com)| This is amazing challenge as my API fundamentals got clear, I enjoyed the challenge. |
 | 1171 | Piyush Gupta | [Piyush Gupta](https://www.linkedin.com/in/piyush-gupta-rgipt/) | [Certificate Link](https://api.badgr.io/public/assertions/88p4AiGySz6rVR3ivcmsGw?identity__email=piyushiitian2023%40gmail.com)| Great Course, so helpful |
 | 1172 | Pranay Bhatkar | [Pranay Bhatkar](https://www.linkedin.com/in/bhatkar/) | [Certificate Link](https://badgr.com/backpack/badges/6717c44d74b60a50e42f8687?identity__email=pranaybhatkar81@gmail.com)| Perfect for beginners to master the fundamentals of APIs and Postman.|
+| 1173 | Sinchana N | [Sinchana N](www.linkedin.com/in/sinchana-n-8b3416323) | [Certificate Link](https://badgr.com/backpack/badges/67125e282a47e41a7af3a315)| Learnt a lot. Thank you! |
+
