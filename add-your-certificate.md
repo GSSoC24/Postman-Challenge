@@ -1199,4 +1199,4 @@
 | 1197 | Nishant Dwivedi | [Nishant Dwivedi](linkedin.com/in/nishant1205/) | [Certificate Link](https://api.badgr.io/public/assertions/54APVdREQ4Cr-zO6ZtKyzQ?identity__email=idwivedi1204%40gmail.com)|  A really informative and Interesting Course. |
 | 1198 | Akashdeep Singh | [Akashdeep Singh](https://www.linkedin.com/in/parteekxo/) | [Certificate Link](https://api.badgr.io/public/assertions/zi8P4SKqT-yi93RChcu5Ew?identity__email=parteek.xo.3%40gmail.com)| Thanks for the amazing course! |
 | 1199 | Krish chothani | [Krish Chothani](https://www.linkedin.com/in/krish-chothani-797598284/) | [Certificate Link](https://api.badgr.io/public/assertions/lxis5SiJS_quspzFUpdcIg?identity__email=krishchothani259%40gmail.com)| Nice ,and very easy to Understand |
-
+| 1200 | Falak Niyaz | [Falak Niyaz](www.linkedin.com/in/falak-niyaz-aa056a25b) | [Certificate Link](https://api.badgr.io/public/assertions/lVznewumTgCnSMxqFMigDQ?identity__email=falak.smn.11%40gmail.com)| Great|
