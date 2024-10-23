@@ -1195,4 +1195,4 @@
 | 1193 | Vidhan Thakur | [Vidhan Thakur](https://www.linkedin.com/in/vidhan-thakur27/) | [Certificate Link](https://api.badgr.io/public/assertions/zLQULfXzTkKF2z9UPjcBgw?identity__email=vidhanthakur2700%40gmail.com)| Wonderfull Course, so helpful |
 | 1194 | Rishabh Yadav | [Rishabh Yadav](https://www.linkedin.com/in/rishabh-real/) | [Certificate Link](https://api.badgr.io/public/assertions/3fbo0Xr3Rq6OOXir-EtbuA?identity__email=rishabhyadav7923%40gmail.com)| Amazing |
 | 1195 | Sai Raghavi Reddy | [Sai Raghavi Reddy](https://www.linkedin.com/in/m-s-sai-raghavi-reddy/) | [Certificate Link](https://badgr.com/public/assertions/a-Twm6GQTyGYPR-GFLW2Ig?identity__email=sairaghavireddy30@gmail.com)| It was great |
-
+| 1196 | Parth Gupta | [Parth Gupta](https://www.linkedin.com/in/p4r1h/) | [Certificate Link](https://api.badgr.io/public/assertions/5_9-A7pgTh-oyKkxY3S1xA?identity__email=mail2parthgupta%40gmail.com)| Innovative teaching methods |
