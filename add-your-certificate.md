@@ -1189,4 +1189,4 @@
 | 1187 | Lakshay Mahajan | [Lakshay Mahajan](https://www.linkedin.com/in/lakshaymahajan25/) | [Certificate Link](https://api.badgr.io/public/assertions/1gNaLreBQDWV9gau8_lCiA?identity__email=lakshay12290%40gmail.com)| Added my name |
 | 1188 | Swami Malode | [Swami Malode](https://www.linkedin.com/in/swami-malode-566541251/) | [Certificate Link](https://api.badgr.io/public/assertions/SRcukvl_RHebcCok9H8mrw?identity__email=swamimalodeofficial%40gmail.com)| Veery helpful course, clear my basics for API's |
 | 1189 | Gurliv Kaur Bajwa | [Gurliv Kaur Bajwa](https://www.linkedin.com/in/gurlivbajwa/) | [Certificate Link](https://api.badgr.io/public/assertions/8TNZy2uZSuyJVsn4-QKNpQ?identity__email=pixelstudio1210%40gmail.com)| Great Learning experience |
-
+| 1190 | Nagasai Praneeth | [Nagasai Praneeth](https://www.linkedin.com/in/naga-sai-praneeth/) | [Certificate Link](https://api.badgr.io/public/assertions/SuudJ5BuSTeDH2AXGGWdOw?identity__email=nagasaipraneeth5%40gmail.com)| Very good course |
