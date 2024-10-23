@@ -1234,3 +1234,5 @@
 | 1232 | Stuti Sharma | [Stuti Sharma](https://www.linkedin.com/in/stuti-sharma-94057122b/) | [Certificate Link](https://api.badgr.io/public/assertions/GklEeefMTYGoaiz-QRS0qQ?identity__email=stuti2718%40gmail.com)| A great launchpad to start my journey in the world of APIs. |
 | 1233 | Sargam Maurya | [Sargam Maurya](https://www.linkedin.com/in/sargam-maurya/) | [Certificate Link](https://api.badgr.io/public/assertions/wdHLJiAoQWqMDr09yK38YA?identity__email=sargammaurya468%40gmail.com)| Concise and Informative |
 | 1234 | Faeez Ahmed Qureshi | [Faeez Ahmed Qureshi](www.linkedin.com/in/faeez-ahmed-qureshi-9b6b84281) | [Certificate Link] (https://api.badgr.io/public/assertions/wIwIeY6ISFq0th8_D0IMxw?identity__email=qureshifaeez%40gmail.com) | It enhanced my API skills even more! |
+| 1235 | Arshad Khan | arshadkh1453@gmail.com |[Arshad Khan](https://www.linkedin.com/in/arshadkhan16/) | [Certificate Link](https://api.badgr.io/public/assertions/SSINFZ7OS0uvUMXE6N7cIA?identity__email=arshadkh1453%40gmail.com)| Great Course. Very helpful and I learn alot thanks Sanja sir for help |
+
