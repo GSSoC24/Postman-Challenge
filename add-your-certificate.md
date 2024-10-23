@@ -1169,4 +1169,6 @@
 | 1167 | Chiluka Akshitha|[Chiluka Akshitha](www.linkedin.com/in/akshitha-chiluka-b19245259) | [Certificate Link](https://api.badgr.io/public/assertions/cmIZ2K4sTNandQN8G_s0VA?identity__email=22wh1a12b5%40bvrithyderabad.edu.in)| Loved it. 
 | 1168 | Subin Shakya | [Subin Shakya](https://www.linkedin.com/in/subinshk02/) | [Certificate Link](https://api.badgr.io/public/assertions/TeXiv1f2S1ObuFfRJY19aw?identity__email=subin12.shakya%40gmail.com)| Good for beginners |
 | 1169 | Stuti Sharma | [Stuti Sharma](https://www.linkedin.com/in/stuti-s-67875a242/) | [Certificate Link](https://api.badgr.io/public/assertions/Vkk8AHt3TlWvPq0uqNrHdQ?identity__email=stuti105sharma%40gmail.com)| I liked the course overall. However, adding more advanced topics and real-world examples would further enhance the learning experience.|
+| 1170 | Eshita Das | [Eshita Das](https://www.linkedin.com/in/eshita-das-084b962b0/) | [Certificate Link](https://api.badgr.io/public/assertions/Pz4Adu8kTEGpLbiDzRnnQA?identity__email=edas25564%40gmail.com)| This is amazing challenge as my API fundamentals got clear, I enjoyed the challenge. |
+
 
