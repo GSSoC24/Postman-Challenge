@@ -1166,3 +1166,5 @@
 | 1164 | Laxman P | [Laxman P](https://www.linkedin.com/in/laxman-panjalingam-4a5163260) | [Certificate Link](https://badgr.com/public/assertions/DieWmJ1jQI66aqbycDbNRA?identity__email=laxman.p2022cse@sece.ac.in)| Wonderful Insights on Postman.Had a fun hands on experience|
 | 1165 | Sameer Desai | [Sameer Desai](https://www.linkedin.com/in/sameer-desai-3447851b4/) | [Certificate Link](https://badgr.com/public/assertions/U0L0HZIMSPOGbDBtyor7rw?identity__email=sameermahammaddesai786@gmail.com)| Explored the world of Postman API.would like to cover more topics from postman |
 | 1166 | Gaurav Bomble | [Gaurav Bomble](https://www.linkedin.com/in/gaurav-bomble-787287229/) | [Certificate Link](https://api.badgr.io/public/assertions/Cs_3sDOHSRWmx1IJpGd4bQ?identity__email=gtbomble225%40gmail.com)| Very nice course |
+| 1167 | Prabhjot Singh | [Prabhjot singh](https://www.linkedin.com/in/prabhjotsingh84/) | [Certificate Link](https://api.badgr.io/public/assertions/9uMsLAMLQdm5ZghcSic5Fw?identity__email=honey200509052nd%40gmail.com)| Thanks ! for new experience |
+
