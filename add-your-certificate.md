@@ -1245,3 +1245,5 @@
 | 1243 | Hem Raj | [Hem Raj](https://www.linkedin.com/in/hem-raj-862624202/) | [Certificate Link](https://api.badgr.io/public/assertions/_CG52Me0TVursnF9m_T7cA?identity__email=mhemraj814%40gmail.com)| Great Course. Very helpful. |
 | 1244 | Zubaida Sehnaz | [Zubaida Sehnaz](https://www.linkedin.com/in/zubaida-sehnaz-a5415b260/) | [Certificate Link](https://api.badgr.io/public/assertions/sYXcLZ5SQwGv514Vz4-cDA?identity__email=zubaida.22scse1011935%40galgotiasuniversity.edu.in)| A great start at learnng API |
 | 1245 | Khushi Nigam | [Khushi Nigam](https://www.linkedin.com/in/khushinigam7/) | [Certificate Link](https://api.badgr.io/public/assertions/2pBCGaq2Sy6yoRmNYfj3GQ?identity__email=nigamkhushi07%40gmail.com)| Amazing Course. Learned a lot |
+| 1246 | Jatin Kaushik | [Jatin Kaushik](https://www.linkedin.com/in/jatinkaushik-jk) | [Certificate Link](https://api.badgr.io/public/assertions/noD1vkwKRGaMXUeoEtWt3w?identity__email=jkprogrammer25%40gmail.com)| Very helpful to begin with api and postman. Easy to understand, beginner friendly and good to go |
+
