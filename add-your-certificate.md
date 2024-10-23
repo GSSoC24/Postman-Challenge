@@ -1132,3 +1132,5 @@
 | 1130 | Paras Yerunkar | [Paras Yerunkar](https://www.linkedin.com/in/parasyerunkar/) | [Certificate Link](https://api.badgr.io/public/assertions/P-4FNvdHTDaJe1oUqFdOsg?identity__email=parasyerunkar174%40gmail.com)| Great Experience ,Cool Challenge |
 | 1131 | K V Manoj kumar | [K V Manoj Kumar](https://www.linkedin.com/in/k-v-manoj-kumar-56213828b/) | [Certificate Link](https://api.badgr.io/public/assertions/BNnXsEt4SJOMEB1mzokwwA?identity__email=manoj.23mip10113%40vitbhopal.ac.in)| Interesting Course and Great Certification worth It |
 | 1132 | Chiranthan H Y | [Chiranthan H Y](linkedin.com/in/chiranthan-h-y-62503a216) | [Certificate Link](https://api.badgr.io/public/assertions/m0VdbJDuSQKl5_URb68NTg?identity__email=chiranthanhy%40gmail.com)| Good course, Through this my API fundamentals got clear |
+| 1133 | Anshika Verma | [Anshika Verma](https://www.linkedin.com/in/anshika-verma-a5735128b/) | [Certificate Link](https://badgr.com/backpack/badges/66e5c926316ed43712699d35)| Amazing Course to equip students with in-demand API skills through hands-on learning! |
+
