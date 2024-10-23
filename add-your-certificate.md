@@ -1123,5 +1123,4 @@
 | 1121 | Yehia Rasheed | [Yehia Rasheed](https://www.linkedin.com/in/yehia-rasheed/) | [Certificate Link](https://api.badgr.io/public/assertions/XnWeEaulT-yvATeVOOHUpQ?identity__email=yehiarasheed%40gmail.com)| Great Introduction to APIs for beginners! |
 | 1122 | shubhanshu | [shubhanshu kumar](https://www.linkedin.com/in/shubhanshu-kumar-6a961525a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7nQDBhEcRXWKWmvS7rbsIg%3D%3D) | [Certificate Link](https://api.badgr.io/public/assertions/tsPVv73RRbaGEJO2rPY1Bg?identity__email=subhanshukumar290%40gmail.com)| Great Course, so helpful |
 | 1123 | Akash Choudhury | [Akash Choudhury](www.linkedin.com/in/ezdecode) | [Certificate Link](https://api.badgr.io/public/assertions/d6iTs7emRY-N-o5mTVWSrg?identity__email=ezdecode%40gmail.com)| Nice One, Loved And Learned A Lot Things. |
-
-
+| 1124 | Shivam Prasad Singh | [Shivam Prasad Singh](https://www.linkedin.com/in/iamshiv07/) | [Certificate Link](https://api.badgr.io/public/assertions/ExLBySqnR9Cti7tDLe1b2A?identity__email=iamshiv0719%40gmail.com)| Easy to understand and learn! |
