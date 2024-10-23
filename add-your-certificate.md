@@ -1198,4 +1198,5 @@
 | 1196 | Parth Gupta | [Parth Gupta](https://www.linkedin.com/in/p4r1h/) | [Certificate Link](https://api.badgr.io/public/assertions/5_9-A7pgTh-oyKkxY3S1xA?identity__email=mail2parthgupta%40gmail.com)| Innovative teaching methods |
 | 1197 | Nishant Dwivedi | [Nishant Dwivedi](linkedin.com/in/nishant1205/) | [Certificate Link](https://api.badgr.io/public/assertions/54APVdREQ4Cr-zO6ZtKyzQ?identity__email=idwivedi1204%40gmail.com)|  A really informative and Interesting Course. |
 | 1198 | Akashdeep Singh | [Akashdeep Singh](https://www.linkedin.com/in/parteekxo/) | [Certificate Link](https://api.badgr.io/public/assertions/zi8P4SKqT-yi93RChcu5Ew?identity__email=parteek.xo.3%40gmail.com)| Thanks for the amazing course! |
+| 1199 | Krish chothani | [Krish Chothani](https://www.linkedin.com/in/krish-chothani-797598284/) | [Certificate Link](https://api.badgr.io/public/assertions/lxis5SiJS_quspzFUpdcIg?identity__email=krishchothani259%40gmail.com)| Nice ,and very easy to Understand |
 
