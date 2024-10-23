@@ -1247,3 +1247,4 @@
 | 1245 | Khushi Nigam | [Khushi Nigam](https://www.linkedin.com/in/khushinigam7/) | [Certificate Link](https://api.badgr.io/public/assertions/2pBCGaq2Sy6yoRmNYfj3GQ?identity__email=nigamkhushi07%40gmail.com)| Amazing Course. Learned a lot |
 | 1246 | Jatin Kaushik | [Jatin Kaushik](https://www.linkedin.com/in/jatinkaushik-jk) | [Certificate Link](https://api.badgr.io/public/assertions/noD1vkwKRGaMXUeoEtWt3w?identity__email=jkprogrammer25%40gmail.com)| Very helpful to begin with api and postman. Easy to understand, beginner friendly and good to go |
 | 1247 | Manik Damle | [Manik Damle](https://www.linkedin.com/in/manik-damle/) | [Certificate Link](https://badgr.com/public/assertions/9rjk9OVnRpq1mwcYWK24Hg)| It was good. |
+| 1248 | Ayush Sharma | [ Ayush Sharma](www.linkedin.com/in/ayush-sharma-a155a8267) | [Certificate Link](https://badgr.com/public/assertions/l-pHHF-sSmuI8lE5DIIaLg?identity__email=asharma7588@gmail.com)| AyushSharma72 |
