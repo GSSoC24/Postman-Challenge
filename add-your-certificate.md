@@ -1174,4 +1174,4 @@
 | 1172 | Pranay Bhatkar | [Pranay Bhatkar](https://www.linkedin.com/in/bhatkar/) | [Certificate Link](https://badgr.com/backpack/badges/6717c44d74b60a50e42f8687?identity__email=pranaybhatkar81@gmail.com)| Perfect for beginners to master the fundamentals of APIs and Postman.|
 | 1173 | Sinchana N | [Sinchana N](www.linkedin.com/in/sinchana-n-8b3416323) | [Certificate Link](https://badgr.com/backpack/badges/67125e282a47e41a7af3a315)| Learnt a lot. Thank you! |
 | 1174 | Het Modi | [Het Modi](https://www.linkedin.com/in/het-a-modi/) | [Certificate Link](https://badgr.com/public/assertions/xOfvDMF4Sg2EhBQ4w1ZcOQ?identity__email=m.hetmodi@gmail.com)| Amazing Course, Learnt A Lot |
-
+| 1175 | Shubh Agarwal | [Shubh Agarwal](https://www.linkedin.com/in/shubh-agarwal1/) | [Certificate Link](https://api.badgr.io/public/assertions/lyIO3uDlSw-hjRp15XRUEA?identity__email=agarwalshubh.pps1%40gmail.com)| Great Course, so helpful |
