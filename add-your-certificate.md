@@ -1353,3 +1353,4 @@
 | 1351 | Shariq | [Shariq](https://www.linkedin.com/in/shariq-sd/)| [Certificate](https://api.badgr.io/public/assertions/n7V6k_xxQrqyYm9EL3gEjA)| Easy to Learn, Step by Step explanations.Overall Awesome.|
 | 1352 | MD REHAN | [MD REHAN](https://www.linkedin.com/in/mdrehan18/) | [Certificate Link](https://api.badgr.io/public/assertions/bpOwc73HTdSlAxpbSzTGSQ?identity__email=rehan.md0107%40gmail.com)| Got the basic understanding of APIs |
 | 1353 | Tushar Bansal | [Tushar Bansal](https://www.linkedin.com/in/tusharb331) | [Certificate Link](https://badgr.com/public/assertions/mMq_ulr7TwyAciH8Mqnvcw?identity__email=tusharb331@gmail.com) | Comprehensive content with in-depth explanations. A great learning experience! |
+| 1354 | Ankur Ram | [Ankur Ram](https://www.linkedin.com/in/ankurram/) | [Certificate Link](https://api.badgr.io/public/assertions/4l2uxaF5TrSgJlkI0yTS6w?identity__email=ankurram2002%40gmail.com)| A very good course for beginners |
