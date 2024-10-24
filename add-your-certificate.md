@@ -1262,4 +1262,4 @@
 | 1260 | Hasini Chekuri | [Hasini Chekuri](https://www.linkedin.com/in/hasini-chekuri-20079428a/) | [Certificate Link](https://api.badgr.io/public/assertions/GMQswcZPRWWYjWrxKbyZbw?identity__email=hasinivarma743%40gmail.com)| Learnt a lot about APIs quickly ! |
 | 1261 | Shiba Sarkar | [Shiba Sarkar](https://www.linkedin.com/in/shiba-sarkar26/) | [Certificate Link](https://api.badgr.io/public/assertions/29dcmUz-R86N32aEZQMfKg?identity__email=shibasarkar1994%40gmail.com)| Very nice course easy to learn & understand |
 | 1262 | Rhea Boppana | [Rhea Boppana](https://www.linkedin.com/in/rhea-boppana-3990a5201/) | [Certificate Link](https://api.badgr.io/public/assertions/68uzabSmQw6J3UG7_ryEnw?identity__email=rhe5073%40gmail.com)| Course was pretty concise, providing all the information needed to master the basics. |
-
+| 1263 | Trumil Nasit | [Trumil Nasit](https://www.linkedin.com/in/trumil-nasit15/) | [Certificate Link](https://badgr.com/public/assertions/NLT09KrzSQmDEn5ZyDTdww?identity__email=nasittrumil@gmail.com)| Very Informative course try to add some more this type of courses |
