@@ -1333,3 +1333,4 @@
 | 1331 | Sezal Lagwal | [Sezal Lagwal](https://linkedin.com/in/sezallagwal) | [Certificate Link](https://api.badgr.io/public/assertions/tN_KcxVOSvOJCbX3OuELsA?identity__email=sezal1470%40gmail.com)| Nice Course! |
 | 1332 | Garv Nihore | [Garv Nihore](https://www.linkedin.com/in/garv-nihore-468a73271/) | [Certificate Link](https://badgr.com/public/assertions/n_aAoK3ARTOi0F9q2P-QOw?identity__email=garvnihore@gmail.com)| Great course , learned the basics of API's |
 | 1333 | Dipika Gautam | [ Dipika Gautam ](www.linkedin.com/in/dipika-gautam-11aa13306) | [Certificate Link](https://badgr.com/public/assertions/qgmckfwgQd6a86xsxvEmZQ?identity__email=dipikagautam001@gmail.com)| A good course about API for beginner! |
+| 1334 | Meghana Mahaveer | [Meghana mahaveer](https://www.linkedin.com/in/meghana-mahaveer-7abb1b287) | [Certificate Link](https://api.badgr.io/public/assertions/duQiEaVdTgyTCNpDM89uoQ)
