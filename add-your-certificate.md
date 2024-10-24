@@ -1259,4 +1259,4 @@
 | 1257 | Preeti Tamana | [Preeti Tamana](www.linkedin.com/in/preeti-tamana-20b6a225b) | [Certificate Link](https://api.badgr.io/public/assertions/WDcRxPqjQmqgHK-2KMMGrg?identity__email=preetitamana3275%40gmail.com)| Thank you for the great course |
 | 1258 | Bhargav Raj | [Bhargav Raj](www.linkedin.com/in/bhargav-raj-a86120289) | [Certificate Link](https://api.badgr.io/public/assertions/umC8mbF0Rja5Kc-yt-sBEA?identity__email=bhargavraj8651%40gmail.com)| Would love to cover more topics about it! |
 | 1259 | Samriddhi Tiwary | [Samriddhi Tiwary](https://www.linkedin.com/in/samriddhi-tiwary-02621a256/) | [Certificate Link]([https://api.badgr.io/public/assertions/Cs_3sDOHSRWmx1IJpGd4bQ?identity__email=gtbomble225%40gmail.com](https://api.badgr.io/public/assertions/h4UQ4-baQLmCxfK9KkL1dg?identity__email=samriddhi.tiwary01%40gmail.com))| Course Done |
-
+| 1260 | Hasini Chekuri | [Hasini Chekuri](https://www.linkedin.com/in/hasini-chekuri-20079428a/) | [Certificate Link](https://api.badgr.io/public/assertions/GMQswcZPRWWYjWrxKbyZbw?identity__email=hasinivarma743%40gmail.com)| Learnt a lot about APIs quickly ! |
