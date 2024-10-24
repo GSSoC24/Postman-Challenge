@@ -1285,3 +1285,4 @@
 | 1283 | Ananya | [Ananya](www.linkedin.com/in/ananya-p-pradeep) | [Certificate Link](https://api.badgr.io/public/assertions/-QelpT5ZRUOVaN-Jo1OdNw)| learnt a lot, thanks for this opportunity :)|
 | 1284 | Pratibha Balgi | [Pratibha Balgi](https://www.linkedin.com/in/pratibhabalgi2410/) | [Certificate Link](https://api.badgr.io/public/assertions/9znJvbo0R4aSkDMn-tFUCw?identity__email=pratibhabalgi02%40gmail.com)| This course was really informative. |
 | 1285 | Kusum Pareek | [Kusum Pareek](https://www.linkedin.com/in/kusum-p-a54759191/) | [Certificate Link](https://api.badgr.io/public/assertions/BXz7n_LIQaKB6_3uNB3sQw?identity__email=kusumpareek7620%40gmail.com)| Very informative and easy to understand |
+| 1286 | Amrutha Bysani | [Amrutha Bysani](https://www.linkedin.com/in/amrutha-bysani-99b0ba291/) | [Certificate Link](https://badgr.com/public/assertions/gugFYhZXRpyHEri7UuJytg?identity__email=112316013@ece.iiitp.ac.in)| very informative|
