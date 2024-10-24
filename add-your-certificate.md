@@ -1344,7 +1344,12 @@
 | 1342 | Abankita Behera | [Abankita Behera](https://www.linkedin.com/in/abankita-behera-210836227/) |  [Certificate Link](https://api.badgr.io/public/assertions/WJuA6girSBqE61Smc3Zv3A?identity__email=abankitabehera05%40gmail.com) | It was an insightful course! |
 | 1343 | Banasmita Jena | [Banasmita Jena](https://www.linkedin.com/in/banasmita-jena-z2405/) | [Certificate Link](https://api.badgr.io/public/assertions/vUZnbVbFRiumRWwHKTA-kQ?identity__email=banasmitajena2405%40gmail.com)| Got the basic understanding of APIs |
 
+
 | 1348 | MD REHAN| [MD REHAN](https://www.linkedin.com/in/mdrehan18/) | [Certificate Link](https://api.badgr.io/public/assertions/bpOwc73HTdSlAxpbSzTGSQ?identity__email=rehan.md0107%40gmail.com)| Got the basic understanding of APIs |
 =======
 | 1344 | Moeed Rafi | [Moeed Rafi](https://www.linkedin.com/in/moeed-rafi/) | [Certificate Link](https://badgr.com/public/assertions/lbGkYOOBTe69SbIbtHtIzA?identity__email=moeedrafi@gmail.com)| Great Course |
+
+=======
+| 1344 | Moeed Rafi | [Moeed Rafi](https://www.linkedin.com/in/moeed-rafi/) | [Certificate Link](https://badgr.com/public/assertions/lbGkYOOBTe69SbIbtHtIzA?identity__email=moeedrafi@gmail.com)| Great Course |
+| 1345 | Priyanshu Singh | [Priyanshu Singh](https://www.linkedin.com/in/priyanshu5ingh/) | [Certificate Link](https://api.badgr.io/public/assertions/oK8SO9wkRz2SypAgtjCowQ?identity__email=priyanshusinghrajput007%40gmail.com)| A very fun way of learning and great learning resources |
 
