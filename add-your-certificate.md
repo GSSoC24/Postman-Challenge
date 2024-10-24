@@ -1292,3 +1292,4 @@
 | 1290 | Chirag Khairnar | [Chirag Khairnar](https://www.linkedin.com/in/chiragkhairnar/) | [Certificate Link](https://api.badgr.io/public/assertions/AtkSBhXmSfyQS_WoEF72eQ?identity__email=ck7885%40srmist.edu.in)| It was Insightful Course |
 | 1291 | Mehul Prajapati | [Mehul P](https://linkedin.com/in/mehulmp) | [Certificate Link](https://badgr.com/public/assertions/zsEOjT7ORNmk6lDNTSvEYQ?identity__email=mehul.encs@gmail.com) | Awesome |
 | 1292 | Riddhi Mhadgut | [Riddhi Mhadgut](https://www.linkedin.com/in/riddhi-mhadgut-3b0a21289/) | [Certificate Link](https://api.badgr.io/public/assertions/cQ96Dhk9TCuvtuM7o55k7A?identity__email=riddhimhadgut17%40gmail.com)| Learned a lot & had a great experience. |
+| 1293 | Aditya Singh | [Aditya Singh](https://www.linkedin.com/in/adityasingh0109/) | [Certificate Link](https://api.badgr.io/public/assertions/clyeQHdPRGW7_iiVEPb01Q?identity__email=adityasinghrajawat2004%40gmail.com)| Learned a lot & had a great experience. |
