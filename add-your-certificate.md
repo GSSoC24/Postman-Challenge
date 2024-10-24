@@ -1268,3 +1268,4 @@
 | 1266 | Nirmat Singh | [Nirmat Singh](https://www.linkedin.com/in/nirmat-singh-6b5481253/) | [Certificate Link](https://api.badgr.io/public/assertions/MlQUwl_dRGmdpbOGeTVkSg?identity__email=nimratsingh5340%40gmail.com)| amazing course |
 | 1267 | Kudiguntolu Bhavani | [Kudiguntolu Bhavani](https://www.linkedin.com/in/bhavani-kudiguntolu-a7aa592a9) | [Certificate Link](https://api.badgr.io/public/assertions/FsU6Zn1iRmulZEE6E0BDcQ?identity__email=bhavaniir05%40gmail.com)| Informative and useful |
 | 1268 | Kritika Singh | [Kritika Singh](https://www.linkedin.com/in/kritika-singh-214602288/) | [Certificate Link](https://api.badgr.io/public/assertions/k8DcNy8aRyyaLqfRGquFdg)| This course was really good |
+| 1269 | Tanvi Settem | [Tanvi Settem](https://www.linkedin.com/in/tanvi-settem/) | [Certificate Link](https://badgr.com/public/assertions/dcpC6a7ZS-OOEV0v3KB_Hg)| Added my certificate and this course was really good |
