@@ -1350,3 +1350,4 @@
 | 1348 | Omm Devgoswami | [](https://www.linkedin.com/in/omm-devgoswami-86a561214/) | [Certificate Link](https://api.badgr.io/public/assertions/aezr92XURyGcSiCvogUxow?identity__email=teamuniverse.omm%40gmail.com)| Good API Course for beginners |
 | 1349 | Himangshu Sharma | [](https://www.linkedin.com/in/himangshu-sharma-a5a338291/) | [Certificate Link](https://badgr.com/public/assertions/UgpAm4JSTmuw99hBTYgL8Q?identity__email=sharmahimangshu17@gmail.com)| Perfect course |
 | 1350 | sumit kumar | [sumit kumar](https://www.linkedin.com/in/sumit-kumar9128/) | [Certificate Link](https://api.badgr.io/public/assertions/tefY7gZ5Q2Sc3wXxjzfSkg?identity__email=sumitkumar555520%40gmail.com) | good one |
+| 1351 | Shariq | [Shariq](https://www.linkedin.com/in/shariq-sd/)| [Certificate](https://api.badgr.io/public/assertions/n7V6k_xxQrqyYm9EL3gEjA)| Easy to Learn, Step by Step explanations.Overall Awesome.|
