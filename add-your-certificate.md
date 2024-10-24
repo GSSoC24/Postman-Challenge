@@ -1327,4 +1327,8 @@
 | 1325 | Tulasi prasad | [Tulasi prasad](www.linkedin.com/in/tulasi-prasad-077350284) | [Certificate Link](https://api.badgr.io/public/assertions/TW5HbMJvRdCSxCh4Ef2UZA?identity__email=tulasiprasad2526%40gmail.com) | good one |
 | 1326 | Krish Patel | [Krish Patel](www.linkedin.com/in/krish-patel-a11bb4277) | [Certificate Link](https://api.badgr.io/public/assertions/Ezr82GxZSFigOm-SZEg1rA?identity__email=pkrish149%40gmail.com)| Useful course |
 
+
 | 1327 | smog-root | [](https://linkedin.com/in/smogshashank) | [Certificate Link](https://badgr.com/public/assertions/IZ_QhcPPRhCGD2xENWt4iA?identity__email=machha.shashank@gmail.com)| A good course about API for beginner! |
+
+
+| 1330 | Dipika Gautam | [Krish Patel](www.linkedin.com/in/dipika-gautam-11aa13306) | [Certificate Link](https://badgr.com/public/assertions/qgmckfwgQd6a86xsxvEmZQ?identity__email=dipikagautam001@gmail.com)| Useful course |
