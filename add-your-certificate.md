@@ -1298,3 +1298,4 @@
 | 1296 | V Pratheek | [V Pratheek](https://www.linkedin.com/in/v-pratheek/) | [Certificate Link](https://api.badgr.io/public/assertions/4pxvSAQgTpujv8Xz1tBOiQ?identity__email=pratheekv39%40gmail.com)| Learnt a lot |
 | 1297 | Anirudra Bhattacharjee | [Anirudra Bhattacharjee](https://www.linkedin.com/in/anirudra-bhattacharjee-317403325/) | [Certificate Link](https://api.badgr.io/public/assertions/IM6f41yzSASf4FaxuwnVVA?identity__email=anirudrab81@gmail.com))| Overall it was a good course |
 | 1298 | Tina Borundia | [Tina Borundia](https://www.linkedin.com/in/tina-borundia-274673260/) | [Certificate Link](https://api.badgr.io/public/assertions/RqK9oVb2RgyOt4FeSu1VQg?identity__email=tinaborundia23%40gmail.com)| A very informative course that really sharpened my API knowledge. |
+| 1299 | smog-root | [](https://linkedin.com/in/smogshashank) | [Certificate Link](https://badgr.com/public/assertions/IZ_QhcPPRhCGD2xENWt4iA)| A good course about API for beginner! |
