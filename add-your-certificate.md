@@ -1310,4 +1310,5 @@
 | 1308 | Deepanjali | [Deepanjali Singh](www.linkedin.com/in/deepanjali-singh-475107313) | [Certificate Link](https://api.badgr.io/public/assertions/Ec__9uOqRC24bLZ-wlDSyQ?identity__email=singhdeepanjali393%40gmail.com)| got to know and about API but still but need more update on quize part  | 
 | 1309 | Prabhjot Singh | [Prabhjot singh](https://www.linkedin.com/in/prabhjotsingh84/) | [Certificate Link](https://api.badgr.io/public/assertions/9uMsLAMLQdm5ZghcSic5Fw?identity__email=honey200509052nd%40gmail.com)| Thanks ! for new experience |
 | 1310 | Milan P Samuel | [Milan P Samuel](https://www.linkedin.com/in/milan-p-samuel-b54290242/) | [Certificate Link](https://api.badgr.io/public/assertions/at6OLrR5RNKGwPBceFXcGA?identity__email=milansamuel609%40gmail.com)| It was an amazing and useful experience learning through and completing the API fundamentals by Postman |
-| 1311 | Tanusha Choudhary | [Tanusha Choudhary](https://www.linkedin.com/in/tanusha-choudhary-1811c/) | [Certificate Link](https://api.badgr.io/public/assertions/nywUIKxgSi6ySqEz7yhy0w?
+
+| 1312 | Tanusha Choudhary | [Tanusha Choudhary](https://www.linkedin.com/in/tanusha-choudhary-1811c/) | [Certificate Link](https://api.badgr.io/public/assertions/nywUIKxgSi6ySqEz7yhy0w?
