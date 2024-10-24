@@ -1328,3 +1328,4 @@
 | 1326 | Krish Patel | [Krish Patel](www.linkedin.com/in/krish-patel-a11bb4277) | [Certificate Link](https://api.badgr.io/public/assertions/Ezr82GxZSFigOm-SZEg1rA?identity__email=pkrish149%40gmail.com)| Useful course |
 
 | 1327 | smog-root | [](https://linkedin.com/in/smogshashank) | [Certificate Link](https://badgr.com/public/assertions/IZ_QhcPPRhCGD2xENWt4iA?identity__email=machha.shashank@gmail.com)| A good course about API for beginner! |
+| 1328 | Dipika Gautam | [ Dipika Gautam ](www.linkedin.com/in/dipika-gautam-11aa13306) | [Certificate Link](https://badgr.com/public/assertions/qgmckfwgQd6a86xsxvEmZQ?identity__email=dipikagautam001@gmail.com)| A good course about API for beginner! |
