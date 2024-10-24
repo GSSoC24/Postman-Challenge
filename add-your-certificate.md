@@ -1345,8 +1345,6 @@
 | 1343 | Banasmita Jena | [Banasmita Jena](https://www.linkedin.com/in/banasmita-jena-z2405/) | [Certificate Link](https://api.badgr.io/public/assertions/vUZnbVbFRiumRWwHKTA-kQ?identity__email=banasmitajena2405%40gmail.com)| Got the basic understanding of APIs |
 
 
-| 1347| MD REHAN| [MD REHAN](https://www.linkedin.com/in/mdrehan18/) | [Certificate Link](https://api.badgr.io/public/assertions/bpOwc73HTdSlAxpbSzTGSQ?identity__email=rehan.md0107%40gmail.com)| Got the basic understanding of APIs |
-=======
 | 1344 | Moeed Rafi | [Moeed Rafi](https://www.linkedin.com/in/moeed-rafi/) | [Certificate Link](https://badgr.com/public/assertions/lbGkYOOBTe69SbIbtHtIzA?identity__email=moeedrafi@gmail.com)| Great Course |
 
 =======
@@ -1357,3 +1355,7 @@
 =======
 | 1346 | Aahana Jena | [Aahana Jena](https://www.linkedin.com/in/aahanajena/) | [Certificate Link](https://api.badgr.io/public/assertions/X0ztxj9RTSGa7ebyjJ1atw?identity__email=aahanajena%40gmail.com)| Very nice course |
 
+=======
+| 1347 | Pragya Hurmade|[Pragya Hurmade](https://www.linkedin.com/in/pragya-hurmade-92b028255/) | [Certificate Link](https://badgr.com/public/assertions/Rg55T3GQSXqYipRKJnq16A?identity__email=pragyahurmade2226@gmail.com)| Enjoyed every part of the course!! |
+| 1348| MD REHAN| [MD REHAN](https://www.linkedin.com/in/mdrehan18/) | [Certificate Link](https://api.badgr.io/public/assertions/bpOwc73HTdSlAxpbSzTGSQ?identity__email=rehan.md0107%40gmail.com)| Got the basic understanding of APIs |
+=======
