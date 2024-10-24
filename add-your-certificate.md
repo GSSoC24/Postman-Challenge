@@ -1271,3 +1271,4 @@
 | 1269 | Vivek Prakash | vivekprakash.st@gmail.com |[Vivek Prakash](https://www.linkedin.com/in/vivek-prakash-b46830283/) | [Certificate Link](https://api.badgr.io/public/assertions/Ga00-9_hT6-InElWrSp5vw?identity__email=vivekprakash.st%40gmail.com)| Focus on erros also |
 | 1270 | Paramveer Singh | [Paramveer Singh](https://www.linkedin.com/in/paramveer-singh-2b619a296/) | [Certificate Link](https://api.badgr.io/public/assertions/GO0KTO55S0OuuAJzyaC8eA?identity__email=sparamveer1001%40gmail.com) | Great Course |
 | 1271 | Rachi Sahu | [Rachi Sahu](https://www.linkedin.com/in/rachit-sahu-004ba2255/) | [Certificate Link](https://badgr.com/public/assertions/opph-7u1RmOURcFrfM8lig)| I am very satisfied with this amazing course|
+| 1272 | Harshitha Grandhi | [Harshitha Grandhi](https://www.linkedin.com/in/harshitha-grandhi-0a0890308/) | [certificate Link](https://api.badgr.io/public/assertions/MkdtpIpiQhOh5oCZgXVeSg?) | I Loved It |
