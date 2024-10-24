@@ -1307,3 +1307,5 @@
 | 1305 | Harshitha Annam | [Harshitha Annam](https://www.linkedin.com/in/harshitha-annam-232a312a6) | [Certificate Link](https://api.badgr.io/public/assertions/I1Qx9D1fQ6KsxCZ0WyWb1Q?identity__email=harshithadeveloper20%40gmail.com)| Great Learning Experience. |
 | 1306 | Aman Gupta | [Aman Gupta](https://www.linkedin.com/in/-amangupta-/) | [Certificate Link](https://badgr.com/public/assertions/MoniO1YZRcKDRFFguVV9Mg?identity__email=amangupta08007@gmail.com)| The Postman API Fundamentals course provides a clear, concise introduction to API testing and automation, perfect for beginners to quickly grasp key concepts. |
 | 1307 | Jai Dhingra | [Jai Dhingra](www.linkedin.com/in/jai-dhingra-412419259) | [Certificate Link](https://api.badgr.io/public/assertions/jwOxGgp3T4WSdLgf3jXHUg?identity__email=jaidhingra402%40gmail.com)| Great course for beginners |
+| 1308 | Deepanjali | [Deepanjali Singh](www.linkedin.com/in/deepanjali-singh-475107313) | [Certificate Link](https://api.badgr.io/public/assertions/Ec__9uOqRC24bLZ-wlDSyQ?identity__email=singhdeepanjali393%40gmail.com)| got to know and about API but still but need more update on quize part  | 
+
