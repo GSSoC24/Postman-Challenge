@@ -1470,3 +1470,4 @@
 (https://api.badgr.io/public/assertions/FWfqB3-3RRmCDOlAVWeImA?identity__email=22wh1a12c5%40bvrithyderabad.edu.in) | Great program for beginners for learning APIs...|
 | 1468 | Himanshu Sheetlani| [Himanshu Sheetlani](https://www.linkedin.com/in/himanshu-sheetlani) | [Certificate Link](https://api.badgr.io/public/assertions/2Yx33bkJQUW48NRhgehZbg?identity__email=himanshu.sheetlani2909%40gmail.com)| great program to learn about APIs |
 | 1469 | Niraj Parmar | [Niraj Parmar](https://www.linkedin.com/in/niraj-parmar-531b5523a/) | [Certificate Link](https://api.badgr.io/public/assertions/WHhmbigsRbuIaxKxJ91yLw?identity__email=nirajprmr1608%40gmail.com)| A nice program for beginners learning APIs.. |
+| 1470 | Ajay Kumar Teli | [Ajay Teli](https://www.linkedin.com/in/ajay-kumar-teli/) | [Certificate Link](https://api.badgr.io/public/assertions/W-7IBZMDQ5WJ_GS4otoJiA?identity__email=ajaykumarteli472%40gmail.com)| A Great Program to learn from basic |
