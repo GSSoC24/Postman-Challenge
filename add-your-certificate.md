@@ -1474,3 +1474,4 @@
 | 1470 | Shreyas Paraj | [Shreyas Paraj](https://www.linkedin.com/in/shreyas-paraj-patil/) | [Certificate Link](https://api.badgr.io/public/assertions/iKYTAqRySYu-IzPZRHxsqQ?identity__email=shreyasparaj1%40gmail.com)| I got to learn a lot from this. |
 | 1471 | Neeru | [Neeru](www.linkedin.com/in/neerugangarh) | [Certificate Link](https://api.badgr.io/public/assertions/HIJFGWcRRx6yTLu8zAodWw?identity__email=neeru2741%40gmail.com)| Very Informative course ! |
 | 1472 | Kavin Thakur | [Kavin Thakur](https://www.linkedin.com/in/kavin070810/) | [Certificate Link](https://api.badgr.io/public/assertions/9_Hi1w7ETXOSDFx3iqAnOQ?identity__email=kavinthakur%40gmail.com)| Clearity In the Course. |
+| 1473 | Nihal Awasthi | [Nihal Awasthi]([www.linkedin.com/in/nihal-awasthi-16a644251)) | [Certificate Link](https://api.badgr.io/public/assertions/HB9D7wSuQjaazM1PhroGdQ?identity__email=nihalawasthi498%40gmail.com)| I got to learn a lot from this. |
