@@ -1390,7 +1390,7 @@
 | 1389 | Sonu Saha | [Sonu Saha](https://www.linkedin.com/in/sonusaha/)      |  [Certificate Link](https://api.badgr.io/public/assertions/jhnf10ENQFyS6PzWdu0QBQ?identity__email=sonusaha110%40gmail.com) | Very useful course |
 | 1390 | T Sai keerthana| [Sai keerthana Thimmappagari](https://www.linkedin.com/in/sai-keerthana-thimmapagari-900949270/) | [Certificate Link](https://api.badgr.io/public/assertions/aWbBJsU_STWPGGbKAmHexQ?identity__email=keerthisvc14%40gmail.com)| An informative One and learnt new stuff! |
 
-| 1399 | Dipjyoti Das | [Dipjyoti Das](https://www.linkedin.com/in/dipjyoti-das-32879728a/) | [Certificate Link](https://api.badgr.io/public/assertions/6lLNEDnHSMuBsttpfeo6Rg?identity__email=dipexplorerid23%40gmail.com) | Understand the basics |
+| 1405 | Dipjyoti Das | [Dipjyoti Das](https://www.linkedin.com/in/dipjyoti-das-32879728a/) | [Certificate Link](https://api.badgr.io/public/assertions/6lLNEDnHSMuBsttpfeo6Rg?identity__email=dipexplorerid23%40gmail.com) | Understand the basics |
 
 
 | 1391 | Vinay Anand Lodhi | [Vinay Anand Lodhi](https://www.linkedin.com/in/vinay-anand-lodhi-5694b1234/) | [Certificate Link](https://api.badgr.io/public/assertions/W3U1P-euTJSofV4eXWWjAQ?identity__email=vinayanandlodhi12%40gmail.com) | Awesome Course and Great Experience for a beginner! |
@@ -1399,4 +1399,13 @@
 | 1394 | Haseeb Zaki | [Haseeb Zaki](https://linkedin.com/in/haseebzaki) | [Certificate Link](https://api.badgr.io/public/assertions/mHUDrs3TSr-CfvWv5w-kfg?identity__email=haseebzaki2016%40gmail.com)| A good course about API! |
 | 1395 | Laxmi Santosh Ray| [Laxmi Santosh Ray] https://www.linkedin.com/in/laxmi-ray-198257237/  |  [Certificate Link] {https://api.badgr.io/public/assertions/8Ig_hsoJQAan-5BEPib-4g?identity__email=laxmiray013%40gmail.com} | Fundamental Course of APIs |
 | 1396 | Spandan Behera | [Spandan Behera] (https://www.linkedin.com/in/spandan-behera-3025772b7/)      |  [Certificate Link] {https://api.badgr.io/public/assertions/4rRXuCCvTjKDRsEAnoYDJQ?identity__email=spandanbehera003%40gmail.com} | Easy and Fundamental Course of APIs |
+
+
+
+| 1397 | Jeevan Bikash Sahoo | [Jeevan Bikash Sahoo] (https://www.linkedin.com/in/jeevan02/)     |  [Certificate Link] {https://badgr.com/public/assertions/5bZmfJGYSBuyXe3ygXVWFw?identity__email=aliesbrook3@gmail.com} | Amazing and Fundamental Course of APIs |
+| 1398 | Saraswati Chandra| [Saraswati Chandra](https://www.linkedin.com/in/saraswati-chandra069) | [Certificate Link](https://badgr.com/public/assertions/ALlkyynZSi2lyuYL0djS3g?identity__email=saketsingh102003@gmail.com)| Great resource to help me dive in and explore its features with ease! |
+| 1399 | Ankan Mukhopadhyay | [Ankan Mukhopadhyay](https://www.linkedin.com/in/ankan-mukhopadhyaypeartguy/) | [Certificate Link](https://badgr.com/public/assertions/CG8zIOy-T5S7wgyJtWCfFw?identity__email=ankanmukhopadhyay0512@gmail.com)| Very Useful |
+| 1400 | Ashwin Kushwaha | [Ashwin Kushwaha](https://www.linkedin.com/in/kushwxha/)  |  [Certificate Link](https://api.badgr.io/public/assertions/JoXWjNfdRae04gEnrtVRIw?identity__email=ak9550677%40gmail.com) | An excellent, hands-on course for mastering API development! |
+| 1401 | Leepakshi Bhatia | [Leepakshi Bhatia](https://www.linkedin.com/in/leepakshi-bhatia/) | [Certificate Link](https://badgr.com/public/assertions/sHbdUabFTpuvGuSWULjANg?identity__email=bhatialeepakshi@gmail.com)| Great course for beginners! |
+| 1402 | Pratik Patil | [Pratik Patil](https://www.linkedin.com/in/0xpratikpatil/) | [Certificate Link](https://api.badgr.io/public/assertions/evshjMp3TOOmvMoKVfP__A?identity__email=dev.pratikpatil%40proton.me)| Fab Work |
 
