@@ -1469,3 +1469,4 @@
 | 1467 | Jahnavika Gopal | [Jahnavika Gopal](https://www.linkedin.com/in/jahnavika-gopal-600576259/) |[Certificate Link]
 (https://api.badgr.io/public/assertions/FWfqB3-3RRmCDOlAVWeImA?identity__email=22wh1a12c5%40bvrithyderabad.edu.in) | Great program for beginners for learning APIs...|
 | 1468 | Himanshu Sheetlani| [Himanshu Sheetlani](https://www.linkedin.com/in/himanshu-sheetlani) | [Certificate Link](https://api.badgr.io/public/assertions/2Yx33bkJQUW48NRhgehZbg?identity__email=himanshu.sheetlani2909%40gmail.com)| great program to learn about APIs |
+| 1469 | Bhargavi Agarwal | [Bhargavi Agarwal](https://www.linkedin.com/in/bhargavi-agarwal-345675270/) | [Certificate Link](https://api.badgr.io/public/assertions/phEMMxigQ0-pJEuNV5lxCQ?identity__email=agarwalbhargavi07%40gmail.com)| great program to learn about APIs |
