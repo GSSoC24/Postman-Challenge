@@ -1354,10 +1354,6 @@
 | 1352 | MD REHAN | [MD REHAN](https://www.linkedin.com/in/mdrehan18/) | [Certificate Link](https://api.badgr.io/public/assertions/bpOwc73HTdSlAxpbSzTGSQ?identity__email=rehan.md0107%40gmail.com)| Got the basic understanding of APIs |
 | 1353 | Tushar Bansal | [Tushar Bansal](https://www.linkedin.com/in/tusharb331) | [Certificate Link](https://badgr.com/public/assertions/mMq_ulr7TwyAciH8Mqnvcw?identity__email=tusharb331@gmail.com) | Comprehensive content with in-depth explanations. A great learning experience! |
 | 1354 | Ankur Ram | [Ankur Ram](https://www.linkedin.com/in/ankurram/) | [Certificate Link](https://api.badgr.io/public/assertions/4l2uxaF5TrSgJlkI0yTS6w?identity__email=ankurram2002%40gmail.com)| A very good course for beginners |
-
-| 1355 | Asif Qamar | [AsifQamar](www.linkedin.com/in/asif-qamar-071709306)| [Certificate]([https://api.badgr.io/public/assertions/n7V6k_xxQrqyYm9EL3gEjA](https://badgr.com/public/assertions/5hgVkYpWT5yxp1Wb1Mzwig?identity__email=asifqamar1832004@gmail.com&action=download))|Awesome.|
-|1356 | vivek kumar ray | [vivek kumar ray](www.linkedin.com/in/vivek-kumar-ray-603323217) | [certificate Link](https://badgr.com/public/assertions/zM2Bb9U1Rwy9xwZBKl9bhg?identity__email=vivekroy2964@gmail.com)
-
 | 1355 | Asif Qamar | [AsifQamar](www.linkedin.com/in/asif-qamar-071709306)| [Certificate](https://badgr.com/public/assertions/5hgVkYpWT5yxp1Wb1Mzwig?identity__email=asifqamar1832004@gmail.com&action=download)|Awesome.|
 | 1356 | Dhruv Agrawal | [Dhruv Agrawal](https://www.linkedin.com/in/dhruv-agrawal-59ab4817b/) | [Certificate Link](https://api.badgr.io/public/assertions/Ce8Be3UcSESEexc3e6KMIg?identity__email=agarwaldhruv8057%40gmail.com)| Can increase difficulty and add more courses like these. |
 | 1357 | Priya Saxena|[Priy Saxena](https://www.linkedin.com/in/priya-saxena-0437b3256/) | [Certificate Link](https://badgr.com/backpack/badges/6718f297b5c04140e224e954)| great |
@@ -1371,4 +1367,6 @@
 | 1365 | Amrutha Bysani | [Amrutha Bysani](https://www.linkedin.com/in/amrutha-bysani-99b0ba291/) | [Certificate Link](https://badgr.com/public/assertions/gugFYhZXRpyHEri7UuJytg?identity__email=112316013@ece.iiitp.ac.in)| It was very informative |
 | 1367 | Ayush Jhawar | [Ayush Jhawar](https://www.linkedin.com/in/ayushjhawar8/) | [Certificate Link](https://badgr.com/public/assertions/cqI00i6pTvKF9Hi2CIfWaQ?identity__email=ayushjhawar499@gmail.com)| Amazing Learning Experience |
 | 1368 | Priyanshi Bhargava | [Priyanshi Bhargava](https://www.linkedin.com/in/priyanshi-bhargava1111-64b2b9262/) | [Certificate Link](https://api.badgr.io/public/assertions/A0__J_TnRvi7En8O6xi_8g?identity__email=priyanshi.bhargava2022%40glbajajgroup.org)| This course offered a great hands-on experience that enhanced my API testing and development skills|
-
+| 1369 | Shivansh mishra | [Shivansh Mishra] (https://www.linkedin.com/in/shivansh-mishra-46764522a/) | [Certificate and badge](https://badgr.com/backpack/badges/671ab498b5c04140e2256545) (https://badgr.com/print-certificate/671ab498b5c04140e2256545) | the course was very useful for me, i learnt about API.
+| 1370 | Settem Tanvi | [Settem Tanvi](www.linkedin.com/in/tanvi-settem) | [Certificate Link](https://api.badgr.io/public/assertions/dcpC6a7ZS-OOEV0v3KB_Hg?identity__email=settemtanvi03%40gmail.com)| helped me enhance my API skills and get hands-on practice with Postman’s tools |
+| 1371 | vivek kumar ray | [vivek kumar ray](www.linkedin.com/in/vivek-kumar-ray-603323217) | [certificate Link](https://badgr.com/public/assertions/zM2Bb9U1Rwy9xwZBKl9bhg?identity__email=vivekroy2964@gmail.com)
