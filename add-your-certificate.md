@@ -1369,5 +1369,11 @@
 | 1368 | Priyanshi Bhargava | [Priyanshi Bhargava](https://www.linkedin.com/in/priyanshi-bhargava1111-64b2b9262/) | [Certificate Link](https://api.badgr.io/public/assertions/A0__J_TnRvi7En8O6xi_8g?identity__email=priyanshi.bhargava2022%40glbajajgroup.org)| This course offered a great hands-on experience that enhanced my API testing and development skills|
 | 1369 | Shivansh mishra | [Shivansh Mishra] (https://www.linkedin.com/in/shivansh-mishra-46764522a/) | [Certificate and badge](https://badgr.com/backpack/badges/671ab498b5c04140e2256545) (https://badgr.com/print-certificate/671ab498b5c04140e2256545) | the course was very useful for me, i learnt about API.
 | 1370 | Settem Tanvi | [Settem Tanvi](www.linkedin.com/in/tanvi-settem) | [Certificate Link](https://api.badgr.io/public/assertions/dcpC6a7ZS-OOEV0v3KB_Hg?identity__email=settemtanvi03%40gmail.com)| helped me enhance my API skills and get hands-on practice with Postman’s tools |
-| 1371 | Suhaib Sareer| [Suhaib Sareer]([https://www.linkedin.com/in/pulkit-shubham/](https://www.linkedin.com/in/suhaib-sareer-b15564244/)) | [Certificate Link](https://api.badgr.io/public/assertions/_zz9haQ-SoG8bGSb9uOVBg?identity__email=suhaibsareer09%40gmail.com)|Amzinig|
+
+
+
+| 1371 | vivek kumar ray | [vivek kumar ray](www.linkedin.com/in/vivek-kumar-ray-603323217) | [certificate Link](https://badgr.com/public/assertions/zM2Bb9U1Rwy9xwZBKl9bhg?identity__email=vivekroy2964@gmail.com)
+
+| 1372 | Suhaib Sareer| [Suhaib Sareer]([https://www.linkedin.com/in/pulkit-shubham/](https://www.linkedin.com/in/suhaib-sareer-b15564244/)) | [Certificate Link](https://api.badgr.io/public/assertions/_zz9haQ-SoG8bGSb9uOVBg?identity__email=suhaibsareer09%40gmail.com)|Amzinig|
+
 
