@@ -1469,4 +1469,4 @@
 | 1467 | Jahnavika Gopal | [Jahnavika Gopal](https://www.linkedin.com/in/jahnavika-gopal-600576259/) |[Certificate Link]
 (https://api.badgr.io/public/assertions/FWfqB3-3RRmCDOlAVWeImA?identity__email=22wh1a12c5%40bvrithyderabad.edu.in) | Great program for beginners for learning APIs...|
 | 1468 | Harsh Bhardwaj | [Harsh Bhardwaj](https://www.linkedin.com/in/harsh-bhardwaj-28491a249/) |[Certificate Link]
-(https://badgr.com/backpack/badges/671bd89ab5c04140e2260e7e) | Great Learning for beginners..Special thanks to postman |
+(https://badgr.com/public/assertions/kENVXdq8TW2VNJkcGmysRQ?identity__email=harshbhar.0629@gmail.com) | Great Learning for beginners..Special thanks to postman |
