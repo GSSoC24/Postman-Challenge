@@ -1381,4 +1381,5 @@
 | 1380 | Anjali Vanguri| [Anjali Vanguri](https://www.linkedin.com/in/vanguri-anjali-15a959301/) | [Certificate Link](https://api.badgr.io/public/assertions/5NHdTWFXRZ2Cjl02m4sOWg__email=anjalivanguri0@gmail.com)| Knowledgeable |
 | 1381 | DINES S | [DINES S](www.linkedin.com/in/dines-s-d16102004) | [Certificate Link](https://api.badgr.io/public/assertions/YTZ5DkYiQCOTQkptSoUk9w?identity__email=dines.s16102004%40gmail.com)| The course the useful for me to learn the API knowledge |
 | 1382 | Abhinandan Kumar | [Abhinandan Kumar](https://www.linkedin.com/in/abhinandan-kumar-373b31136/) | [Certificate Link](https://api.badgr.io/public/assertions/yVrJtMzRTMiVH655OEE0bg?identity__email=abhinandankumar102001%40gmail.com)| Fun thing is course was very interactive :) |
-| 1383 | Sohini Ghosh | [Sohini Ghosh](https://www.linkedin.com/in/sohini-ghosh-588a78264/)      |  [Certificate Link] {https://api.badgr.io/public/assertions/RRQF0AjLTHet8Ou1PSCXzg?identity__email=sohini242004%40gmail.com} | Great course |
+| 1383 | Sohini Ghosh | [Sohini Ghosh](https://www.linkedin.com/in/sohini-ghosh-588a78264/)      |  [Certificate Link](https://api.badgr.io/public/assertions/RRQF0AjLTHet8Ou1PSCXzg?identity__email=sohini242004%40gmail.com) | Great course |
+
