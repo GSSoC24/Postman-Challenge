@@ -1333,9 +1333,7 @@
 | 1331 | Sezal Lagwal | [Sezal Lagwal](https://linkedin.com/in/sezallagwal) | [Certificate Link](https://api.badgr.io/public/assertions/tN_KcxVOSvOJCbX3OuELsA?identity__email=sezal1470%40gmail.com)| Nice Course! |
 | 1332 | Garv Nihore | [Garv Nihore](https://www.linkedin.com/in/garv-nihore-468a73271/) | [Certificate Link](https://badgr.com/public/assertions/n_aAoK3ARTOi0F9q2P-QOw?identity__email=garvnihore@gmail.com)| Great course , learned the basics of API's |
 | 1333 | Dipika Gautam | [ Dipika Gautam ](www.linkedin.com/in/dipika-gautam-11aa13306) | [Certificate Link](https://badgr.com/public/assertions/qgmckfwgQd6a86xsxvEmZQ?identity__email=dipikagautam001@gmail.com)| A good course about API for beginner! |
-
 | 1334 | Meghana Mahaveer | [Meghana mahaveer](https://www.linkedin.com/in/meghana-mahaveer-7abb1b287) | [Certificate Link](https://api.badgr.io/public/assertions/duQiEaVdTgyTCNpDM89uoQ)| i loved it
-
 | 1334 | Jay Shah | [Sezal Lagwal]([https://linkedin.com/in/sezallagwal](https://www.linkedin.com/in/jay-shah-8970b5284/)) | [Certificate Link](https://api.badgr.io/public/assertions/hEH8hvYoTjqloAZgpjUftQ?identity__email=jay.s7%40ahduni.edu.in)| Nice Course! |
 | 1335 | Prayag Thakur| [Prayag Thakur ](https://www.linkedin.com/in/prayag-thakur/)| [Certificate](https://api.badgr.io/public/assertions/nSzUcyjeQ0qhItI1J41dFA?identity__email=prayaganilthakur2022%40vitbhopal.ac.in) | Very useful course! Learned a lot from it. |
 | 1336 | Sneha Tiwari | [Sneha Tiwari](https://www.linkedin.com/in/iamsnehatiwari/) | [Certificate Link](https://api.badgr.io/public/assertions/LvpgVQJ7TFq37v-5IJeQwQ?identity__email=snehatiwari474%40gmail.com)| Enjoyed Alot, Userfull resource! |
