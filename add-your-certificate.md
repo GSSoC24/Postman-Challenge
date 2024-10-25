@@ -1389,4 +1389,4 @@
 | 1388 | Rajdeep Chakraborty | [Rajdeep Chakraborty](https://www.linkedin.com/in/rajdeepchakraborty69/) | [Certificate Link](https://api.badgr.io/public/assertions/YhIHtBqFTOSx1ZFiqPIrug?identity__email=rajdeepchka%40gmail.com)| The course was very beginner-friendly to learn the basics of API and their usage |
 | 1389 | Sonu Saha | [Sonu Saha](https://www.linkedin.com/in/sonusaha/)      |  [Certificate Link](https://api.badgr.io/public/assertions/jhnf10ENQFyS6PzWdu0QBQ?identity__email=sonusaha110%40gmail.com) | Very useful course |
 | 1390 | T Sai keerthana| [Sai keerthana Thimmappagari](https://www.linkedin.com/in/sai-keerthana-thimmapagari-900949270/) | [Certificate Link](https://api.badgr.io/public/assertions/aWbBJsU_STWPGGbKAmHexQ?identity__email=keerthisvc14%40gmail.com)| An informative One and learnt new stuff! |
-
+| 1391 | Subhajit Patra | [Subhajit Patra](https://www.linkedin.com/in/ꜱᴜʙʜᴀᴊɪᴛ-ᴘᴀᴛʀᴀ-4757a0293/) | [Certificate Link](https://api.badgr.io/public/assertions/NpE6l_9sTE-THiVaalqktQ?identity__email=subhajit2006patra@gmail.com)| Perfect course |
