@@ -1502,4 +1502,5 @@
 | 1489 | G.Madhusudan         | [G.Madhusudan](https://www.linkedin.com/in/madhusudan-g-909985298/) |[Certificate Link](https://api.badgr.io/public/assertions/g8fwJh_HT4-XLGpsgG6HRg?identity__email=madhu.g.sudan0%40gmail.com)     | Was very knowledgeable |
 | 1490 | Yashashree Panhale | [Yashashree Panhale](https://github.com/Yashu04) | [Certificate Link](https://badgr.com/public/assertions/tcXyPqHkT8KD2MHfY5nrzg?identity__email=amrutapanhale76@gmail.com&action=download)| Very Nice Program |
 | 1491 | Ajay Kumar Teli | [Ajay Teli](https://www.linkedin.com/in/ajay-kumar-teli/) | [Certificate Link](https://api.badgr.io/public/assertions/W-7IBZMDQ5WJ_GS4otoJiA?identity__email=ajaykumarteli472%40gmail.com)| A Great Program to learn from basic |
+| 1492 | Manish S M | [Manish S M](https://www.linkedin.com/in/sm-manish) | [Certificate Link](https://api.badgr.io/public/assertions/IAyOC858R2m7b_0blrE1Qw?identity__email=27.manishsmwork%40gmail.com)| Enhanced my API development skills through the Postman API Challenge,fun and new experience.|
 
