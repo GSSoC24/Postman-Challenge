@@ -1424,5 +1424,5 @@
 | 1423 | Sadath Hussain | [Sadath Hussain](https://www.linkedin.com/in/sadath-hussain-2ba128193/) | [Certificate Link](https://api.badgr.io/public/assertions/b7531OWLSmOUs0DEN_tDpA?identity__email=sadathh44%40gmail.com)| Never thought API testting would be this easy|
 | 1424 | Irtesaam Atfi | [Irtesaam Atfi](www.linkedin.com/in/irtesaam) | [Certificate Link](https://api.badgr.io/public/assertions/xKrPxo4ZRwyvjnxKUKEv4A?identity__email=atfimdirtesaam%40gmail.com)| difficulty can be increased a bit |
 | 1425 | Raj Gharat | [Raj Gharat](https://www.linkedin.com/in/raj-gharat-b5b891224/) | [Certificate Link](https://api.badgr.io/public/assertions/oWosyYU2Tye-hkykjToY4A?identity__email=gharatraj077%40gmail.com )| Amazing Learning Experience |
-| 1426 | Nayan Mahera| [Nayan K. Mahera](https://www.linkedin.com/in/nayan-mahera-1528612a6/) | [Certificate Link](https://badgr.com/public/assertions/WjYaB40lRre28FSCqbtMHA?identity__email=maheranayan18@gmail.com)| Great Cource Learn A lot ! |
-
+| 1426 | Prem Rathod | [Prem Rathod](https://www.linkedin.com/in/prem-arun-rathod/) | [Certificate Link](https://api.badgr.io/public/assertions/D7tq_6LwSFe6HGJpuPwpDA?identity__email=premarunrathod%40gmail.com) | It's an absolute good course 
+| 1427 | Nayan Mahera| [Nayan K. Mahera](https://www.linkedin.com/in/nayan-mahera-1528612a6/) | [Certificate Link](https://badgr.com/public/assertions/WjYaB40lRre28FSCqbtMHA?identity__email=maheranayan18@gmail.com)| Great Cource Learn A lot ! |
