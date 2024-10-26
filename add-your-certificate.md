@@ -1541,4 +1541,5 @@
 | 1539 | Shubham Sutar | [Shubham Sutar](https://www.linkedin.com/in/shubhamsutar/) | [Certificate Link](https://badgr.com/public/assertions/Yc3tYGCDRyCdM8AVaDzE5g)| I enjoyed the challenge. |
 | 1540 | Purnima Gupta | [Purnima Gupta](https://www.linkedin.com/in/purnima-gupta-04a9b3259/) | [Certificate Link](https://api.badgr.io/public/assertions/MIqBjgyNS0yezOEsZyjvoQ?identity__email=purnimaaguptaa04%40gmail.com) | Useful Course for learning API fundamentals through Postman. looking forward to much more! |
 | 1541 | Yashi Garg | [Yashi Garg](www.linkedin.com/in/yashi-garg-9845a4259) | [Certificate Link](https://api.badgr.io/public/assertions/SVnt9VpHRxijNJvLJzf8mw?identity__email=yashigarg016%40gmail.com)| Could have added some advanced features of Postman. Great course overall!|
+| 1542 | Aditya Bakski [Aditya Bakshi](https://www.linkedin.com/in/aditya-bakshi-11923dd/) | [Certificate Link](https://api.badgr.io/public/assertions/4eaEe5t2TfGAuOjvwHhetw?identity__email=adityabakshi1011%40gmail.com)| Wonderful experience learning about API's and the best part is that POSTMAN API focusses on practical knowledge rather than just theory.|
 
