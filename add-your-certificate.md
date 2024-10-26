@@ -1535,3 +1535,5 @@
 | 1533 | Rhiya Giridhara Bhat | [Rhiya Giridhara Bhat](https://www.linkedin.com/in/rhiyabhat/) | [Certificate Link](https://api.badgr.io/public/assertions/uWNePF8CRwSF22yIXb4xUA?identity__email=gbrhiya%40gmail.com)| This course was a good hands-on and beginner friendly experience..|
 | 1534 | Viswanadhapalli Bhanusri | [Viswanadhapalli Bhanusri](https://www.linkedin.com/in/bhanu-sri-8b0203258/) | [Certificate Link](https://api.badgr.io/public/assertions/i4NBHppKTrCTdixFPQFoCA?identity__email=viswanadhapallibhanusri%40gmail.com)| Clear and easy to understand and had hands-on experience about Postman API's. |
 | 1535 | Dakshata Mishra | [Dakshata Mishra](linkedin.com/in/daky2024) | [Certificate Link](https://api.badgr.io/public/assertions/7iYufki8QPCwFQPb7yArEA)| Got to know about API'S fundamental skills ! Great Oppurtunity . Special thanks to sanjay sir.|
+| 1536 | Saurabh Kumar Sahu | [Saurabh Sahu](https://www.linkedin.com/in/kaabilcoder/) | [Certificate Link](https://api.badgr.io/public/assertions/ZKZgTMVtSNusPfeSk2PcFw?identity__email=kaabilcoder@gmail.com)| It was a great experience learning about API's and Postman|
+
