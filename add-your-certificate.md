@@ -1587,4 +1587,6 @@
 | 1585 | Gargi Lodh | [Gargi Lodh](https://www.linkedin.com/in/gargi-lodh-538bb631b/) | [Certificate link](https://api.badgr.io/public/assertions/5Gh_OIccTTidFVBHCSyc5Q?identity__email=gargilodh18%40gmail.com) | Thank you Postman for this amazing course |
 | 1586 | Janvi Choudhary | [Janvi Choudhary]([https://www.linkedin.com/in/neyhere07/](https://www.linkedin.com/in/janvi-choudhary/)) | [Certificate link]([https://api.badgr.io/public/assertions/_l9RRxKySY6eJ_EFQkpcuA?identity__email=nyananayak27%40gmail.com](https://api.badgr.io/public/assertions/7fGaV7fxRR6LJLTb_C8ZEw?identity__email=janvichoudhary116%40gmail.com)) | Thank you Postman! Everything is amazing!! |
 | 1587 | Shashi Prabha | [Shashi Prabha](https://www.linkedin.com/in/shashi-prabha-711237241/) | [Certificate Link](https://badgr.com/public/assertions/R4qSWDptR2mWT5KgdJyU6g?identity__email=shashiprabha2737@gmail.com)| Such an amazing course, very helpful and full of learning |
+| 1588 | Amulya B| [Amulya B](https://www.linkedin.com/in/amulya-b-3537a125a/) | [Certificate Link](https://api.badgr.io/public/assertions/58a_qoAqRHOx0yWAdWdfYQ?identity__email=amulyaamulya87%40gmail.com)| Great Learning for beginners..Special thanks to postman |
+
 
