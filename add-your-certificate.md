@@ -1596,4 +1596,4 @@
 | 1594 | Amulya B| [Amulya B](https://www.linkedin.com/in/amulya-b-3537a125a/) | [Certificate Link](https://api.badgr.io/public/assertions/58a_qoAqRHOx0yWAdWdfYQ?identity__email=amulyaamulya87%40gmail.com)| Great Learning for beginners..Special thanks to postman |
 | 1595 | Jomon Joy | [Jomon Joy](https://www.linkedin.com/in/jomonh/) | [Certificate link](https://api.badgr.io/public/assertions/6_RHnQqSSNunigQaKeaxcw?identity__email=jomon.reachout%40gmail.com) | Amazing Course. |
 | 1596 | Saksham Kushwaha | [Saksham Kushwaha](https://www.linkedin.com/in/saksham-kushwaha-67758b295/) | [Certificate Link](https://api.badgr.io/public/assertions/2_RHNplsQIW7o3HfoTPPUg?identity__email=sakshamkushwaha12776%40gmail.com)| Beginner friendly course but can be harder |
-
+| 1597 | Paridhi Shrivastava | [Paridhi Shrivastava](https://www.linkedin.com/in/paridhi-shrivastava-5025392a8/) | [Certificate Link](https://api.badgr.io/public/assertions/2_RHNplsQIW7o3HfoTPPUg?identity__email=paridhishrivastava1407@gmail.com)| Awesome course, must recommended for all |
