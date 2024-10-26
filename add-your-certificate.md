@@ -1568,3 +1568,4 @@
 | 1566 |Aryan Gupta| [Aryan Gupta](https://www.linkedin.com/in/aryan-gupta-5171b828a/) |[Certificate Link](https://api.badgr.io/public/assertions/b_HDuriMRK2SYLjhokqToA?identity__email=aryang60923%40gmail.com) | Great Learning for beginners..Special thanks to postman |
 | 1567 | Akash Das | [Akash Das](https://www.linkedin.com/in/akash-das-real/) | [Certificate Link](https://api.badgr.io/public/assertions/0D4pSh6cQyyMHzTKav4vOw)|Very useful Course|
 | 1568 | Vahant Sharma | [Vahant Sharma](https://www.linkedin.com/in/vahant-sharma-645501287/) | [Certificate Link](https://badgr.com/public/assertions/WwUlr4NgTamIoZWbs4Qq1Q?identity__email=vahantofficials12315@gmail.com)|Well explained!|
+| 1569 | Rohit kumar | [Rohit Kumar](https://www.linkedin.com/in/rohitkumar7277/) | [Certificate Link](https://api.badgr.io/public/assertions/yU6xVuEsQB-5IM4sYS4mZA?identity__email=rk464152%40gmail.com)| Wonderfull course...thanks to postman
