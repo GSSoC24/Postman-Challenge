@@ -1573,4 +1573,5 @@
 Best Course out there for beginners , thanks learnt a lot |
 | 1571 | Aditya Pratap Singh | [Aditya Pratap Singh](https://www.linkedin.com/in/aditya-pratap-singh-952a8820a//) | [Certificate Link](https://api.badgr.io/public/assertions/hkbwrjlvSTeuzDe6ej7ZOg?identity__email=adityapratapsjnhh7654%40gmail.com)|Well explained!|
 | 1572 | Dipika Gautam | [Dipika Gautam](www.linkedin.com/in/dipika-gautam-11aa13306) | [Certificate Link](https://badgr.com/backpack/badges/671a66d7b5c04140e225549f__email=dipikagautam001@gmail.com)| Wonderfull course...thanks to postman
-| 1573 | Bogathi Sai Devi Sri | [Bogathi Sai Devi Sri](https://www.linkedin.com/in/bogathi-sai-devi-sri-283595293/) | [Certificate Link](https://badgr.com/public/assertions/ea9cdoezSCG90VWGmxRrTA?identity__email=23wh1a0513@bvrithyderabad.edu.in)| Wonderfull course...thanks to postman
+| 1573 | Riya Sharma | [Riya Sharma](www.linkedin.com/in/riya-sharma00) | [Certificate Link](https://badgr.com/public/assertions/h6gbBBWkTmaj3ljosmXRug?identity__email=riyaprol9@gmail.com)| The Postman challenge is a fantastic introduction to API testing and usage for beginners. It effectively balances simplicity with practical application, making it accessible and engaging.
+
