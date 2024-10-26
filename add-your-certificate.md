@@ -1571,3 +1571,4 @@
 | 1569 | Rohit kumar | [Rohit Kumar](https://www.linkedin.com/in/rohitkumar7277/) | [Certificate Link](https://api.badgr.io/public/assertions/yU6xVuEsQB-5IM4sYS4mZA?identity__email=rk464152%40gmail.com)| Wonderfull course...thanks to postman
 | 1570 | Aravindh R | [Aravindh R](https://www.linkedin.com/in/aravindh-rajendran/) | [Certificate Link](https://api.badgr.io/public/assertions/cyQFXTA7T92IHMcMaOi6kw?identity__email=9003557rre%40gmail.com)|
 Best Course out there for beginners , thanks learnt a lot |
+| 1571 | Aditya Pratap Singh | [Aditya Pratap Singh](https://www.linkedin.com/in/aditya-pratap-singh-952a8820a//) | [Certificate Link](https://api.badgr.io/public/assertions/hkbwrjlvSTeuzDe6ej7ZOg?identity__email=adityapratapsjnhh7654%40gmail.com)|Well explained!|
