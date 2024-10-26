@@ -1578,3 +1578,4 @@
 | 1576 | Manas Dubey| [Manas Dubey](https://www.linkedin.com/in/manas-dubey-415385296) | [Certificate Link](https://api.badgr.io/public/assertions/GmL7VmCuQNa1EuVmIrbbeg?identity__email=manasdubey2709%40gmail.com)| Wonderful course |
 | 1577 | Neyna Nayak | [Neyna Nayak](https://www.linkedin.com/in/neyhere07/) | [Certificate link](https://api.badgr.io/public/assertions/_l9RRxKySY6eJ_EFQkpcuA?identity__email=nyananayak27%40gmail.com) | Thank you Postman! Everything is amazing!! |
 | 1578 | Yash Patil | [Yash Patil](https://twitter.com/YashPatil_01)| [Certificate Link](https://api.badgr.io/public/assertions/yTPO9k9GRM6aLu8zinc8Og?identity__email=patilyasshh%40gmail.com) | na
+| 1579 | Prisha Sanyal Aich | [Prisha Sanyal Aich](https://www.linkedin.com/in/psanyalaich/) | [Certificate Link](https://api.badgr.io/public/assertions/zezZL28LQwW3eoOBW_OgKw__email=prisha.aich@gmail.com)| Learnt a lot!
