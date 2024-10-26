@@ -1525,3 +1525,7 @@
 | 1523 | Armaan Singh | [Armaan Singh](https://www.linkedin.com/in/iarmaanx/) | [Certificate Link](https://api.badgr.io/public/assertions/P0K7a9_jSxqaecilRKXHzg)| I loved working on Postman  |
 | 1524 | Pradyumna Sharma Kattel | [Pradyumna Sharma](https://www.linkedin.com/in/pradyumna14/) | [Certificate Link](https://api.badgr.io/public/assertions/WhoUB5AvTumpNnhgFoKo3g?identity__email=pradyumnakattel14%40gmail.com) | Useful Course for learning API fundamentals through Postman |
 | 1525 | Aditya Laxkar | [Aditya Laxkar](https://www.linkedin.com/in/aditya-laxkar-191a2328a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ) | [Certificate Link](https://api.badgr.io/public/assertions/Y3CHX5bUTHKNLiboaw1cIg?identity__email=laxkaraditya55%40gmail.com)| Wonderful experience learning about API's and the best part is that POSTMAN API focusses on practical knowledge rather than just theory.|
+| 1526 | Rhiya Giridhara Bhat | [Rhiya Giridhara Bhat](https://www.linkedin.com/in/rhiyabhat/) | [Certificate Link](https://api.badgr.io/public/assertions/uWNePF8CRwSF22yIXb4xUA?identity__email=gbrhiya%40gmail.com)| This course was a good hands-on and beginner friendly experience..|
+
+
+
