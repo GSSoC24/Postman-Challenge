@@ -1560,3 +1560,5 @@
 | 1558 | Shrutika Vetal | [Shrutika Vetal](https://www.linkedin.com/posts/shrutika-vetal-738492235_postman-apifundamentals-certification-activity-7170688221234888705-ox5u?utm_source=share&utm_medium=member_desktop) | [Certificate Link](https://api.badgr.io/public/assertions/70OJPmyXRgeWIpSamWYx4Q?identity__email=shrutika.vetal06%40gmail.com)|Good course for beginners |
 | 1559 | Karuturi Jyotsna Purnima | [Karuturi Jyotsna Purnima](https://www.linkedin.com/in/jyotsna-karuturi-237059257/) | [Certificate Link](https://api.badgr.io/public/assertions/XxE4LChuSG-PVvW4DHkK7Q?identity__email=jyotsnakaruturi%40gmail.com)|Very useful Course|
 | 1560 | Meenakshi Pramod | [Meenakshi Pramod](https://www.linkedin.com/in/meenakshi-pramod-8a9711299/) | [Certificate Link](https://badgr.com/public/assertions/toWXGIWqS12JUtl4DiaqpA?identity__email=meenakshipramod04@gmail.com)| Was a wonderful experience! Very simple and beginner friendly course. |
+| 1561 | Swati Sharma | [Swati Sharma](www.linkedin.com/in/dev-swati) | [Certificate Link](https://api.badgr.io/public/assertions/8meCqVWDQjGh2IttopYWgQ?identity__email=25sharmswati%40gmail.com)| Easy Peasy |
+
