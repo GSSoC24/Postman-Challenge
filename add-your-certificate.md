@@ -1563,3 +1563,4 @@
 | 1561 | Swati Sharma | [Swati Sharma](www.linkedin.com/in/dev-swati) | [Certificate Link](https://api.badgr.io/public/assertions/8meCqVWDQjGh2IttopYWgQ?identity__email=25sharmswati%40gmail.com)| Easy Peasy |
 | 1562 | Diksha Jain | [Diksha Jain](https://www.linkedin.com/in/the-dikshajain/) | [Certificate Link](https://badgr.com/public/assertions/YVec96qqQwWpAUODpAl5xQ)|Great Course|
 | 1563 | Mrunali Patil | [Mrunali Patil](www.linkedin.com/in/mrunali-patil-ba79b4303) | [Certificate Link](https://api.badgr.io/public/assertions/M4kxlp1LQlaHCnJNI5s-IQ?identity__email=mrunalip2505%40gmail.com)|Well explained!|
+| 1564 | Vahant Sharma | [Vahant Sharma](https://www.linkedin.com/in/vahant-sharma-645501287/) | [Certificate Link](https://badgr.com/public/assertions/WwUlr4NgTamIoZWbs4Qq1Q?identity__email=vahantofficials12315@gmail.com)|Well explained!|
