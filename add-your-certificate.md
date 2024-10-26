@@ -1582,4 +1582,6 @@
 | 1580 | Sonali S | [Sonali S](www.linkedin.com/in/sonali-s-740326254) | [Certificate Link](https://api.badgr.io/public/assertions/AgqqOSAjTgSlO46e5lenvQ?identity__email=21j48.sonali%40sjec.ac.in)| Well explained and beginner friendly course.
 | 1581 | Shiven Yadav S | [Shiven Yadav S](https://www.linkedin.com/in/shiven-yadav-s/) | [Certificate Link](https://api.badgr.io/public/assertions/ERHo46KeSJGSW_Zd_HcevA?identity__email=shivenyadavs%40gmail.com) | Amazing Course...thanks to postman |
 | 1582 | Aryan | [Aryan](www.linkedin.com/in/mittal-aryan) | [Certificate link](https://api.badgr.io/public/assertions/fPOBNH7nRSqCx3JmeXLO6Q?identity__email=mittalaryan1110%40gmail.com) | Very simple and beginner friendy course...Special thanks to Postman |
-| 1583 | Kashika Gupta | [Kashika Gupta](https://www.linkedin.com/in/kashikagupta/) | [Certificate link](https://badgr.com/public/assertions/H-_m8YEBQr6qjDPO_MH0sg?identity__email=gkashika26@gmail.com) | Had a great time with Postman!! |
+| 1583 | Rishita Mehta | [Rishita Mrhta ](https://www.linkedin.com/in/rishita-mehta-1154352b4/) | [Certificate link](https://api.badgr.io/public/assertions/lQ-lDMR1QsahZJ7o-UK01w?identity__email=rishitamehta298%40gmail.com) | Thank you Postman and Gssoc for giving this opportunnity to learn about APis |
+| 1584 | Kashika Gupta | [Kashika Gupta](https://www.linkedin.com/in/kashikagupta/) | [Certificate link](https://badgr.com/public/assertions/H-_m8YEBQr6qjDPO_MH0sg?identity__email=gkashika26@gmail.com) | Had a great time with Postman!! |
+
