@@ -1610,3 +1610,8 @@
 | 1608 | Pooja Bagodi | [Pooja Bagodi](linkedin.com/in/pooja-bagodi-468584257) | [Certificate Link](https://api.badgr.io/public/assertions/x_pLiE_eSiW3ukGeoItxEg?identity__email=poojabagodi23%40gmail.com) | Great course |
 | 1609 | Vishesh Tripathi | [Vishesh Tripathi](https://www.linkedin.com/in/vishesh-tripathi-5a79a6244/) | [Certificate Link](https://api.badgr.io/public/assertions/UbqJejnfRZKHTAalGNNz5g?identity__email=tripathiishu467%40gmail.com) | Great pathway to kickstart your API Journey |
 | 1610 | Maryam Zahra | [Maryam Zahra](https://www.linkedin.com/in/maryam-zahra-93b80b325/) | [Certificate Link](https://api.badgr.io/public/assertions/RdkzwyAaQySaozBO03Ip_A?identity__email=mrym.zhraa09%40gmail.com)| nice course for beginners |
+
+
+| 1611 | Sujal Patil | [Sujal Patil](https://twitter.com/SujalPatil) | [Certificate Link](https://api.badgr.io/public/assertions/VJKS6EXhRnSxHj4usxb9PA?identity__email=sujalpatil5150%40gmail.com) | nice course |
+
+
