@@ -1660,3 +1660,4 @@
 | 1658 | Lekkala Poojitha | [Lekkala Poojitha](https://www.linkedin.com/in/lekkala-poojitha-4a4613257/) | [Certificate Link](https://api.badgr.io/public/assertions/T00zwxDiS2iSfkz-f0wzjA) | Adding my comment: Really awesome! | 
 | 1659 | Abhi Gaba | [Abhi Gaba](www.linkedin.com/in/abhi-gaba-b89b11227) | [Certificate Link](https://api.badgr.io/public/assertions/9qhIMZ-YQXu2sm5v5xqT8A?identity__email=abhigaba300%40gmail.com) | Really awesome! | 
 | 1660 | Swati Mohapatra | [Swati Mohapatra](www.linkedin.com/in/swati-mohapatra-in) | [Certification Link](https://api.badgr.io/public/assertions/jiNHWAlJTWGakA0tdoXSuA?identity__email=swati1372004%40gmail.com) | Good for beginner level developers. |
+| 1661 | Amulya Jain | [Amulya Jain](https://www.linkedin.com/in/amulya-jain04/) | [Certificate Link](https://api.badgr.io/public/assertions/iE1ETQo5Rw2DLzzXiIuzCg?identity__email=jainamulyawin%40gmail.com) | Excellent course as a beginner! | 
