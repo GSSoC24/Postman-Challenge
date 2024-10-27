@@ -1604,4 +1604,8 @@
 | 1602 | Srushti S | [Srushti S](https://www.linkedin.com/in/srushti-s-130752281) | [Certificate Link](https://api.badgr.io/public/assertions/ckk3uzHXQRCcu2nIqYXCwg?identity__email=ssrushti1609%40gmail.com)| Great course |
 | 1603 | Venkata Sri Sai Ch | [Venkata Sri Sai Ch](https://www.linkedin.com/in/venkata-sri-sai-467614294/) | [Certificate Link](https://api.badgr.io/public/assertions/Y4kNTeq5R0e5KJNaSV9fLA?identity__email=venkatsrisai670%40gmail.com) | great course to brush up fundamentals|
 | 1604 | Ravindra Yadav | [Ravindra Yadav](www.linkedin.com/in/yadavravindra536) | [Certificate Link](https://api.badgr.io/public/assertions/jrn90AJTRW-JZ8CatUVIOw?identity__email=yadavra2005%40gmail.com) | Great pathway to kickstart your API Journey |
+
 | 1605 | Vishesh Tripathi | [Vishesh Tripathi](https://www.linkedin.com/in/vishesh-tripathi-5a79a6244/) | [Certificate Link](https://api.badgr.io/public/assertions/UbqJejnfRZKHTAalGNNz5g?identity__email=tripathiishu467%40gmail.com) | Great pathway to kickstart your API Journey |
+
+| 1605 | Laxmi Kandivalasa | [Laxmi Kandivalasa](www.linkedin.com/in/laxmikandivalasa) | [Certificate Link](https://api.badgr.io/public/assertions/SjPCVcJ3Rp2593rISFBn8w?identity__email=laxmikandivalasa47%40gmail.com)| Great! |
+
