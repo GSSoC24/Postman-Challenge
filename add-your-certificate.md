@@ -1624,3 +1624,4 @@
 | 1622 | Puneet Tiwari | [Puneet Tiwari](https://www.linkedin.com/in/puneet-tiwari-0075952a6/) | [Certificate Link](https://badgr.com/public/assertions/zlmzV7KzS6KCisXffDMseQ?identity__email=tiwaripuneet626@gmail.com)| Best Course!|
 | 1623 | Shivam Yadav |[Shivam Yadav](https://www.linkedin.com/in/shivam-yadav-2250122a5/) | [Certificate Link](https://api.badgr.io/public/assertions/ZAD0NDkfRUmBH134J3uSFw?identity__email=shivamyadav201204%40gmail.com)| Awesome course for beginners |
 | 1624 | Sujal Patil | [Sujal Patil](https://twitter.com/SujalPatil) | [Certificate Link](https://api.badgr.io/public/assertions/VJKS6EXhRnSxHj4usxb9PA?identity__email=sujalpatil5150%40gmail.com) | nice course |
+| 1625 | Gursal Prathamesh | [Prathamesh_G24](https://twitter.com/Prathamesh_G24) | [Certificate Link]( https://api.badgr.io/public/assertions/Pw4COIhcRyyiuNjgFgciWg?identity__email=prathmeshgursal3110%40gmail.com) | Good course |
