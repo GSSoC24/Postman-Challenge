@@ -1603,3 +1603,4 @@
 | 1601 | Md Sadique | [ Md Sadique ](https://www.linkedin.com/in/mdsadique5) | [Certificate Link](https://api.badgr.io/public/assertions/RiHW2y-9SU-hIKesDULZmg?identity__email=mds044234%40gmail.com)| nice course |
 | 1602 | Srushti S | [Srushti S](https://www.linkedin.com/in/srushti-s-130752281) | [Certificate Link](https://api.badgr.io/public/assertions/ckk3uzHXQRCcu2nIqYXCwg?identity__email=ssrushti1609%40gmail.com)| Great course |
 | 1603 | Venkata Sri Sai Ch | [Venkata Sri Sai Ch](https://www.linkedin.com/in/venkata-sri-sai-467614294/) | [Certificate Link](https://api.badgr.io/public/assertions/Y4kNTeq5R0e5KJNaSV9fLA?identity__email=venkatsrisai670%40gmail.com) | great course to brush up fundamentals|
+| 1604 | Ravindra Yadav | [Ravindra Yadav](www.linkedin.com/in/yadavravindra536) | [Certificate Link](https://api.badgr.io/public/assertions/jrn90AJTRW-JZ8CatUVIOw?identity__email=yadavra2005%40gmail.com) | Great pathway to kickstart your API Journey |
