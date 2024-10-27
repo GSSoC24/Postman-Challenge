@@ -1601,3 +1601,4 @@
 | 1599 | simran singh | [simran singh ](https://www.linkedin.com/in/simran-singh-b7b67825a/) | [Certificate Link](https://api.badgr.io/public/assertions/1SeZmQ4yQ-yU-b_IJJANiQ?identity__email=singh9594shibu%40gmail.com)| nice course |
 | 1600 | Abrer Asif Barlaskar | [Abrer Asif Barlaskar](https://www.linkedin.com/in/abrer-asif-barlaskar-a86528243/) | [Certificate Link](https://api.badgr.io/public/assertions/JCaSmHKCT76kZEjmsIlqGQ?identity__email=lp5267816%40gmail.com)| An enlightining and fun course to learn |
 | 1601 | Md Sadique | [ Md Sadique ](https://www.linkedin.com/in/mdsadique5) | [Certificate Link](https://api.badgr.io/public/assertions/RiHW2y-9SU-hIKesDULZmg?identity__email=mds044234%40gmail.com)| nice course |
+| 1602 | Srushti S | [Srushti S](https://www.linkedin.com/in/srushti-s-130752281) | [Certificate Link](https://api.badgr.io/public/assertions/ckk3uzHXQRCcu2nIqYXCwg?identity__email=ssrushti1609%40gmail.com)| Great course |
