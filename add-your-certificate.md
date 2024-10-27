@@ -1625,3 +1625,4 @@
 | 1623 | Shivam Yadav |[Shivam Yadav](https://www.linkedin.com/in/shivam-yadav-2250122a5/) | [Certificate Link](https://api.badgr.io/public/assertions/ZAD0NDkfRUmBH134J3uSFw?identity__email=shivamyadav201204%40gmail.com)| Awesome course for beginners |
 | 1624 | Sujal Patil | [Sujal Patil](https://twitter.com/SujalPatil) | [Certificate Link](https://api.badgr.io/public/assertions/VJKS6EXhRnSxHj4usxb9PA?identity__email=sujalpatil5150%40gmail.com) | nice course |
 | 1625 | Anitha Bukkala | [Anitha Bukkala](https://www.linkedin.com/in/anitha-bukkala-823395259/) | [Certificate Link](https://api.badgr.io/public/assertions/lmkTEFLfR2Kzb3nsUOBnbw?identity__email=22wh1a1298%40bvrithyderabad.edu.in) | Great course | 
+| 1626 | Ashis Kumar Maity | [Ashis Kumar Maity](https://www.linkedin.com/in/ashis-kumar-maity/) | [Certificate Link](https://api.badgr.io/public/assertions/isjXC1CYQh-B8uYyqSjkeA?identity__email=maity.ashis651%40gmail.com) | Informative | 
