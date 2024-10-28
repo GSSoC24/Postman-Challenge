@@ -1681,3 +1681,4 @@
 | 1679 | Prachi Singh | [Prachi Singh](https://www.linkedin.com/in/prachisinghparihar/) | [Certificate Link](https://badgr.com/backpack/badges/67194069b5c04140e2250266)| Very informative and thrilling learning experience of APIs...|
 | 1680 | soham thorve | [soham thorve](www.linkedin.com/in/soham-thorve-b1a75b1b4) | [Certificate Link](https://api.badgr.io/public/assertions/NUSdSpXURHmzgobTw_Gt0Q?identity__email=sohamthorve2811%40gmail.com)| good curated course for API |
 | 1681 | PRAKHAR MADHARIA | [PRAKHAR MADHARIA](https://www.linkedin.com/in/prakhar-madharia-864969215/) | [Certificate Link](https://api.badgr.io/public/assertions/MHni10kfQxuWC-obE5ksxA?identity__email=prakhar1304%40gmail.com)|ENJOYED LEARNING |
+| 1682 | Utkarsha Baraskar | [Utkarsha Baraskar](https://x.com/utkarsha156) | [Certificate Link](https://api.badgr.io/public/assertions/lXLi-Z9aT--CMtRimztuHg?identity__email=utkarsha1564%40gmail.com)| Well structured course |
