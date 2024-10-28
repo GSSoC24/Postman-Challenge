@@ -1688,3 +1688,4 @@
 | 1686 | Varunshiyam | [varunshiyam](https://www.linkedin.com/in/varunshiyam/) | [Certificate Link](https://api.badgr.io/public/assertions/Gd-2yTNDT4mH48HJY_V6jA?identity__email=varunshiyam.analyst%40gmail.com)| Perfect Course for Beginners |
 | 1687 | Sameer Prajapati | [Sameer Prajapati](https://www.linkedin.com/in/sameer-prajapati-vit/) | [Certificate Link](https://api.badgr.io/public/assertions/Bwc5_uoTTHWiHcsU3F0P4A?identity__email=sameerprajapati066%40gmail.com)| Amazing course by Postman|
 | 1688 |  Harshita Joshi | [Harshita Joshi](https://www.linkedin.com/in/techieharshita) | [Certificate Link](https://badgr.com/print-certificate/6657fae89121fb37e309dfd1)| Amazing course by Postman|
+| 1689 |  Anirudh P S | [Anirudh P S](https://www.linkedin.com/in/anirudh248/) | [Certificate Link](https://api.badgr.io/public/assertions/NHfYlPjtTr-sLkGT-cc9NA?identity__email=anirudhphaniraj%40gmail.com)| Amazing course by Postman|
