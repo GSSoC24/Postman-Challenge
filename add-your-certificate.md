@@ -1664,3 +1664,5 @@
 | 1662 | Neelanshu | [Neelanshu](www.linkedin.com/in/neelanshu-karn-05146130a) | [Certificate Link](https://api.badgr.io/public/assertions/DG_WmCMKQtak-Cw-f9Qk7g?identity__email=karnneelanshu%40gmail.com) | It was a great course and I have learned a lot from this | 
 | 1663 | Gadamsetty Durganjali | [Durganjali Gadamsetty](http://www.linkedin.com/in/durganjali-gadamsetty-972627289/) | [Certificate Link](https://api.badgr.io/public/assertions/ozhRc_lGQSewJL869QQn6Q?identity__email=durganjali2004%40gmail.com) | Thank you GSSOC for this learning oppurtunity | 
 | 1664 | Karthikeyan Venkatesan | [Karthikeyan Venkatesan](https://www.linkedin.com/in/karthikeyan-venkatesan-4a6a31275/) | [Certificate Link](https://badgr.com/public/assertions/ftHxKVTOSeuzVYr3u6QDhg?identity__email=karthi2k415v@gmail.com) | Could have more tasks and could have also included some advanced practices |
+| 1665 | Himanshu Malik | [Himanshu Malik](https://www.linkedin.com/in/himanshum685/) | [Certificate Link](https://api.badgr.io/public/assertions/KbSvXqF2RPuPo8di7mV9wA?identity__email=himanshumalik0069%40gmail.com) | Excellent course as a beginner! | 
+
