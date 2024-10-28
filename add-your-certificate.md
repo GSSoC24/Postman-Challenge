@@ -1562,4 +1562,4 @@
 | 1560 | Meenakshi Pramod | [Meenakshi Pramod](https://www.linkedin.com/in/meenakshi-pramod-8a9711299/) | [Certificate Link](https://badgr.com/public/assertions/toWXGIWqS12JUtl4DiaqpA?identity__email=meenakshipramod04@gmail.com)| Was a wonderful experience! Very simple and beginner friendly course. |
 | 1561 | Swati Sharma | [Swati Sharma](www.linkedin.com/in/dev-swati) | [Certificate Link](https://api.badgr.io/public/assertions/8meCqVWDQjGh2IttopYWgQ?identity__email=25sharmswati%40gmail.com)| Easy Peasy |
 | 1562 | Diksha Jain | [Diksha Jain](https://www.linkedin.com/in/the-dikshajain/) | [Certificate Link](https://badgr.com/public/assertions/YVec96qqQwWpAUODpAl5xQ)|Great Course|
-| 1563 | Kashish Juneja | [Kashish Juneja](www.linkedin.com/in/kashish-juneja-756673209) | [Certificate Link](https://api.badgr.io/public/assertions/FZ8BEexBQ52Zgi68YYoMHA?identity__email=kashishjuneja1010%40gmail.com)|Easy to learn|
+| 1563 | Kashish Juneja | [Kashish Juneja](https://www.linkedin.com/in/kashish-juneja-756673209) | [Certificate Link](https://api.badgr.io/public/assertions/FZ8BEexBQ52Zgi68YYoMHA?identity__email=kashishjuneja1010%40gmail.com)|Easy to learn|
