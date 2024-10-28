@@ -1680,3 +1680,4 @@
 | 1678 | Tatheer Fathima | [Tatheer Fathima](https://www.linkedin.com/in/tatheer-fathima-5ba16b275) | [Certificate Link](https://badgr.com/public/assertions/cd2TLjMTR6GQlVJeNzWy_w?identity__email=tatheerfathima2004@gmail.com) | Great Course! | 
 | 1679 | Prachi Singh | [Prachi Singh](https://www.linkedin.com/in/prachisinghparihar/) | [Certificate Link](https://badgr.com/backpack/badges/67194069b5c04140e2250266)| Very informative and thrilling learning experience of APIs...|
 | 1680 | soham thorve | [soham thorve](www.linkedin.com/in/soham-thorve-b1a75b1b4) | [Certificate Link](https://api.badgr.io/public/assertions/NUSdSpXURHmzgobTw_Gt0Q?identity__email=sohamthorve2811%40gmail.com)| good curated course for API |
+| 1681 | PRAKHAR MADHARIA | [PRAKHAR MADHARIA](https://www.linkedin.com/in/prakhar-madharia-864969215/) | [Certificate Link](https://api.badgr.io/public/assertions/MHni10kfQxuWC-obE5ksxA?identity__email=prakhar1304%40gmail.com)|ENJOYED LEARNING |
