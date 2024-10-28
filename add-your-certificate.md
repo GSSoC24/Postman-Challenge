@@ -1666,4 +1666,4 @@
 | 1664 | Karthikeyan Venkatesan | [Karthikeyan Venkatesan](https://www.linkedin.com/in/karthikeyan-venkatesan-4a6a31275/) | [Certificate Link](https://badgr.com/public/assertions/ftHxKVTOSeuzVYr3u6QDhg?identity__email=karthi2k415v@gmail.com) | Could have more tasks and could have also included some advanced practices |
 | 1665 | Himanshu Malik | [Himanshu Malik](https://www.linkedin.com/in/himanshum685/) | [Certificate Link](https://api.badgr.io/public/assertions/KbSvXqF2RPuPo8di7mV9wA?identity__email=himanshumalik0069%40gmail.com) | Excellent course as a beginner! | 
 | 1666 | Aman Maurya | [Aman Maurya](https://www.linkedin.com/in/aman-maurya-35b5792a5/) | [Certificate Link](https://api.badgr.io/public/assertions/q-gjYgl0QXuco-rY0ll3-Q?identity__email=aman12maurya999%40gmail.com)| A good course about API!.. |
-
+| 1667 | Harsh Bhardwaj | [Harsh Bhardwaj](https://www.linkedin.com/in/harshbhardwaj000/) | [Certificate Link](https://api.badgr.io/public/assertions/stCY-UVZTAKkwT5_anBIuQ?identity__email=harsh639bhardwaj%40gmail.com)| A good course about API!.. |
