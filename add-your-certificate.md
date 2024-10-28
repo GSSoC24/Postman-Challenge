@@ -1662,7 +1662,12 @@
 | 1660 | Swati Mohapatra | [Swati Mohapatra](www.linkedin.com/in/swati-mohapatra-in) | [Certification Link](https://api.badgr.io/public/assertions/jiNHWAlJTWGakA0tdoXSuA?identity__email=swati1372004%40gmail.com) | Good for beginner level developers. |
 | 1661 | Amulya Jain | [Amulya Jain](https://www.linkedin.com/in/amulya-jain04/) | [Certificate Link](https://api.badgr.io/public/assertions/iE1ETQo5Rw2DLzzXiIuzCg?identity__email=jainamulyawin%40gmail.com) | Excellent course as a beginner! | 
 
+
 | 1662 | Tatheer Fathima | [Tatheer Fathima](https://www.linkedin.com/in/tatheer-fathima-5ba16b275) | [Certificate Link](https://badgr.com/public/assertions/cd2TLjMTR6GQlVJeNzWy_w?identity__email=tatheerfathima2004@gmail.com) | Great Course! | 
 
 | 1663 | Neelanshu | [Neelanshu](www.linkedin.com/in/neelanshu-karn-05146130a) | [Certificate Link](https://api.badgr.io/public/assertions/DG_WmCMKQtak-Cw-f9Qk7g?identity__email=karnneelanshu%40gmail.com) | It was a great course and I have learned a lot from this | 
+
+| 1662 | Neelanshu | [Neelanshu](www.linkedin.com/in/neelanshu-karn-05146130a) | [Certificate Link](https://api.badgr.io/public/assertions/DG_WmCMKQtak-Cw-f9Qk7g?identity__email=karnneelanshu%40gmail.com) | It was a great course and I have learned a lot from this | 
+| 1663 | Gadamsetty Durganjali | [Durganjali Gadamsetty](http://www.linkedin.com/in/durganjali-gadamsetty-972627289/) | [Certificate Link](https://api.badgr.io/public/assertions/ozhRc_lGQSewJL869QQn6Q?identity__email=durganjali2004%40gmail.com) | Thank you GSSOC for this learning oppurtunity | 
+
 
