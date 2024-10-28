@@ -1668,4 +1668,4 @@
 | 1666 | Aman Maurya | [Aman Maurya](https://www.linkedin.com/in/aman-maurya-35b5792a5/) | [Certificate Link](https://api.badgr.io/public/assertions/q-gjYgl0QXuco-rY0ll3-Q?identity__email=aman12maurya999%40gmail.com)| A good course about API!.. |
 | 1667 | Kashish Juneja | [Kashish Juneja](https://www.linkedin.com/in/kashish-juneja-756673209) | [Certificate Link](https://api.badgr.io/public/assertions/FZ8BEexBQ52Zgi68YYoMHA?identity__email=kashishjuneja1010%40gmail.com) | Easy to learn |
 | 1668 | Shad Khan | [Shad Khan](https://www.linkedin.com/in/shad-khan00) | [Certification Link](https://api.badgr.io/public/assertions/uNQCsbrUQd-Ur8TodfOdew?identity__email=shadkhanxox%40gmail.com) | Amazing course for mastering APIs. |
-
+| 1669 | Guru Ashish | [Guru Ashish](https://www.linkedin.com/in/guru-ashish-patnaik-b689b6325/) | [Certificate Link](https://badgr.com/public/assertions/o-acjuKOTvqsj_5dtIwC9Q?identity__email=guru06ashish@gmail.com) | Amazing! | 
