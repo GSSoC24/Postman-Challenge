@@ -1677,4 +1677,4 @@
 | 1675 | Harsh Bhardwaj | [Harsh Bhardwaj](https://www.linkedin.com/in/harshbhardwaj000/) | [Certificate Link](https://api.badgr.io/public/assertions/stCY-UVZTAKkwT5_anBIuQ?identity__email=harsh639bhardwaj%40gmail.com)| A good course about API!.. |
 | 1676 | Harsh Gupta | [Harsh Gupta](https://www.linkedin.com/in/harsh-gupta-890314299/) | [Certificate Link](https://api.badgr.io/public/assertions/eP_M5liZTBSMlsHBxp8NUw?identity__email=harsh2125gupta%40gmail.com)| Easy to understand about APIs.. |
 | 1677 | Akansha Gupta | [Akansha Gupta](https://www.linkedin.com/in/akansha-gupta-2998aa283/) | [Certificate Link](https://api.badgr.io/public/assertions/sbwQBUh1QQ-Q92Yhnph_zQ?identity__email=akanshaa649%40gmail.com)| Excellent course to learn about API's.. |
-
+| 1678 | soham thorve | [soham thorve](www.linkedin.com/in/soham-thorve-b1a75b1b4) | [Certificate Link](https://api.badgr.io/public/assertions/NUSdSpXURHmzgobTw_Gt0Q?identity__email=sohamthorve2811%40gmail.com)| good curated course for API |
