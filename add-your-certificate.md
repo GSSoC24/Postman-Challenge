@@ -1778,3 +1778,4 @@
 | 1775 | Vinik Dhariwal | [Vinik Dhariwal](www.linkedin.com/in/vinikdhariwal) | [Certificate Link](https://badgr.com/public/assertions/AA-2B5m3S8avVPAzjBMrYw?identity__email=23adv3cst0149@sageuniversity.in)| [Getting to know about postmant.] |
 | 1776 | Pranaw Kumar | [Pranaw Kumar](www.linkedin.com/in/pranawk3) | [Certificate Link](https://badgr.com/public/assertions/KGxSzD3gRdWMSwwCcQFwyA?identity__email=pranaw.23bce10042@vitbhopal.ac.in)| [Well framed course, provides a good introduction .] |
 | 1777 | Shreya Dubey | [Shreya Dubey](https://www.linkedin.com/in/shreya-dubey-544874289/) | [Certificate Link](https://api.badgr.io/public/assertions/hsrXQLBVT-OvyLjRoWckQg)| [My certificate] |
+| 1778 | Richa Jaiswal | [Richa Jaishwal](https://www.linkedin.com/in/richa-jaishwal/) | [Certificate Link](https://api.badgr.io/public/assertions/7KLMN8zUQMG_6kEnNAmB-A?identity__email=richajaiswalhome%40gmail.com)| [Getting to know about postmant.] |
