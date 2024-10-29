@@ -1782,4 +1782,4 @@
 | 1776 | Pranaw Kumar | [Pranaw Kumar](www.linkedin.com/in/pranawk3) | [Certificate Link](https://badgr.com/public/assertions/KGxSzD3gRdWMSwwCcQFwyA?identity__email=pranaw.23bce10042@vitbhopal.ac.in)| [Well framed course, provides a good introduction .] |
 | 1777 | Shreya Dubey | [Shreya Dubey](https://www.linkedin.com/in/shreya-dubey-544874289/) | [Certificate Link](https://api.badgr.io/public/assertions/hsrXQLBVT-OvyLjRoWckQg)| [My certificate] |
 | 1778 | Richa Jaiswal | [Richa Jaishwal](https://www.linkedin.com/in/richa-jaishwal/) | [Certificate Link](https://api.badgr.io/public/assertions/7KLMN8zUQMG_6kEnNAmB-A?identity__email=richajaiswalhome%40gmail.com)| [Getting to know about postmant.] |
-
+| 1779 | Dinesh Kumar | [Dinesh Kumar](https://www.linkedin.com/in/dinesh-kumar-06ab741ba/) | [Certificate Link](https://api.badgr.io/public/assertions/wf0_8edYRHuZ8D4oVnE52A?identity__email=www.dineshk40%40gmail.com)| [Easy to learn, Getting to learn a lot of new things.] |
