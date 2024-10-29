@@ -1766,3 +1766,4 @@
 | 1763 | Vansh Chaurasiya | [Vansh Chaurasiya](https://linkedin.com/in/vanshchaurasiya24/) | [Certificate Link](https://api.badgr.io/public/assertions/aQm-LaQcQ4-bVGcQRjhVjw?identity__email=vanshchaurasiya2417%40gmail.com) | Very helpful and easy to learn course |
 | 1764 | Arsh Bakshi | [Arsh Bakshi](www.linkedin.com/in/arsh-bakshi-2b50a0324) | [Certificate Link](https://api.badgr.io/public/assertions/YV0PB80WQ6Wi5EqY3waZDw?identity__email=arsh.cp10%40gmail.com)| [Easy to learn, Great first hand experience.] |
 
+| 176r | Rana Pratap Singh Patel | [Rana Pratap Singh Patel](https://www.linkedin.com/in/ranapratapsinghpatel/) | [Certificate Link](https://api.badgr.io/public/assertions/SjaODedCR7KXoBdcqxvhvQ?identity__email=ranapsp317%40gmail.com)| [Thanks for this challange , it helped me to express myself even better .] |
