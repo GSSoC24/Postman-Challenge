@@ -1597,9 +1597,6 @@
 | 1595 | Jomon Joy | [Jomon Joy](https://www.linkedin.com/in/jomonh/) | [Certificate link](https://api.badgr.io/public/assertions/6_RHnQqSSNunigQaKeaxcw?identity__email=jomon.reachout%40gmail.com) | Amazing Course. |
 | 1596 | Saksham Kushwaha | [Saksham Kushwaha](https://www.linkedin.com/in/saksham-kushwaha-67758b295/) | [Certificate Link](https://api.badgr.io/public/assertions/2_RHNplsQIW7o3HfoTPPUg?identity__email=sakshamkushwaha12776%40gmail.com)| Beginner friendly course but can be harder |
 | 1597 | Paridhi Shrivastava | [Paridhi Shrivastava](https://www.linkedin.com/in/paridhi-shrivastava-5025392a8/) | [Certificate Link](https://api.badgr.io/public/assertions/2_RHNplsQIW7o3HfoTPPUg?identity__email=paridhishrivastava1407@gmail.com)| Awesome course, must recommended for all |
-
-| 1598 | Sagar Bendale | [Sagar Bendale](https://www.linkedin.com/in/sagarbendale2004/) | [Certificate Link](https://api.badgr.io/public/assertions/Wgy__8sPT1OKikIRgj6RLg?identity__email=sagerbendale%40gmail.com) | Great Course to Learn Api Fundamentals | 
-
 | 1598 | Sagar Bendale | [Sagar Bendale](https://www.linkedin.com/in/sagarbendale2004/) | [Certificate Link](https://badgr.com/public/assertions/sMVTMCDVSyuvx5fOlsz5-w?identity__email=sagarbendale2004@gmail.com) | Great Course to Learn Api Fundamentals | 
 | 1599 | simran singh | [simran singh ](https://www.linkedin.com/in/simran-singh-b7b67825a/) | [Certificate Link](https://api.badgr.io/public/assertions/1SeZmQ4yQ-yU-b_IJJANiQ?identity__email=singh9594shibu%40gmail.com)| nice course |
 | 1600 | Abrer Asif Barlaskar | [Abrer Asif Barlaskar](https://www.linkedin.com/in/abrer-asif-barlaskar-a86528243/) | [Certificate Link](https://api.badgr.io/public/assertions/JCaSmHKCT76kZEjmsIlqGQ?identity__email=lp5267816%40gmail.com)| An enlightining and fun course to learn |
@@ -1782,4 +1779,4 @@
 | 1776 | Pranaw Kumar | [Pranaw Kumar](www.linkedin.com/in/pranawk3) | [Certificate Link](https://badgr.com/public/assertions/KGxSzD3gRdWMSwwCcQFwyA?identity__email=pranaw.23bce10042@vitbhopal.ac.in)| [Well framed course, provides a good introduction .] |
 | 1777 | Shreya Dubey | [Shreya Dubey](https://www.linkedin.com/in/shreya-dubey-544874289/) | [Certificate Link](https://api.badgr.io/public/assertions/hsrXQLBVT-OvyLjRoWckQg)| [My certificate] |
 | 1778 | Richa Jaiswal | [Richa Jaishwal](https://www.linkedin.com/in/richa-jaishwal/) | [Certificate Link](https://api.badgr.io/public/assertions/7KLMN8zUQMG_6kEnNAmB-A?identity__email=richajaiswalhome%40gmail.com)| [Getting to know about postmant.] |
-
+| 1779 | Pawni Yadav | [Pawni Yadav](https://www.linkedin.com/in/pawni-yadav/) | [Certificate Link](https://api.badgr.io/public/assertions/wCx2SFYeT625yMPVizgZYg?identity__email=pawni.yadav.ug23%40nsut.ac.in)| [Liked learning about APIs via postmant.] |
