@@ -1765,4 +1765,4 @@
 | 1762 | Nischala Lakkaraju | [Nischala Lakkaraju](www.linkedin.com/in/nischala-lakkaraju-0093b0257) | [Certificate Link](https://api.badgr.io/public/assertions/YuiVAV2BRJG8gVeysK3usw?identity__email=nischalalakkaraju%40gmail.com)| [Got to know Postman API] |
 | 1763 | Vansh Chaurasiya | [Vansh Chaurasiya](https://linkedin.com/in/vanshchaurasiya24/) | [Certificate Link](https://api.badgr.io/public/assertions/aQm-LaQcQ4-bVGcQRjhVjw?identity__email=vanshchaurasiya2417%40gmail.com) | Very helpful and easy to learn course |
 | 1764 | Arsh Bakshi | [Arsh Bakshi](www.linkedin.com/in/arsh-bakshi-2b50a0324) | [Certificate Link](https://api.badgr.io/public/assertions/YV0PB80WQ6Wi5EqY3waZDw?identity__email=arsh.cp10%40gmail.com)| [Easy to learn, Great first hand experience.] |
-
+| 1765 | Taruna Agrawal | [Taruna Agrawal](https://www.linkedin.com/in/tarunaagrawal13?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKkCIYTlDTaOi%2Fi8LK8rbtw%3D%3D) | [Certificate Link](https://api.badgr.io/public/assertions/ThzQ-xcETMiJMUUZMZ4DJg?identity__email=tarunaagrawal13%40gmail.com)| [Easy to learn, Great first hand experience.] |
