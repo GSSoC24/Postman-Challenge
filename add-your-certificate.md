@@ -1795,3 +1795,5 @@
 | 1793 | Ayushi Jain | [Ayushi Jain](https://www.linkedin.com/in/ayushi-jain-8300782ab/) | [Certificate Link](https://api.badgr.io/public/assertions/41eRWcVlRtqC9h8BEjMgIw?identity__email=ayushijainrkt%40gmail.com)| Easy to learn, gave a strong understanding about API's] |
 | 1794 | Mansi | [Mansi](https://www.linkedin.com/in/mansi-b4533b203/)| [Certificate](https://api.badgr.io/public/assertions/ndu_oNkhTlO44I7uinnTPw?identity__email=mansi000025%40gmail.com)|Learnt a lot about APIs.|
 | 1795 | Shreyansh Gupta | [Shreyansh Gupta](https://www.linkedin.com/in/shreyansh-gupta-a9a339290/) | [Certificate Link](https://api.badgr.io/public/assertions/IMu8PJePTLuEe6Q4qt72IQ?identity__email=shreyansh.2552@gmail.com)| [Well structured for students] |
+| 1796 | Sai Smruti Ranjan Das | [Sai Smruti Ranjan Das](www.linkedin.com/in/saismrutiranjan) | 
+[Certificate Link](https://badgr.com/public/assertions/w-EIhp1DSgGU8IES4M68-g?identity__email=saismrutiranjan1810@gmail.com)| [Very Helpful for Beginners] |
