@@ -1793,3 +1793,4 @@
 | 1791 | Akansha Roy | [Akansha Roy](https://www.linkedin.com/in/akansha-roy-1a820625a/) | [Certificate Link](https://api.badgr.io/public/assertions/M_hSs0ntRi6eztSkuVc8GQ)| Best course for beginners] |
 | 1792 | Sindhuja Didugu | [Sindhuja Didugu](https://www.linkedin.com/in/sindhuja-didugu-1b58852a2/) | [Certificate Link](https://api.badgr.io/public/assertions/Afd9sCMRTdSaX8GjmZ_W0w?identity__email=didugusindhuja%40gmail.com)| Great Course!!!] |
 | 1793 | Ayushi Jain | [Ayushi Jain](https://www.linkedin.com/in/ayushi-jain-8300782ab/) | [Certificate Link](https://api.badgr.io/public/assertions/41eRWcVlRtqC9h8BEjMgIw?identity__email=ayushijainrkt%40gmail.com)| Easy to learn, gave a strong understanding about API's] |
+| 1794 | Mansi | [Mansi](https://www.linkedin.com/in/mansi-b4533b203/)| [Certificate](https://api.badgr.io/public/assertions/ndu_oNkhTlO44I7uinnTPw?identity__email=mansi000025%40gmail.com)|Learnt a lot about APIs.|
