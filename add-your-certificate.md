@@ -1853,4 +1853,5 @@
 | 1850 | Jyoti Singh | [Jyoti Singh](www.linkedin.com/in/jyoti-singh-95b7462b3) | [Certificate Link](https://api.badgr.io/public/assertions/YIJ_jQuERvmbV3EKvg7UFA?identity__email=jyotising9305%40gmail.com)| Loved the course |
 | 1851 | Shalini Kashyap | [Shalini Kashyap](https://www.linkedin.com/in/shalini-kashyap-a44561280/) | [Certificate Link](https://api.badgr.io/public/assertions/rffhDfl3QCSzmfLAeuZdXg?identity__email=shalinikashyap717%40gmail.com)| nice experience i had doing this |
 | 1852 | Tanu Chandravanshi | [Tanu Chandravanshi](www.linkedin.com/in/tanu-chandravanshi-338940251) | [Certificate Link](https://api.badgr.io/public/assertions/j7UFB1sKRzqHqdHOeQAVWQ?identity__email=tanuchandravanshi9%40gmail.com)| Helpful course |
-| 1853 | Syeda Nida Saher | [Nida Syeda](https://www.linkedin.com/in/nida-syeda-608b53258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Certificate Link](https://api.badgr.io/public/assertions/TWAVku8FTWKADwhsdDG4wg?identity__email=syedanidasaher%40gmail.com)| Awsome course |
+
+| 1854 | Abhijeet Sharma | [Abhijeet Sharma](https://www.linkedin.com/in/abhijeet-sharma-994064227/) | [Certificate Link](https://api.badgr.io/public/assertions/nnhvjShKTIWEut7oh-aS4Q?identity__email=itsabhijeet06%40gmail.com) | Awesome, got to learn a lot of thing |
