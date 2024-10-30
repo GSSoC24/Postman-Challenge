@@ -1849,4 +1849,7 @@
 | 1846 | Rishabh Singh Rawat | [Rishabh Singh Rawat](https://www.linkedin.com/in/rishabh-singh-rawat-408762289/) | [Certificate Link](https://api.badgr.io/public/assertions/oj8l8dlZRyuiIZNEaN0nnw?identity__email=rishabhrawat.171105%40gmail.com)| Easy to Understand! |
 | 1847 |  Ayush Tiwari | [Ayush Tiwari ](https://www.linkedin.com/in/ayush-tiwari-38a084324) | [Certificate Link](https://api.badgr.io/public/assertions/fKfbw-TvSny0i6q2bgtSog?identity__email=tiwariayush9199@gmail.com)| Amazing Course thanks to postman and gssoc |
 | 1848 | Nisarg | [Nisarg](https://www.linkedin.com/in/nisarg-shah-4881a9276/) | [Certificate Link](https://api.badgr.io/public/assertions/Gn1L21ZUQVKG7_8r_K_UPA?identity__email=nisargshah9090%40gmail.com)| Nice course |
+| 1849 |  Ayush Tiwari | [Ayush Tiwari ](https://www.linkedin.com/in/ayush-tiwari-38a084324) | [Certificate Link](https://api.badgr.io/public/assertions/fKfbw-TvSny0i6q2bgtSog?identity__email=tiwariayush9199@gmail.com)| Amazing Course thanks to postman and gssoc |
+| 1850 | Nisarg | [Nisarg](https://www.linkedin.com/in/nisarg-shah-4881a9276/) | [Certificate Link](https://api.badgr.io/public/assertions/Gn1L21ZUQVKG7_8r_K_UPA?identity__email=nisargshah9090%40gmail.com)| Nice course |
+| 1851 | Rajata M Hegde | [Rajata M Hegde](https://www.linkedin.com/in/rajata-hegde/) | [Certificate Link](https://api.badgr.io/public/assertions/VPQOF0jDTgCiusgNqm1Sdg?identity__email=rajatamhegde.is23%40rvce.edu.in)| I actually learnt fundamentals of API!|
 
