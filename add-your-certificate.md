@@ -1800,5 +1800,6 @@
 | 1797 | Prerana Bharati | [Prerana Bharati](https://www.linkedin.com/in/prerana-bharati-5a9290335/) | [Certificate Link](https://api.badgr.io/public/assertions/V0WtuXSQTbGF-Q_Q9mH_Jg?identity__email=preranabharati1%40gmail.com) | Well structured and good for students |
 | 1798 | Archana Singh | [Archana Singh](https://www.linkedin.com/in/archana-singh-88a871249/) | [Certificate Link](https://api.badgr.io/public/assertions/DXO6GxAGR0WUFczI1lilHQ?identity__email=archanasingh11702%40gmail.com) | Its must for begnieers. |
 | 1799 | Mohit Madan | [Mohit Madan](https://www.linkedin.com/in/mohit-madan-b8447a313/) | [Certificate Link](https://api.badgr.io/public/assertions/DXO6GxAGR0WUFczI1lilHQ?identity__email=archanasingh11702%40gmail.com) |Well structured and easy to interpret. |
-| 1800 | Umesh Mali | [Umesh Mali](https://www.linkedin.com/in/umesh-mali123/) | [Certificate Link](https://api.badgr.io/public/assertions/g5VJafcgQMaAX9EG_fRkCw?identity__email=um4319167%40gmail.com) |Well.|
-
+| 1800 | Sanjay M | [Sanjay M](https://www.linkedin.com/in/sanjay-m-239346221/) | [Certificate Link](https://api.badgr.io/public/assertions/YyLwyEldS1GWqInCmXu85g?identity__email=msanjay1907%40gmail.com) |Well easy course must for Beginners. |
+| 1801 | Avula Umadevi | [Avula Umadevi](https://www.linkedin.com/in/avula-umadevi) | [Certificate Link](https://api.badgr.io/public/assertions/N5ybDi_FRfSwkxROTPNsAA?identity__email=22wh1a12c2%40bvrithyderabad.edu.in) |Learned Postman fundamentals: now equipped to design, test, and debug APIs efficiently!. |
+| 1802 | Umesh Mali | [Umesh Mali](https://www.linkedin.com/in/umesh-mali123/) | [Certificate Link](https://api.badgr.io/public/assertions/g5VJafcgQMaAX9EG_fRkCw?identity__email=um4319167%40gmail.com) |Well.|
