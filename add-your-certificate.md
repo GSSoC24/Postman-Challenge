@@ -1801,4 +1801,4 @@
 | 1798 | Archana Singh | [Archana Singh](https://www.linkedin.com/in/archana-singh-88a871249/) | [Certificate Link](https://api.badgr.io/public/assertions/DXO6GxAGR0WUFczI1lilHQ?identity__email=archanasingh11702%40gmail.com) | Its must for begnieers. |
 | 1799 | Mohit Madan | [Mohit Madan](https://www.linkedin.com/in/mohit-madan-b8447a313/) | [Certificate Link](https://api.badgr.io/public/assertions/DXO6GxAGR0WUFczI1lilHQ?identity__email=archanasingh11702%40gmail.com) |Well structured and easy to interpret. |
 | 1800 | Sanjay M | [Sanjay M](https://www.linkedin.com/in/sanjay-m-239346221/) | [Certificate Link](https://api.badgr.io/public/assertions/YyLwyEldS1GWqInCmXu85g?identity__email=msanjay1907%40gmail.com) |Well easy course must for Beginners. |
-
+| 1801 | Jitesh Kumar | [Jitesh Kumar](https://www.linkedin.com/in/jiteshkumar05/) | [Certificate Link](https://api.badgr.io/public/assertions/ft-hbYhHTT2QNgqADYxrZw?identity__email=jitesh.kumar05official%40gmail.com) |Well easy course must for Beginners. got to know something new. |
