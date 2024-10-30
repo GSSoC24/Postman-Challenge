@@ -1870,4 +1870,5 @@
 | 1867 | Abhijeet Sharma | [Abhijeet Sharma](https://www.linkedin.com/in/abhijeet-sharma-994064227/) | [Certificate Link](https://api.badgr.io/public/assertions/nnhvjShKTIWEut7oh-aS4Q?identity__email=itsabhijeet06%40gmail.com) | Awesome, got to learn a lot of thing |
 | 1868 | Madhushree Ghosh | [Madhushree Ghosh](https://www.linkedin.com/in/madhushree-ghosh-06637b283/) | [Certificate Link](https://badgr.com/public/assertions/Had4eQiqR9K3XTWfCZzjjQ?identity__email=gmadhushree98@gmail.com)| Great course |
 | 1869 | Aarti Sahu | [Aarti Sahu](https://www.linkedin.com/in/aartisahu23/)  | [Certificate Link](https://api.badgr.io/public/assertions/in0IwOq_SKaYd0VPaC6Vrg?identity__email=aartiisahu23%40gmail.com)   | Excited to share    |
-| 1870 | Rajshree Ghosh | [Rajshree Ghosh](https://www.linkedin.com/in/rajshree-ghosh-57816b283/) | [Certificate Link](https://badgr.com/public/assertions/feKNMFPGThOFD2K6DsLqJQ?identity__email=rajshreeghosh448@gmail.com)| Great course |
+
+| 1870 | Ayush Kumar| [AYUSH KUMAR](https://www.linkedin.com/in/ayush-kumar-215963280) | [Certificate Link](https://badgr.com/public/assertions/Dc7y24JXSLWNFVsT78ndLw?identity__email=ayushtilakmaidan@gmail.com)| amazing course |
