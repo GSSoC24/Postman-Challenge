@@ -1846,5 +1846,4 @@
 | 1843 | Ayush Verma | [Ayush Verma](https://www.linkedin.com/in/ayush-verma-1112a0260/) | [Certificate Link](https://api.badgr.io/public/assertions/mQbuQ5vZQTmXSFGHztwhIw?identity__email=ayushverma19171051%40gmail.com)| Best course |
 | 1844 | Hiteash Mahajan | .[Hiteash Mahajan](https://www.linkedin.com/in/hiteash-mahajan/) | [Certificate Link](https://api.badgr.io/public/assertions/i4uIn2G3SIuLGuJl8rZ1Fw?identity__email=hiteashgupta1%40gmail.com)| Nice course to get a start |
 | 1845 | Gopal Gupta | [Gopal Gupta](https://www.linkedin.com/in/gopal-gupta-056585253/) | [Certificate Link](https://api.badgr.io/public/assertions/K7IA3UrKQaCBDoIbkeexGQ?identity__email=k7523337%40gmail.com)| Amazing course! |
-
-| 1847| Dhruv Pahuja | [Dhruv Pahuja](https://www.linkedin.com/in/dhruv-pahuja-658934272/)  | [Certificate Link](https://api.badgr.io/public/assertions/S2CaGUflQoyHpiRr5etaig?identity__email=dhruvpahuja013%40gmail.com)   | Excited to share    |
+| 1846| Dhruv Pahuja | [Dhruv Pahuja](https://www.linkedin.com/in/dhruv-pahuja-658934272/)  | [Certificate Link](https://api.badgr.io/public/assertions/S2CaGUflQoyHpiRr5etaig?identity__email=dhruvpahuja013%40gmail.com)   | Excited to share    |
