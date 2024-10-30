@@ -1867,3 +1867,5 @@
 | 1864 | Ganesh Kumar | [Ganesh Kumar](https://www.linkedin.com/in/ganesh-kumar-c/)  | [Certificate Link](https://api.badgr.io/public/assertions/8s-tjYbxQ5CUkqiLZEh3_Q?identity__email=cganeshkumar2002%40gmail.com)   | Great way for Beginners to start. Expert level complex tasks could've been added    |
 | 1865 | Rishabh Singh Rawat | [Rishabh Singh Rawat](https://www.linkedin.com/in/rishabh-singh-rawat-408762289/) | [Certificate Link](https://api.badgr.io/public/assertions/oj8l8dlZRyuiIZNEaN0nnw?identity__email=rishabhrawat.171105%40gmail.com)| Easy to Understand! |
 | 1866 | Sneha Arora | [Sneha Arora](https://www.linkedin.com/in/sneha-arora-426b992ba/) | [Certificate Link](https://badgr.com/public/assertions/NSlhn70tRu20u3HwbXeoZg?identity__email=snehaarora68791@gmail.com)| Great course |
+| 1867 | Prince | [Prince](https://www.linkedin.com/in/prince-7a8b05280) | [Certificate Link](https://api.badgr.io/public/assertions/E_mvsKlmTkq09SztJoPWgw?identity__email=princeconnect2602%40gmail.com)| Superb course to master skills from zero to hero in postman |
+
