@@ -1863,3 +1863,4 @@
 | 1860 | Dhruv Pahuja | [Dhruv Pahuja](https://www.linkedin.com/in/dhruv-pahuja-658934272/)  | [Certificate Link](https://api.badgr.io/public/assertions/S2CaGUflQoyHpiRr5etaig?identity__email=dhruvpahuja013%40gmail.com)   | Excited to share    |
 | 1861 | Disha Maity | .[Disha Maity](https://www.linkedin.com/in/disha-maity-a393a7314/) | [Certificate Link](https://api.badgr.io/public/assertions/6SMUh8o5TBm2jDvtXzIBIg?identity__email=dishamaity2610%40gmail.com)| Wonderful course |
 | 1862 | Isha Katiyar | [Isha Katiyar](https://www.linkedin.com/in/isha-katiyar-b03559272/) | [Certificate Link](https://api.badgr.io/public/assertions/gm8Ea8wkR9m6Su7_ItRmRw?identity__email=katiyarisha16%40gmail.com)| Awesome course |
+| 1863 | Nishtha Agrawal | [Nishtha Agrawal](www.linkedin.com/in/nishtha-agrawal-420970330) | [Certificate Link](https://api.badgr.io/public/assertions/kvL4mqqtSkSXNh8pzHeuYQ?identity__email=nishthaagrawal2004%40gmail.com)| Awesome and simple course |
