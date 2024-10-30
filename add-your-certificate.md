@@ -1872,3 +1872,4 @@
 | 1869 | Madhushree Ghosh | [Madhushree Ghosh](https://www.linkedin.com/in/madhushree-ghosh-06637b283/) | [Certificate Link](https://badgr.com/public/assertions/Had4eQiqR9K3XTWfCZzjjQ?identity__email=gmadhushree98@gmail.com)| Great course |
 | 1870 | Aarti Sahu | [Aarti Sahu](https://www.linkedin.com/in/aartisahu23/)  | [Certificate Link](https://api.badgr.io/public/assertions/in0IwOq_SKaYd0VPaC6Vrg?identity__email=aartiisahu23%40gmail.com)   | Excited to share    |
 | 1871 | Rajshree Ghosh | [Rajshree Ghosh](https://www.linkedin.com/in/rajshree-ghosh-57816b283/) | [Certificate Link](https://badgr.com/public/assertions/feKNMFPGThOFD2K6DsLqJQ?identity__email=rajshreeghosh448@gmail.com)| Great course |
+| 1872 | Jayesh Waghmare | [Jayesh Waghmare](https://www.linkedin.com/in/jayesh-waghmare-56b702288/) | [Certificate Link](https://badgr.com/public/assertions/KTUJHyhxRMyRShp_o4z7bA?identity__email=jayeshw145@gmail.com)| Excellent course |
