@@ -1827,3 +1827,4 @@
 | 1824 | Pallavi Mukalla | [Pallavi Mukalla](http://linkedin.com/in/pallavi-mukalla-b3b81a258) | [Certificate Link](https://api.badgr.io/public/assertions/ACdmefhQTWGoCLVve2LJdw?identity__email=pallavimukalla%40gmail.com) | Great Course |
 | 1825 | Eshal Shaikh | [Eshal Shaikh](https://www.linkedin.com/in/eshal-shaikh-528680291/) | [Certificate Link](https://api.badgr.io/public/assertions/Rv487dHOTY2gA8Sq6jCVGw?identity__email=eshalshaikh45%40gmail.com) | Done with course great one! |
 | 1826 | Raviraj Parab | [Raviraj Parab](https://www.linkedin.com/in/raviraj-parab-95a914315/) | [Certificate Link](https://api.badgr.io/public/assertions/a9h5He6tQK2MjTu-XuzPHw?identity__email=parabraviraj142730%40gmail.com) | Done with course great one! |
+| 1827 | Pinak Viramgama | [Pinak V](https://www.linkedin.com/in/pinak-v-4b25502b0/) | [Certificate Link](https://api.badgr.io/public/assertions/2x1FWgEhSV-SzavVkcwk8g?identity__email=pinakdv11@gmail.com) | Great Course |
