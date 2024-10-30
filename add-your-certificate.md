@@ -1835,4 +1835,4 @@
 | 1832 | Samarth Vaidya | [Samarth Vaidya](https://www.linkedin.com/in/samarth-vaidya-b453a5243/) | [Certificate Link](https://api.badgr.io/public/assertions/JDhSVAlcRaCmKjGWcssCDw?identity__email=v.samarth1212%40gmail.com) | Very Good Course! |
 | 1833 | Harshita | [Harshita Dang](https://www.linkedin.com/in/harshita-dang-ba61032a5/) | [Certificate Link](https://badgr.com/public/assertions/bACXdr5yTY-vcrRmbCDhBg?identity__email=harshita1362@gmail.com) | Nice course! |
 | 1834 | Dipali Chourasia | [Dipali Chourasia](https://www.linkedin.com/in/dipalichourasia?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B27KbJqdyTe24vIme5hBInA%3D%3D) | [Certificate Link](https://api.badgr.io/public/assertions/c8bL4G4hR0eL8CBderazOw?identity__email=dipalichourasia5%40gmail.com) | Interesting Course! |
-
+| 1835 | Akshat Saxena | [Akshat Saxena](https://www.linkedin.com/feed/update/urn:li:activity:7257383499714772994/) | [Certificate Link](https://api.badgr.io/public/assertions/8NSH_MnjRFauL0aeuuDI8g?identity__email=saxenaakshat2612%40gmail.com) | Amazing Course! |
