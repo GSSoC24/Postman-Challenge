@@ -1947,3 +1947,4 @@
 | 1944 | Murali Paila | [Murali Paila](https://www.linkedin.com/in/murali-paila-a316b52b5/) | [Certificate Link](https://api.badgr.io/public/assertions/IMy6cXoYSr-NFPtTtnf4IQ?identity__email=muralijay360%40gmail.com)| Great course |
 | 1945 | Wasif Hussain | [Wasif Hussain](https://www.linkedin.com/in/787wasifhussain/) | [Certificate Link](https://api.badgr.io/public/assertions/FxoXGJPqQ3e_HwV1QdVXNQ?identity__email=wasifhussain787%40gmail.com)| Covers all basic for beginners |
 | 1946 | Ritwik Singh | [Ritwik Singh](https://www.linkedin.com/in/ritwik-singh-58b25a302/) | [Certificate Link](https://api.badgr.io/public/assertions/jgNDDT-ySOOJLWwoTy0_kA?identity__email=theritwiksingh%40gmail.com)| Great course |
+| 1947 | David Kumar Fule | [david kumar fule](https://www.linkedin.com/in/davidfule/) | [Certificate Link](https://api.badgr.io/public/assertions/jJ4XhoCNQSSShjmVCeptsA?identity__email=digitaldev18%40gmail.com)| Best  |
