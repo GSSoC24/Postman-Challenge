@@ -1928,3 +1928,4 @@
 | 1925 | Prince | [Prince](https://www.linkedin.com/in/prince-7a8b05280) | [Certificate Link](https://api.badgr.io/public/assertions/E_mvsKlmTkq09SztJoPWgw?identity__email=princeconnect2602%40gmail.com)| Great course |
 | 1926 | Soham Maity | [Soham Maity](https://www.linkedin.com/in/soham-maity-114466218/) | [Certificate Link](https://api.badgr.io/public/assertions/-7_PYL9AR1aARQUcKXLTGw?identity__email=sohammaity239%40gmail.com) | Had Fun And Learnt A Lot, Thank You GSSoC |
 | 1927 | Prajakta Deshpande |[Prajakta Deshpande] (https://www.linkedin.com/in/prajakta-deshpande-49828a2a0/). | [Certificate Link](https://api.badgr.io/public/assertions/GTDXzGuLSgiM-u-vdMO1YQ?identity__email=prajaktadeshpande0014%40gmail.com) | Great start|
+| 1928 | Nimra Waqar| [Nimra Waqar](https://www.linkedin.com/in/nimrah-waqar/) | [Certificate Link](https://api.badgr.io/public/assertions/QjkJtNYMToK76URvV0tV1w?identity__email=nimrahwaqar1%40gmail.com))| Great learning experience |
