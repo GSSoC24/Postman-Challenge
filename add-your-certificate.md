@@ -1888,3 +1888,4 @@
 | 1885 | Srihas Reddy | [Srihas Reddy](https://www.linkedin.com/in/srihaschalla) | [Certificate Link](https://api.badgr.io/public/assertions/Edjuhr0NQa-uxWEkHusDxQ?identity__email=challasrihasreddy%40gmail.com) | Amazing course |
 | 1886 | Vikash Kumar | [Vikash Kumar](https://www.linkedin.com/in/vikassh-kumar/) | [Certificate Link](https://api.badgr.io/public/assertions/DaJHyXDkTN-ywXBlMbFLBQ?identity__email=vvikash.2526%40gmail.com) | Awesome, got to learn a lot of thing |
 | 1887 | Priyansh Aggarwal | [Priyansh Aggarwal](https://www.linkedin.com/in/priyansh-aggarwal-85b37129a) | [Certificate Link](https://api.badgr.io/public/assertions/_WoWseCWSAO_l05ySAEzRg?identity__email=priyansh.aggarwal.delhi%40gmail.com)| Great course |
+| 1888 | Ayush Kumar| [AYUSH KUMAR](https://www.linkedin.com/in/ayush-kumar-215963280) | [Certificate Link](https://badgr.com/public/assertions/Dc7y24JXSLWNFVsT78ndLw?identity__email=ayushtilakmaidan@gmail.com)| amazing course |
