@@ -1977,4 +1977,4 @@
 | 1974 | Soumyadip Giri | [Soumyadip Giri](https://www.linkedin.com/in/soumyadip-giri-k) | [Certificate Link](https://api.badgr.io/public/assertions/a4NAff8_QE-ZUHiVbm1Vhw) | Such an amazing course for API |
 | 1975 | Sai Sujitha Kumari Challa | [Sai Sujitha Kumari Challa](https://www.linkedin.com/in/saisujithakumarichalla/) | [Certificate Link](https://badgr.com/public/assertions/nyxJHPY8TmmxdtBFmqIEZA?identity__email=sujithachalla9977@gmail.com) | Thanks to this course for enhancing my API skills! |
 | 1976 | Hafsa Iffath | [Hafsa Iffath](https://www.linkedin.com/in/hafsaiffath/) | [Certificate Link](https://badgr.com/public/assertions/LKDIFzK-SQSH_meufB0Y_A?identity__email=hafsaiffath21@gmail.com) | Amazing certification |
-
+| 1977 | Vedant Patel | [Vedant Patel](https://www.linkedin.com/in/vedant3337/) | [Certificate Link](https://api.badgr.io/public/assertions/OvXc0381R7GHMvH37MyM-A?identity__email=vedantpatel3337%40gmail.com) | Best way to learn API testing |
