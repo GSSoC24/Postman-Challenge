@@ -1919,3 +1919,4 @@
 | 1916 | Harshita Jain | [Harshita Jain](https://www.linkedin.com/in/harshita-jain-635832274/) | [Certificate Link]( https://badgr.com/public/assertions/USFuTHagQLqCOt7_VTYwXg?identity__email=rharshita264@gmail.com)| very useful for many of us |
 | 1917 | Valay Patel | [Valay Patel](https://www.linkedin.com/in/valay30) | [Certificate Link](https://api.badgr.io/public/assertions/uU3UfaB1QEqgi6HNDCkjrg?identity__email=patelvalay308%40gmail.com)| Good course for learning |
 | 1918 | Tanishi Rai | [Tanishi Rai](www.linkedin.com/in/tanishi-rai-38974b282) | [Certificate Link](https://api.badgr.io/public/assertions/tUyBsfB0TgGP7lbTu42_rA?identity__email=tanishirai2604%40gmail.com)| Amazing course |
+| 1919 | Rishabh Rawat | [Rishabh Rawat](https://in.linkedin.com/in/rishabhrawatt) | [Certificate Link](https://api.badgr.io/public/assertions/4WWXJqxBRB2c3CrKE_ISOA?identity__email=rishabh2001rawat%40gmail.com)| Informative course with great learning |
