@@ -1874,3 +1874,4 @@
 | 1871 | Rajshree Ghosh | [Rajshree Ghosh](https://www.linkedin.com/in/rajshree-ghosh-57816b283/) | [Certificate Link](https://badgr.com/public/assertions/feKNMFPGThOFD2K6DsLqJQ?identity__email=rajshreeghosh448@gmail.com)| Great course |
 | 1872 | Firoz Khan | [Firoz Khan](https://www.linkedin.com/in/firozkhan4/) | [Certificate Link](https://api.badgr.io/public/assertions/A8S-wHkuR7WVjBZ9_BpYig?identity__email=firozkhan907979%40gmail.com)| Great course |
 | 1873 | devxMani | [Mani](https://www.linkedin.com/in/mani-7b5058253/) | [Certificate Link](https://api.badgr.io/public/assertions/lqqXWkQTQ9GPhMZfujhtUA?identity__email=chandramanigupta2003%40gmail.com)| Great course |
+| 1874 | Divya Singh | [Divya Singh](https://www.linkedin.com/in/divya-singh-444b4b190/) | [Certificate Link](https://api.badgr.io/public/assertions/dqEF8KcdS-6tNGDyFUF1CQ?identity__email=d53680041%40gmail.com)| An incredible course |
