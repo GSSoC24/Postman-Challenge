@@ -1895,3 +1895,4 @@
 | 1892 | ATHIRA K| [Athira K](https://www.linkedin.com/in/athira-k-90a2551b1/) | [Certificate Link](https://api.badgr.io/public/assertions/EpCVfRcwSFKP4Tdoekm3MA?identity__email=athirasuresh235%40gmail.com) | Really informative course.|
 | 1893 | Anushree Jaiswal| [Anushree Jaiswal](https://www.linkedin.com/in/anushree-jaiswal-134551312/)| [Certificate Link](https://api.badgr.io/public/assertions/I8d9PPHMQwGC8Oziz4hBCw?identity__email=anushree416jaiswal%40gmail.com) |Great course |
 | 1894 | Arun Bhattacharya | [Arun Bhattacharya](https://www.linkedin.com/in/arunbht/) | [Certificate Link](https://api.badgr.io/public/assertions/5X38nLyjR4KArK78GJbI-g)| Loved the course |
+| 1895 | Ashutosh Kumae | [Ashutosh Kumar](https://www.linkedin.com/in/ashutosh-kumar-3995321ba/) | [Certificate Link]([https://api.badgr.io/public/assertions/zeWi_i3kQDWX4gY3un0mLw?identity__email=ashutoshak5386%40gmail.com])| Great course |
