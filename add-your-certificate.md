@@ -1909,3 +1909,4 @@
 | 1906 | Anneshu Nag | [Anneshu Nag](https://www.linkedin.com/in/anneshu-nag/) | [Certificate Link](https://api.badgr.io/public/assertions/H3JEVovkRD6D-vrXvbotLQ?identity__email=anneshu4760.be22%40chitkara.edu.in)| Great course |
 | 1907 | Srushti Bhujade | [Srushti Bhujade](www.linkedin.com/in/srushti-bhujade-9a046b254) | [Certificate Link](https://api.badgr.io/public/assertions/9mECs77kTMiECEFNrWT5zw?identity__email=srushtibhujade%40gmail.com)| Great one |
 | 1908 | Rohit Kumar | [Rohit Kumar](https://www.linkedin.com/in/rohit-kumar-764518292/) | [Certificate Link](https://api.badgr.io/public/assertions/uBruiXcYTS2CzNPPf-h4TQ?identity__email=rohitkum0056%40gmail.com)| Awesome course |
+| 1909 | Aritra Pradhan | [Aritra Pradhan](www.linkedin.com/in/aritra-pradhan-ba5a07280) | [Certificate Link](https://api.badgr.io/public/assertions/JKrHAfPPTsuEnwVzlHmK1A?identity__email=aritrarick.ar987%40gmail.com)| Wonderful course for fundamentals of API  |
