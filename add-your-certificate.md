@@ -1891,3 +1891,4 @@
 | 1888 | Ayush Kumar| [AYUSH KUMAR](https://www.linkedin.com/in/ayush-kumar-215963280) | [Certificate Link](https://badgr.com/public/assertions/Dc7y24JXSLWNFVsT78ndLw?identity__email=ayushtilakmaidan@gmail.com)| amazing course |
 | 1889 | Shabbir Hussainy | .[Shabbir Hussainy](https://www.linkedin.com/in/shabbir-svnit) | [Certificate Link](https://api.badgr.io/public/assertions/kyhNBNohRdi-B4ljgmcPWQ?identity__email=shabbir.svnit%40gmail.com)| Wonderful course |
 | 1890 | Akshat Gupta | [Akshat Gupta](www.linkedin.com/in/akshat-gupta18/) | [Certificate Link](https://api.badgr.io/public/assertions/bPT2flDwRE61-4Dx9NruYw?identity__email=akshatkhandelwal1805%40gmail.com)| Amazing |
+| 1891 | Sumit Ranjan Satapathy | [Sumit Ranjan Satapathy](https://www.linkedin.com/in/sumitxpr10/) | [Certificate Link](https://badgr.com/public/assertions/yTeMcTW1THGukP67ErvymA?identity__email=satapathysumit10@gmail.com)| Amazing Course to learn |
