@@ -1951,3 +1951,4 @@
 | 1948 | Vansh Kirtishahi | [vansh kirtishahi](https://www.linkedin.com/in/vansh-kirtishahi/) | [Certificate Link](https://api.badgr.io/public/assertions/Rri8ZimZR86PRU6lbSVkIQ?identity__email=vanshkirtishahi%40gmail.com) | Best Hands-on Experiance |
 | 1949 | Abhishek Kumar | [Abhisehk Kuamr](https://www.linkedin.com/in/abhishek-kumar-847ba1289/) | [Certificate Link](https://badgr.com/public/assertions/Tu-MjtrITjiT4QfPZJzHXg)| Great course|
 | 1950 | Vijay Sajwan | [Vijay Sajwan](https://www.linkedin.com/in/vijay-sajwan) | [Certificate Link](https://api.badgr.io/public/assertions/8M7WRywzSECHQVVfYW1mBQ?identity__email=vijay.sajwan22%40gmail.com) | Amazing course, well structured |
+| 1951 | Rupali R | [Rupali R](https://www.linkedin.com/in/rupali-r) | [Certificate Link](https://api.badgr.io/public/assertions/Y3N3TFIYQO-f8oFipBAaLQ?identity__email=rupaliii739%40gmail.com)| Great course |
