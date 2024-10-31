@@ -1965,3 +1965,5 @@
 | 1962 | Jashwanth | [Jashwanth](https://www.linkedin.com/in/jashwanth-jk-071725310/) | [Certificate Link](https://api.badgr.io/public/assertions/3SbNOpC-RRO6bmbQzvyZKw?identity__email=jk.karunadu01%40gmail.com)| Explored Something Usefull. |
 | 1963 | Piyush Gupta | [Piyush Gupta ](https://www.linkedin.com/in/piyush-a6867727b/) | [Certificate Link](https://api.badgr.io/public/assertions/VX48WYeWQfispRp1qBXOCg?identity__email=piyushg.rhn%40gmail.com)| Very helpful and beginner firendly course |
 | 1964 | Ramharsh Sanjay Dandekar | [Ramharsh Sanjay Dandekar](https://www.linkedin.com/in/ramharsh-sanjay-dandekar) | [Certificate Link](https://api.badgr.io/public/assertions/izuzeoxdSN2k9Y6si-k_OQ) |   Great course to learn about api. |
+| 1965 | Tejasvini Ramaswamy| [Tejasvini Ramaswamy](https://www.linkedin.com/in/tejasvini-ramaswamy-b04a58286/) | [Certificate Link](https://api.badgr.io/public/assertions/eE4kqc-PRVOmO5cZR9txyg?identity__email=tejasvini.ramaswamy%40research.iiit.ac.in) |   Great course to learn about api. |
+
