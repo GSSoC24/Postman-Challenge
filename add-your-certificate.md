@@ -1882,3 +1882,4 @@
 | 1879 | Subhrajit Pal | [Subhrajit Pal](https://www.linkedin.com/in/subhrajitpal1/) | [Certificate Link](https://api.badgr.io/public/assertions/Qvp53hfERRu4MFASQmH66A?identity__email=subhrajitwork2%40gmail.com)| Great course |
 | 1880 | Aaryan Puri | [Aaryan Puri](www.linkedin.com/in/aaryan-puri-04923a228/) | [Certificate Link](https://api.badgr.io/public/assertions/WaK9QfQqQaSoBqK5BY20tw?identity__email=aaryanpuri75%40gmail.com)| It was a great course, Got good learning experience |
 | 1881 | Ayushi Bhargav | [Ayushi Bhargav] (https://www.linkedin.com/in/ayushi-bhargav/details/certifications/) | [Certificate Link](https://badgr.com/public/assertions/plsz3jNATnW2hP_K6aGwbg)| Wonderful course |
+| 1882 | Aditya Pandey | [Aditya Pandey](https://www.linkedin.com/in/aditya-pandey-824965247/) | [Certificate Link](https://api.badgr.io/public/assertions/_PfTLFXWSkiuW84QVL38iw?identity__email=adityapandey2395%40gmail.com)| Good course |
