@@ -1952,3 +1952,4 @@
 | 1949 | Abhishek Kumar | [Abhisehk Kuamr](https://www.linkedin.com/in/abhishek-kumar-847ba1289/) | [Certificate Link](https://badgr.com/public/assertions/Tu-MjtrITjiT4QfPZJzHXg)| Great course|
 | 1950 | Vijay Sajwan | [Vijay Sajwan](https://www.linkedin.com/in/vijay-sajwan) | [Certificate Link](https://api.badgr.io/public/assertions/8M7WRywzSECHQVVfYW1mBQ?identity__email=vijay.sajwan22%40gmail.com) | Amazing course, well structured |
 | 1951 | Rupali R | [Rupali R](https://www.linkedin.com/in/rupali-r) | [Certificate Link](https://api.badgr.io/public/assertions/Y3N3TFIYQO-f8oFipBAaLQ?identity__email=rupaliii739%40gmail.com)| Great course |
+| 1952 | Rushikesh Shelar | [Rushikesh Shelar](https://www.linkedin.com/in/rushikeshshelar/) | [Certificate Link](https://api.badgr.io/public/assertions/5EpvvEqFSUeyErWQuIxeYw?identity__email=rushikeshshelar.cs%40gmail.com)| Really Informative Course by Postman|
