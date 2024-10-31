@@ -1872,4 +1872,19 @@
 | 1869 | Madhushree Ghosh | [Madhushree Ghosh](https://www.linkedin.com/in/madhushree-ghosh-06637b283/) | [Certificate Link](https://badgr.com/public/assertions/Had4eQiqR9K3XTWfCZzjjQ?identity__email=gmadhushree98@gmail.com)| Great course |
 | 1870 | Aarti Sahu | [Aarti Sahu](https://www.linkedin.com/in/aartisahu23/)  | [Certificate Link](https://api.badgr.io/public/assertions/in0IwOq_SKaYd0VPaC6Vrg?identity__email=aartiisahu23%40gmail.com)   | Excited to share    |
 | 1871 | Rajshree Ghosh | [Rajshree Ghosh](https://www.linkedin.com/in/rajshree-ghosh-57816b283/) | [Certificate Link](https://badgr.com/public/assertions/feKNMFPGThOFD2K6DsLqJQ?identity__email=rajshreeghosh448@gmail.com)| Great course |
+< main
 | 1872 | Harsh Kumar | [RHarsh Kumar](www.linkedin.com/in/harsh-kumar-ab51a2277) | [Certificate Link](https://api.badgr.io/public/assertions/QBZ3GWGpRBOD-WF3uIfffA?identity__email=harshharshgopal%40gmail.com)| Great course |
+
+| 1872 | Firoz Khan | [Firoz Khan](https://www.linkedin.com/in/firozkhan4/) | [Certificate Link](https://api.badgr.io/public/assertions/A8S-wHkuR7WVjBZ9_BpYig?identity__email=firozkhan907979%40gmail.com)| Great course |
+| 1873 | devxMani | [Mani](https://www.linkedin.com/in/mani-7b5058253/) | [Certificate Link](https://api.badgr.io/public/assertions/lqqXWkQTQ9GPhMZfujhtUA?identity__email=chandramanigupta2003%40gmail.com)| Great course |
+| 1874 | Divya Singh | [Divya Singh](https://www.linkedin.com/in/divya-singh-444b4b190/) | [Certificate Link](https://api.badgr.io/public/assertions/dqEF8KcdS-6tNGDyFUF1CQ?identity__email=d53680041%40gmail.com)| An incredible course |
+| 1875 | Chandra Sekhar Cherukuru | [Chandra Sekhar Cherukuru](https://www.linkedin.com/in/chandra-sekhar-cherukuru/) | [Certificate Link](https://api.badgr.io/public/assertions/GlrbuI4yTqSWL8Th5Cq1pQ?identity__email=chandrasekhar.cherukuruu%40gmail.com)| Great course |
+| 1876 | Aadi Bhardwaj | [Aadi Bhardwaj](https://www.linkedin.com/in/aadi-bhardwaj-68ba76311/) | [Certificate Link](https://api.badgr.io/public/assertions/31yhgM0sTjmZhtom3c0Olg?identity__email=mindflakesreversionzero%40gmail.com)| Helpful course, learned about Postman and APIs |
+| 1877 | Muskan Tomar | [Muskan Tomar](https://www.linkedin.com/in/muskan-tomar-1414962b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Certificate Link](https://api.badgr.io/public/assertions/MoTWyn0TS1u10SkDPxMJwA?identity__email=muskantomar43%40gmail.com)| Awesome Course |
+| 1878 | Amulya Ch | [Amulya Ch](https://www.linkedin.com/in/chamulya/) | [Certificate Link](https://badgr.com/public/assertions/kXmz6OmhTHmkcaeVX5Momw?identity__email=amulyach97@gmail.com)| Helpful course, I learnt a lot about API's |
+| 1879 | Subhrajit Pal | [Subhrajit Pal](https://www.linkedin.com/in/subhrajitpal1/) | [Certificate Link](https://api.badgr.io/public/assertions/Qvp53hfERRu4MFASQmH66A?identity__email=subhrajitwork2%40gmail.com)| Great course |
+| 1880 | Aaryan Puri | [Aaryan Puri](www.linkedin.com/in/aaryan-puri-04923a228/) | [Certificate Link](https://api.badgr.io/public/assertions/WaK9QfQqQaSoBqK5BY20tw?identity__email=aaryanpuri75%40gmail.com)| It was a great course, Got good learning experience |
+| 1881 | Ayushi Bhargav | [Ayushi Bhargav] (https://www.linkedin.com/in/ayushi-bhargav/details/certifications/) | [Certificate Link](https://badgr.com/public/assertions/plsz3jNATnW2hP_K6aGwbg)| Wonderful course |
+| 1882 | Aditya Pandey | [Aditya Pandey](https://www.linkedin.com/in/aditya-pandey-824965247/) | [Certificate Link](https://api.badgr.io/public/assertions/_PfTLFXWSkiuW84QVL38iw?identity__email=adityapandey2395%40gmail.com)| Good course |
+| 1883 | Deepak vishwakarma | [deepak vishwakarma](https://www.linkedin.com/in/deepakv2003/) | [Certificate Link](https://api.badgr.io/public/assertions/BO7y90zbQOmveapNaWfdXg?identity__email=guddi7709894512%40gmail.com)| Best for beginners |
+> main
