@@ -1907,3 +1907,4 @@
 | 1904 | Shruti Gorhe | [Shruti Gorhe](www.linkedin.com/in/shruti-gorhe-2497a9253)  | [Certificate Link] {https://badgr.com/public/assertions/r_OGy4OcR8-fvdFm9SONOQ?identity__email=shrutiprashantgorhe@gmail.com) | Useful Course|
 | 1905 | Mohd Farhan Khan | [Mohd Farhan Khan](https://www.linkedin.com/in/mohd-farhan-khan-61363a255/) | [Certificate Link](https://api.badgr.io/public/assertions/jO2Vxq4XRW-Vw1Hpe-ZbrA?identity__email=goldenstone447%40gmail.com)| Added my details |
 | 1906 | Anneshu Nag | [Anneshu Nag](https://www.linkedin.com/in/anneshu-nag/) | [Certificate Link](https://api.badgr.io/public/assertions/H3JEVovkRD6D-vrXvbotLQ?identity__email=anneshu4760.be22%40chitkara.edu.in)| Great course |
+| 1907 | Srushti Bhujade | [Srushti Bhujade](www.linkedin.com/in/srushti-bhujade-9a046b254) | [Certificate Link](https://api.badgr.io/public/assertions/9mECs77kTMiECEFNrWT5zw?identity__email=srushtibhujade%40gmail.com)| Great one |
