@@ -1884,3 +1884,5 @@
 | 1881 | Ayushi Bhargav | [Ayushi Bhargav] (https://www.linkedin.com/in/ayushi-bhargav/details/certifications/) | [Certificate Link](https://badgr.com/public/assertions/plsz3jNATnW2hP_K6aGwbg)| Wonderful course |
 | 1882 | Aditya Pandey | [Aditya Pandey](https://www.linkedin.com/in/aditya-pandey-824965247/) | [Certificate Link](https://api.badgr.io/public/assertions/_PfTLFXWSkiuW84QVL38iw?identity__email=adityapandey2395%40gmail.com)| Good course |
 | 1883 | Deepak vishwakarma | [deepak vishwakarma](https://www.linkedin.com/in/deepakv2003/) | [Certificate Link](https://api.badgr.io/public/assertions/BO7y90zbQOmveapNaWfdXg?identity__email=guddi7709894512%40gmail.com)| Best for beginners |
+
+| 1884 | David Kumar Fule | [david kumar fule](https://www.linkedin.com/in/davidfule/) | [Certificate Link](https://api.badgr.io/public/assertions/jJ4XhoCNQSSShjmVCeptsA?identity__email=digitaldev18%40gmail.com)| Best  |
