@@ -1899,3 +1899,4 @@
 | 1896 | Muskan Agarwal | [Muskan Agarwal](https://www.linkedin.com/in/muskan-agarwala-5b516828a/) | [Certificate Link](https://api.badgr.io/public/assertions/Np5fxw01SoORUYPK8q2hzw?identity__email=mahekagarwal1216%40gmail.com)| Awesome course |
 | 1897 | Sudhanshu Saini | [Sudhanshu Saini](https://www.linkedin.com/in/sudhanshusaini24/) | [Certificate Link](https://api.badgr.io/public/assertions/0iVsfQdvTraRMDo3nvsZig?identity__email=sainisudhanshu389%40gmail.com)| Great course |
 | 1898 | Mousami Ghosh | [Mousami Ghosh](https://www.linkedin.com/in/mousami-ghosh-a71659322/) | [Certificate Link](https://api.badgr.io/public/assertions/VLt32AKzQ867OO_HToinHg?identity__email=ghoshmousami216%40gmail.com)| Great course |
+| 1899 | Amrutha M | [Amrutha M](https://www.linkedin.com/in/amrutha-m-297573279/) | [Certificate Link](https://api.badgr.io/public/assertions/Q_mXLjXtRYWikHmLjNIwdg?identity__email=amrutha.m273%40gmail.com)| Amazing course |
