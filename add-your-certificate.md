@@ -1911,3 +1911,4 @@
 | 1908 | Rohit Kumar | [Rohit Kumar](https://www.linkedin.com/in/rohit-kumar-764518292/) | [Certificate Link](https://api.badgr.io/public/assertions/uBruiXcYTS2CzNPPf-h4TQ?identity__email=rohitkum0056%40gmail.com)| Awesome course |
 | 1909 | Aritra Pradhan | [Aritra Pradhan](www.linkedin.com/in/aritra-pradhan-ba5a07280) | [Certificate Link](https://api.badgr.io/public/assertions/JKrHAfPPTsuEnwVzlHmK1A?identity__email=aritrarick.ar987%40gmail.com)| Wonderful course for fundamentals of API  |
 | 1910 | Samiha Akter| [Samiha Akter](https://www.linkedin.com/in/aktersamiha) | [Certificate Link](https://api.badgr.io/public/assertions/AJI8Nw_CRXKGPyuKyLJ5LA?identity__email=samihaaktter@gmail.com)| Had fun while learning |
+| 1911 | Sudipta Mandal | [Sudipta Mandal](https://www.linkedin.com/in/sudiptamandal-tech/) | [Certificate Link](https://api.badgr.io/public/assertions/gwz50TjgQ3GxQIkZn7CbCw?identity__email=imsudiptaa%40gmail.com)| Course was insightful, Thank you|
