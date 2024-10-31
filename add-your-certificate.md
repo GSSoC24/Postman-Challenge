@@ -1917,3 +1917,4 @@
 | 1914 | krishnam verma | [krishnam verma](www.linkedin.com/in/krishnam-verma-65a644262) | [Certificate Link](https://api.badgr.io/public/assertions/4Q6sTRGETxGkSBRePqy8HA?identity__email=tekcoder3%40gmail.com)| Great course |
 | 1915 | Sarvottam Kumar | [Sarvottam Kumar](https://www.linkedin.com/in/sarvottam-kumar-747a72229/) | [Certificate Link](https://api.badgr.io/public/assertions/AvRmD4L1QAi6NjuGxbMlvw?identity__email=sarvottam.20202077%40mnnit.ac.in) | Great course |
 | 1916 | Harshita Jain | [Harshita Jain](https://www.linkedin.com/in/harshita-jain-635832274/) | [Certificate Link]( https://badgr.com/public/assertions/USFuTHagQLqCOt7_VTYwXg?identity__email=rharshita264@gmail.com)| very useful for many of us |
+| 1917 | Valay Patel | [Valay Patel](https://www.linkedin.com/in/valay30) | [Certificate Link](https://api.badgr.io/public/assertions/uU3UfaB1QEqgi6HNDCkjrg?identity__email=patelvalay308%40gmail.com)| Good course for learning |
