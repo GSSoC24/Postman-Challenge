@@ -2069,4 +2069,5 @@
 | 2066 |Amruthavalli Chivukula | [Amruthavalli Chivukula](https://www.linkedin.com/in/amruthavalli-chivukula)  | [Certificate link](https://api.badgr.io/public/assertions/WS7VfHwhRGWrzk7TMkBFaw?identity__email=camruthav03%40gmail.com) | Great learning experience. Learnt how APIs work |
 | 2067 | Priyanka Kumari | [Priyanka Kumari](https://www.linkedin.com/in/priyanka-singh-6451ba273/) | [Certificate link](https://api.badgr.io/public/assertions/-XSDbc1CQjWw9dE3KVrkfQ?identity__email=priyankasingh8885%40gmail.com) | Great Platform indeed. |
 | 2068 | Arpin Mandal | [Arpin Mandal](https://www.linkedin.com/in/arpin-mandal-0b4224165/) | [Certificate link](https://api.badgr.io/public/assertions/ZSqGwRV8RZuneUPOTEvDSA?identity__email=arpinmandal143%40gmail.com) | Great platform to learn the API Fundamentals. |
+| 2075| Muhammad Abdullah Attari | [Muhammad Abdullah Attari](www.linkedin.com/in/muhammad-abdullah-fb127) | [Certificate link](https://api.badgr.io/public/assertions/bjT3278IRH6bT0M93EkBOg?identity__email=callmeab1182002%40gmail.com) Happy to learn about the postman API's and hope to implement it. |
 
