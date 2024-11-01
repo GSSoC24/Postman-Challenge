@@ -2059,3 +2059,4 @@
 | 2056 | Divya Kumari | [Divya Kumari](https://www.linkedin.com/in/divya-kumari-51947a236/)  | [Certificate link](https://api.badgr.io/public/assertions/uuvcbgz2RUyLbAtxpYVsDQ?identity__email=1103divyasingh%40gmail.com) | Great Platform indeed. |
 | 2057 | Anuranjan Jain | [Anuranjan Jain](https://www.linkedin.com/in/Anuranjanjain/)  | [Certificate link](https://badgr.com/public/assertions/jV2WCFS7Q4a-6nzzGLZHqA?identity__email=weebxaj@gmail.com) | Good Learnings . |
 | 2058 | Abdul Nasir | [Abdul Nasir](https://www.linkedin.com/in/abdul-nasir-a32355283)  | [Certificate link](https://api.badgr.io/public/assertions/xA6D8yDvScWMDZKTXTwOwA?identity__email=thisisabdulnasir%40gmail.com) | Simple to understand. |
+| 2059 | Apoorva Gupta | [Apoorva Gupta](https://www.linkedin.com/in/apoorva-gupta-31004120b/)  | [Certificate link](https://api.badgr.io/public/assertions/VHZT6jqCR3uoB9n37S8msA?identity__email=apoorvag.2017%40gmail.com) | Great course. |
