@@ -2069,4 +2069,4 @@
 | 2066 |Amruthavalli Chivukula | [Amruthavalli Chivukula](https://www.linkedin.com/in/amruthavalli-chivukula)  | [Certificate link](https://api.badgr.io/public/assertions/WS7VfHwhRGWrzk7TMkBFaw?identity__email=camruthav03%40gmail.com) | Great learning experience. Learnt how APIs work |
 | 2067 | Priyanka Kumari | [Priyanka Kumari](https://www.linkedin.com/in/priyanka-singh-6451ba273/) | [Certificate link](https://api.badgr.io/public/assertions/-XSDbc1CQjWw9dE3KVrkfQ?identity__email=priyankasingh8885%40gmail.com) | Great Platform indeed. |
 | 2068 | Arpin Mandal | [Arpin Mandal](https://www.linkedin.com/in/arpin-mandal-0b4224165/) | [Certificate link](https://api.badgr.io/public/assertions/ZSqGwRV8RZuneUPOTEvDSA?identity__email=arpinmandal143%40gmail.com) | Great platform to learn the API Fundamentals. |
-
+| 2069 | Jetshree Sharma | [Jetshree Sharma](https://www.linkedin.com/in/jetshree-sharma-603a43284) | [Certificate link](https://api.badgr.io/public/assertions/CUgT5-dmS_CwqylAfzNzlA?identity__email=jetshreesharma%40gmail.com) | Great learning experience. |
