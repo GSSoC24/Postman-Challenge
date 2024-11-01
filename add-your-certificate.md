@@ -2057,3 +2057,4 @@
 | 2054 | Sumehara Rabbanee Shaik | [Sumehara Rabbanee Shaik](www.linkedin.com/in/sumehara-rabbanee-shaik-0769142b1)  | [Certificate link](https://badgr.com/backpack/badges/671fd91bb5c04140e2265f11) | Learnt a lot indeed. |
 | 2055 | Zafar Ali | [Zafar Ali](www.linkedin.com/in/zafar-ali-825283294)  | [Certificate link](https://badgr.com/print-certificate/672502c6ec6e58181770fe6b) | one of the greatest platform |
 | 2056 | Divya Kumari | [Divya Kumari](https://www.linkedin.com/in/divya-kumari-51947a236/)  | [Certificate link](https://api.badgr.io/public/assertions/uuvcbgz2RUyLbAtxpYVsDQ?identity__email=1103divyasingh%40gmail.com) | Great Platform indeed. |
+| 2057 | Vundi Lakshmi Lahari | [Vundi Lakshmi Lahari](https://www.linkedin.com/in/lakshmi-lahari-vundi-3b9580290)  | [Certificate link](https://api.badgr.io/public/assertions/QH8FGs01T5SPVTt3Rwm6Hw?identity__email=lakshmilahari2004%40gmail.com) | Great hands on experience. |
