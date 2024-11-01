@@ -2067,3 +2067,4 @@
 | 2064 | Khushi | [Khushi](https://www.linkedin.com/in/khushi-badsra-8753b7290/) | [Certificate link](https://api.badgr.io/public/assertions/bb6Efv4eTVqKtOYIiX6tFA?identity__email=khushiloginto%40gmail.com) | Good Experience. |
 | 2065 |Megh Deb | [Megh Deb](https://www.linkedin.com/in/megh-deb)  | [Certificate link](https://badgr.com/public/assertions/apvV-0_ITH-p7JPDMP8fVQ) | Great learning experience. |
 | 2066 |Amruthavalli Chivukula | [Amruthavalli Chivukula](https://www.linkedin.com/in/amruthavalli-chivukula)  | [Certificate link](https://api.badgr.io/public/assertions/WS7VfHwhRGWrzk7TMkBFaw?identity__email=camruthav03%40gmail.com) | Great learning experience. Learnt how APIs work |
+| 2067 | Priyanka Kumari | [Priyanka Kumari](https://www.linkedin.com/in/priyanka-singh-6451ba273/) | [Certificate link](https://api.badgr.io/public/assertions/-XSDbc1CQjWw9dE3KVrkfQ?identity__email=priyankasingh8885%40gmail.com) | Great Platform indeed. |
