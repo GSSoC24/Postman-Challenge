@@ -1,10 +1,6 @@
 
 
 <h1 align="center">Postman-Challenge Gssoc Ext</h1>
-
-<h1 align="center"> Postman API Student Expert</h1>
-
-
 <div align="center">
   
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
