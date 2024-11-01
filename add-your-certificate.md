@@ -2061,6 +2061,7 @@
 | 2058 | Abdul Nasir | [Abdul Nasir](https://www.linkedin.com/in/abdul-nasir-a32355283)  | [Certificate link](https://api.badgr.io/public/assertions/xA6D8yDvScWMDZKTXTwOwA?identity__email=thisisabdulnasir%40gmail.com) | Simple to understand. |
 | 2059 | Khushi | [Khushi](https://www.linkedin.com/in/khushi-badsra-8753b7290/)  | [Certificate link](https://api.badgr.io/public/assertions/bb6Efv4eTVqKtOYIiX6tFA?identity__email=khushiloginto%40gmail.com) | Good Experience. |
 | 2059 | Apoorva Gupta | [Apoorva Gupta](https://www.linkedin.com/in/apoorva-gupta-31004120b/)  | [Certificate link](https://api.badgr.io/public/assertions/VHZT6jqCR3uoB9n37S8msA?identity__email=apoorvag.2017%40gmail.com) | Great course. |
-| 2060 |M A SAI ADITHYAA | [M A SAI ADITHYAA](https://www.linkedin.com/in/sai-adithyaa-72b4a1293/)  | [Certificate link](https://api.badgr.io/public/assertions/rlVsmnioRYCeu3fmlDJqyw?identity__email=saiadithyaa2306%40gmail.com) | Great learning experience. |
+| 2060 | M A SAI ADITHYAA | [M A SAI ADITHYAA](https://www.linkedin.com/in/sai-adithyaa-72b4a1293/)  | [Certificate link](https://api.badgr.io/public/assertions/rlVsmnioRYCeu3fmlDJqyw?identity__email=saiadithyaa2306%40gmail.com) | Great learning experience. |
 | 2061 | Mohan Murali Swamy | [Mohan Murali Swamy](www.linkedin.com/in/mohan-murali-swamy-1801a0283)  | [Certificate link](https://api.badgr.io/public/assertions/eQQHsgQGTG25nZWbVfY5GA?identity__email=89511mohanmurali%40gmail.com) | Something new |
+| 2062 | Vundi Lakshmi Lahari | [Vundi Lakshmi Lahari](https://www.linkedin.com/in/lakshmi-lahari-vundi-3b9580290)  | [Certificate link](https://api.badgr.io/public/assertions/QH8FGs01T5SPVTt3Rwm6Hw?identity__email=lakshmilahari2004%40gmail.com) | Great hands on experience. |
 
