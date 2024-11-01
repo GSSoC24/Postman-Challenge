@@ -147,3 +147,14 @@ https://gssoc.girlscript.tech/leaderboard?year=<YEAR_BADGES>&username=<GITHUB_US
 
 
 #### Thank you for participating and contributing to our learning community! 🙌
+
+</div>
+    <div align="center">
+
+### GirlScript Summer of Code Extended 2024
+
+[Website](https://gssoc.girlscript.tech/) | [Instagram](https://www.instagram.com/girlscriptsummerofcode/?hl=en) | [LinkedIn](https://www.linkedin.com/company/girlscriptsoc) | [Twitter](https://twitter.com/girlscriptsoc) | [YouTube](https://www.youtube.com/@girlscriptfoundation45)
+
+</div>
+
+
