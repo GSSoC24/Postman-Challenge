@@ -2051,3 +2051,4 @@
 | 2048 | Abhishek TG | [Abhishek TG](https://www.linkedin.com/in/tg-abhishek/)  | [Certificate link](https://api.badgr.io/public/assertions/pnLaA_FUQxWmJpmYj8X_oQ?identity__email=abhilasha23062003%40gmail.com) | Learnt a lot of new benificial things! |
 | 2049 | Sambedan | [Sambedan](https://www.linkedin.com/in/sambedan-sahoo-803576276/)  | [Certificate link](https://badgr.com/print-certificate/6724def5ec6e58181770fa11) | Learnt a lot of new benificial things! |
 | 2050 | Astha Singh | [Astha Singh](www.linkedin.com/in/AsthaSingh22-8)  | [Certificate link](https://api.badgr.io/public/assertions/EBdqvCGtTrOoYWIHBsOFwQ?identity__email=asthach22%40gmail.com) | Great Platform indeed. |
+| 2051 |Ramya Paranthaman | [Ramya Paranthaman](https://www.linkedin.com/in/ramya-paranthaman-581705285)  | [Certificate link](https://api.badgr.io/public/assertions/-HlYuUYPQRmkmnZilTuc2g?identity__email=astronautgold192003%40gmail.com) | UseFul! |
