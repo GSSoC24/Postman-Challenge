@@ -2069,4 +2069,4 @@
 | 2066 |Amruthavalli Chivukula | [Amruthavalli Chivukula](https://www.linkedin.com/in/amruthavalli-chivukula)  | [Certificate link](https://api.badgr.io/public/assertions/WS7VfHwhRGWrzk7TMkBFaw?identity__email=camruthav03%40gmail.com) | Great learning experience. Learnt how APIs work |
 | 2067 | Priyanka Kumari | [Priyanka Kumari](https://www.linkedin.com/in/priyanka-singh-6451ba273/) | [Certificate link](https://api.badgr.io/public/assertions/-XSDbc1CQjWw9dE3KVrkfQ?identity__email=priyankasingh8885%40gmail.com) | Great Platform indeed. |
 | 2068 | Arpin Mandal | [Arpin Mandal](https://www.linkedin.com/in/arpin-mandal-0b4224165/) | [Certificate link](https://api.badgr.io/public/assertions/ZSqGwRV8RZuneUPOTEvDSA?identity__email=arpinmandal143%40gmail.com) | Great platform to learn the API Fundamentals. |
-
+| 2069 | Aryan Rohila | [Aryan Rohila](https://www.linkedin.com/in/aryan-rohila/) | [Certificate link](https://api.badgr.io/public/assertions/6AoMiTXDRCaO2eqAG1NVSg?identity__email=aryan.rohila.biz%40gmail.com) | Love to Experience some new stuff. |
