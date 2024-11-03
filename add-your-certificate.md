@@ -2168,5 +2168,13 @@
 | 2165 | Mohammad Faiz | [Mohammad Faiz](https://www.linkedin.com/in/mohammad-faiz-developer/))  | [Certificate link](https://api.badgr.io/public/assertions/I5LuPbBqR9ujuFqg2Vhd6w?identity__email=mohdfaizofficial487%40gmail.com))    | Really benefial for students. Loved this course! |
 | 2166 | Atul Bedwal | [Atul Bedwal](https://www.linkedin.com/in/atul-bedwal/) | [Certificate link](https://api.badgr.io/public/assertions/m_dbyRszTiS-bXAKWHn34g?identity__email=atulbedwal69%40gmail.com) | Ideal for anyone just starting out |
 
+| 2167 | Kothuru Veerendra Kumar | [Kothuru Veerendra Kumar](https://www.linkedin.com/in/veerendra-kumar-kothuru/) | [Certificate link](https://api.badgr.io/public/assertions/QGPx0BfnSgybzDA2pC37vA?identity__email=vk7032332758%40gmail.com) | Adding my commit |
+| 2168 | Prabal Patra | [Prabal Patra](https://www.linkedin.com/in/prabalpatra5499/https://www.linkedin.com/in/prabalpatra5499/)) | [Certificate link](https://api.badgr.io/public/assertions/CaWrkni2QZSECzfFgJv5dw)) | I had an amazing time enhancing my skills and connecting with passionate individuals during GSSoC. Thank you for the incredible opportunity! |
 
-| 2169 | Rudransh Pratap Singh | [Rudransh Pratap Singh](https://www.linkedin.com/in/rudransh-pratap-singh-5a6b72323/) | [Certificate link](https://api.badgr.io/public/assertions/Plk6VKhCRwaZxmQMOPK5zw?identity__email=tosylfluoride%40gmail.com) | Amazing initiative by Postman Academy !!|
+
+
+
+
+
+
+| 2175 | Rudransh Pratap Singh | [Rudransh Pratap Singh](https://www.linkedin.com/in/rudransh-pratap-singh-5a6b72323/) | [Certificate link](https://api.badgr.io/public/assertions/Plk6VKhCRwaZxmQMOPK5zw?identity__email=tosylfluoride%40gmail.com) | Amazing initiative by Postman Academy !!|
