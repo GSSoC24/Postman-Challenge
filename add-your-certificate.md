@@ -2167,14 +2167,11 @@
 | 2164 | Md Musharraf Khan | [Md Musharraf Khan](https://www.linkedin.com/in/mdmusharrafkhan))  | [Certificate link](https://api.badgr.io/public/assertions/O-67SQi_SIiaB_q83U4Krw?identity__email=mdmusharrafk%40gmail.com))    | It was very useful to learn about APIs. Thanks GSSoC and Postman|
 | 2165 | Mohammad Faiz | [Mohammad Faiz](https://www.linkedin.com/in/mohammad-faiz-developer/))  | [Certificate link](https://api.badgr.io/public/assertions/I5LuPbBqR9ujuFqg2Vhd6w?identity__email=mohdfaizofficial487%40gmail.com))    | Really benefial for students. Loved this course! |
 | 2166 | Atul Bedwal | [Atul Bedwal](https://www.linkedin.com/in/atul-bedwal/) | [Certificate link](https://api.badgr.io/public/assertions/m_dbyRszTiS-bXAKWHn34g?identity__email=atulbedwal69%40gmail.com) | Ideal for anyone just starting out |
-
 | 2167 | Kothuru Veerendra Kumar | [Kothuru Veerendra Kumar](https://www.linkedin.com/in/veerendra-kumar-kothuru/) | [Certificate link](https://api.badgr.io/public/assertions/QGPx0BfnSgybzDA2pC37vA?identity__email=vk7032332758%40gmail.com) | Adding my commit |
 | 2168 | Prabal Patra | [Prabal Patra](https://www.linkedin.com/in/prabalpatra5499/https://www.linkedin.com/in/prabalpatra5499/)) | [Certificate link](https://api.badgr.io/public/assertions/CaWrkni2QZSECzfFgJv5dw)) | I had an amazing time enhancing my skills and connecting with passionate individuals during GSSoC. Thank you for the incredible opportunity! |
-
-
-
-
-
-
-
-| 2175 | Rudransh Pratap Singh | [Rudransh Pratap Singh](https://www.linkedin.com/in/rudransh-pratap-singh-5a6b72323/) | [Certificate link](https://api.badgr.io/public/assertions/Plk6VKhCRwaZxmQMOPK5zw?identity__email=tosylfluoride%40gmail.com) | Amazing initiative by Postman Academy !!|
+| 2169 | Ansh Gupta | [Ansh Gupta](https://www.linkedin.com/in/ansh-gupta-97a8611b1/) | [Certificate link](https://api.badgr.io/public/assertions/MYbpa4jyR0OcXhx_GDRWWQ?identity__email=gupta2004ansh%40gmail.com) | Amazing Course |
+| 2170 |Meenakshi Marree| [Meenakshi Marree](www.linkedin.com/in/meenakshi-marree-19699b276))  | [Certificate link](https://api.badgr.io/public/assertions/kzQxj1GbTRW1H5bM5_I2mg?identity__email=meenakshimarree07%40gmail.com))    | As a Beginner , it is a great experiance to learn API and learned lot of things from this course |
+| 2171 |Ankit Anurag Sahu | [Ankit Anurag Sahu](www.linkedin.com/in/ankit-anurag-s-87b935224))  | [Certificate link](https://api.badgr.io/public/assertions/u8Fq9a0fRGawRku5bSoMCQ?identity__email=ankit.anurag58%40gmail.com))    | Great Learning experience in API and it's Fundamental. Thanks GSSoC|
+| 2172 | Avneet kaur | [Avneet Kaur](https://www.linkedin.com/in/avneetkaur025/)  | [Certification Link](https://api.badgr.io/public/assertions/ml7mhv40SD60CPcPIYfYYQ?identity__email=avneetkaurx56%40gmail.com) | Interesting Course   |
+| 2173 |Swapna Thallapally | [Swapna Thallapally](https://www.linkedin.com/in/swapna-thallapally-340698280)| [Certificate Link](https://api.badgr.io/public/assertions/rKrTqjanQZGY61jBf3iNuA?identity__email=b22cs183%40kitsw.ac.in)) | Great Experience in learning API and Fundamentals excited to share by badge. Thanks GSSoC|
+| 2174 | Rudransh Pratap Singh | [Rudransh Pratap Singh](https://www.linkedin.com/in/rudransh-pratap-singh-5a6b72323/) | [Certificate link](https://api.badgr.io/public/assertions/Plk6VKhCRwaZxmQMOPK5zw?identity__email=tosylfluoride%40gmail.com) | Amazing initiative by Postman Academy !!|
