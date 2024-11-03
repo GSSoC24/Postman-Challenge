@@ -2196,3 +2196,4 @@
 | 2193 | Prakhar chandra| [Prakhar Chandra](https://www.linkedin.com/in/prakhar-chandra-33a1a7326/) | [Certificate link](https://api.badgr.io/public/assertions/kyuJis28RlOxBZMedrQsDg?identity__email=prakharchandra1803%40gmail.com) | Learnt a lot |
 | 2194 | L Udbhav Reddy| [L Udbhav Reddy](https://www.linkedin.com/in/udbhav-reddy/) | [Certificate link](https://api.badgr.io/public/assertions/5MN7IfDoRDG9F-VAUAIuZg) | Good |
 | 2195 | Dipkul Khandelwal | [Dipkul Khandelwal](https://www.linkedin.com/in/dipkul-khandelwal-8628a3157/) | [Certificate link](https://api.badgr.io/public/assertions/HgJIKFdwQoaym0dpYcu6Xg?identity__email=deepkul2552003%40gmail.com) | Great |
+| 2196 | Jayashis Barua| [Jayashis Barua](https://www.linkedin.com/in/jayashis-barua-817830257/) | [Certificate link](https://api.badgr.io/public/assertions/I12J0eR4TMa7OVSoUfXJvw?identity__email=jayashisbarua2006%40gmail.com) | I really liked the course as it helped me know about APIs a lot |
