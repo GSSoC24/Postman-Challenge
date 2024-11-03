@@ -2144,3 +2144,5 @@
 | 2141 | Ramharsh Dandekar | [Ramharsh Dandekar](https://www.linkedin.com/in/ramharsh-dandekar) | [Certificate Link](https://api.badgr.io/public/assertions/izuzeoxdSN2k9Y6si-k_OQ) |  amazing Course to learn about API. |
 | 2142 | Yeddula Epafra | [Epafra Yeddula](https://www.linkedin.com/in/epafra-yeddula/))  | [Certificate link](https://api.badgr.io/public/assertions/pEXiUdvTRq-5K-YwYMBIAQ?identity__email=yepafra1%40gmail.com))    | Excitied to share my Postman API fundamenal Badge|
 | 2143 | Nikita Kulshreshtha | [Nikita Kulshreshtha](https://www.linkedin.com/in/nikita-kulshreshtha-))  | [Certificate link](https://api.badgr.io/public/assertions/6KyAkAwpT1OHop3vW9U_nQ?identity__email=kulnikita20%40gmail.com))    | Great Experience in learning API and Fundamentals. Thanks GSSoC|
+
+| 2144 | Raju Kumar Raja | LinkedIn: https://www.linkedin.com/in/raju-kumar-raja/ | Certificate link: https://api.badgr.io/public/assertions/TBOoS9CaThmXV39x7QgeTw?identity__email=rajukumar.191813%40gmail.com | Great experience in learning API fundamentals. Thanks, GSSoC! |
