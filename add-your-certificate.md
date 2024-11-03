@@ -2133,5 +2133,5 @@
 | 2129 | [Muskan Fatima](https://www.linkedin.com/in/muskan-fatima-ab90732b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)|[Certificate link](https://api.badgr.io/public/assertions/Kp5oLGyYTPu6ai55p-NSmA?identityemail=abdulrehmanali2626@gmail.com) |Awesome course for beginners. It is very useful | |
 | 2130 | Nivesh Chaudhary | [Nivesh Chaudhary](https://www.linkedin.com/in/nivesh-chaudhary-8b1b69295) | [Certificate Link](https://api.badgr.io/public/assertions/uu1CpBOATVagSe6uuaDHYw?identity__email=niveshchaudhary3009%40gmail.com)| Informative |
 | 2131 | Ayushman Rout | [Ayushman Rout](https://www.linkedin.com/in/ayushman-rout-9b440b286/)   | [Certificate link](https://api.badgr.io/public/assertions/LN9vbAahS_abmL4KQCnWUw?identity__email=ayushman.onlycode69%40gmail.com)    | Exciting Course for beginners! |
-| 2132 | Krithik Gokul | [Krithik Gokul ](https://www.linkedin.com/in/krithik-gokul-s-1267ab238/) | [Certificate Link] (https://api.badgr.io/public/assertions/0D3_cnDpTheBOAAUGZvKlw?identity__email=krithikgokuls%40gmail.com) | Very Useful Certification |
+| 2132 | Krithik Gokul | [Krithik Gokul ](https://www.linkedin.com/in/krithik-gokul-s-1267ab238/) | [Certificate Link] (https://badgr.com/public/assertions/0D3_cnDpTheBOAAUGZvKlw?identity__email=krithikgokuls@gmail.com) | Very Useful Certification |
 
