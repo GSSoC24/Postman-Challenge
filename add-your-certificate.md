@@ -2191,4 +2191,6 @@
 | 2188 | Shreya Malkhede | [Shreya Malkhede](https://www.linkedin.com/in/shreya-malkhede-022a0a326/)  | [Certificate link](https://api.badgr.io/public/assertions/vNYLrqJTSq-7cdvjs3huXQ?identity__email=malkhedeshreya%40gmail.com)    | Great Experience, Thanks GSSoC |
 | 2189 | Agam Agarwal | [Agam Agarwal](https://www.linkedin.com/in/agam-agarwal-633261226/)  | [Certificate link](https://api.badgr.io/public/assertions/4K2PW2MuSIaxxQGSiixVZw?identity__email=agamagarwal004%40gmail.com)    | Thank you so much for providing this amazing opportunity, thanks GSSOC!|
 | 2190 | Tanuj Vats| [Tanuj Vats](www.linkedin.com/in/tanuj-vats-558899259) | [Certificate link](https://api.badgr.io/public/assertions/awbUWXYETw-AW_Yinw7H6g?identity__email=vatstanuj0904%40gmail.com) | Superb Course |
-| 2191 | Sowjanya| [M Sowjanya](www.linkedin.com/in/sowjanya-s2508) | [Certificate link](https://api.badgr.io/public/assertions/KELPgcKtR1assG7IAVOaGg?identity__email=sowjanyamantri25%40gmail.com) | Great Experience, Thanks GSSoc |
+| 2191 | Gamana Chirumamilla | [Gamana Chirumamilla](https://www.linkedin.com/in/chirumamillagamana/) | [Certificate link](https://badgr.com/print-certificate/6727c27219cd647c65b6d6fc) | Thank you for such an amazing course |
+| 2192 | Sowjanya| [M Sowjanya](www.linkedin.com/in/sowjanya-s2508) | [Certificate link](https://api.badgr.io/public/assertions/KELPgcKtR1assG7IAVOaGg?identity__email=sowjanyamantri25%40gmail.com) | Great Experience, Thanks GSSoc |
+
