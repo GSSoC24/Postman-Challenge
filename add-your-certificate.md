@@ -2198,4 +2198,4 @@
 | 2195 | Dipkul Khandelwal | [Dipkul Khandelwal](https://www.linkedin.com/in/dipkul-khandelwal-8628a3157/) | [Certificate link](https://api.badgr.io/public/assertions/HgJIKFdwQoaym0dpYcu6Xg?identity__email=deepkul2552003%40gmail.com) | Great |
 | 2196 | Jayashis Barua| [Jayashis Barua](https://www.linkedin.com/in/jayashis-barua-817830257/) | [Certificate link](https://api.badgr.io/public/assertions/I12J0eR4TMa7OVSoUfXJvw?identity__email=jayashisbarua2006%40gmail.com) | I really liked the course as it helped me know about APIs a lot |
 | 2197 | Chandru S| [Chandru S](https://www.linkedin.com/in/chandru1106/) | [Certificate link](https://api.badgr.io/public/assertions/Y-zECO6_Seu3ZgpXcsaNug?identity__email=chandrusgrp%40gmail.com) | Great Experience, Thanks GSSoC |
-
+| 2198 | Deepanshu Baghel| [Deepanshu Baghel](www.linkedin.com/in/deepanshu-baghel-9637801b1) | [Certificate link](https://api.badgr.io/public/assertions/apfYRuEtQ0ihWEvtfb-XSQ?identity__email=deepanshubaghel88%40gmail.com) | Great Experience |
