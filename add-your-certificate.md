@@ -2252,3 +2252,4 @@
 | 2149 | Arushi Soti | [Arushi Soti](https://www.linkedin.com/in/arushi-soti-710639251/) | [Certificate link](https://api.badgr.io/public/assertions/8hPO5T7uTOaz1gqmtDfQxQ?identity__email=sakshisoti2%40gmail.com) | Nice experience!. |
 | 2150 | Charan rai| [Charan rai](https://www.linkedin.com/in/charan-rai2024) | [Certificate link](https://api.badgr.io/public/assertions/mkKZv1R0ReOa0pFl4oi4QQ?identity__email=raicharan100%40gmail.com) | Nice experience!. |
 | 2151 | Madiha Khan | [Madiha Khan](https://www.linkedin.com/in/madiha-khan-791a97231/) | [Certificate link](https://api.badgr.io/public/assertions/8Safcfq2TxKeHObxBmzfUw?identity__email=reha.haniy04%40gmail.com) | Add more tasks |
+| 2152 | Siddhi Raney | [Siddhi Raney](https://www.linkedin.com/in/siddhi-raney-1049b2275/)| [Certificate Link](https://badgr.com/public/assertions/_12cVJYLTpm8k5KzmOCzxw?identity__email=siddhiraney.sr@gmail.com)| An amazing learning experience! |
