@@ -2254,3 +2254,4 @@
 | 2151 | Madiha Khan | [Madiha Khan](https://www.linkedin.com/in/madiha-khan-791a97231/) | [Certificate link](https://api.badgr.io/public/assertions/8Safcfq2TxKeHObxBmzfUw?identity__email=reha.haniy04%40gmail.com) | Add more tasks |
 | 2152 | Siddhi Raney | [Siddhi Raney](https://www.linkedin.com/in/siddhi-raney-1049b2275/)| [Certificate Link](https://badgr.com/public/assertions/_12cVJYLTpm8k5KzmOCzxw?identity__email=siddhiraney.sr@gmail.com)| An amazing learning experience! |
 | 2153 | Jashwanth Valurouthu | [Jashwanth Valurouthu](https://www.linkedin.com/in/jashwanth-valurouthu-0668ab24b/)| [Certificate Link](https://badgr.com/backpack/badges/67291e208b04931e5ca31407?identity__email=2300033249%40kluniversity.in)| An amazing learning experience! |
+| 2154 | Ayush Ratan | [Ayush Ratan](https://www.linkedin.com/in/ayush-ratan-691b06256/)| [Certificate Link](https://badgr.com/public/assertions/AFBiozE5ScGlCgdqaKzh3w)| An amazing learning experience! |
