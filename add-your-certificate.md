@@ -2266,4 +2266,4 @@
 | 2159 | Anusha Arora | [Anusha Arora]([https://www.linkedin.com/in/anusha-arora-2a1464324/])| [Certificate Link](https://api.badgr.io/public/assertions/a116wT8jQIG-jH1iPUN5WQ?identity__email=aroraanusha2006%40gmail.com)| An amazing learning experience! |
 | 2160 | Tejas A M | [Tejas A M](https://www.linkedin.com/in/tejas-a-m/)| [Certificate Link](https://api.badgr.io/public/assertions/iEw-VBMxSqSd4Ct_mlFb5A?identity__email=tejasam571%40gmail.com)| An amazing learning experience! |
 | 2161 | Arpit Agrawal | [Arpit Agrawal](https://www.linkedin.com/in/arpit-agrawal-709407280/)| [Certificate Link](https://badgr.com/public/assertions/nberUJpwRRu3YQaR55lIkA?identity__email=agrawalarpit1020@gmail.com)| An amazing learning experience! |
-
+| 2162 | Gayathri Yerra | [Gayathri Yerra](https://www.linkedin.com/in/gayathri-yerra)| [Certificate Link](https://badgr.com/print-certificate/6729a05e8b04931e5ca32367)| Best way to get started with API's! |
