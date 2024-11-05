@@ -2312,3 +2312,4 @@
 | 2205 | Arin Nigam | [Arin Nigam](https://www.linkedin.com/in/arin-nigam/)| [Certificate Link](https://badgr.com/public/assertions/ZBD4EOhlRQ-X6UYm4SGkyQ)| The course was easy and simple to understand |
 | 2206 | Renil Joseph | [Renil Joseph](https://www.linkedin.com/in/renil-joseph/)| [Certificate Link](https://api.badgr.io/public/assertions/3uYur2dgSP-k-Ks-wcrj5A?identity__email=f20231390%40hyderabad.bits-pilani.ac.in) |
 | 2207 | Aakash Rao | [Aakash Rao](linkedin.com/in/aakash-codes/)| [Certificate Link](https://api.badgr.io/public/assertions/1J6qhbjqSyehMlEjlZmPeA?identity__email=aakash.codes02%40gmail.com)| Amazing and Fun experience with Postman & APIs |
+| 2208 | Mayank Kumar | [Mayank Kumar](https://www.linkedin.com/in/mackcodes/)| [Certificate Link](https://api.badgr.io/public/assertions/K1Xy1g6bS129_Pfz-QXRRQ?identity__email=mackcodes03%40gmail.com)| Great and well structured course the topics were well easily and clearly explained. |
