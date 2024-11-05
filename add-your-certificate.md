@@ -2323,3 +2323,7 @@
 | 2213 | Manav Nakai | [Manav Nakai](https://www.linkedin.com/in/manav-nakai-833482247/)| [Certificate Link](https://api.badgr.io/public/assertions/XGz95jJCQ8O7gaUtlLnw7Q?identity__email=manavnakai123%40gmail.com)| Valuable Course |
 | 2214 | Sanskar Gupta | [Sanskar Gupta](https://www.linkedin.com/in/sanskaarz)| [Certificate Link](https://api.badgr.io/public/assertions/x7fZ3pODQjSlmubYYUS0LQ?identity__email=sanskar786g%40gmail.com)| Amazing Course 💛🚀|
 | 2215 | Pasam Tharun | [Pasam Tharun](https://www.linkedin.com/in/pasam-tharun-07b104288/)| [Certificate Link](https://api.badgr.io/public/assertions/D85aOQ3wTpSDUQMi_WXNUQ?identity__email=tpasamtharun%40gmail.com)| Great assignment, excited to Looking Forward!||
+
+
+| 2216 | Ashutosh Gupta | [Ashutosh Gupta](www.linkedin.com/in/ashutosh-gupta-757980330)| [Certificate Link](https://api.badgr.io/public/assertions/izjuCAGjTIayh_1qJZImSQ?identity__email=ashutoshg2905%40gmail.com)| This introductory course is ideal for beginners, simplifying complex concepts with clear explanations and practical examples. |
+
