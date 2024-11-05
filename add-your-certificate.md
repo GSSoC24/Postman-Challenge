@@ -2327,3 +2327,4 @@
 
 | 2216 | Ashutosh Gupta | [Ashutosh Gupta](www.linkedin.com/in/ashutosh-gupta-757980330)| [Certificate Link](https://api.badgr.io/public/assertions/izjuCAGjTIayh_1qJZImSQ?identity__email=ashutoshg2905%40gmail.com)| This introductory course is ideal for beginners, simplifying complex concepts with clear explanations and practical examples. |
 
+| 2217 | Ch Sree Vardhani | [Ch Sree Vardhani](https://www.linkedin.com/in/ch-sree-vardhani-335077253/)| [Certificate Link](https://api.badgr.io/public/assertions/kd4Ig3R_TpG6x8bxHRu2nw?identity__email=chsvardhani%40gmail.com)| This course is very helful for beginners ||
