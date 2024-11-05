@@ -2298,4 +2298,4 @@
 | 2191 | Saksham Gupta | [Saksham Gupta](www.linkedin.com/in/sakshamgupta912)| [Certificate Link](https://api.badgr.io/public/assertions/1RGPzALuS4ySGSC76mKn5A?identity__email=sakshamdev3%40gmail.com)| Good course |
 | 2192 | Vaibhav Sanghani | [Vaibhav Sanghani](www.linkedin.com/in/vaibhav-sanghani-8b8550329)| [Certificate Link](https://api.badgr.io/public/assertions/CRsP68HaSC-I7eQMP3d27g?identity__email=vaibhavsanghani95%40gmail.com)| It was much user friendly course |
 | 2193 | Samyak Jain | [Samyak Jain](www.linkedin.com/in/samyak6117)| [Certificate Link](https://badgr.com/backpack/badges/6729e1abce986a775867ecbd)| Good course 
-
+| 2194 | Harshwardhan Vishwakarma | [Harshwardhan Vishwakarma](https://www.linkedin.com/in/avyoraj/)| [Certificate Link](https://api.badgr.io/public/assertions/k_ffXvZCRkWs-DPLdWNemA?identity__email=it.harshwardhan.vishwakarma%40pcenagpur.edu.in)| begineer friendly course |
