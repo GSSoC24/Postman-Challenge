@@ -2274,3 +2274,5 @@
 | 2167 | Raj Vardhan Chaudhary | [Raj Vardhan Chaudhary](https://www.linkedin.com/in/raj-vardhan-chaudhary-2b9070223/)| [Certificate Link](https://badgr.com/public/assertions/E88ByQykQhGvsQwXQNigRA?identity__email=rajvardhanchaudhary666@gmail.com)| Great Experience in learning API and Fundamentals. Thanku GSSoC and Postman |
 | 2168 | Chahat Gupta | [Chahat Gupta](https://www.linkedin.com/in/chahat-gupta-4684382a4/)| [Certificate Link](https://api.badgr.io/public/assertions/VFdkjIxcRTeMyEGajHc1Pg?identity__email=chahatnit%40gmail.com)| Very informative course for beginners |
 | 2169 | Shruti Dewaskar | [Shruti Dewaskar](https://in.linkedin.com/in/shruti-dewaskar-a43814285)| [Certificate Link](https://api.badgr.io/public/assertions/eipEZzF2QIS7YNwRMTqS3A?identity__email=shrutidewaskar2701%40gmail.com)| Fun assignment, liked it, probably will do it again |
+| 2170 | Ayush Sharma | [Ayush Sharma](https://www.linkedin.com/in/ayush-sharma-884595255/)| [Certificate Link](https://api.badgr.io/public/assertions/7IseRaIPTp2h2dyG9NlO5g?identity__email=ayushsharmahr4%40gmail.com)| Great assignment, excited to thinking about next project |
+
