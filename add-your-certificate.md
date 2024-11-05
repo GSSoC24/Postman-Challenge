@@ -2296,3 +2296,5 @@
 | 2189 | Nikhil Patil | [Nikhil Patil](https://www.linkedin.com/in/space-techy) | [Certificate Link](https://api.badgr.io/public/assertions/PK7gDTYSQW25DgfDST2l2A?identity__email=nikhilpatil222003%40gmail.com) | It was very friendly course but at some point it was difficult to understand |
 | 2190 | Indu Priya | [Indu Priya](www.linkedin.com/in/indu-priya-b6953128a)| [Certificate Link](https://api.badgr.io/public/assertions/KokABTl7TLGmIq2bU0X_gQ?identity__email=indupriyasanga%40gmail.com)| begineer friendly course |
 | 2191 | Saksham Gupta | [Saksham Gupta](www.linkedin.com/in/sakshamgupta912)| [Certificate Link](https://api.badgr.io/public/assertions/1RGPzALuS4ySGSC76mKn5A?identity__email=sakshamdev3%40gmail.com)| Good course |
+| 2192 | ADIBA NAUSHAD | [ADIBA NAUSHAD](https://www.linkedin.com/in/adiba-naushad-6b2205321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)|
+[Certificate link] (https://api.badgr.io/public/assertions/WJfQIXe8RXa8qWw7MbluBg?identity__email=adibanaushad0%40gmail.com)| easy and nice course |
