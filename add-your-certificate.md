@@ -2299,3 +2299,4 @@
 | 2192 | Vaibhav Sanghani | [Vaibhav Sanghani](www.linkedin.com/in/vaibhav-sanghani-8b8550329)| [Certificate Link](https://api.badgr.io/public/assertions/CRsP68HaSC-I7eQMP3d27g?identity__email=vaibhavsanghani95%40gmail.com)| It was much user friendly course |
 | 2193 | Samyak Jain | [Samyak Jain](www.linkedin.com/in/samyak6117)| [Certificate Link](https://badgr.com/backpack/badges/6729e1abce986a775867ecbd)| Good course 
 | 2194 | Harshwardhan Vishwakarma | [Harshwardhan Vishwakarma](https://www.linkedin.com/in/avyoraj/)| [Certificate Link](https://api.badgr.io/public/assertions/k_ffXvZCRkWs-DPLdWNemA?identity__email=it.harshwardhan.vishwakarma%40pcenagpur.edu.in)| begineer friendly course |
+| 2195 | Kumar Gandhudi | [Kumar Gandhudi](www.linkedin.com/in/kumar-g-6a0678281)| [Certificate Link](https://api.badgr.io/public/assertions/DLnCHW23SR-mmuVWD50aig?identity__email=kumar03.rkvalley%40gmail.com)| Excited to contribute more  |
