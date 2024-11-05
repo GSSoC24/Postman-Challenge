@@ -2300,3 +2300,4 @@
 | 2193 | Samyak Jain | [Samyak Jain](www.linkedin.com/in/samyak6117)| [Certificate Link](https://badgr.com/backpack/badges/6729e1abce986a775867ecbd)| Good course 
 | 2194 | Harshwardhan Vishwakarma | [Harshwardhan Vishwakarma](https://www.linkedin.com/in/avyoraj/)| [Certificate Link](https://api.badgr.io/public/assertions/k_ffXvZCRkWs-DPLdWNemA?identity__email=it.harshwardhan.vishwakarma%40pcenagpur.edu.in)| begineer friendly course |
 | 2195 | Kumar Gandhudi | [Kumar Gandhudi](www.linkedin.com/in/kumar-g-6a0678281)| [Certificate Link](https://api.badgr.io/public/assertions/DLnCHW23SR-mmuVWD50aig?identity__email=kumar03.rkvalley%40gmail.com)| Excited to contribute more  |
+| 2196 | Vivek Kumar Garg | [Vivek Kumar Garg](https://www.linkedin.com/in/vivek-kumar-garg-097677280/)| [Certificate Link](https://api.badgr.io/public/assertions/u3WXM2wjTNGMtHqBYbSVdA?identity__email=viv2005ek%40gmail.com)| Thankyou GSSOC and Postman for this wonderful course |
