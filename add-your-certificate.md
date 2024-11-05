@@ -2307,3 +2307,4 @@
 | 2200 | Vishal Kumar Singh | [Vishal Kumar Singh](https://github.com/vishalvoid)| [Certificate Link](https://www.linkedin.com/posts/vishalvoid_postman-api-postmancertified-activity-7259524586415742977-v5YA?utm_source=share&utm_medium=member_desktop)| Lots of things to learn very effective |
 
 | 2201 | Naman Singh Rana | [Naman Singh Rana](https://github.com/namansinghrana)| [Certificate Link](https://api.badgr.io/public/assertions/qGdtlcbsRb-WrQpufHJwFA?identity__email=namanr738%40gmail.com)| It was an effective course , lots of things to learn very effective |
+| 2202 | Kushal Bansal | [Kushal Bansal](https://www.linkedin.com/in/kushalbansal112)| [Certificate Link](https://api.badgr.io/public/assertions/TdNR2GVsS9CJK3CB2CLDBA?identity__email=321kushalbansal.kb%40gmail.com)| More tasks could be added within the course for its application in real-world scenario |
