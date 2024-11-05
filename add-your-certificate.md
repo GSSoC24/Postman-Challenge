@@ -2331,3 +2331,4 @@
 | 2224 | Prem Shaw | [Prem Shaw](www.linkedin.com/in/premshaw2311)| [Certificate Link](https://api.badgr.io/public/assertions/GkP2lAwgTZWt6vUr5QKSUQ?identity__email=shawprem217%40gmail.com)|begineer friendly course|
 | 2225 | Afnan Khan | [Afnan Khan](https://www.linkedin.com/afnan-khan-web-developer/)  | [Certification Link](https://api.badgr.io/public/assertions/nNcdu87pToSNxC553PGJ6Q?identity__email=afnank7865%40gmail.com)| Amazing Course   |  
 | 2226 | Kumari Priya Sharma | [Kumari Priya Sharma](https://www.linkedin.com/in/kumari-priya-sharma-94a101230/)| [Certificate Link](https://api.badgr.io/public/assertions/rvymJq0eSaeA2ENy1yB-mQ?identity__email=priyasharma28august%40gmail.com)| Developed Great foundations in API's  |
+| 2227 | Arjun Suresh | [ Arjun Suresh ]( https://www.linkedin.com/in/arjun-suresh108/ ) | [ Certificate Link ]( https://api.badgr.io/public/assertions/TI7k-y3uTtaThpB06rvw0w?identity__email=suresharjun621%40gmail.com ) | Amazing | 
