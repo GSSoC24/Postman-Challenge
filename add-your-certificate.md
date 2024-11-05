@@ -2257,3 +2257,4 @@
 | 2154 | Ayush Ratan | [Ayush Ratan](https://www.linkedin.com/in/ayush-ratan-691b06256/)| [Certificate Link](https://badgr.com/public/assertions/AFBiozE5ScGlCgdqaKzh3w)| An amazing learning experience! |
 | 2155 | Nishant Rana | [Nishant Rana](https://www.linkedin.com/in/nishantrana07/)| [Certificate Link](https://badgr.com/public/assertions/DJus0NxBREqsFdYCeb86zw)| An amazing learning experience! |
 | 2156 | Geervan Kappa | [Geervan Kappa](https://www.linkedin.com/in/geervan/)| [Certificate Link](https://badgr.com/public/assertions/deCk2a7ESyioJ6mxNa-jFA)| Learnt many new things! |
+| 2157 | Yashwanth S | yashwanths814@gmail.com | [Yashwanth S](https://www.linkedin.com/in/yashwanths814/) | [Certificate Link](https://api.badgr.io/public/assertions/f3rHJoyTQeKH8Yn56DT3WQ?identity__email=yashwanths814%40gmail.com) | Interesting!! |
