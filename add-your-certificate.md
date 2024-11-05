@@ -2270,7 +2270,6 @@
 | 2163 | Vishal Nadarge | [Vishal Nadarge](www.linkedin.com/in/vishal-nadarge-7a6936286) | [Certificate link](https://api.badgr.io/public/assertions/yzpUwCJPQiO0INFjJWWjgg?identity__email=vishalnadarge2%40gmail.com) | Great Experience in learning API and Fundamentals. Thanku GSSoC and Postman|
 | 2164 | SHAIK JALAL KHAJA MOHIDDIN | 2200039122cser@gmail.com | [SHAIK JALAL KHAJA MOHIDDIN](https://https://www.linkedin.com/in/SHAIKJALALKHAJAMOHIDDIN/)| [Certificate Link](https://api.badgr.io/public/assertions/yHCdGRWqTkmhfUra8I-tuQ?identity__email=2200039122cser%40gmail.com)| Good Experience |
 | 2165 | Rony Mandal | [Rony Mandal](https://www.linkedin.com/in/ronymandal/)| [Certificate Link](https://api.badgr.io/public/assertions/Rx-KfT2MQIqtHhMMkoh-Gg?identity__email=hustle.rony%40gmail.com)| Learned about APIs | 
-
 | 2166 | Priyanshi Singh | [Priyanshi Singh]( www.linkedin.com/in/priyanshi-singh-06a051293)| [Certificate Link] (https://api.badgr.io/public/assertions/JqhTgLyQRrS1AA2iCpVfbg?identity__email=btbtc23200_priyanshi%40banasthali.in)| Learned about APIs |
 | 2167 | Raj Vardhan Chaudhary | [Raj Vardhan Chaudhary](https://www.linkedin.com/in/raj-vardhan-chaudhary-2b9070223/)| [Certificate Link](https://badgr.com/public/assertions/E88ByQykQhGvsQwXQNigRA?identity__email=rajvardhanchaudhary666@gmail.com)| Great Experience in learning API and Fundamentals. Thanku GSSoC and Postman |
 | 2168 | Chahat Gupta | [Chahat Gupta](https://www.linkedin.com/in/chahat-gupta-4684382a4/)| [Certificate Link](https://api.badgr.io/public/assertions/VFdkjIxcRTeMyEGajHc1Pg?identity__email=chahatnit%40gmail.com)| Very informative course for beginners |
@@ -2296,8 +2295,6 @@
 | 2188 | Lagisetty Ravikiran | [Lagisetty Ravikiran](https://www.linkedin.com/in/lagisetty-ravikiran-a308a3216/)| [Certificate Link](https://badgr.com/public/assertions/Hm56rdtBSv23nFFwbOezrA?identity__email=99210041072@klu.ac.in)| begineer friendly course and very helpful to gain knowledge |
 | 2189 | Nikhil Patil | [Nikhil Patil](https://www.linkedin.com/in/space-techy) | [Certificate Link](https://api.badgr.io/public/assertions/PK7gDTYSQW25DgfDST2l2A?identity__email=nikhilpatil222003%40gmail.com) | It was very friendly course but at some point it was difficult to understand |
 | 2190 | Indu Priya | [Indu Priya](www.linkedin.com/in/indu-priya-b6953128a)| [Certificate Link](https://api.badgr.io/public/assertions/KokABTl7TLGmIq2bU0X_gQ?identity__email=indupriyasanga%40gmail.com)| begineer friendly course |
-| 2191 | Khushi Chauhan | [Khushi Chaunhan](https://www.linkedin.com/in/khushi-chauhan-8a8455264/) | [Certificate Link](https://badgr.com/backpack/badges/6722efca19cd647c65b671e8) | Great way to strengthen my API skills with hands-on learning and practical tasks | 
-| 2191 | Saksham Gupta | [Saksham Gupta](www.linkedin.com/in/sakshamgupta912)| [Certificate Link](https://api.badgr.io/public/assertions/1RGPzALuS4ySGSC76mKn5A?identity__email=sakshamdev3%40gmail.com)| Good course |
 | 2191 | Saksham Gupta | [Saksham Gupta](www.linkedin.com/in/sakshamgupta912)| [Certificate Link](https://api.badgr.io/public/assertions/1RGPzALuS4ySGSC76mKn5A?identity__email=sakshamdev3%40gmail.com)| Good course |
 | 2192 | Vaibhav Sanghani | [Vaibhav Sanghani](www.linkedin.com/in/vaibhav-sanghani-8b8550329)| [Certificate Link](https://api.badgr.io/public/assertions/CRsP68HaSC-I7eQMP3d27g?identity__email=vaibhavsanghani95%40gmail.com)| It was much user friendly course |
 | 2193 | Samyak Jain | [Samyak Jain](www.linkedin.com/in/samyak6117)| [Certificate Link](https://badgr.com/backpack/badges/6729e1abce986a775867ecbd)| Good course 
@@ -2323,7 +2320,6 @@
 | 2213 | Manav Nakai | [Manav Nakai](https://www.linkedin.com/in/manav-nakai-833482247/)| [Certificate Link](https://api.badgr.io/public/assertions/XGz95jJCQ8O7gaUtlLnw7Q?identity__email=manavnakai123%40gmail.com)| Valuable Course |
 | 2214 | Sanskar Gupta | [Sanskar Gupta](https://www.linkedin.com/in/sanskaarz)| [Certificate Link](https://api.badgr.io/public/assertions/x7fZ3pODQjSlmubYYUS0LQ?identity__email=sanskar786g%40gmail.com)| Amazing Course 💛🚀|
 | 2215 | Pasam Tharun | [Pasam Tharun](https://www.linkedin.com/in/pasam-tharun-07b104288/)| [Certificate Link](https://api.badgr.io/public/assertions/D85aOQ3wTpSDUQMi_WXNUQ?identity__email=tpasamtharun%40gmail.com)| Great assignment, excited to Looking Forward!||
-
-
 | 2216 | Ashutosh Gupta | [Ashutosh Gupta](www.linkedin.com/in/ashutosh-gupta-757980330)| [Certificate Link](https://api.badgr.io/public/assertions/izjuCAGjTIayh_1qJZImSQ?identity__email=ashutoshg2905%40gmail.com)| This introductory course is ideal for beginners, simplifying complex concepts with clear explanations and practical examples. |
-
+| 2217 | Khushi Chauhan | [Khushi Chaunhan](https://www.linkedin.com/in/khushi-chauhan-8a8455264/) | [Certificate Link](https://badgr.com/backpack/badges/6722efca19cd647c65b671e8) | Great way to strengthen my API skills with hands-on learning and practical tasks | 
+| 2218 | Mukesh Billa | [Mukesh Billa](www.linkedin.com/in/mukeshbilla/)| [Certificate Link](https://api.badgr.io/public/assertions/zlXDmdXMSQm-grpx2v_f1A?identity__email=mukeshbilla2230%40gmail.com)| Excited to contribute more while learning new things. Thank You Team GSSOC & Postman |
