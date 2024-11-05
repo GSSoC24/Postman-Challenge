@@ -2297,5 +2297,4 @@
 | 2190 | Indu Priya | [Indu Priya](www.linkedin.com/in/indu-priya-b6953128a)| [Certificate Link](https://api.badgr.io/public/assertions/KokABTl7TLGmIq2bU0X_gQ?identity__email=indupriyasanga%40gmail.com)| begineer friendly course |
 | 2191 | Saksham Gupta | [Saksham Gupta](www.linkedin.com/in/sakshamgupta912)| [Certificate Link](https://api.badgr.io/public/assertions/1RGPzALuS4ySGSC76mKn5A?identity__email=sakshamdev3%40gmail.com)| Good course |
 | 2192 | Vaibhav Sanghani | [Vaibhav Sanghani](www.linkedin.com/in/vaibhav-sanghani-8b8550329)| [Certificate Link](https://api.badgr.io/public/assertions/CRsP68HaSC-I7eQMP3d27g?identity__email=vaibhavsanghani95%40gmail.com)| It was much user friendly course |
-| 2193 | Samyak Jain | [Samyak Jain](www.linkedin.com/in/samyak6117)| [Certificate Link](https://badgr.com/backpack/badges/6729e1abce986a775867ecbd)| Good course 
-
+| 2193 | Afnan Khan  | [Afnan Khan](https://www.linkedin.com/in/afnan-khan-web-developer/)  | [Certification Link](https://api.badgr.io/public/assertions/nNcdu87pToSNxC553PGJ6Q?identity__email=afnank7865%40gmail.com) | Amazing Course   |    
