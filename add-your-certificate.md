@@ -2305,5 +2305,5 @@
 | 2198 | Om Bharadwaj | [Om Bharadwaj](https://www.linkedin.com/feed/update/urn:li:activity:7259562293187788800/) | [Certificate Link](https://api.badgr.io/public/assertions/7VkDNhktTYiSrfrP76-FXQ) | Perfect Course for Introduction to API and its working! |
 | 2199 | Nishtha Kathpal | [Nishtha Kathpal](https://www.linkedin.com/in/nishtha-kathpal-201288251/) | [Certificate Link](https://badgr.com/public/assertions/W2eZoZ93QtW3ULWB7mHC8g?identity__email=nishthakathpal902@gmail.com) | Nice Course! |
 | 2200 | Vishal Kumar Singh | [Vishal Kumar Singh](https://github.com/vishalvoid)| [Certificate Link](https://www.linkedin.com/posts/vishalvoid_postman-api-postmancertified-activity-7259524586415742977-v5YA?utm_source=share&utm_medium=member_desktop)| Lots of things to learn very effective |
-
 | 2201 | Naman Singh Rana | [Naman Singh Rana](https://github.com/namansinghrana)| [Certificate Link](https://api.badgr.io/public/assertions/qGdtlcbsRb-WrQpufHJwFA?identity__email=namanr738%40gmail.com)| It was an effective course , lots of things to learn very effective |
+| 2202 | Ashmita singh | [Ashmita singh](https://www.linkedin.com/in/ashmita-singh-a5514024a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)| [Certificate Link](https://api.badgr.io/public/assertions/mNa8J6m1Sb-SwVufH5b6xw)| good explaination, liked it |
