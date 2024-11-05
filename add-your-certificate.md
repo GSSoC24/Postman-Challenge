@@ -2260,4 +2260,4 @@
 | 2157 | Yashwanth S | yashwanths814@gmail.com | [Yashwanth S](https://www.linkedin.com/in/yashwanths814/) | [Certificate Link](https://api.badgr.io/public/assertions/f3rHJoyTQeKH8Yn56DT3WQ?identity__email=yashwanths814%40gmail.com) | Interesting!! |
 | 2158 | Rahul Kumar Parida  |  rahulkumarparida52@gmail.com  | [Rahul Kumar Parida](https://www.linkedin.com/in/rahul-kumar-parida-b6219a292/)  | [Certificate](https://api.badgr.io/public/assertions/6-sj8i2sRFq2F1JU7uPNWQ?identity__email=rahulkumarparida52%40gmail.com ) | Enjoyed Learning Api Fundamental Was Easy to Use |
 | 2159 | Anusha Arora | [Anusha Arora]([https://www.linkedin.com/in/anusha-arora-2a1464324/])| [Certificate Link](https://api.badgr.io/public/assertions/a116wT8jQIG-jH1iPUN5WQ?identity__email=aroraanusha2006%40gmail.com)| An amazing learning experience! |
-
+| 2160 | Tejas A M | [Tejas A M](https://www.linkedin.com/in/tejas-a-m/)| [Certificate Link](https://api.badgr.io/public/assertions/iEw-VBMxSqSd4Ct_mlFb5A?identity__email=tejasam571%40gmail.com)| An amazing learning experience! |
