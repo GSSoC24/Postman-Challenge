@@ -2256,3 +2256,4 @@
 | 2153 | Jashwanth Valurouthu | [Jashwanth Valurouthu](https://www.linkedin.com/in/jashwanth-valurouthu-0668ab24b/)| [Certificate Link](https://badgr.com/backpack/badges/67291e208b04931e5ca31407?identity__email=2300033249%40kluniversity.in)| An amazing learning experience! |
 | 2154 | Ayush Ratan | [Ayush Ratan](https://www.linkedin.com/in/ayush-ratan-691b06256/)| [Certificate Link](https://badgr.com/public/assertions/AFBiozE5ScGlCgdqaKzh3w)| An amazing learning experience! |
 | 2155 | Nishant Rana | [Nishant Rana](https://www.linkedin.com/in/nishantrana07/)| [Certificate Link](https://badgr.com/public/assertions/DJus0NxBREqsFdYCeb86zw)| An amazing learning experience! |
+| 2156 | Geervan Kappa | [Geervan Kappa](https://www.linkedin.com/in/geervan/)| [Certificate Link](https://badgr.com/public/assertions/deCk2a7ESyioJ6mxNa-jFA)| Learnt many new things! |
