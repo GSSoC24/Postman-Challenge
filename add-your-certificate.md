@@ -2279,4 +2279,4 @@
 | 2172 | Anamika Ghosh | [Anamika Ghsoh](https://in.linkedin.com/in/anamikaghosh18)| [Certificate Link](https://api.badgr.io/public/assertions/0Vtnt81wRPmXhtDuRCcUvg?identity__email=g.anamika0101%40gmail.com)| begineer friendly course |
 | 2173 | Janya Patel | [Janya Patel](www.linkedin.com/in/janya-patel-0a6b1732b)| [Certificate Link](https://api.badgr.io/public/assertions/qGyzwj4lQEWeHzY_-gXe9g?identity__email=janyapatel14%40gmail.com)| It was a great experience |
 | 2174 | Ayush Sharma | [Ayush Sharma](https://www.linkedin.com/in/ayush-sharma-884595255/)| [Certificate Link](https://api.badgr.io/public/assertions/7IseRaIPTp2h2dyG9NlO5g?identity__email=ayushsharmahr4%40gmail.com)| Great assignment, excited to thinking about next project |
-
+| 2175 | Arin Nigam | [Arin Nigam](https://www.linkedin.com/in/arin-nigam/)| [Certificate Link](https://badgr.com/public/assertions/ZBD4EOhlRQ-X6UYm4SGkyQ)| The course was easy and simple to understand |
