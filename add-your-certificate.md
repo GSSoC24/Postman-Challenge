@@ -2415,3 +2415,5 @@
 | 2308 | Sriparno Palit| [Sriparno Palit](https://www.linkedin.com/in/sriparno-palit-780aa1293/)| [Certificate Link](https://api.badgr.io/public/assertions/VW3HtVM_RwWq3tcu3FpVuQ?identity__email=palitsriparno%40gmail.com)| Very Useful course for APIs |
 | 2309 | Saloni Joshi | [Saloni Joshi] (www.linkedin.com/in/salonijoshi1980)| [Certificate Link] (https://api.badgr.io/public/assertions/Bwn_waKKRiGeNLz3cDeKqw?identity__email=salonij703%40gmail.com)| Great course Thank you so much for your amazing support!I look forward to collaborating more in the future and want to learn more.|
 | 2310 | Sarthak Sachdev | [Sarthak Sachdev](https://www.linkedin.com/in/sarthak2004/)| [Certificate Link](https://api.badgr.io/public/assertions/1XBDy_OYS4CP4slq7vVX_w)| Lots of things to learn very effective course, thank you so much for your amazing support! It helped me enhance my knowledge and give an experience using API's.|
+| 2311 | Ritik Malik | [Ritik Malik](linkedin.com/in/ritik-malik-23210b267)| [Certificate Link](https://badgr.com/public/assertions/vRNPb57MSEC73QHR3S-diw?identity__email=rmab8501@gmail.com)| It's interesting to learn about how API Works |
+
