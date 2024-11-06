@@ -2388,4 +2388,6 @@
 | 2281 | Koushik Patra | patrakoushik561@gmail.com | [Koushik Patra](https://www.linkedin.com/in/koushik-patra/)| [Certificate Link](https://api.badgr.io/public/assertions/2yjRjZLiTyyJPpf1-UP8cA)| Great course to start with API, taught me a lot! Thank You! |
 | 2282 | Pal Mistry | [ Pal Mistry ](https://www.linkedin.com/in/palmistry/)| [Certificate Link](https://api.badgr.io/public/assertions/g-UfQyf0TrGsqvBp6zFBVg?identity__email=palmistry017%40gmail.com)| Great course to start with API! |
 | 2283 | Kushagra Sahu | [Kushagra Sahu](https://www.linkedin.com/in/kushagrasahu/) | [Certificate Link](https://api.badgr.io/public/assertions/FHBpzR2ASjeJ8sW-jnBNWA) | Postman always comes with banger courses!! Completely enjoyed the process. |
-| 2284 | Hamza Afzal  | [Hamza Afzal](https://www.linkedin.com/in/hamzaafzall/)| [Certificate Link](https://api.badgr.io/public/assertions/0YpD9dOhTMerqrxVWS_UCg?identity__email=hamza.afzalkhan9%40gmail.com)| Great course for learning the working api's and how to use postman for api testing  |
+| 2284 | Saikat Hazra| [Saikat Hazra](www.linkedin.com/in/saikat-hazra-19685b248)| [Certificate Link](https://api.badgr.io/public/assertions/GtzGbs9HQJSCbcEUhymImg?identity__email=saikat2216.be22%40chitkara.edu.in)| Great |
+| 2285 | Hamza Afzal  | [Hamza Afzal](https://www.linkedin.com/in/hamzaafzall/)| [Certificate Link](https://api.badgr.io/public/assertions/0YpD9dOhTMerqrxVWS_UCg?identity__email=hamza.afzalkhan9%40gmail.com)| Great course for learning the working api's and how to use postman for api testing  |
+
