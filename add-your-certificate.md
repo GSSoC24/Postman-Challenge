@@ -2358,4 +2358,4 @@
 | 2250 | Ranojit Das| [Ranojit Das](https://www.linkedin.com/in/ranojit-das/)| [Certificate Link](https://api.badgr.io/public/assertions/AUT74jRdR3WP9pNQAHOqjA?identity__email=ranojitdas362%40gmail.com)| Fantastic course for learning APIs—really helped me build a strong foundation! |
 | 2251 | Ankita Balaji Nadarge| [Ankita Balaji Nadarge](https://www.linkedin.com/in/ankita-nadarge)| [Certificate Link](https://api.badgr.io/public/assertions/s75D1XIEQYqbbbwv2uypIA?identity__email=nadargeankita4%40gmail.com)| It helped me enhance my knowledge and give an experience using API's. Thank you! |
 | 2252 | Suhas S| [Suhas S](www.linkedin.com/in/suhas-s5324/)| [Certificate Link](https://api.badgr.io/public/assertions/0aNuXNNOTGWVG_KJz52VPw?identity__email=suhas.s718204%40gmail.com)| Great course to start with API, taught me a lot! Thank You! |
-
+| 2252 | Nuthakki Satya murthy| [Nuthakki Satya murthy](www.linkedin.com/in/satya-murthy-nuthakki-b25775291)| [Certificate Link](https://api.badgr.io/public/assertions/14nVEt36QZyAxJTMRzqGWQ?identity__email=nuthakki.sunithavenu%40gmail.com)| Great course to start with API, taught me a lot! Thank You! |
