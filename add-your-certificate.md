@@ -2404,4 +2404,4 @@
 | 2297 | Israt Jahan| [Israt Jahan](https://www.linkedin.com/in/israt-jahan-04b3b12a0/)| [Certificate Link](https://api.badgr.io/public/assertions/a825hyCOSquBx8i37TEx5w?identity__email=223018312%40eastdelta.edu.bd)| It was a great experience. Had lots of fun learning! |
 | 2298 | PILLA ROHINI | [PILLA ROHINI](https://www.linkedin.com/in/pilla-rohini-097695250)| [Certificate Link](https://badgr.com/public/assertions/bFSGMWnDStSWk6X8aX353A?identity__email=satyapilla2005@gmail.com)| It is a nice course,Thank you |
 | 2299 | JOT AJMANI| [JOT AJMANI](https://www.linkedin.com/in/jot-ajmani-b9154b217/)| [Certificate Link](https://api.badgr.io/public/assertions/HOKn7ctvTSeV1opd-Hcz4g?identity__email=ajmanijot%40gmail.com)| Got to learn a lot! |
-
+| 2300 | Utkarsh Verma | [Utkarsh Verma](https://www.linkedin.com/in/utkarshvermaofficial/)| [Certificate Link](https://api.badgr.io/public/assertions/LkJo99_eRb2sVzMCu1Yfdg?identity__email=utkarsh248001%40gmail.com)|Loved the course!! Thank you GSSoC for this!! |
