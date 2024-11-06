@@ -2418,3 +2418,4 @@
 | 2311 | Ritik Malik | [Ritik Malik](linkedin.com/in/ritik-malik-23210b267)| [Certificate Link](https://badgr.com/public/assertions/vRNPb57MSEC73QHR3S-diw?identity__email=rmab8501@gmail.com)| It's interesting to learn about how API Works |
 | 2312 | Aryan Chaurasia | [Aryan Chaurasia](https://github.com/Aryan-9488)| [Certificate Link](https://api.badgr.io/public/assertions/I-xZ9xJwTp2Ry_KWQ_DkSw?identity__email=aryanchaurasia2002%40gmail.com)| It was an effective course. |
 | 2313 | Yasir Mansoori | [Yasir Mansoori](https://www.linkedin.com/in/yasir-mansoori/)| [Certificate Link](https://api.badgr.io/public/assertions/enyOGIcgSSGVXc7Q61RkNQ?identity__email=yasir.mansoori000%40gmail.com)| Just Awesome |
+| 2314 | Ritika Kumari | [Ritika Kumari](www.linkedin.com/in/ritika-kumari-b15b95289)| [Certificate Link](https://api.badgr.io/public/assertions/ZjthHT2yRsK4MCNRHFGlhQ?identity__email=rkjane333%40gmail.com)| Great Learning APIs. |
