@@ -2496,4 +2496,5 @@
 | 2388 | Vasudev Sarraf | [Vasudev Sarraf](https://www.linkedin.com/in/vasudev-sarraf-099a23302/)| [Certificate Link](https://api.badgr.io/public/assertions/vb5HPAFrS6e7AXPRrMBhsA?identity__email=vasudevsarraf11%40gmail.com)| Useful course for beginners , taught me a lot! Thank You! |
 | 2389 | Dinesh Kottakota | [Dinesh Kottakota](https://www.linkedin.com/in/dinesh-kottakota/)| [Certificate Link](https://api.badgr.io/public/assertions/h5a1jV9qQeOsNanEhhbyTA?identity__email=dineshkottakota1234%40gmail.com)| Amazing course! |
 | 2390 | Samarjeet Singh| [Samarjeet Singh](https://www.linkedin.com/in/samarjeet-singh-3b281722a/)| [Certificate Link](https://api.badgr.io/public/assertions/sf-YpVamTl-ZwlX49ZaPJA?identity__email=singhsamarjeet0987%40gmail.com)| Easy and Quick , Thank You! |
+| 2391 | Gurram karthik | [Gurram karthik ](https://www.linkedin.com/in/karthik-gurram-b7516b293/)| [Certificate Link](https://api.badgr.io/public/assertions/BMqENU0_Ra6afOiBZo6iEg?identity__email=gurramkarthik2006%40gmail.com)| Useful course for beginners , taught me a lot! Thank You! |
 
