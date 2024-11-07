@@ -2436,3 +2436,5 @@
 | 2329 | Roheeni Narayankar | [Roheeni Narayankar](https://www.linkedin.com/in/roheeni-narayankar-a7bb49199/)| [Certificate Link](https://api.badgr.io/public/assertions/V5vkCsG9Q16cMZXfp_SxXA?identity__email=n.roheeni%40gmail.com)| Well-structured and informative |
 | 2330 | Vanshika Gupta| [Vanshika Gupta](https://www.linkedin.com/in/vanshika-gupta-b9023428b)| [Certificate Link](https://api.badgr.io/public/assertions/gZPi6vo7RgGyPoMXk3vuPg?identity__email=vanshikagupta1404%40gmail.com)| Precise and crisp content was a nice idea! Was fun learning..|
 | 2331 | Nuthakki Satya murthy| [Nuthakki Satya murthy](www.linkedin.com/in/satya-murthy-nuthakki-b25775291)| [Certificate Link](https://api.badgr.io/public/assertions/14nVEt36QZyAxJTMRzqGWQ?identity__email=nuthakki.sunithavenu%40gmail.com)| Great course to start with API, taught me a lot! Thank You!
+| 2332 | Yash Jadaun| [Yash Jadaun](https://www.linkedin.com/in/yash-jadaun-4a8045229/)| [Certificate Link](https://api.badgr.io/public/assertions/rmA-mmTZTbmd704UHz-OFg?identity__email=yashjadaun2711%40gmail.com)| Great course to start with API, taught me a lot! Thank You! |
+
