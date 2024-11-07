@@ -2464,4 +2464,4 @@
 | 2357 | Siddhant Semwal| [Siddhant Semwal]((https://www.linkedin.com/in/siddhant-semwal/))| [Certificate Link](https://api.badgr.io/public/assertions/VabaP36yQ7uWWeadiUEpsw?identity__email=siddhantsemwal04%40gmail.com))| Very good course for absolute beginners. |
 | 2358 | Virendra Prajapati| [Virendra Prajapati]((https://www.linkedin.com/in/virendra-prajapati-284664257/))| [Certificate Link](https://api.badgr.io/public/assertions/0nWslksJRiqNMPmN8zgTbA?identity__email=virendraprajapati8176%40gmail.com))|  This course is ideal for beginners with well-explained topics. documentation is so good and beginner-friendly. Loved it!Thank You! |
 | 2359 | Vinit Kumar | [VINIT KUMAR ](www.linkedin.com/in/vinit-kumar2002/)| [Certificate Link](https://api.badgr.io/public/assertions/HAoHuuADQBaoSkZli0M7gg?identity__email=vinit71811%40gmail.com)|Loved the course!! Great Experience! |
-
+| 2360 | Anupam Raj Rauniyar | [Anupam Raj Rauniyar](https://www.linkedin.com/in/anupam-raj-rauniyar-50a7a3224/)| [Certificate Link](https://badgr.com/public/assertions/fHIMGLtyRHWxef4nwVctwQ)| Best for beginners |
