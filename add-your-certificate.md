@@ -2541,3 +2541,5 @@
 | 2432 | Divyani Patel | [Divyani Patel](https://www.linkedin.com/in/divyani-patel-a5b32a270)| [Certificate Link](https://api.badgr.io/public/assertions/SrSdgCDURtagytxy_RGrEA?identity__email=divyanipatel2022%40gmail.com) | Experience in Learning API and Fundamentals. Learn many new Things!! |
 | 2433 | Tanya Soni| [Tanya Soni](https://www.linkedin.com/in/tanya-soni-link/)| [Certificate Link](https://api.badgr.io/public/assertions/UdntRgkgSem3QhYWe0DUcg)| Great course! Thank You! |
 | 2434 | Kajal Kashyap| [Kajal Kashyap](https://www.linkedin.com/in/kajal-kashyap-b71b022a4)| [Certificate Link](https://api.badgr.io/public/assertions/s87e_2j8RKiHEZENLFWitw?identity__email=kashyapkashyap2212%40gmail.com)| Great course to start with API, Thank You!
+
+| 2434 | Kajal Kashyap| [Tanya Chanchalani](https://www.linkedin.com/in/tanyachanchalani/)| [Certificate Link](https://api.badgr.io/public/assertions/CTDXXnBiS86gmjB5ZPp2Dw?identity__email=tanyachanchalani%40gmail.com)| Amazing course, it was very quick and detailed at the same time! Thanks!
