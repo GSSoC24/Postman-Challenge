@@ -2504,3 +2504,4 @@
 | 2396 | saurabh sharma| [saurabh sharma](www.linkedin.com/in/saurabh-sharma-32278a280)| [Certificate Link](https://api.badgr.io/public/assertions/69AiGPpMQRy5jWH2BmSvBg?identity__email=saurabh.sharma9827%40gmail.com)| best course which help me to learn about api |
 | 2397 | Suhana Shaik| [Suhana Shaik](https://www.linkedin.com/in/suhana1089/)| [Certificate Link](https://api.badgr.io/public/assertions/A_srBjDYTFGojruKtvzarA)| Useful , thanks! |
 | 2398 | Himanshu Prajapati| [Himanshu Prajapati](www.linkedin.com/in/himanshu-prajapati-977932295)| [Certificate Link](https://api.badgr.io/public/assertions/xSEW-v9sQ32I_pDjURSBJw?identity__email=himanshuofficial9936%40gmail.com)| Greateful course for beginners|
+| 2400 | Naitik Madarwal| [Naitik Madarwal](https://www.linkedin.com/in/naitik-madarwal-nm3806)| [Certificate Link](https://badgr.com/public/assertions/-OCIsCrYQYutu5b26ggV6w?identity__email=naitikmadarwal3806@gmail.com)| Greateful course for beginners|
