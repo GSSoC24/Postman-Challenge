@@ -2444,3 +2444,5 @@
 | 2337 | ShehrozKashif| [Shehrozkashif](https://www.linkedin.com/in/shehroz-kashif-6018b431a/)| [Certificate Link](https://badgr.com/backpack/badges/672b6fa67820a60fe42979a8)| Greate course!  |
 | 2338 | Hamza Afzal  | [Hamza Afzal](https://www.linkedin.com/in/hamzaafzall/)| [Certificate Link](https://api.badgr.io/public/assertions/0YpD9dOhTMerqrxVWS_UCg?identity__email=hamza.afzalkhan9%40gmail.com)| Great course for learning the working api's and how to use postman for api testing  |
 | 2339 | Arushi Nirala | [Arushi Nirala](https://www.linkedin.com/in/arushi-nirala-aa714b295))| [Certificate Link](https://api.badgr.io/public/assertions/ZhR_32WkTKKPugFjLXro-w?identity__email=arushinirala458%40gmail.com))| Learned the essentials of API basics and it is helpful for beginners.  |
+| 2340 | Kaushik Potru | [Kaushik Potru](https://www.linkedin.com/in/kaushik-potru-01a9a6285)| [Certificate Link](https://api.badgr.io/public/assertions/0YgV-ld7RpSp9sKnj8fAMw?identity__email=potrukaushik11%40gmail.com)| The course was good for fundamentals, liked it. |
+
