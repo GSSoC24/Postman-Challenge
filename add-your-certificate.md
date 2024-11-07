@@ -2471,3 +2471,4 @@
 | 2364 | Harshit Gupta| [Harshit Gupta](https://www.linkedin.com/in/harshit-gupta-6bb680259/)| [Certificate Link](https://api.badgr.io/public/assertions/4jsWzsrBSbmZZguCcZpHFw?identity__email=harshitgupta0910%40gmail.com)| It was a great experience. Had lots of learning! |
 | 2365 | Shubhodeep Mondal| [Shubhodeep Mondal](https://www.linkedin.com/in/shubho-deep)| [Certificate Link](https://api.badgr.io/public/assertions/gW1E1V8UQ5ODwJVE9zGPsg?identity__email=mondalshubhodeep30924%40gmail.com)| Thank You!
 | 2366 | Gunpreet Kaur| [Gunpreet Kaur](https://www.linkedin.com/in/gunpreet-kaur-8a2728294/)| [Certificate Link](https://api.badgr.io/public/assertions/eP5Vy3a2Tp23pzf9uzVZTw?identity__email=gunkaur0827%40gmail.com)| This course was great!Thank You for providing.
+
