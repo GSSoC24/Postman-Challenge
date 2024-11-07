@@ -2446,3 +2446,5 @@
 | 2339 | Arushi Nirala | [Arushi Nirala](https://www.linkedin.com/in/arushi-nirala-aa714b295))| [Certificate Link](https://api.badgr.io/public/assertions/ZhR_32WkTKKPugFjLXro-w?identity__email=arushinirala458%40gmail.com))| Learned the essentials of API basics and it is helpful for beginners.  |
 | 2340 | Kaushik Potru | [Kaushik Potru](https://www.linkedin.com/in/kaushik-potru-01a9a6285)| [Certificate Link](https://api.badgr.io/public/assertions/0YgV-ld7RpSp9sKnj8fAMw?identity__email=potrukaushik11%40gmail.com)| The course was good for fundamentals, liked it. |
 | 2341 | Deepanshu Prajpati| [Deepanshu Prajpati](https://www.linkedin.com/in/deepanshu-prajapati01/)| [Certificate Link](https://api.badgr.io/public/assertions/ScTIK-czR_GWWJ4ScY0uwg)| I had a great learning experience through this course. |
+| 2342 | Chaitanya Sai Meka| [Chaitanya Sai Meka](https://www.linkedin.com/in/chaitanya-sai-meka/)| [Certificate Link](https://api.badgr.io/public/assertions/I9Kb03HxS1GmtTgMhGBWBw?identity)| Loved the course! |
+
