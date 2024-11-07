@@ -2466,4 +2466,4 @@
 | 2359 | Vinit Kumar | [VINIT KUMAR ](www.linkedin.com/in/vinit-kumar2002/)| [Certificate Link](https://api.badgr.io/public/assertions/HAoHuuADQBaoSkZli0M7gg?identity__email=vinit71811%40gmail.com)|Loved the course!! Great Experience! |
 | 2360 | Anupam Raj Rauniyar | [Anupam Raj Rauniyar](https://www.linkedin.com/in/anupam-raj-rauniyar-50a7a3224/)| [Certificate Link](https://badgr.com/public/assertions/fHIMGLtyRHWxef4nwVctwQ)| Best for beginners |
 | 2361 | Gourav kumar ojhs | [Gourav kumar ojha](https://www.linkedin.com/in/gourav-kumar-ojha-13853b290/)| [Certificate Link](https://badgr.com/public/assertions/GALPD3sfQleE_qDkxGWA5Q?identity__email=gouravojha777@gmail.com&action=download)| Easy and quick to learn for beginers |
-
+| 2362 | Ajeet Singh| [Ajeet Singh](https://www.linkedin.com/in/ajeetsingh2001/)| [Certificate Link](https://api.badgr.io/public/assertions/pyyRTN4STz2lwKayZwcFYg?identity__email=singhajeet2312%40gmail.com)| Very amazing course for beginners , taught me a lot! Thank You! |
