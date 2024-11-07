@@ -2482,3 +2482,4 @@
 | 2374 | Kamankshi Goyal | [Kamankshi Goyal](https://www.linkedin.com/in/kamankshi-goyal-422824253/)| [Certificate Link](https://api.badgr.io/public/assertions/gb3DIaRlRHij0lET7lVNxA?identity__email=kamankshi555goyal%40gmail.com)| Wonerful Course!|
 | 2375 | Sandip Ghosh| [Sandip Ghosh](www.linkedin.com/in/sandip-ghosh-b782662a5)| [Certificate Link](https://api.badgr.io/public/assertions/fCp3lZC2SnKRjhMywNa2mQ?identity__email=sandipghosh0801gmail.com)| Thank You!|
 | 2376 | Mohammad Afzal| [Mohammad Afzal](https://www.linkedin.com/in/afzal-692858270)| [Certificate Link](https://api.badgr.io/public/assertions/6q9uXQviT4Gmsf0QxovXww?identity__email=afzalchodhary03%40gmail.com)| It was a great experience. Had lots of learning! |
+| 2377 | Akash Jana | [Akash Jana](https://www.linkedin.com/in/akashjana)| [Certificate Link](https://api.badgr.io/public/assertions/2CPq9_BNTeyHqJ0PiOI2Pw?identity__email=akashjana663%40gmail.com)| Easy follow along! |
