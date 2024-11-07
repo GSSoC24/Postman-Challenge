@@ -2452,3 +2452,5 @@
 | 2345 | Md Kaioum Islam| [Md Kaioum Islam](https://www.linkedin.com/in/kaiyumdev/)| [Certificate Link](https://api.badgr.io/public/assertions/9Iz8HPlIT4W4AxAvotHElw?identity__email=mdkaioumislam684%40gmail.com)| Such a helpful course for the beginner! |
 | 2346 | Sai Mohan Reddy| [Saimohan Reddy](https://www.linkedin.com/in/saimohanreddy/)| [Certificate Link](https://api.badgr.io/public/assertions/aI8H3MJMSIKyFlldg1CusA?identity__email=saimohan11sai%40gmail.com)| Amazing Course I learned a lot about API |
 | 2347 | Amishee Mathur| [Amishee Mathur](https://www.linkedin.com/in/amishee-mathur)| [Certificate Link](https://api.badgr.io/public/assertions/JhS84rApTAq8B-feF5tU8g?identity__email=abmca24078_amishee%40banasthali.in) | Enjoyed Learning about API |
+| 2348 | Ikshita Rajput | [Ikshita Rajput]((https://www.linkedin.com/in/ikshita-rajput-67a3101ba/))| [Certificate Link](https://api.badgr.io/public/assertions/nCEwxXQITu6cuGp3ru4D2g?identity__email=ikshita22%40gmail.com)| Thank you, GSSoC, for the invaluable opportunity to advance our skills with the Postman API Fundamentals Student Expert certification! |
+
