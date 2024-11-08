@@ -2625,6 +2625,9 @@
 | 2516 | Ayush Kumar Vyas| [Ayush Vyas](https://www.linkedin.com/in/ayush-vyas-a7b5b5257/)| [Certificate Link](https://badgr.com/public/assertions/W5Es1VyeRgG_IkjTcIbo5Q?identity__email=work.ayushvyas17@gmail.com)| Thanks to GSSOC'24 Extd. for giving me this opportunity to get Postman Badge!|
 | 2517 | Anuska Chatterjee | [Anuska Chatterjee](https://www.linkedin.com/in/anuska-chatterjee-8320a2255/)| [Certificate Link](https://api.badgr.io/public/assertions/v_dBXdBiTXGIwJT2fv6-6A?identity__email=chatterjeeanuska2772%40gmail.com) |  Learned API Fundamentals in the easiest way possible. Did not have the chance to face any difficulties. Great session!! |
 
+| 2518 | Ayush Ravi | [Ayush Ravi](www.linkedin.com/in/ayush-ravi-0b1249257)| [Certificate Link](https://api.badgr.io/public/assertions/o6KCWjKfR0-lEPVpfxtNxQ?identity__email=ayushravi8087%40gmail.com) |  Learned API Fundamentals in the easiest way possible. Did not have the chance to face any difficulties. Easy tutorials! |
+
+
 | 2518 | Kshitij Nikam | [Kshitij Nikam](https://www.linkedin.com/in/kshitij-nikam/)| [Certificate Link](https://badgr.com/public/assertions/5zNBg2XRTJKiOazZ_MBe_w?identity__email=kshitijnikam05@gmail.com) |  Thankyou for such a great learning experience..!! |
 
 | 2518 | Sk Anarul | [Sk Anarul](https://www.linkedin.com/in/sheikh-anarul/)|[Certification Link](https://badgr.com/public/assertions/IAUuyyCVT8-BwG-QRXsHLw?identity__email=skanarul8002@gmail.com) | Realy Amazing Course   |
@@ -2670,4 +2673,5 @@
 | 2558 | Ivan J Madathil| [Ivan J Madathil](https://www.linkedin.com/in/ivan-j-madathil-842034277/)| [Certificate Link](https://api.badgr.io/public/assertions/51GyrcDhT5mLKB-KoWYapA?identity__email=ivanjaison%40gmail.com)| Thanks to GSSOC'24 Extd. for giving me this opportunity to get the Postman Badge!|
 | 2559 | Pooja Bhattrai | [Pooja Bhattrai](https://www.linkedin.com/in/pooja-bhattrai-24b227180/)| [Certificate Link](https://api.badgr.io/public/assertions/tBvexUIoTIqKZr-BBQ4d8w?identity__email=bhattraipooja508%40gmail.com) |  I wanted to extend my heartfelt gratitude for the incredible opportunity you've provided to students like myself to learn and grow.Thank you for investing in our futures and empowering us with the tools we need to succeed. Your generosity and dedication truly inspire us to strive for excellence.! |
 | 2560 | Kamal Sing Bhumij | [Kamal Sing Bhumij](https://www.linkedin.com/in/kamalsingbhumij/)| [Certificate Link](https://api.badgr.io/public/assertions/GhQjiXi4SqSI8xTqVuDmvg?identity__email=bhumijkamal969%40gmail.com) |  Thanks to Postman and escpecially to GSoc for this opportunity and hands on session on APIs Fundamentals Great Learning! |
+
 
