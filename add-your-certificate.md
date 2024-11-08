@@ -2599,3 +2599,4 @@
 | 2490 | Naitik Madarwal| [Naitik Madarwal](https://www.linkedin.com/in/naitik-madarwal-nm3806)| [Certificate Link](https://badgr.com/public/assertions/-OCIsCrYQYutu5b26ggV6w?identity__email=naitikmadarwal3806@gmail.com)| Greateful course for beginners|
 | 2491 | Shravani Kale| [Shravani Kale](https://www.linkedin.com/in/shravani-kale/)| [Certificate Link](https://badgr.com/public/assertions/eiGliRngSdu71t3Am0q4JQ?identity__email=kaleshravani84@gmail.com)| Greateful course| 
 | 2492 | Priyansh Yadav | [Priyansh Yadav](www.linkedin.com/in/priyansh-yadav-50b04a32a)| [Certificate Link](https://api.badgr.io/public/assertions/OUZDNn8sSKqgFFu5d7tHGQ?identity__email=priyanshyadav364%40gmail.com)| Greateful course for beginners|
+| 2493 | Almnoiz khan | [Almoiz khan](https://www.linkedin.com/in/almoiz-khan-2184b8300)| [Certificate Link](https://api.badgr.io/public/assertions/KR27BLuVQ6OE2vsflyvMOA?identity__email=km856307%40gmail.com)| Helful to Understand APIs|
