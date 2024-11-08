@@ -2631,4 +2631,10 @@
 | 2522 | Kanchan Saini | [Kanchan Saini](www.linkedin.com/in/sainikanchan00) | [Certificate Link](https://api.badgr.io/public/assertions/jvjpX9yET_ul57Gaa_Gofw?identity__email=kanchan.saini1006%40gmail.com) | new and great experience ,very helpful |
 | 2523 | Prasanna Devireddy | [Prasanna Devireddy]([https://www.linkedin.com/in/prasanna-devireddy/])| [Certificate Link](https://api.badgr.io/public/assertions/H3FukXniSTCFgq2DArLsdw?identity__email=prasannadevireddy48%40gmail.com)| easy to understand and learned new stuff |
 | 2524 | Vraj Suthar | [Vraj Suthar](www.linkedin.com/in/vraj-suthar-4209122b8/)| [Certificate Link](https://api.badgr.io/public/assertions/gqcCqCfXSc2hUvCat2y7-g?identity__email=vrajsuthar13%40gmail.com)|Very insightful, gained a lot of knowledge about APIs.|
-| 2525 |Md Farid | [Md Farid](https://www.linkedin.com/in/md-farid-1aa563291/)| [Certificate Link](https://api.badgr.io/public/assertions/_CIsBN6SRCiYNHS0PSUPqw?identity__email=mdfarid.0118%40gmail.com)|Very Helpful!|
+
+| 2528 |Md Farid | [Md Farid](https://www.linkedin.com/in/md-farid-1aa563291/)| [Certificate Link](https://api.badgr.io/public/assertions/_CIsBN6SRCiYNHS0PSUPqw?identity__email=mdfarid.0118%40gmail.com)|Very Helpful!|
+
+| 2525 | Dnyaneshwar Borse| [Dnyaneshwar Borse](https://www.linkedin.com/in/dnyaneshwar-borse999/)| [Certificate Link](https://api.badgr.io/public/assertions/mk5PSlwfSG2cIG_TqYJH4w?identity__email=borsednyanesh99%40gmail.com)| a extraordinary academy for api fundamentals. thankyou |
+| 2526 | Tanisha Ojha | [Tanisha Ojha]([https://www.linkedin.com/in/ayan-shaikhh/](https://www.linkedin.com/in/tanisha-ojha-6bb1b0203/))| [Certificate Link]([https://api.badgr.io/public/assertions/GFlaeUCgSaKEUdBeWHoqvQ?identity__email=shaikhayan141%40gmail.com](https://api.badgr.io/public/assertions/JPnfnU_DRpG_AFXAyo41YQ?identity__email=tanisha.ojha2004x2%40gmail.com))| Very informative and easy to understand! |
+| 2527 | Sanskriti Mishra | [Sanskriti Mishra](https://www.linkedin.com/in/sanskriti-mishra-1871b1252/)| [Certificate Link](https://api.badgr.io/public/assertions/hhGE5zM2QEywTDNqNZ3uJw?identity__email=sanskritim2302%40gmail.com)|I am truly grateful for this opportunity.|
+
