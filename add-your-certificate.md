@@ -2581,3 +2581,5 @@
 | 2472 | Prince | [Prince Gaur](https://www.linkedin.com/in/prince-gaur-3b8034265/)| [Certificate Link](https://api.badgr.io/public/assertions/CAMcXwGNSzaLBO9kKOtAhg?identity__email=princegaur088%40gmail.com)| Useful course for beginners , taught me a lot! Thank You! |
 | 2473 | M Sanyuktha D Prabhu | [M Sanyuktha D Prabhu](https://www.linkedin.com/in/sanyuktha-prabhu-a5a257297/)| [Certificate Link](https://api.badgr.io/public/assertions/D0F5TGz1QA-R959ijRi8hA?identity__email=1bi23ai028%40bit-bangalore.edu.in )|  Taught me a lot! Thank You! |
 | 2474 | Priya Raj| [Priya Raj](https://www.linkedin.com/in/priya-raj-4b0380273/)| [Certificate Link](https://api.badgr.io/public/assertions/2_ydGLeTS427z7PjEanD9g?identity__email=2023ugcs018%40nitjsr.ac.in)| This course is very useful for me and literally each and every step has been explained , Thanks ! |
+| 2475 | V Harshavanth Reddy | [V Harshavanth Reddy](https://www.linkedin.com/in/harshavanth-/)| [Certificate Link](https://api.badgr.io/public/assertions/UJbNoAoSQGa5A2YCn5Bzcw?identity__email=v.harshavanthreddy%40gmail.com)| It is so amazing course! |
+
