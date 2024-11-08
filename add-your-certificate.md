@@ -2578,4 +2578,4 @@
 | 2469 | Ananya Sadhiye| [Ananya Sadhiye](https://www.linkedin.com/in/ananya-sadhiye-56045b311/)| [Certificate Link](https://badgr.com/public/assertions/E45B0cXaTaWRZl1WWlg-9g?identity__email=sadhiyeananya@gmail.com)| Developed skills in API scripting and automation while completing the Postman API Fundamentals Student Expert certification. Thank You GSSoC |
 | 2470 | Riddhi Sharma | [Riddhi Sharma](https://www.linkedin.com/in/riddhisharma13/)| [Certificate Link](https://api.badgr.io/public/assertions/IQwJHwlbQT25g7Sw4PHP7A?identity__email=aneuriddhi04%40gmail.com)|  I really got upskill , recommended. Thank You! |
 | 2471 | Aurobinda Chainy | [Aurobinda Chainy](https://www.linkedin.com/in/aurobinda-chainy/)| [Certificate Link](https://api.badgr.io/public/assertions/7uswI81TZadAqfLhJFzXg?identity_email=aurobindagudu396%40gmail.com)| Amazing course! taught me a lot!!! Thank You |
-
+| 2472 | Prince | [Prince Gaur](https://www.linkedin.com/in/prince-gaur-3b8034265/)| [Certificate Link](https://api.badgr.io/public/assertions/CAMcXwGNSzaLBO9kKOtAhg?identity__email=princegaur088%40gmail.com)| Useful course for beginners , taught me a lot! Thank You! |
