@@ -2505,7 +2505,7 @@
 | 2397 | Suhana Shaik| [Suhana Shaik](https://www.linkedin.com/in/suhana1089/)| [Certificate Link](https://api.badgr.io/public/assertions/A_srBjDYTFGojruKtvzarA)| Useful , thanks! |
 | 2398 | Himanshu Prajapati| [Himanshu Prajapati](www.linkedin.com/in/himanshu-prajapati-977932295)| [Certificate Link](https://api.badgr.io/public/assertions/xSEW-v9sQ32I_pDjURSBJw?identity__email=himanshuofficial9936%40gmail.com)| Greateful course for beginners|
 
-| 1372 | vivek roy | [vivek roy] | [certificate Link] (https://badgr.com/backpack/badges/672cf645e0248e551a91e048)
+| 2483 | vivek roy | [vivek roy] | [certificate Link] (https://badgr.com/backpack/badges/672cf645e0248e551a91e048)
 
 | 2399 | Debabrata Barman | [Debabrata Barman](www.linkedin.com/in/debabrata-barman)| [Certificate Link](https://api.badgr.io/public/assertions/y81lbE2eTXC8DgYNe6rgYQ?identity__email=debabrata15112001%40gmail.com)| learned a lot about APIs  |
 | 2400 | Punitha Narasegowda| [Punitha Narasegowda](www.linkedin.com/in/punitha-n69)| [Certificate Link](https://api.badgr.io/public/assertions/ueuywxWZS4-sOBigeRGmzQ?identity__email=10c07punitha.n%40gmail.com)| Very nice course for every beginner to develop an interest in discovering the world of API |
@@ -2586,4 +2586,14 @@
 | 2474 | Priya Raj| [Priya Raj](https://www.linkedin.com/in/priya-raj-4b0380273/)| [Certificate Link](https://api.badgr.io/public/assertions/2_ydGLeTS427z7PjEanD9g?identity__email=2023ugcs018%40nitjsr.ac.in)| This course is very useful for me and literally each and every step has been explained , Thanks ! |
 | 2475 | V Harshavanth Reddy | [V Harshavanth Reddy](https://www.linkedin.com/in/harshavanth-/)| [Certificate Link](https://api.badgr.io/public/assertions/UJbNoAoSQGa5A2YCn5Bzcw?identity__email=v.harshavanthreddy%40gmail.com)| It is so amazing course! |
 
+
+
+
+| 2476 | Dev Bhalgamiya | [Dev Bhalgamiya](https://www.linkedin.com/in/dev-bhalgamiya-b6b7b8280/) [Certificate Link](https://api.badgr.io/public/assertions/SI68YhZLROataTYqso8sEw?identity__email=210305105077%40paruluniversity.ac.in) | Amazing course for beginners , taught me a lot! Thank You! Looking forward for more such courses. |
+| 2477 | Biswajit Mahanty| [Biswajit Mahanty](https://www.linkedin.com/in/biswajit-mahanty-436347281/)| [Certificate Link](https://badgr.com/backpack/badges/672ce424e0248e551a91dc67__email=biswajitmahany7gmail.com)| This course is very useful for me and literally each and every step has been explained , Thanks ! |
+| 2478 | Udayan Mal| [Udayan Mal](https://www.linkedin.com/in/udayan-mal-abb377259/)| [Certificate Link](https://api.badgr.io/public/assertions/4a58Out-ThushzkyYPEEZQ?identity__email=udayan.mal03%40gmail.com)| This course has been incredibly helpful to me. Every step has been explained in great detail, making it easy to follow and understand. Thank you! |
+| 2479 | Charvi Sharma | [Charvi Sharma](https://www.linkedin.com/in/charvisharma35/) | [Certificate Link](https://api.badgr.io/public/assertions/9xG7OdAeQ06md12UQdSXhg?identity__email=fourvs35%40gmail.com) | Developed interest in APIs , Thanks alot!! |
+| 2480 | Saurabh Mishra| [Saurabh Mishra](https://www.linkedin.com/in/saurabh-mishra-57b08128b/)| [Certificate Link](https://badgr.com/public/assertions/ZrfR7dF8Ryu7ZR9zZ0SEFQ?identity__email=saurabhmishra6341@gmail.com)| This course has taught complex things in very simple way, thank you !|
+| 2481 | TalupulaSahithi| [TalupulaSahithi](www.linkedin.com/in/sahithi-talupula)| [Certificate Link](https://api.badgr.io/public/assertions/M6AY2i6eRCm2-0jX7BmYgQ?identity__email=talupulasahithi%40gmail.com)| adding certification|
+| 2482 | Vedant Lavale | [Vedant Lavale] (https://www.linkedin.com/in/vedantlavale-v881200/) | [Certificate Link](https://api.badgr.io/public/assertions/mvGlLMxpQ3i2LKlwRfvAIg?identity__email=vedantlavale%40gmail.com)| The course was just awesome!!|
 
