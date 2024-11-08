@@ -2573,3 +2573,5 @@
 | 2464 | Chetna Ghengare | [Chetna Ghengare](https://www.linkedin.com/in/chetna-ghengare-672786256)| [Certificate Link](https://api.badgr.io/public/assertions/gyz4oMmUTqGG-8NC6pCVYQ?identity__email=chetnaghengare0711%40gmail.com) |  Learned API and Fundamentals. Enjoyed the session!! |
 | 2465 | Ashish Patnaik| [Ashish Patnaik](www.linkedin.com/in/ashishpatnaik2806)| [Certificate Link](https://api.badgr.io/public/assertions/s3dyiV9cSxynL2mPgOoTcw?identity__email=patnaikmonalisa4%40gmail.com)| Learned skills in API . Thank You GSSoC |
 | 2466 | Appaji Nagaraja Dheeraj | [appaji-dheeraj](https://www.linkedin.com/in/appaji-dheeraj/) | [Certificate Link](https://api.badgr.io/public/assertions/JhAzk13bSl6r_MMoF8kw1Q?identity__email=dheeraj.nagaraja%40gmail.com) | Very well structured and informative. Thank you GSSoC |
+| 2467 | Meghana Kantayapalem | [Meghana Kantayapalem](https://www.linkedin.com/in/megha-k-99794728a)| [Certificate Link](https://api.badgr.io/public/assertions/T84K38mASRC03xMkWq8Kqw?identity__email=23wh1a12c1%40bvrithyderabad.edu.in)|it was a great experience | |23wh1a12c1@bvrithyderabad.edu.in|
+
