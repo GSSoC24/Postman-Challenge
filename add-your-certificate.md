@@ -2577,4 +2577,5 @@
 | 2468 | Himanshi| [Himanshi](https://www.linkedin.com/in/himanshimaheshwari/)| [Certificate Link](https://api.badgr.io/public/assertions/qPnTy0j6RFGXyZ0fviY58Q?identity__email=himanshimaheshwari210394%40acropolis.in)| Amazingly explained and very quick to understand Apis |
 | 2469 | Ananya Sadhiye| [Ananya Sadhiye](https://www.linkedin.com/in/ananya-sadhiye-56045b311/)| [Certificate Link](https://badgr.com/public/assertions/E45B0cXaTaWRZl1WWlg-9g?identity__email=sadhiyeananya@gmail.com)| Developed skills in API scripting and automation while completing the Postman API Fundamentals Student Expert certification. Thank You GSSoC |
 | 2470 | Riddhi Sharma | [Riddhi Sharma](https://www.linkedin.com/in/riddhisharma13/)| [Certificate Link](https://api.badgr.io/public/assertions/IQwJHwlbQT25g7Sw4PHP7A?identity__email=aneuriddhi04%40gmail.com)|  I really got upskill , recommended. Thank You! |
+| 2471 | Aurobinda Chainy | [Aurobinda Chainy](https://www.linkedin.com/in/aurobinda-chainy/)| [Certificate Link](https://api.badgr.io/public/assertions/7uswI81TZadAqfLhJFzXg?identity_email=aurobindagudu396%40gmail.com)| Amazing course! taught me a lot!!! Thank You |
 
