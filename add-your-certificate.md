@@ -2770,5 +2770,9 @@
 
 | 2660 | Veluvarthi Teja | [Veluvarthi Teja](www.linkedin.com/in/veluvarthi-teja-5b162a2b9)| [Certificate Link](https://badgr.com/public/assertions/aot5RA_eQdKMWacou05Z3g?identity__email=tejav2527@gmail.com)|Learned a lot from this Postman API course Thanks a lot|
 
-| 2661 | Maneesha Y| [Maneesha Y](https://www.linkedin.com/in/manu-mumba/)|[Certificate Link](https://badgr.com/public/assertions/ijJeUNj_Q0mmdg87CHp_eg?identity__email=manumumba1881@gmail.com)| Amazing course.Thank you GSSoC.|
-=======
+
+| 2663 | Maneesha Y| [Maneesha Y](https://www.linkedin.com/in/manu-mumba/)|[Certificate Link](https://badgr.com/public/assertions/ijJeUNj_Q0mmdg87CHp_eg?identity__email=manumumba1881@gmail.com)| Amazing course.Thank you GSSoC.|
+
+| 2661 | Khushi Dua | [khushidua110036@gmail.com](https://www.linkedin.com/in/khushi-dua-392084294/)| [Certificate Link](https://api.badgr.io/public/assertions/FCUK5eb4TeyAXXdfpJJWJw?identity__email=khushidua110036%40gmail.com)|Great Course|
+| 2662 | Yaswanth Vijjapu | [Yaswanth Vijjapu](www.linkedin.com/in/yaswanth-vijjapu-2572a7291)| [Certificate Link](https://badgr.com/public/assertions/C2YHlkLNSjW2KJE7eT_eAQ?identity__email=yaswanthvijjapu799@gmail.com)|Good Course.Learned about the Postman API fundamentals|
+
