@@ -2796,5 +2796,9 @@
 | 2665 | Byreddi Devi Sree Prasanth Reddy | [Devi Sree Prasanth](https://www.linkedin.com/in/byreddi-devi-sree-prasanth-reddy-41b540256/)| [Certificate Link](https://api.badgr.io/public/assertions/bN5--cOFRjeaIjColLW8DQ?identity__email=dsp771122%40gmail.com)| Thanks to GSSOC'24 Extd. for giving me this opportunity to get the Postman Badge!|
 | 2665 | Byreddi Devi Sree Prasanth Reddy | [Devi Sree Prasanth](https://www.linkedin.com/in/byreddi-devi-sree-prasanth-reddy-41b540256/)| [Certificate Link](https://api.badgr.io/public/assertions/bN5--cOFRjeaIjColLW8DQ?identity__email=dsp771122%40gmail.com)| Thanks to GSSOC'24 Extd. for giving me this opportunity to get the Postman Badge!|
 | 2666 | Shivam Nagpal | [shivamnagpal.tmqc@gmail.com](https://www.linkedin.com/in/shivam-nagpal23/)| [Certificate Link](https://api.badgr.io/public/assertions/JBZF8ifPTAOCHk6TJ3BZkw?identity__email=shivamnagpal.tmqc%40gmail.com)|Great introduction to APIs and Postman; highly practical and useful!|
+
+
+
+| 2667 | Sweksha | [swekshaansitamodanwal@gmail.com](https://www.linkedin.com/in/sweksha-gupta-877021271)| [Certificate Link](https://api.badgr.io/public/assertions/HhE_xDxqTLSwzm-RwjKI3Q?identity__email=swekshaansitamodanwal%40gmail.com)|It was an amazing experience hope the learnings will enables to deal with big projects.|
 | 2670 | J RISHI VARMA | [rishivarmaj@gmail.com](https://www.linkedin.com/in/jampana-satya-rishi-varma-2892b5291/)| [Certificate Link](https://api.badgr.io/public/assertions/HiFtyuWbTy-1f6yKbfhDBQ?identity__email=rishivarmaj%40gmail.com)|By this I got a clear knowledge on postman|
 
