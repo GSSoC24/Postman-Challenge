@@ -132,7 +132,7 @@ To have all of them center aligned, use this
 
 ### To redirect to Your stat's in Leaderload use below link format
 ```
-https://gssoc.girlscript.tech/leaderboard?year=<YEAR_BADGES>&username=<GITHUB_USENAME>
+https://gssoc.girlscript.tech/leaderboard?year=<extd-2024>&username=<RabdeepKaur>
 ```
 
 ### PostMan Badge Light
