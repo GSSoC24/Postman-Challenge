@@ -2775,5 +2775,11 @@
 
 | 2658 | Ravi Prakash | [rp031776@gmail.com](https://www.linkedin.com/in/ravi-prakash-261517290)| [Certificate Link](https://api.badgr.io/public/assertions/uxYZE9qgRdmqgpQrskp9Dw?identity__email=rp031776%40gmail.com)|It was very good course learned about the API fundamentals|
 | 2659 | Rakshitha C | [ranimcrk@gmail.com](www.linkedin.com/in/rakshitha-c-bb97a8285)| [Certificate Link](https://api.badgr.io/public/assertions/rW_ygOJfQlCOqIW8zSv58A?identity__email=ranimcrk%40gmail.com)|Thanks for providing this opportunity,Really I liked this course and learnt lot many things from this|
-| 2670 | J RISHI VARMA | [rishivarmaj@gmail.com](https://www.linkedin.com/in/jampana-satya-rishi-varma-2892b5291/)| [Certificate Link](https://api.badgr.io/public/assertions/HiFtyuWbTy-1f6yKbfhDBQ?identity__email=rishivarmaj%40gmail.com)|By this I got a clear knowledge on postman|
+
+
+
+| 2660 | Veluvarthi Teja | [Veluvarthi Teja](www.linkedin.com/in/veluvarthi-teja-5b162a2b9)| [Certificate Link](https://badgr.com/public/assertions/aot5RA_eQdKMWacou05Z3g?identity__email=tejav2527@gmail.com)|Learned a lot from this Postman API course Thanks a lot|
+| 2661 | Khushi Dua | [khushidua110036@gmail.com](https://www.linkedin.com/in/khushi-dua-392084294/)| [Certificate Link](https://api.badgr.io/public/assertions/FCUK5eb4TeyAXXdfpJJWJw?identity__email=khushidua110036%40gmail.com)|Great Course|
+| 2662 | Yaswanth Vijjapu | [Yaswanth Vijjapu](www.linkedin.com/in/yaswanth-vijjapu-2572a7291)| [Certificate Link](https://badgr.com/public/assertions/C2YHlkLNSjW2KJE7eT_eAQ?identity__email=yaswanthvijjapu799@gmail.com)|Good Course.Learned about the Postman API fundamentals|
+| 2663 | J RISHI VARMA | [rishivarmaj@gmail.com](https://www.linkedin.com/in/jampana-satya-rishi-varma-2892b5291/)| [Certificate Link](https://api.badgr.io/public/assertions/HiFtyuWbTy-1f6yKbfhDBQ?identity__email=rishivarmaj%40gmail.com)|By this I got a clear knowledge on postman|
 
