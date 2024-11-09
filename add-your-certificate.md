@@ -2693,4 +2693,6 @@
 | 2584 | Sravanam Charan | [Sravanam charan](https://www.linkedin.com/in/sravanam-charan-67773b2a7/)| [Certificate Link](https://api.badgr.io/public/assertions/4rzi8411TxmcU1stFvtDaQ?identity__email=sravanamcharan20%40gmail.com)|Very insightful, gained a lot of knowledge about APIs.|
 | 2585 | Sk Anarul | [Sk Anarul](https://www.linkedin.com/in/sheikh-anarul/)|[Certification Link](https://badgr.com/public/assertions/IAUuyyCVT8-BwG-QRXsHLw?identity__email=skanarul8002@gmail.com) | Realy Amazing Course   |
 | 2586 | Swamy Pothula | [Swamy Pothula](https://www.linkedin.com/in/swamy-pothula-0699ba258/)| [Certificate Link](https://api.badgr.io/public/assertions/NxJuAb6DTMaE6rYIk7hDpQ?identity__email=pothulaswamy3598%40gmail.com) | Learned API Fundamentals and created a collection of APIs |
+| 2587 | Md Farid | [Md Farid](https://www.linkedin.com/in/md-farid-1aa563291/)| [Certificate Link](https://api.badgr.io/public/assertions/_CIsBN6SRCiYNHS0PSUPqw?identity__email=mdfarid.0118%40gmail.com)|Very Helpful!|
+
 
