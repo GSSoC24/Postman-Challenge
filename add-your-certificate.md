@@ -2689,4 +2689,4 @@
 | 2579 | Fiza Qureshi | [Fiza Qureshi](https://www.linkedin.com/in/fizaqureshi/)| [Certificate Link](https://badgr.com/public/assertions/_kFZHIR5QCK_xQ9ioQw0fA?identity__email=fizaqureshi5251@gmail.com) |  It was a great way to learn about API. |
 | 2580 | Janhavi Agrahari | [Janhavi Agrahari](https://www.linkedin.com/in/janhavi-agrahari-ab6911249/)|[Certification Link](https://api.badgr.io/public/assertions/uZO1W12RQquq7vsKTLz5ow?identity__email=janhaviagrahari1410%40gmail.com) | Realy Amazing Course  |
 | 2581 | Tharika Shree R | [Tharika Shree R](https://www.linkedin.com/in/tharika-shree-r/)| [Certification Link](https://api.badgr.io/public/assertions/phynbQKbRLW6_seomjI3fQ?identity__email=tharikashreer88%40gmail.com) | Very interactive and informative course.I had a great time learning!|
-
+| 2582 | Vastavikadi | [Aditya Shukla](https://www.linkedin.com/in/vastavikadi/)|[Certification Link](https://api.badgr.io/public/assertions/xOGHYTfLRJe0OcbYaiyoyg?identity__email=aditya82004shukla%40gmail.com) | Really Amazing Course |
