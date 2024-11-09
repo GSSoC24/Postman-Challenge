@@ -2767,6 +2767,8 @@
 | 2658 | Ravi Prakash | [rp031776@gmail.com](https://www.linkedin.com/in/ravi-prakash-261517290)| [Certificate Link](https://api.badgr.io/public/assertions/uxYZE9qgRdmqgpQrskp9Dw?identity__email=rp031776%40gmail.com)|It was very good course learned about the API fundamentals|
 
 | 2659 | Rakshitha C | [ranimcrk@gmail.com](www.linkedin.com/in/rakshitha-c-bb97a8285)| [Certificate Link](https://api.badgr.io/public/assertions/rW_ygOJfQlCOqIW8zSv58A?identity__email=ranimcrk%40gmail.com)|Thanks for providing this opportunity,Really I liked this course and learnt lot many things from this|
-| 2660 | Maneesha Y| [Maneesha Y](https://www.linkedin.com/in/manu-mumba/)|[Certificate Link](https://badgr.com/public/assertions/ijJeUNj_Q0mmdg87CHp_eg?identity__email=manumumba1881@gmail.com)| Amazing course.Thank you GSSoC.|
-=======
 
+| 2660 | Veluvarthi Teja | [Veluvarthi Teja](www.linkedin.com/in/veluvarthi-teja-5b162a2b9)| [Certificate Link](https://badgr.com/public/assertions/aot5RA_eQdKMWacou05Z3g?identity__email=tejav2527@gmail.com)|Learned a lot from this Postman API course Thanks a lot|
+
+| 2661 | Maneesha Y| [Maneesha Y](https://www.linkedin.com/in/manu-mumba/)|[Certificate Link](https://badgr.com/public/assertions/ijJeUNj_Q0mmdg87CHp_eg?identity__email=manumumba1881@gmail.com)| Amazing course.Thank you GSSoC.|
+=======
