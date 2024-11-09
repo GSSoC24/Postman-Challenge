@@ -2789,3 +2789,8 @@
 | 2667 | Maneesha Y| [Maneesha Y](https://www.linkedin.com/in/manu-mumba/)|[Certificate Link](https://badgr.com/public/assertions/ijJeUNj_Q0mmdg87CHp_eg?identity__email=manumumba1
 | 2668 | Sweksha | [swekshaansitamodanwal@gmail.com](https://www.linkedin.com/in/sweksha-gupta-877021271)| [Certificate Link](https://api.badgr.io/public/assertions/HhE_xDxqTLSwzm-RwjKI3Q?identity__email=swekshaansitamodanwal%40gmail.com)|It was an amazing experience hope the learnings will enables to deal with big projects.|
 
+
+| 2668 | Srikakulapu Sai Chaitanya [chaitanyasrikakulapu9@gmail.com](https://www.linkedin.com/in/sai-chaitanya-9b3788291/)| [Certificate Link](https://api.badgr.io/public/assertions/8NI-SOVJSR6niB1FjMJhMg?identity__email=chaitanyasrikakulapu9%40gmail.com)|By this I got a clear knowledge on postman|
+| 2669 | Abhinav Gupta | [Abhinav Gupta](linkedin.com/in/abhinav-gupta-b91b482a4)| [Certificate Link](https://badgr.com/backpack/badges/672f08eae0248e551a925624__email=abhinavgupta2003.512@gmail.com)| A big thanks to GSSoC, Postman API, and Mr. Ali for his outstanding guidance. Through his clear and insightful explanation, I gained a solid understanding of CRUD operations and APIs. I truly appreciate this amazing learning experience.
+| 2670 | Chirag Garg | [Chirag Garg](https://www.linkedin.com/in/chirag1678)| [Certificate Link](https://api.badgr.io/public/assertions/sUC_DGUVRXqSZQnz-Uh4Cw?identity__email=chiraggarg1708%40gmail.com) |  Great Content, Learned how the API works and its components |
+
