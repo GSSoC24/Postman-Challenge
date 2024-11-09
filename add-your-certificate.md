@@ -2626,9 +2626,8 @@
 | 2517 | Anuska Chatterjee | [Anuska Chatterjee](https://www.linkedin.com/in/anuska-chatterjee-8320a2255/)| [Certificate Link](https://api.badgr.io/public/assertions/v_dBXdBiTXGIwJT2fv6-6A?identity__email=chatterjeeanuska2772%40gmail.com) |  Learned API Fundamentals in the easiest way possible. Did not have the chance to face any difficulties. Great session!! |
 | 2518 | Sk Anarul | [Sk Anarul](https://www.linkedin.com/in/sheikh-anarul/)|[Certification Link](https://badgr.com/public/assertions/IAUuyyCVT8-BwG-QRXsHLw?identity__email=skanarul8002@gmail.com) | Realy Amazing Course   |
 | 2519 | Mithanshu Hedau | [Mithanshu Hedau](https://www.linkedin.com/in/mithanshu-hedau-15066b282/)|[Certification Link](https://badgr.com/public/assertions/PggIJaqUSu-pLzTNw7nSwQ?identity__email=hedaumithanshu@gmail.com) | Thank you, GSSoC, for the insightful Postman API session! and to upscale skills |
-<<<<<<< HEAD
+
 | 2520 | Saibal Roy | [Saibal Roy](https://www.linkedin.com/in/saibal-roy-56610b254/)|[Certification Link](https://api.badgr.io/public/assertions/7qo2N6i6SY6NtjG_DJpUWw?identity__email=saibalroy576%40gmail.com)  |  Thanks to GSSOC'24 Extd. for giving me this opportunity to get Postman Badge!|
-=======
 | 2520 | Muhafiz Raza | [Muhafiz Raza](https://www.linkedin.com/in/muhafiz-raza/)| [Certificate Link](https://api.badgr.io/public/assertions/DDLt9IxmT-GL2NPRFtd_dw?identity__email=muhafizraza1209%40gmail.com) |  I liked that the course is mix of theory and hands on tasks to make it understand better. Learned new concepts such as Variables and their types, Scripting in Postman, Pre Request and Post Response scripting. One suggestion would be to make the `actorName` as direct property in `task 6` of lesson `skillcheck` as it can be confusing for JavaScript beginner to trace the property from another property. I would also suggest to increase the difficulty a bit more. |
 | 2521 | Sarbeswar Adhikari | [Sarbeswar Adhikari](https://www.linkedin.com/in/sarvesh-adk)| [Certificate Link](https://badgr.com/public/assertions/McdEuarHRWuikJOzhv8Xyg?identity__email=dev.sarbeswar@gmail.com) |  Learned API and Fundamentals and lot of other new things!! |
 | 2522 | Kanchan Saini | [Kanchan Saini](www.linkedin.com/in/sainikanchan00) | [Certificate Link](https://api.badgr.io/public/assertions/jvjpX9yET_ul57Gaa_Gofw?identity__email=kanchan.saini1006%40gmail.com) | new and great experience ,very helpful |
@@ -2654,4 +2653,4 @@
 | 2542 | Chandana H | [Chandana H]((https://www.linkedin.com/in/chandana-h-887373254/)) | [Certificate Link]([https://api.badgr.io/public/assertions/9xG7OdAeQ06md12UQdSXhg?identity__email=fourvs35%40gmail.com](https://api.badgr.io/public/assertions/zjen_dLvQWCS45njHQZHkw?identity__email=chandana6131%40gmail.com)) | Was very Informative course Thank you!! |
 | 2543 | Neha Joshi  | [Neha Joshi](https://in.linkedin.com/in/neha-joshi-1a54b0289) | [Certificate Link](https://api.badgr.io/public/assertions/v2zJTywXQLq5WsvGOMYrlA?identity__email=nehajoshi6350%40gmail.com) | Very well structured and informative. Thank you GSSoC |
 | 2544 | Estifanos S. | [Estifanos S.](https://www.linkedin.com/profile/estifanos1) | [Certificate Link](https://api.badgr.io/public/assertions/tOTjWPZURCuv8ACIcutOCQ?identity__email=learnestifanos%40gmail.com) | It was easily explained course! |
->>>>>>> 1a9b301390f1fb737403c780668298437643ab58
+
