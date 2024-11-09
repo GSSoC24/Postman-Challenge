@@ -2769,9 +2769,7 @@
 | 2659 | Rakshitha C | [ranimcrk@gmail.com](www.linkedin.com/in/rakshitha-c-bb97a8285)| [Certificate Link](https://api.badgr.io/public/assertions/rW_ygOJfQlCOqIW8zSv58A?identity__email=ranimcrk%40gmail.com)|Thanks for providing this opportunity,Really I liked this course and learnt lot many things from this|
 
 | 2660 | Veluvarthi Teja | [Veluvarthi Teja](www.linkedin.com/in/veluvarthi-teja-5b162a2b9)| [Certificate Link](https://badgr.com/public/assertions/aot5RA_eQdKMWacou05Z3g?identity__email=tejav2527@gmail.com)|Learned a lot from this Postman API course Thanks a lot|
-
-
-| 2667 | Maneesha Y| [Maneesha Y](https://www.linkedin.com/in/manu-mumba/)|[Certificate Link](https://badgr.com/public/assertions/ijJeUNj_Q0mmdg87CHp_eg?identity__email=manumumba1881@gmail.com)| Amazing course.Thank you GSSoC.|
+881@gmail.com)| Amazing course.Thank you GSSoC.|
 
 | 2661 | Khushi Dua | [khushidua110036@gmail.com](https://www.linkedin.com/in/khushi-dua-392084294/)| [Certificate Link](https://api.badgr.io/public/assertions/FCUK5eb4TeyAXXdfpJJWJw?identity__email=khushidua110036%40gmail.com)|Great Course|
 | 2662 | Yaswanth Vijjapu | [Yaswanth Vijjapu](www.linkedin.com/in/yaswanth-vijjapu-2572a7291)| [Certificate Link](https://badgr.com/public/assertions/C2YHlkLNSjW2KJE7eT_eAQ?identity__email=yaswanthvijjapu799@gmail.com)|Good Course.Learned about the Postman API fundamentals|
@@ -2786,4 +2784,8 @@
 | 2664 | INTURI SATYA TEJ | [satya Tej Inturi](https://www.linkedin.com/in/satya-tej-inturi-a0b698291/)| [Certificate Link](https://api.badgr.io/public/assertions/k3ZJAoNdQF6mSA0COEsOhw?identity__email=satyatejinturi%40gmail.com)| Thanks to GSSOC'24 Extd. for giving me this opportunity to get Postman Badge!|
 | 2665 | Byreddi Devi Sree Prasanth Reddy | [Devi Sree Prasanth](https://www.linkedin.com/in/byreddi-devi-sree-prasanth-reddy-41b540256/)| [Certificate Link](https://api.badgr.io/public/assertions/bN5--cOFRjeaIjColLW8DQ?identity__email=dsp771122%40gmail.com)| Thanks to GSSOC'24 Extd. for giving me this opportunity to get the Postman Badge!|
 | 2666 | Shivam Nagpal | [shivamnagpal.tmqc@gmail.com](https://www.linkedin.com/in/shivam-nagpal23/)| [Certificate Link](https://api.badgr.io/public/assertions/JBZF8ifPTAOCHk6TJ3BZkw?identity__email=shivamnagpal.tmqc%40gmail.com)|Great introduction to APIs and Postman; highly practical and useful!|
+
+
+| 2667 | Maneesha Y| [Maneesha Y](https://www.linkedin.com/in/manu-mumba/)|[Certificate Link](https://badgr.com/public/assertions/ijJeUNj_Q0mmdg87CHp_eg?identity__email=manumumba1
+| 2668 | Sweksha | [swekshaansitamodanwal@gmail.com](https://www.linkedin.com/in/sweksha-gupta-877021271)| [Certificate Link](https://api.badgr.io/public/assertions/HhE_xDxqTLSwzm-RwjKI3Q?identity__email=swekshaansitamodanwal%40gmail.com)|It was an amazing experience hope the learnings will enables to deal with big projects.|
 
