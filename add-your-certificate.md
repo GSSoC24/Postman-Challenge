@@ -2789,5 +2789,8 @@
 | 2662 | Yaswanth Vijjapu | [Yaswanth Vijjapu](www.linkedin.com/in/yaswanth-vijjapu-2572a7291)| [Certificate Link](https://badgr.com/public/assertions/C2YHlkLNSjW2KJE7eT_eAQ?identity__email=yaswanthvijjapu799@gmail.com)|Good Course.Learned about the Postman API fundamentals|
 | 2663 | Yashi Saini | [yashisaini718@gmail.com](www.linkedin.com/in/yashi-saini-1930a02a4)| [Certificate Link](https://api.badgr.io/public/assertions/LR_sRwQ_TvyD037XIHg3cg?identity__email=yashisaini718%40gmail.com)|Thanks to GSSOC'24 for giving me this opportunity to get postman badge !|
 | 2664 | INTURI SATYA TEJ | [satya Tej Inturi](https://www.linkedin.com/in/satya-tej-inturi-a0b698291/)| [Certificate Link](https://api.badgr.io/public/assertions/k3ZJAoNdQF6mSA0COEsOhw?identity__email=satyatejinturi%40gmail.com)| Thanks to GSSOC'24 Extd. for giving me this opportunity to get Postman Badge!|
-| 2670 | J RISHI VARMA | [rishivarmaj@gmail.com](https://www.linkedin.com/in/jampana-satya-rishi-varma-2892b5291/)| [Certificate Link](https://api.badgr.io/public/assertions/HiFtyuWbTy-1f6yKbfhDBQ?identity__email=rishivarmaj%40gmail.com)|By this I got a clear knowledge on postman|
 
+
+
+| 2665 | Byreddi Devi Sree Prasanth Reddy | [Devi Sree Prasanth](https://www.linkedin.com/in/byreddi-devi-sree-prasanth-reddy-41b540256/)| [Certificate Link](https://api.badgr.io/public/assertions/bN5--cOFRjeaIjColLW8DQ?identity__email=dsp771122%40gmail.com)| Thanks to GSSOC'24 Extd. for giving me this opportunity to get the Postman Badge!|
+| 2670 | J RISHI VARMA | [rishivarmaj@gmail.com](https://www.linkedin.com/in/jampana-satya-rishi-varma-2892b5291/)| [Certificate Link](https://api.badgr.io/public/assertions/HiFtyuWbTy-1f6yKbfhDBQ?identity__email=rishivarmaj%40gmail.com)|By this I got a clear knowledge on postman|
