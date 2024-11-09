@@ -2718,4 +2718,6 @@
 
 | 2609 | SINDHUMATHI R | [SINDHUMATHI R](www.linkedin.com/in/sindhumathi-ravichandran-7a714825a)| [Certificate Link](https://badgr.com/backpack/badges/672e2439e0248e551a92282d) |  Thanks to Postman and escpecially to GSoc for this opportunity and hands on session on APIs Fundamentals Great Learning! |
 | 2610 | Vikas Vakil Vishwakarma | [Vikas Vakil Vishwakarma](https://www.linkedin.com/in/vikas-vishwakarma-649462289/)| [Certificate Link](https://api.badgr.io/public/assertions/dfdXC5k7Ts-QocRl-tUTKg?identity__email=vishwakarmavikas0102%40gmail.com) |  Thanks GSSOC for the amazing session and opportunity. |
-| 2611 | Kaleem Akhtar | [Kaleem Akhtar](https://www.linkedin.com/in/kaleem-akhtar-b4a5762b4/)| [Certificate Link](https://api.badgr.io/public/assertions/8At0nUbjQbOaI_fll2KdMQ?identity__email=kaleempk555%40gmail.com)| Had a great time learning about APIs in an easy way.|
+
+| 2612 | Kaleem Akhtar | [Kaleem Akhtar](https://www.linkedin.com/in/kaleem-akhtar-b4a5762b4/)| [Certificate Link](https://api.badgr.io/public/assertions/8At0nUbjQbOaI_fll2KdMQ?identity__email=kaleempk555%40gmail.com)| Had a great time learning about APIs in an easy way.|
+| 2611 | Parnab Bagchi | [Parnab Bagchi](https://www.linkedin.com/in/parnab-bagchi-072966251/)| [Certificate Link](https://api.badgr.io/public/assertions/UIDAD1WgR9mV39vZwSKNHA?identity__email=pb7439578071%40gmail.com)| great for beginners . Thankyou |
