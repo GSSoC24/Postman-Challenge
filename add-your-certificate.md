@@ -2675,4 +2675,5 @@
 | 2566 | vaishnavi garad | [vaishugarad007@gmail.com](https://www.linkedin.com/in/vaishnavi-garad-12bb0031b)| [Certificate Link](https://api.badgr.io/public/assertions/KiQq4Rm1TUOEoyjCwVajHQ?identity__email=vaishugarad007%40gmail.com)|It was very good course learned about the API fundamentals|
 | 2567 | Laxmidevi Chitrala | [chitralalaxmidevicm@gmail.com](https://www.linkedin.com/in/laxmidevi-chitrala-18152b294/)| [Certificate Link](https://api.badgr.io/public/assertions/LnRTQVTCR4mIkV70xoj4lA?identity__email=chitralalaxmidevicm%40gmail.com)|By this I got a clear knowledge on postman|
 | 2568 | Keerthana Gujjarlapudi | [Keerthana Gujjarlapudi](https://www.linkedin.com/in/keerthana-g-008450279/)| [Certificate Link](https://api.badgr.io/public/assertions/ODPaMprpS2WJInjP2U-iHQ?identity__email=keerthanachowdary33%40gmail.com) |   Great session!! |
+| 2569 | Priyanshi Negi | [Priyanshi Negi](https://www.linkedin.com/in/priyanshi-negi/) | [Certificate Link](https://api.badgr.io/public/assertions/IIQ18U3mQLe30yyZ7-0iNA?identity__email=priyanshinegi1968%40gmail.com)| Very well structured course! |
 
