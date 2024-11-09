@@ -2719,3 +2719,5 @@
 | 2610 | Vikas Vakil Vishwakarma | [Vikas Vakil Vishwakarma](https://www.linkedin.com/in/vikas-vishwakarma-649462289/)| [Certificate Link](https://api.badgr.io/public/assertions/dfdXC5k7Ts-QocRl-tUTKg?identity__email=vishwakarmavikas0102%40gmail.com) |  Thanks GSSOC for the amazing session and opportunity. |
 | 2611 | Parnab Bagchi | [Parnab Bagchi](https://www.linkedin.com/in/parnab-bagchi-072966251/)| [Certificate Link](https://api.badgr.io/public/assertions/UIDAD1WgR9mV39vZwSKNHA?identity__email=pb7439578071%40gmail.com)| great for beginners . Thankyou |
 | 2612 |Aastha Mali | [Aastha Mali](https://www.linkedin.com/in/aasthamali/))| [Certificate Link](https://badgr.com/public/assertions/74tq0_VkR6GXKldEfkA8KQ?identity__email=aasthamali2004@gmail.com)) | great course!better understand about api  |
+| 2613 | Mayank Jain | [Mayank Jain](https://www.linkedin.com/in/mayank-jain-5540812b6/)| [Certificate Link](https://api.badgr.io/public/assertions/zAj7pWpQR2yctYm6VZ9fpg?identity__email=mayankmaster2004%40gmail.com) |  Thanks to Postman and escpecially to GSSOC for this opportunity and hands on session on APIs Fundamentals Great Learning! |
+
