@@ -2776,5 +2776,10 @@
 | 2661 | Khushi Dua | [khushidua110036@gmail.com](https://www.linkedin.com/in/khushi-dua-392084294/)| [Certificate Link](https://api.badgr.io/public/assertions/FCUK5eb4TeyAXXdfpJJWJw?identity__email=khushidua110036%40gmail.com)|Great Course|
 | 2662 | Yaswanth Vijjapu | [Yaswanth Vijjapu](www.linkedin.com/in/yaswanth-vijjapu-2572a7291)| [Certificate Link](https://badgr.com/public/assertions/C2YHlkLNSjW2KJE7eT_eAQ?identity__email=yaswanthvijjapu799@gmail.com)|Good Course.Learned about the Postman API fundamentals|
 
+
 | 2663 | Yashi Saini | [yashisaini718@gmail.com](www.linkedin.com/in/yashi-saini-1930a02a4)| [Certificate Link](https://api.badgr.io/public/assertions/LR_sRwQ_TvyD037XIHg3cg?identity__email=yashisaini718%40gmail.com)|Thanks to GSSOC'24 for giving me this opportunity to get postman badge !|
+
+=======
+| 2663 | Yashi Saini | [yashisaini718@gmail.com](www.linkedin.com/in/yashi-saini-1930a02a4)| [Certificate Link](https://api.badgr.io/public/assertions/LR_sRwQ_TvyD037XIHg3cg?identity__email=yashisaini718%40gmail.com)|Thanks to GSSOC'24 for giving me this opportunity to get postman badge !|
+| 2664 | INTURI SATYA TEJ | [satya Tej Inturi](https://www.linkedin.com/in/satya-tej-inturi-a0b698291/)| [Certificate Link](https://api.badgr.io/public/assertions/k3ZJAoNdQF6mSA0COEsOhw?identity__email=satyatejinturi%40gmail.com)| Thanks to GSSOC'24 Extd. for giving me this opportunity to get Postman Badge!|
 
