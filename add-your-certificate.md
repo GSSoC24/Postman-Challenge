@@ -2800,5 +2800,7 @@
 
 
 | 2667 | Sweksha | [swekshaansitamodanwal@gmail.com](https://www.linkedin.com/in/sweksha-gupta-877021271)| [Certificate Link](https://api.badgr.io/public/assertions/HhE_xDxqTLSwzm-RwjKI3Q?identity__email=swekshaansitamodanwal%40gmail.com)|It was an amazing experience hope the learnings will enables to deal with big projects.|
+
+| 2668 | Srikakulapu Sai Chaitanya [chaitanyasrikakulapu9@gmail.com](https://www.linkedin.com/in/sai-chaitanya-9b3788291/)| [Certificate Link](https://api.badgr.io/public/assertions/8NI-SOVJSR6niB1FjMJhMg?identity__email=chaitanyasrikakulapu9%40gmail.com)|By this I got a clear knowledge on postman|
 | 2670 | J RISHI VARMA | [rishivarmaj@gmail.com](https://www.linkedin.com/in/jampana-satya-rishi-varma-2892b5291/)| [Certificate Link](https://api.badgr.io/public/assertions/HiFtyuWbTy-1f6yKbfhDBQ?identity__email=rishivarmaj%40gmail.com)|By this I got a clear knowledge on postman|
 
