@@ -2878,3 +2878,5 @@
 (https://api.badgr.io/public/assertions/tlhRoueuRbaUqliVpG77vQ?identity__email=rajaditya0108%40gmail.com) | Informative and Insightful |
 |2768 | Renee Bethapudy | [22wh1a12a2@bvrithyderabad.edu.in](https://www.linkedin.com/in/renee-bethapudy-a31576259/) | [ Certificate link]
 (https://api.badgr.io/public/assertions/j89OwUFiQ86Snm-n6GiRrg?identity__email=22wh1a12a2%40bvrithyderabad.edu.in) | Awesome Course! |
+|2769 | Subham Agarwal | [shubhag0411@gmail.com]((https://www.linkedin.com/in/shubham-agarwal-b3262b251/)) | [ Certificate link]
+(https://api.badgr.io/public/assertions/OLta4Bh8RU6Lv_PX066Arw?identity__email=shubhag0411%40gmail.com) | Awesome Course! |
