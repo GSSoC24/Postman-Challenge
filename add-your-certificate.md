@@ -2879,3 +2879,4 @@
 |2768 | Renee Bethapudy | [22wh1a12a2@bvrithyderabad.edu.in](https://www.linkedin.com/in/renee-bethapudy-a31576259/) | [ Certificate link]
 (https://api.badgr.io/public/assertions/j89OwUFiQ86Snm-n6GiRrg?identity__email=22wh1a12a2%40bvrithyderabad.edu.in) | Awesome Course! |
 |2769 | Navya Kshatri | [navyakshatri@gmail.com](https://www.linkedin.com/in/navya-kshatri/) | [ Certificate link ](https://api.badgr.io/public/assertions/jLemQZXES9mBJddZzqb2pg?identity__email=navyakshatri%40gmail.com) |
+|2770 | Amit Wasnik | [Amit Wasnik](https://www.linkedin.com/in/amit-wasnik-55448a263/) | [ Certificate link ](https://api.badgr.io/public/assertions/92WP7BkSQwWpS48LwrDwpA?identity__email=amitwasnik1906%40gmail.com) | Very Good Introduction to APIs |
