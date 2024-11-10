@@ -2879,3 +2879,5 @@
 |2768 | Renee Bethapudy | [22wh1a12a2@bvrithyderabad.edu.in](https://www.linkedin.com/in/renee-bethapudy-a31576259/) | [ Certificate link]
 (https://api.badgr.io/public/assertions/j89OwUFiQ86Snm-n6GiRrg?identity__email=22wh1a12a2%40bvrithyderabad.edu.in) | Awesome Course! |
 |2769 | Navya Kshatri | [navyakshatri@gmail.com](https://www.linkedin.com/in/navya-kshatri/) | [ Certificate link ](https://api.badgr.io/public/assertions/jLemQZXES9mBJddZzqb2pg?identity__email=navyakshatri%40gmail.com) |
+|2770 | Tashu Agrawal | [tashuagrawal67@gmail.com](https://www.linkedin.com/in/tashu-agrawal-6a0110269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [ Certificate link ](
+https://api.badgr.io/public/assertions/llZjNJGdRp-vimOf7TRnHw?identity__email=tashuagrawal67%40gmail.com) |
