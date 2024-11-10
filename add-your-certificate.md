@@ -2876,3 +2876,5 @@
 |2766 | Abhishek Chatterjee | [abhishekcahtterjee510@gmail.com](www.linkedin.com/in/abhishek-chatterjee-314146275) | [ Certificate link]([https://badgr.com/print-certificate/67308519ab91e618526d8c7d](https://api.badgr.io/public/assertions/uhqKZoFRRR6XzV6I4uJ37w?identity__email=abhishekchatterjee510%40gmail.com) |  Amazing Course , Thank you to Postman and Girl Script foundation for this wonderful oppurtunity |
 |2767 | Shreya Dilip | [shreyadilippr@gmail.com](https://www.linkedin.com/in/shreya-dilip-000156289/) | [ Certificate link]
 (https://api.badgr.io/public/assertions/tlhRoueuRbaUqliVpG77vQ?identity__email=rajaditya0108%40gmail.com) | Informative and Insightful |
+|2767 | Jyotsna Pant | [jyotsnapant812@gmail.com](www.linkedin.com/in/jyotsna-pant-000152263) | [ Certificate link]
+(https://api.badgr.io/public/assertions/zeWMc_HWRA-n-8lCtZA_Pw?identity__email=jyotsnapant812%40gmail.com) | Informative and Insightful |
