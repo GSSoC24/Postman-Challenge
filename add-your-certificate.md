@@ -2878,3 +2878,4 @@
 (https://api.badgr.io/public/assertions/tlhRoueuRbaUqliVpG77vQ?identity__email=rajaditya0108%40gmail.com) | Informative and Insightful |
 |2768 | Renee Bethapudy | [22wh1a12a2@bvrithyderabad.edu.in](https://www.linkedin.com/in/renee-bethapudy-a31576259/) | [ Certificate link]
 (https://api.badgr.io/public/assertions/j89OwUFiQ86Snm-n6GiRrg?identity__email=22wh1a12a2%40bvrithyderabad.edu.in) | Awesome Course! |
+|2769 | Ananya Singh | [ananyasinghana3737@gmail.com](https://www.linkedin.com/in/ananya-singh-28947528b/) | [ Certificate link ](https://api.badgr.io/public/assertions/0AvAt7cgQ26cV5TL9Ykdgg?identity__email=ananyasinghana3737%40gmail.com) | Learned something new |
