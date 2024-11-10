@@ -145,7 +145,7 @@ https://gssoc.girlscript.tech/leaderboard?year=<YEAR_BADGES>&username=<GITHUB_US
 <img src=https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20Dark.png" width="100px" height="100px" />
 ```
 
-# GSSoC Dynamic Badges
+## GSSoC Dynamic Badges
 
 In Addition to the Manual Method You can Display your GSSoC (GirlScript Summer of Code) badges directly on your GitHub profile with dynamically generated badges!
 
@@ -161,7 +161,7 @@ In Addition to the Manual Method You can Display your GSSoC (GirlScript Summer o
 
 ### Step 1: Get Your Badge URL
 
-Replace `<username>` with your GitHub username and `<year>` with the GSSoC year (e.g., `2024Extd`) in the URL below:
+Replace `<username>` with your GitHub username and `<year>` with the GSSoC year (e.g., `2024Extd`,`2024` or `2023`) in the URL below:
 
 ```plaintext
 https://gssoc-dymanic-badges.vercel.app/api/<username>?year=<year>
