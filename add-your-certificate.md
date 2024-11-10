@@ -2880,3 +2880,4 @@
 (https://api.badgr.io/public/assertions/j89OwUFiQ86Snm-n6GiRrg?identity__email=22wh1a12a2%40bvrithyderabad.edu.in) | Awesome Course! |
 |2769 | Navya Kshatri | [navyakshatri@gmail.com](https://www.linkedin.com/in/navya-kshatri/) | [ Certificate link ](https://api.badgr.io/public/assertions/jLemQZXES9mBJddZzqb2pg?identity__email=navyakshatri%40gmail.com) |
 |2770 | Arshad Shaikh  | [arshadshaikh930701@gmail.com](https://www.linkedin.com/in/arshad-shaikh-0525032b0/) | [ Certificate link ](https://api.badgr.io/public/assertions/q04z4RQwTu6G7evuOCAlHA?identity__email=arshadshaikh930701%40gmail.com )  | Awesome Course!|
+|2771 | Yallabandi Lakshmi Sowmya | [yallabandi07@gmail.com](https://www.linkedin.com/in/yallabandi-lakshmi-sowmya/) | [ Certificate link](https://api.badgr.io/public/assertions/K70T4a3QTvWvH-8Et1mmIQ?identity__email=yallabandi07%40gmail.com) |  Amazing Course, Thank you to Postman and Girl Script foundation for this wonderful oppurtunity |
