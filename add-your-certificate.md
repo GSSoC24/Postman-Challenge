@@ -2880,3 +2880,4 @@
 (https://api.badgr.io/public/assertions/j89OwUFiQ86Snm-n6GiRrg?identity__email=22wh1a12a2%40bvrithyderabad.edu.in) | Awesome Course! |
 |2769 | Navya Kshatri | [navyakshatri@gmail.com](https://www.linkedin.com/in/navya-kshatri/) | [ Certificate link ](https://api.badgr.io/public/assertions/jLemQZXES9mBJddZzqb2pg?identity__email=navyakshatri%40gmail.com) |
 |2770 | Arshad Shaikh  | [arshadshaikh930701@gmail.com](https://www.linkedin.com/in/arshad-shaikh-0525032b0/) | [ Certificate link ](https://api.badgr.io/public/assertions/q04z4RQwTu6G7evuOCAlHA?identity__email=arshadshaikh930701%40gmail.com )  | Awesome Course!|
+|2771 | Piyush Chakarborthy  | [piyushchakarvorthy@gmail.com](https://www.linkedin.com/in/piyushc2003/) | [ Certificate link ](https://api.badgr.io/public/assertions/YQrs2ExXTc6Vpd7EAJ4b6g?identity__email=piyushchakarvorthy%40gmail.com)  | Certificate Completion!|
