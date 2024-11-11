@@ -2874,3 +2874,5 @@
 |2768 | Renee Bethapudy | [LinkedIn](https://www.linkedin.com/in/renee-bethapudy-a31576259/) | [ Certificate link](https://api.badgr.io/public/assertions/j89OwUFiQ86Snm-n6GiRrg?identity__email=22wh1a12a2%40bvrithyderabad.edu.in) | Awesome Course! |
 |2769 | Navya Kshatri | [LinkedIn](https://www.linkedin.com/in/navya-kshatri/) | [ Certificate link ](https://api.badgr.io/public/assertions/jLemQZXES9mBJddZzqb2pg?identity__email=navyakshatri%40gmail.com) |- |
 | 2770 | Arshad Shaikh  | [LinkedIn](https://www.linkedin.com/in/arshad-shaikh-0525032b0/) | [ Certificate link ](https://api.badgr.io/public/assertions/q04z4RQwTu6G7evuOCAlHA?identity__email=arshadshaikh930701%40gmail.com )  | Awesome Course!|
+| 2771 | divyanshi chandani | (www.linkedin.com/in/divyanshi-chandaniii-9750a8202) | [certificate link](https://api.badgr.io/public/assertions/Kd6GvbsGQC-ZquK-BuMDNQ?identity__email=divyanshichandani2003%40gmail.com)
+
