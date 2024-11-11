@@ -2873,4 +2873,4 @@
 | 2767 | Shreya Dilip | [LinkedIn](https://www.linkedin.com/in/shreya-dilip-000156289/) | [ Certificate link](https://api.badgr.io/public/assertions/tlhRoueuRbaUqliVpG77vQ?identity__email=rajaditya0108%40gmail.com) | Informative and Insightful |
 |2768 | Renee Bethapudy | [LinkedIn](https://www.linkedin.com/in/renee-bethapudy-a31576259/) | [ Certificate link](https://api.badgr.io/public/assertions/j89OwUFiQ86Snm-n6GiRrg?identity__email=22wh1a12a2%40bvrithyderabad.edu.in) | Awesome Course! |
 |2769 | Navya Kshatri | [LinkedIn](https://www.linkedin.com/in/navya-kshatri/) | [ Certificate link ](https://api.badgr.io/public/assertions/jLemQZXES9mBJddZzqb2pg?identity__email=navyakshatri%40gmail.com) |- |
-| 2770 | Arshad Shaikh  | [LinkedIn](https://www.linkedin.com/in/arshad-shaikh-0525032b0/) | [ Certificate link ](https://api.badgr.io/public/assertions/q04z4RQwTu6G7evuOCAlHA?identity__email=arshadshaikh930701%40gmail.com )  | Awesome Course!|
+|2770 | Antima Yadav | [LinkedIn](https://www.linkedin.com/in/antima-yadav-423223338) | [ Certificate link ](https://api.badgr.io/public/assertions/jLemQZXES9mBJddZzqb2pg?identity__email=navyakshatri%40gmail.com) |- |
