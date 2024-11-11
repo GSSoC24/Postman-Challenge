@@ -2879,4 +2879,6 @@
 |2768 | Renee Bethapudy | [22wh1a12a2@bvrithyderabad.edu.in](https://www.linkedin.com/in/renee-bethapudy-a31576259/) | [ Certificate link]
 (https://api.badgr.io/public/assertions/j89OwUFiQ86Snm-n6GiRrg?identity__email=22wh1a12a2%40bvrithyderabad.edu.in) | Awesome Course! |
 |2769 | Navya Kshatri | [navyakshatri@gmail.com](https://www.linkedin.com/in/navya-kshatri/) | [ Certificate link ](https://api.badgr.io/public/assertions/jLemQZXES9mBJddZzqb2pg?identity__email=navyakshatri%40gmail.com) |
-|2770 | Arshad Shaikh  | [arshadshaikh930701@gmail.com](https://www.linkedin.com/in/arshad-shaikh-0525032b0/) | [ Certificate link ](https://api.badgr.io/public/assertions/q04z4RQwTu6G7evuOCAlHA?identity__email=arshadshaikh930701%40gmail.com )  | Awesome Course!|
+|2770 | Arshad Shaikh  | [arshadshaikh930701@gmail.com](https://www.linkedin.com/in/arshad-shaikh-0525032b0/) | [ Certificate link ](https://api.badgr.io/public/assertions/q04z4RQwTu6G7evuOCAlHA?identity__email=arshadshaikh930701%40gmail.com )  | Awesome Course!
+
+|2772 |  Vaishnavi Katkar | [vaishnavi.katkar33@gmail.com](https://www.linkedin.com/in/vaishnavi-katkar-7a6255267/) | [ Certificate link ](https://api.badgr.io/public/assertions/KcPRca3xQZCjDC8IAUm0yw?identity__email=vaishnavi.katkar33%40gmail.com)  | Great Experience!!
