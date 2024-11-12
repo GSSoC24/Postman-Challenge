@@ -2875,3 +2875,4 @@
 |2769 | Navya Kshatri | [LinkedIn](https://www.linkedin.com/in/navya-kshatri/) | [ Certificate link ](https://api.badgr.io/public/assertions/jLemQZXES9mBJddZzqb2pg?identity__email=navyakshatri%40gmail.com) |- |
 | 2770 | Arshad Shaikh  | [LinkedIn](https://www.linkedin.com/in/arshad-shaikh-0525032b0/) | [ Certificate link ](https://api.badgr.io/public/assertions/q04z4RQwTu6G7evuOCAlHA?identity__email=arshadshaikh930701%40gmail.com )  | Awesome Course!|
 | 2771 | K S HARSHITH  | [Harshith Kanduri](https://www.linkedin.com/in/harshith-kanduri-618394259/)| [Certificate Link](https://api.badgr.io/public/assertions/fXt-K6z9Rm2H37Cbpx1ubA?identity__email=ksharshith2004%40gmail.com)| begineer friendly course  |
+| 2772 | Nakul Krishnakumar | [LinkedIn](https://www.linkedin.com/posts/nakul-krishnakumar-9aa951282_gssoc-opensource-postman-activity-7261759080837328896-i5oR?utm_source=share&utm_medium=member_desktop) | Awesome course!
