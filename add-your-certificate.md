@@ -2879,5 +2879,4 @@
 |2768 | Renee Bethapudy | [22wh1a12a2@bvrithyderabad.edu.in](https://www.linkedin.com/in/renee-bethapudy-a31576259/) | [ Certificate link]
 (https://api.badgr.io/public/assertions/j89OwUFiQ86Snm-n6GiRrg?identity__email=22wh1a12a2%40bvrithyderabad.edu.in) | Awesome Course! |
 |2769 | Navya Kshatri | [navyakshatri@gmail.com](https://www.linkedin.com/in/navya-kshatri/) | [ Certificate link ](https://api.badgr.io/public/assertions/jLemQZXES9mBJddZzqb2pg?identity__email=navyakshatri%40gmail.com) |
-|2770 | Varalakshmi K G | [varada7180@gmail.com](https://www.linkedin.com/in/varalakshmi-k-g-708505258/) | [ Certificate link]
-(https://api.badgr.io/public/assertions/La61U6mHQ2W-RKqB8acdrA?identity__email=varada7180%40gmail.com)|Awesome Course, loved it|
+| 2770 | Varalakshmi K G | [varada7180@gmail.com](https://www.linkedin.com/in/varalakshmi-k-g-708505258/) | [Certificate link](https://api.badgr.io/public/assertions/La61U6mHQ2W-RKqB8acdrA?identity__email=varada7180%40gmail.com) | Awesome Course, loved it |
