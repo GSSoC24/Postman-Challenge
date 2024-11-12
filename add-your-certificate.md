@@ -2875,3 +2875,4 @@
 |2769 | Navya Kshatri | [LinkedIn](https://www.linkedin.com/in/navya-kshatri/) | [ Certificate link ](https://api.badgr.io/public/assertions/jLemQZXES9mBJddZzqb2pg?identity__email=navyakshatri%40gmail.com) |- |
 | 2770 | Arshad Shaikh  | [LinkedIn](https://www.linkedin.com/in/arshad-shaikh-0525032b0/) | [ Certificate link ](https://api.badgr.io/public/assertions/q04z4RQwTu6G7evuOCAlHA?identity__email=arshadshaikh930701%40gmail.com )  | Awesome Course!|
 | 2771 | K S HARSHITH  | [Harshith Kanduri](https://www.linkedin.com/in/harshith-kanduri-618394259/)| [Certificate Link](https://api.badgr.io/public/assertions/fXt-K6z9Rm2H37Cbpx1ubA?identity__email=ksharshith2004%40gmail.com)| begineer friendly course  |
+| 2772 | Vishwajeet Londhe| [Vishwajeet Londhe](https://www.linkedin.com/in/vishwajeetlondhe)| [Certificate Link](https://api.badgr.io/public/assertions/40ESquBaRB2GRSZt-NFP9Q?identity__email=vishwajeetlondhe51%40gmail.com)| Valuable course  |
