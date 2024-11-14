@@ -2880,3 +2880,5 @@
 | 2774 | Prachi Saxena | [Prachi Saxena](https://www.linkedin.com/in/prachi-saxena-59a4a0259)| [Certificate Link](https://api.badgr.io/public/assertions/kUOiq-8dRb2K5V72j2GVTA?identity__email=saxenaprachi08%40gmail.com)| Valuable course  |
 | 2775 | Anurag Mishra | [Anurag Mishra](https://www.linkedin.com/in/anurag3103)| [Certificate Link](https://badgr.com/public/assertions/7bDTwoAERO--1yTbcGf6jA?identity__email=anurag026mishra@gmail.com)| Good kickstarter course  |
 | 2776 | Shivam Khunger | [LinkedIn](https://www.linkedin.com/in/shivam-khunger-aa2a09249)| [Certificate Link](https://api.badgr.io/public/assertions/n8FZUxLZRhqHji2Ufv0mLg?identity__email=shivamkhunger7643%40gmail.com)| A good course  |
+| 2777| Amrutha Paladi |  [LinkedIn](www.linkedin.com/in/amrutha-paladi) | [Certificate Link] (https://api.badgr.io/public/assertions/3Cudss_DR3m5xPSMfcdNwA?identity__email=2320030355%40klh.edu.in)| Amazing course |
+
