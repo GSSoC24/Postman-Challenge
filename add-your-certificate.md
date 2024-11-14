@@ -2880,3 +2880,4 @@
 | 2774 | Prachi Saxena | [Prachi Saxena](https://www.linkedin.com/in/prachi-saxena-59a4a0259)| [Certificate Link](https://api.badgr.io/public/assertions/kUOiq-8dRb2K5V72j2GVTA?identity__email=saxenaprachi08%40gmail.com)| Valuable course  |
 | 2775 | Anurag Mishra | [Anurag Mishra](https://www.linkedin.com/in/anurag3103)| [Certificate Link](https://badgr.com/public/assertions/7bDTwoAERO--1yTbcGf6jA?identity__email=anurag026mishra@gmail.com)| Good kickstarter course  |
 | 2776 | Shivam Khunger | [LinkedIn](https://www.linkedin.com/in/shivam-khunger-aa2a09249)| [Certificate Link](https://api.badgr.io/public/assertions/n8FZUxLZRhqHji2Ufv0mLg?identity__email=shivamkhunger7643%40gmail.com)| A good course  |
+| 2777 | Nishant Narudkar | [LinkedIn](https://www.linkedin.com/in/nishant-narudkar-1b5225238/)|[Certificate Link](https://api.badgr.io/public/assertions/vbGkVnyST06Vs-M7sXg1ng?identity__email=nishnarudkar%40gmail.com)|Beginner friendly|
