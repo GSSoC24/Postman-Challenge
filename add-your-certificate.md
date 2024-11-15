@@ -2882,3 +2882,4 @@
 | 2776 | Shivam Khunger | [LinkedIn](https://www.linkedin.com/in/shivam-khunger-aa2a09249)| [Certificate Link](https://api.badgr.io/public/assertions/n8FZUxLZRhqHji2Ufv0mLg?identity__email=shivamkhunger7643%40gmail.com)| A good course  |
 | 2777| Amrutha Paladi |  [LinkedIn](www.linkedin.com/in/amrutha-paladi) | [Certificate Link] (https://api.badgr.io/public/assertions/3Cudss_DR3m5xPSMfcdNwA?identity__email=2320030355%40klh.edu.in)| Amazing course |
 
+| 2778 | Priyanshu Aggarwal | [LinedIn](https://linkedin.com/in/priyanshuaggarwal) | [Certificate Link](https://api.badgr.io/public/assertions/p1XrfbzAQgSm4BVKKiTwCA?identity__email=priyanshuaggarwal2004%40gmail.com) | It was really smooth to learn about APIs with the help of this course | 
