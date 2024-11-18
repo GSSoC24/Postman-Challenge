@@ -2883,3 +2883,4 @@
 | 2777| Amrutha Paladi |  [LinkedIn](www.linkedin.com/in/amrutha-paladi) | [Certificate Link] (https://api.badgr.io/public/assertions/3Cudss_DR3m5xPSMfcdNwA?identity__email=2320030355%40klh.edu.in)| Amazing course |
 | 2778| Lazina Ali |  [Lazina Ali](https://www.linkedin.com/in/lazina-ali-0bb93b2b3/) | [Certificate Link](https://api.badgr.io/public/assertions/v-XCRwNxRuuVSplifIZGlQ?identity__email=lazinaali21@gmail.com)| Great learning |
 | 2779| Minenhle Nkosi |  [Minenhle Nkosi](https://www.linkedin.com/in/mxolisi-nkosi-b47b57117/) | [Certificate Link](https://api.badgr.io/public/assertions/8SZuYiXnRhaR0qxSCoqSUQ?identity__email=minenclenkosi%40gmail.com)| Postman Rules 😎 |
+| 2780| Vedant Sharma |  [Vedant Sharma](https://www.linkedin.com/in/vedant-sharma-919a172a6/) | [Certificate Link](https://api.badgr.io/public/assertions/4BepsQUjQaacVf0L3HZxgA?identity__email=23052933%40kiit.ac.in)| Beginner Friendly Course |
