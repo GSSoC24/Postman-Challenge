@@ -2883,3 +2883,4 @@
 | 2777| Amrutha Paladi |  [LinkedIn](www.linkedin.com/in/amrutha-paladi) | [Certificate Link] (https://api.badgr.io/public/assertions/3Cudss_DR3m5xPSMfcdNwA?identity__email=2320030355%40klh.edu.in)| Amazing course |
 | 2778| Lazina Ali |  [Lazina Ali](https://www.linkedin.com/in/lazina-ali-0bb93b2b3/) | [Certificate Link](https://api.badgr.io/public/assertions/v-XCRwNxRuuVSplifIZGlQ?identity__email=lazinaali21@gmail.com)| Great learning |
 | 2779| Minenhle Nkosi |  [Minenhle Nkosi](https://www.linkedin.com/in/mxolisi-nkosi-b47b57117/) | [Certificate Link](https://api.badgr.io/public/assertions/8SZuYiXnRhaR0qxSCoqSUQ?identity__email=minenclenkosi%40gmail.com)| Postman Rules 😎 |
+| 2780| Ashutosh Behera |  [Ashutosh Behera](www.linkedin.com/in/ashutosh-behera-2b1429295) | [Certificate Link](https://badgr.com/public/assertions/uZIlEb57SjSCP_ntOn39Fw)| Thank you to Postman and Girl Script foundation for this wonderful oppurtunity |
