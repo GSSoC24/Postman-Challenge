@@ -2885,3 +2885,5 @@
 | 2779| Minenhle Nkosi |  [Minenhle Nkosi](https://www.linkedin.com/in/mxolisi-nkosi-b47b57117/) | [Certificate Link](https://api.badgr.io/public/assertions/8SZuYiXnRhaR0qxSCoqSUQ?identity__email=minenclenkosi%40gmail.com)| Postman Rules 😎 |
 | 2780 | Rafeya Nafish | [LinkedIn] (https://www.linkedin.com/in/rafeya-nafish-0457902b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Certification Link](https://api.badgr.io/public/assertions/DBAFljEvSXKau4yU5rFWwQ?identity__email=rafeyanafish53%40gmail.com) | Meaningful Course |
 | 2781| Sarthak Jalan |  [Linkedin](https://www.linkedin.com/in/sarthak-jalan-7685a7285/) | [Certificate Link](https://api.badgr.io/public/assertions/wUdsglGLTeWlIUNarSHJDw?identity__email=sarthakjalan06%40gmail.com)| Great learning |
+| 2782| Aazma Mahammad |  [Linkedin](www.linkedin.com/in/aazma-mahammad-b72a56289) | [Certificate Link](https://badgr.com/public/assertions/FBRhAjA4QLCtP2PntsPc0A)| Great learning |
+
