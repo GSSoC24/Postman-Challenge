@@ -2888,3 +2888,4 @@
 | 2782| Navya Sharma |  [Linkedin](https://www.linkedin.com/in/navya-sharma-136938265/) | [Certificate Link](https://api.badgr.io/public/assertions/-wurXCVQRh2EYhtAt6tv6A?identity__email=navya.sharmaa16%40gmail.com)| Great learning |
 | 2783| Akshay KS |  [Linkedin](https://www.linkedin.com/in/akshay-ks-312133292/) | [Certificate Link](https://api.badgr.io/public/assertions/UZAKxvphQbKB0gsa0sSH3g?identity__email=akshayks1005%40gmail.com)| Great learning |
 | 2784| Shubham Raj |  [Linkedin](https://www.linkedin.com/in/shubham-raj-a0979a289/) | [Certificate Link](https://api.badgr.io/public/assertions/3aUiai3WRN6O5GVNzHjiPg?identity__email=er.rajshubham%40gmail.com)| Great learning |
+| 2785| Shayani Bhowmik|  [Linkedin](https://www.linkedin.com/in/shayani2003) | [Certificate Link](https://badgr.com/public/assertions/K8Ubq2J9QWmF0ynsgNLscA?identity__email=shayani.bhowmik.22@aot.edu.in) | Great learning |
