@@ -2891,3 +2891,4 @@
 | 2785| Shikhar Sharma |  [Linkedin](https://www.linkedin.com/in/shikhar-sharma-1268552b7/) | [Certificate Link](https://api.badgr.io/public/assertions/i1Pjt9DOQreidCVpqSJzhw?identity__email=sshikhar2005%40gmail.com)| Nice Course |
 | 2786| Sagar Porwal |  [Linkedin](https://www.linkedin.com/in/sagar-porwal-093b03288/) | [Certificate Link](https://api.badgr.io/public/assertions/dAT03ZiaR1Gl133kOMBr1g?identity__email=porwalsagar1%40gmail.com)| Meaningful Course |
 | 2787| Aazma Mahammad |  [LinkedIn](www.linkedin.com/in/aazma-mahammad-b72a56289) | [Certificate Link] (https://badgr.com/public/assertions/FBRhAjA4QLCtP2PntsPc0A?identity__email=azma9812@gmail.com)| Amazing course |
+| 2788| Gurudutta Pradhan |  [Linkedin](https://www.linkedin.com/in/gurudutta-pradhan-10b24924a/) | [Certificate Link](https://api.badgr.io/public/assertions/6dCQsIl6Tlu3iHIZ_nBmDA?identity__email=guruduttapradhan140%40gmail.com)| As a Developer this course will help me in my future |
